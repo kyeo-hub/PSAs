@@ -65,6 +65,8 @@ def main():
 
         video_url, duration = resolve_url(play_url)
         if video_url:
+            if video_url.startswith("http://"):
+                video_url = video_url.replace("http://", "https://", 1)
             resolved += 1
             print(f"OK ({video_url[:60]}...)")
         else:
