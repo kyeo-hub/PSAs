@@ -29,10 +29,13 @@ jobs:
           COLLECT_LIMIT: '10'
         run: python scripts/collect.py
 
+      - name: 生成广告API
+        run: python scripts/generate_ads.py
+
       - name: 提交更新
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.json
+          git add index.json docs/api/
           git diff --cached --quiet || git commit -m "chore: 更新公益广告索引 [$(date -u +%Y-%m-%d)]"
           git push
