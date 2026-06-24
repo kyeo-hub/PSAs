@@ -11,6 +11,41 @@
     "爱国": [],
     "助人为乐": []
   },
-  "collected_urls": [],
-  "last_updated": "2026-06-24T03:41:41.357709+00:00"
+  "collected_urls": [
+    "http://www.bilibili.com/video/av208334918",
+    "http://www.bilibili.com/video/av259052887"
+  ],
+  "pending": [
+    {
+      "title": "（电视公益广告）秀出你的环保搭档两则",
+      "url": "http://www.bilibili.com/video/av259052887",
+      "id": "BV1ia411Z7hq",
+      "duration": 125.016,
+      "uploader": "AXTV",
+      "view_count": 8415,
+      "platform": "bilibili",
+      "categories": [
+        "环保"
+      ],
+      "confidence": "medium",
+      "status": "pending",
+      "collected_at": "2026-06-24T04:02:47.570085+00:00"
+    },
+    {
+      "title": "蒙牛公益广告—生态草原篇篇30秒",
+      "url": "http://www.bilibili.com/video/av208334918",
+      "id": "BV1jh411H7Ee",
+      "duration": 30.255,
+      "uploader": "喜羊羊与灰太狼视频",
+      "view_count": 6955,
+      "platform": "bilibili",
+      "categories": [
+        "环保"
+      ],
+      "confidence": "medium",
+      "status": "pending",
+      "collected_at": "2026-06-24T04:02:54.699812+00:00"
+    }
+  ],
+  "last_updated": "2026-06-24T04:03:19.347300+00:00"
 }

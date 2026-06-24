@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 公益广告自动收集脚本
-- 从B站等平台搜索公益广告
+- 从B站搜索公益广告（两步法：先搜URL，再取元数据）
 - 多层质量过滤：来源白名单 + 时长过滤 + 关键词过滤
 - 增量更新，避免重复
 - 收集到待审核区，人工确认后入正式库
@@ -16,10 +16,11 @@ import random
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.stdout.reconfigure(line_buffering=True)
+
 REPO_ROOT = Path(__file__).parent.parent
 INDEX_FILE = REPO_ROOT / "index.json"
 
-# 搜索关键词，越精确越好
 SEARCH_KEYWORDS = [
     "央视公益广告",
     "经典公益广告 传统美德",
@@ -38,7 +39,6 @@ SEARCH_KEYWORDS = [
     "文明中国 公益",
 ]
 
-# 来源白名单：优先收录的频道/账号关键词
 TRUSTED_UPLOADERS = [
     "央视", "CCTV", "cctv",
     "文明中国", "中国文明网",
@@ -49,7 +49,6 @@ TRUSTED_UPLOADERS = [
     "文明", "精神文明",
 ]
 
-# 标题必须包含至少一个（核心词）
 TITLE_WHITELIST = [
     "公益广告", "公益", "广告",
     "传统美德", "文明", "美德",
@@ -60,7 +59,6 @@ TITLE_WHITELIST = [
     "孝", "尊老", "助人为乐",
 ]
 
-# 标题包含这些词直接排除
 TITLE_BLACKLIST = [
     "搞笑", "鬼畜", "混剪", "盘点", "合集解说",
     "吐槽", "沙雕", "整活", "恶搞", "模仿",
@@ -68,21 +66,29 @@ TITLE_BLACKLIST = [
     "vlog", "VLOG", "直播",
 ]
 
-# 分类关键词
 CATEGORY_KEYWORDS = {
-    "文明礼貌": ["文明", "礼貌", "礼仪", "尊重", "谦让", "排队"],
-    "孝道": ["孝", "父母", "老人", "尊老", "亲情", "陪伴"],
-    "节约": ["节约", "光盘", "节水", "节电", "浪费", "粮食"],
-    "环保": ["环保", "环境", "地球", "垃圾", "绿色", "生态"],
-    "交通安全": ["交通", "安全", "红绿灯", "斑马线", "酒驾"],
+    "文明礼貌": ["文明", "礼貌", "礼仪", "尊重", "谦让", "排队", "礼让", "公德"],
+    "孝道": ["孝", "父母", "老人", "尊老", "亲情", "陪伴", "家庭", "家风"],
+    "节约": ["节约", "光盘", "节水", "节电", "浪费", "粮食", "勤俭"],
+    "环保": ["环保", "环境", "地球", "垃圾", "绿色", "生态", "低碳"],
+    "交通安全": ["交通", "安全出行", "红绿灯", "斑马线", "酒驾", "行车"],
     "禁烟": ["禁烟", "吸烟", "烟草", "二手烟", "戒烟"],
-    "诚信": ["诚信", "诚实", "守信", "信用", "信任"],
-    "友善": ["友善", "友爱", "团结", "互助", "关爱"],
-    "爱国": ["爱国", "祖国", "国旗", "国歌", "民族"],
-    "助人为乐": ["助人", "帮助", "志愿", "奉献", "雷锋"],
+    "诚信": ["诚信", "诚实", "守信", "信用", "信任", "真诚"],
+    "友善": ["友善", "友爱", "团结", "互助", "关爱", "和谐"],
+    "爱国": ["爱国", "祖国", "国旗", "国歌", "民族", "核心价值", "中国梦"],
+    "助人为乐": ["助人", "帮助", "志愿", "奉献", "雷锋", "公益行动"],
 }
 
-# 时长限制（秒）
+# 标题含这些词时，自动归入对应分类（不受上面关键词限制）
+TITLE_CATEGORY_MAP = {
+    "社会主义核心价值观": ["爱国", "友善", "诚信"],
+    "传统美德": ["文明礼貌", "孝道", "诚信", "友善"],
+    "讲文明树新风": ["文明礼貌"],
+    "弘扬中华传统美德": ["文明礼貌", "孝道", "诚信"],
+    "光盘行动": ["节约"],
+    "节约粮食": ["节约"],
+}
+
 DURATION_MIN = 10
 DURATION_MAX = 300
 
@@ -90,7 +96,11 @@ DURATION_MAX = 300
 def load_index():
     if INDEX_FILE.exists():
         with open(INDEX_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+            index = json.load(f)
+        index.setdefault("categories", {k: [] for k in CATEGORY_KEYWORDS})
+        index.setdefault("pending", [])
+        index.setdefault("collected_urls", [])
+        return index
     return {
         "categories": {k: [] for k in CATEGORY_KEYWORDS},
         "pending": [],
@@ -136,13 +146,19 @@ def check_duration(duration):
 
 def classify(title, description=""):
     text = title + " " + description
-    matched = []
+    matched = set()
+
+    for phrase, cats in TITLE_CATEGORY_MAP.items():
+        if phrase in title:
+            matched.update(cats)
+
     for category, keywords in CATEGORY_KEYWORDS.items():
         for kw in keywords:
             if kw in text:
-                matched.append(category)
+                matched.add(category)
                 break
-    return matched if matched else ["未分类"]
+
+    return list(matched) if matched else ["未分类"]
 
 
 def filter_video(video):
@@ -159,15 +175,18 @@ def filter_video(video):
         return False, dur_reason
 
     uploader_trusted = check_uploader_trusted(uploader)
-
     categories = classify(title, video.get("description", ""))
-
-    if "未分类" in categories and not uploader_trusted:
-        return False, "无法分类且来源不可信"
 
     confidence = "high" if uploader_trusted else "medium"
     if dur_ok and duration is None:
         confidence = "low"
+
+    if "未分类" in categories:
+        if uploader_trusted:
+            categories = ["待分类"]
+            confidence = "low"
+        else:
+            return False, "无法分类且来源不可信"
 
     return True, {
         "categories": categories,
@@ -176,7 +195,7 @@ def filter_video(video):
     }
 
 
-def search_bilibili(keyword, max_results=5):
+def search_urls(keyword, max_results=5):
     cmd = [
         "yt-dlp",
         f"bilisearch{max_results}:{keyword}",
@@ -186,31 +205,52 @@ def search_bilibili(keyword, max_results=5):
         "--no-warnings",
     ]
     try:
-        result = subprocess.run(
-            cmd, capture_output=True, text=True, timeout=60
-        )
-        videos = []
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        urls = []
         for line in result.stdout.strip().split("\n"):
             if not line.strip():
                 continue
             try:
                 data = json.loads(line)
-                videos.append({
-                    "title": data.get("title", ""),
-                    "url": data.get("url") or data.get("webpage_url") or f"https://www.bilibili.com/video/{data.get('id', '')}",
-                    "id": data.get("id", ""),
-                    "duration": data.get("duration"),
-                    "description": data.get("description", ""),
-                    "uploader": data.get("uploader", ""),
-                    "view_count": data.get("view_count"),
-                    "platform": "bilibili",
-                })
+                url = data.get("url") or data.get("webpage_url")
+                if not url and data.get("id"):
+                    url = f"https://www.bilibili.com/video/av{data['id']}"
+                if url:
+                    urls.append(url)
             except json.JSONDecodeError:
                 continue
-        return videos
+        return urls
     except (subprocess.TimeoutExpired, Exception) as e:
         print(f"  搜索失败: {e}", file=sys.stderr)
         return []
+
+
+def fetch_metadata(url):
+    cmd = [
+        "yt-dlp",
+        url,
+        "--dump-json",
+        "--no-download",
+        "--no-warnings",
+        "--socket-timeout", "15",
+    ]
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+        if result.returncode != 0:
+            return None
+        data = json.loads(result.stdout.strip())
+        return {
+            "title": data.get("title", ""),
+            "url": data.get("webpage_url") or url,
+            "id": data.get("id", ""),
+            "duration": data.get("duration"),
+            "description": data.get("description", ""),
+            "uploader": data.get("uploader", ""),
+            "view_count": data.get("view_count"),
+            "platform": "bilibili",
+        }
+    except (subprocess.TimeoutExpired, json.JSONDecodeError, Exception):
+        return None
 
 
 def collect(max_per_keyword=5, total_limit=10):
@@ -227,20 +267,26 @@ def collect(max_per_keyword=5, total_limit=10):
             break
 
         print(f"搜索: {keyword}")
-        videos = search_bilibili(keyword, max_results=max_per_keyword)
+        urls = search_urls(keyword, max_results=max_per_keyword)
+        print(f"  找到 {len(urls)} 个URL")
 
-        for video in videos:
+        for url in urls:
             if new_count >= total_limit:
                 break
-
-            url = video["url"]
             if url in collected_urls:
+                continue
+
+            print(f"  获取元数据: {url}")
+            video = fetch_metadata(url)
+            if not video:
+                print(f"    [跳过] 无法获取元数据")
+                skip_count += 1
                 continue
 
             passed, result = filter_video(video)
             if not passed:
                 skip_count += 1
-                print(f"  [跳过] {video['title']} - {result}")
+                print(f"    [跳过] {video['title']} - {result}")
                 continue
 
             categories = result["categories"]
@@ -263,7 +309,9 @@ def collect(max_per_keyword=5, total_limit=10):
             collected_urls.add(url)
             index["collected_urls"] = list(collected_urls)
             new_count += 1
-            print(f"  [待审 {new_count}] {video['title']} -> {categories} (可信度: {confidence})")
+            print(f"    [待审 {new_count}] {video['title']} -> {categories} (可信度: {confidence})")
+
+            time.sleep(random.uniform(3, 8))
 
         delay = random.uniform(10, 25)
         print(f"  等待 {delay:.0f}s...")
