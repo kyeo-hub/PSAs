@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T09:35:11.597375+00:00",
-  "total": 894,
+  "generated_at": "2026-06-24T14:30:24.613004+00:00",
+  "total": 904,
   "categories_summary": {
     "综合": 399,
-    "爱国": 106,
+    "爱国": 109,
     "环保": 92,
-    "文明礼貌": 90,
-    "友善": 74,
-    "节约": 64,
-    "诚信": 42,
+    "文明礼貌": 91,
+    "友善": 77,
+    "节约": 67,
+    "诚信": 45,
     "交通安全": 39,
+    "孝道": 27,
     "助人为乐": 24,
-    "孝道": 24,
     "禁烟": 14
   },
   "items": [
@@ -12605,6 +12605,152 @@
       "source": "bilibili",
       "uploader": "小老鼠-舒克",
       "view_count": 242847
+    },
+    {
+      "id": "BV1se4oecEXV",
+      "title": "公益广告-孝道责任 代代相传",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 30.046,
+      "url": "http://www.bilibili.com/video/av113145762809928",
+      "play_url": "http://www.bilibili.com/video/av113145762809928",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "在家就是累1F",
+      "view_count": 582
+    },
+    {
+      "id": "BV19W41147fo",
+      "title": "[中韩公益广告] 孝 - 孝道就是一句话",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 60.905,
+      "url": "http://www.bilibili.com/video/av20089130",
+      "play_url": "http://www.bilibili.com/video/av20089130",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "羊羊羊爱吃",
+      "view_count": 2926
+    },
+    {
+      "id": "BV1p84y1B72i",
+      "title": "中央电视台少儿频道文明健康小贴士公益广告吃饭时看书",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.326,
+      "url": "http://www.bilibili.com/video/av604413374",
+      "play_url": "http://www.bilibili.com/video/av604413374",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "罗环鹏",
+      "view_count": 4508
+    },
+    {
+      "id": "BV16X4y1s71n",
+      "title": "【公益广告】百善孝为先",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 107.275,
+      "url": "http://www.bilibili.com/video/av360158979",
+      "play_url": "http://www.bilibili.com/video/av360158979",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "程咬银不要金",
+      "view_count": 2048
+    },
+    {
+      "id": "BV1Ca1PYqEie",
+      "title": "[思政微视频作业]践行社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 281.982,
+      "url": "http://www.bilibili.com/video/av113359555007196",
+      "play_url": "http://www.bilibili.com/video/av113359555007196",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "山竹萌隐",
+      "view_count": 40364
+    },
+    {
+      "id": "BV1HT41117k3",
+      "title": "坚持培育社会主义核心价值观高清公益广告",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 15.394,
+      "url": "http://www.bilibili.com/video/av481016898",
+      "play_url": "http://www.bilibili.com/video/av481016898",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 751
+    },
+    {
+      "id": "BV1H2jAziEMg",
+      "title": "广泛践行社会主义核心价值观中小学班会巡展",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 195.021,
+      "url": "http://www.bilibili.com/video/av114409053623853",
+      "play_url": "http://www.bilibili.com/video/av114409053623853",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Ng鯊",
+      "view_count": 214
+    },
+    {
+      "id": "BV1co4y1L7fZ",
+      "title": "【公益广告】勤俭节约",
+      "categories": [
+        "节约"
+      ],
+      "duration": 59.818,
+      "url": "http://www.bilibili.com/video/av400398517",
+      "play_url": "http://www.bilibili.com/video/av400398517",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "华夏道统文化",
+      "view_count": 28058
+    },
+    {
+      "id": "BV1vA44zJEq4",
+      "title": "《听我说》手势舞镜像完整版❤️ 10月16日世界粮食日，节约美德最可贵#世界粮食日 #节约粮食 #听我说完整版 #勤俭节约不浪费",
+      "categories": [
+        "节约"
+      ],
+      "duration": 156.033,
+      "url": "http://www.bilibili.com/video/av115353443113001",
+      "play_url": "http://www.bilibili.com/video/av115353443113001",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小沐沐吖-全网同名",
+      "view_count": 3346
+    },
+    {
+      "id": "BV1ca4y1j7e8",
+      "title": "节约粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 42.623,
+      "url": "http://www.bilibili.com/video/av669565776",
+      "play_url": "http://www.bilibili.com/video/av669565776",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "暴躁老汉请求出战",
+      "view_count": 10497
     }
   ]
 }
