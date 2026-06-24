@@ -1,0 +1,21 @@
+# 视频文件
+*.mp4
+*.mkv
+*.avi
+*.flv
+*.webm
+*.mov
+
+# 临时文件
+*.part
+*.temp
+*.ytdl
+
+# 系统文件
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# 生成文件
+review.html
