@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T14:30:24.613004+00:00",
-  "total": 904,
+  "generated_at": "2026-06-24T19:52:04.015462+00:00",
+  "total": 910,
   "categories_summary": {
     "综合": 399,
     "爱国": 109,
-    "环保": 92,
-    "文明礼貌": 91,
+    "文明礼貌": 95,
+    "环保": 93,
     "友善": 77,
     "节约": 67,
     "诚信": 45,
     "交通安全": 39,
     "孝道": 27,
-    "助人为乐": 24,
+    "助人为乐": 25,
     "禁烟": 14
   },
   "items": [
@@ -12751,6 +12751,90 @@
       "source": "bilibili",
       "uploader": "暴躁老汉请求出战",
       "view_count": 10497
+    },
+    {
+      "id": "BV1dP4y1Q7xn",
+      "title": "3、助人为乐（公益广告）",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 59.256,
+      "url": "http://www.bilibili.com/video/av903508509",
+      "play_url": "http://www.bilibili.com/video/av903508509",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "回忆弟",
+      "view_count": 10689
+    },
+    {
+      "id": "BV1VgQRYjEq2",
+      "title": "【CCTV公益传播】绿色低碳主题公益广告《绿色低碳  多彩中国》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 60.155,
+      "url": "http://www.bilibili.com/video/av114186185146418",
+      "play_url": "http://www.bilibili.com/video/av114186185146418",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 30005
+    },
+    {
+      "id": "BV1Mx41157fu",
+      "title": "《讲文明树新风》公益短片——因为爱-国语高清",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 163.124,
+      "url": "http://www.bilibili.com/video/av16674568",
+      "play_url": "http://www.bilibili.com/video/av16674568",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "共轭二烯烃喵呜机儿",
+      "view_count": 12830
+    },
+    {
+      "id": "BV1rW4y187Dp",
+      "title": "（电视公益广告）文明出行 安全乘梯",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 36.269,
+      "url": "http://www.bilibili.com/video/av942380019",
+      "play_url": "http://www.bilibili.com/video/av942380019",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 14125
+    },
+    {
+      "id": "BV14Y411S7YX",
+      "title": "央视公益广告《我喜欢长江，我爱妈妈》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.278,
+      "url": "http://www.bilibili.com/video/av266122048",
+      "play_url": "http://www.bilibili.com/video/av266122048",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "褚攀",
+      "view_count": 8861
+    },
+    {
+      "id": "BV1Vv4y1u7yt",
+      "title": "公益广告·文明中国礼",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 44.92,
+      "url": "http://www.bilibili.com/video/av555357006",
+      "play_url": "http://www.bilibili.com/video/av555357006",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "多彩物语",
+      "view_count": 26574
     }
   ]
 }
