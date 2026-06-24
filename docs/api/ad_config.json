@@ -1,0 +1,51 @@
+{
+  "ads": {
+    "source": {
+      "type": "api",
+      "url": "https://kyeo-hub.github.io/PSAs/api/ads.json",
+      "refresh_interval": 3600
+    },
+    "rules": {
+      "pre_roll": {
+        "enabled": true,
+        "probability": 1.0,
+        "max_duration": 60,
+        "skip_after": 5
+      },
+      "mid_roll": {
+        "enabled": true,
+        "probability": 0.3,
+        "min_video_duration": 600,
+        "trigger_percent": [
+          30,
+          60
+        ],
+        "max_duration": 30
+      }
+    },
+    "scheduling": {
+      "strategy": "round_robin",
+      "weight_by_category": {
+        "环保": 1,
+        "文明礼貌": 1,
+        "爱国": 1,
+        "孝道": 1,
+        "节约": 1,
+        "交通安全": 1,
+        "诚信": 1,
+        "友善": 1,
+        "助人为乐": 1,
+        "禁烟": 1,
+        "综合": 1
+      },
+      "avoid_repeat_hours": 24,
+      "daily_max_impressions": 20
+    },
+    "display": {
+      "show_title": true,
+      "show_category_tag": true,
+      "countdown": true,
+      "skip_button_text": "跳过广告"
+    }
+  }
+}
