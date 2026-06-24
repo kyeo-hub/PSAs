@@ -18,10 +18,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: 央视作品库收集
+        run: python scripts/collect_cntv.py
+
       - name: 安装 yt-dlp
         run: pip install yt-dlp
 
-      - name: 运行收集脚本
+      - name: B站搜索收集
         env:
           COLLECT_LIMIT: '10'
         run: python scripts/collect.py
