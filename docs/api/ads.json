@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T03:32:36.960053+00:00",
-  "total": 920,
+  "generated_at": "2026-06-25T09:26:40.116277+00:00",
+  "total": 930,
   "categories_summary": {
     "综合": 399,
-    "爱国": 109,
-    "文明礼貌": 96,
-    "环保": 93,
+    "爱国": 111,
+    "文明礼貌": 101,
+    "环保": 95,
     "友善": 81,
-    "节约": 68,
+    "节约": 72,
     "诚信": 48,
     "交通安全": 40,
     "孝道": 30,
@@ -12978,6 +12978,149 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 41436
+    },
+    {
+      "id": "BV1Vs411s7Gb",
+      "title": "文明出游 爱护环境",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 30.4,
+      "url": "http://www.bilibili.com/video/av7290675",
+      "play_url": "http://www.bilibili.com/video/av7290675",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "lele1894",
+      "view_count": 13915
+    },
+    {
+      "id": "BV1LA4y1S7ah",
+      "title": "公益广告《爱国旋律声生不息》最后一届中韩歌会公益广告",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 13.606,
+      "url": "http://www.bilibili.com/video/av896389771",
+      "play_url": "http://www.bilibili.com/video/av896389771",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 2319
+    },
+    {
+      "id": "BV1pg411M7is",
+      "title": "今天我们这样爱国公益广告",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 59.907,
+      "url": "http://www.bilibili.com/video/av504273189",
+      "play_url": "http://www.bilibili.com/video/av504273189",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 2856
+    },
+    {
+      "id": "BV1rZ421x7Fx",
+      "title": "“瓶”凡之路|大学生公益广告作品",
+      "categories": [
+        "环保"
+      ],
+      "duration": 215.016,
+      "url": "http://www.bilibili.com/video/av1154541850",
+      "play_url": "http://www.bilibili.com/video/av1154541850",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "迅猛肉丸",
+      "view_count": 36816
+    },
+    {
+      "id": "BV16U7FzhEco",
+      "title": "公益微电影：《校园文明伴我行》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 198.298,
+      "url": "http://www.bilibili.com/video/av114600297106966",
+      "play_url": "http://www.bilibili.com/video/av114600297106966",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "银埋七",
+      "view_count": 40551
+    },
+    {
+      "id": "BV1Fe9HYBEXJ",
+      "title": "节约粮食手势舞《我爱每粒米》#三节三爱主题#节约粮食#手势舞#节约粮食手势舞#节约粮食光盘你我 #节约粮食从我做起",
+      "categories": [
+        "节约"
+      ],
+      "duration": 93.922,
+      "url": "http://www.bilibili.com/video/av114104681366338",
+      "play_url": "http://www.bilibili.com/video/av114104681366338",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "大夏天的乐队",
+      "view_count": 2350
+    },
+    {
+      "id": "BV1WY2ZY8EE5",
+      "title": "10.16是世界粮食日【节约最闪亮】尊重劳动，节约粮食",
+      "categories": [
+        "文明礼貌",
+        "节约"
+      ],
+      "duration": 28.234,
+      "url": "http://www.bilibili.com/video/av113310968188413",
+      "play_url": "http://www.bilibili.com/video/av113310968188413",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "橙子-宸",
+      "view_count": 1139
+    },
+    {
+      "id": "BV12s42137Nx",
+      "title": "【超清修复】-节约粮食宣传使：宇文成都，遇上好事让你排队，危险来了让你撤退，这么好的领导去哪找？",
+      "categories": [
+        "文明礼貌",
+        "节约"
+      ],
+      "duration": 229.759,
+      "url": "http://www.bilibili.com/video/av1855050940",
+      "play_url": "http://www.bilibili.com/video/av1855050940",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "-伶风-",
+      "view_count": 4518
+    },
+    {
+      "id": "BV1rs411Y7Qr",
+      "title": "[经典公益广告]节约创造价值之高科技篇",
+      "categories": [
+        "节约"
+      ],
+      "duration": 40.216,
+      "url": "http://www.bilibili.com/video/av7404615",
+      "play_url": "http://www.bilibili.com/video/av7404615",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蓝轩光的萤火虫",
+      "view_count": 43080
+    },
+    {
+      "id": "BV1PL7b6qEoG",
+      "title": "（中国华夏人文本源~华夏文明文化公益）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 18.933,
+      "url": "http://www.bilibili.com/video/av116809118320953",
+      "play_url": "http://www.bilibili.com/video/av116809118320953",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_3546696531315500",
+      "view_count": 4
     }
   ]
 }
