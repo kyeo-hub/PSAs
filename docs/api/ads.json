@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T09:26:40.116277+00:00",
-  "total": 930,
+  "generated_at": "2026-06-25T14:37:54.062052+00:00",
+  "total": 936,
   "categories_summary": {
     "综合": 399,
     "爱国": 111,
-    "文明礼貌": 101,
-    "环保": 95,
-    "友善": 81,
+    "文明礼貌": 104,
+    "环保": 97,
+    "友善": 82,
     "节约": 72,
     "诚信": 48,
     "交通安全": 40,
@@ -13121,6 +13121,90 @@
       "source": "bilibili",
       "uploader": "bili_3546696531315500",
       "view_count": 4
+    },
+    {
+      "id": "BV1PZ4y1c7nJ",
+      "title": "广而告之公益广告《带走生活垃圾 保护自然环境》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 34.197,
+      "url": "http://www.bilibili.com/video/av374914792",
+      "play_url": "http://www.bilibili.com/video/av374914792",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 15999
+    },
+    {
+      "id": "BV1F841187TT",
+      "title": "央视公益广告·将爱心传递下去（1999）",
+      "categories": [
+        "友善"
+      ],
+      "duration": 45.115,
+      "url": "http://www.bilibili.com/video/av220022574",
+      "play_url": "http://www.bilibili.com/video/av220022574",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "迷音同志",
+      "view_count": 2230
+    },
+    {
+      "id": "BV1K24y167Yh",
+      "title": "讲文明树新风高清公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 34.899,
+      "url": "http://www.bilibili.com/video/av693538213",
+      "play_url": "http://www.bilibili.com/video/av693538213",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 1935
+    },
+    {
+      "id": "BV1os411W767",
+      "title": "文明中国人 电影院",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 21.926,
+      "url": "http://www.bilibili.com/video/av7269216",
+      "play_url": "http://www.bilibili.com/video/av7269216",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "lele1894",
+      "view_count": 3938
+    },
+    {
+      "id": "BV1t6AwzyEjJ",
+      "title": "于东来说还要一千年才能真正走向文明，不敢想象，难以置信。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 79.435,
+      "url": "http://www.bilibili.com/video/av116265838513020",
+      "play_url": "http://www.bilibili.com/video/av116265838513020",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "直接四十米",
+      "view_count": 479586
+    },
+    {
+      "id": "BV1pW411c7Qs",
+      "title": "【定格动画】《Root of evil》 环保创意剪纸定格动画",
+      "categories": [
+        "环保"
+      ],
+      "duration": 226.218,
+      "url": "http://www.bilibili.com/video/av25067719",
+      "play_url": "http://www.bilibili.com/video/av25067719",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "呵斯奇",
+      "view_count": 33610
     }
   ]
 }
