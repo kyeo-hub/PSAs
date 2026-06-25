@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T19:52:04.015462+00:00",
-  "total": 910,
+  "generated_at": "2026-06-25T03:32:36.960053+00:00",
+  "total": 920,
   "categories_summary": {
     "综合": 399,
     "爱国": 109,
-    "文明礼貌": 95,
+    "文明礼貌": 96,
     "环保": 93,
-    "友善": 77,
-    "节约": 67,
-    "诚信": 45,
-    "交通安全": 39,
-    "孝道": 27,
+    "友善": 81,
+    "节约": 68,
+    "诚信": 48,
+    "交通安全": 40,
+    "孝道": 30,
     "助人为乐": 25,
     "禁烟": 14
   },
@@ -12835,6 +12835,149 @@
       "source": "bilibili",
       "uploader": "多彩物语",
       "view_count": 26574
+    },
+    {
+      "id": "BV1Hh4y1B7cv",
+      "title": "【央视公益广告】友善是最温暖的语言",
+      "categories": [
+        "友善"
+      ],
+      "duration": 59.767,
+      "url": "http://www.bilibili.com/video/av662383491",
+      "play_url": "http://www.bilibili.com/video/av662383491",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平民路线_",
+      "view_count": 44944
+    },
+    {
+      "id": "BV1BJ411X77Q",
+      "title": "你的诚信呢公益广告",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 61.285,
+      "url": "http://www.bilibili.com/video/av77200819",
+      "play_url": "http://www.bilibili.com/video/av77200819",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 298096
+    },
+    {
+      "id": "BV1AmD1YKEJj",
+      "title": "公益星主张 友善",
+      "categories": [
+        "友善"
+      ],
+      "duration": 34.022,
+      "url": "http://www.bilibili.com/video/av113439414419841",
+      "play_url": "http://www.bilibili.com/video/av113439414419841",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 799
+    },
+    {
+      "id": "BV1dm2HYVEcC",
+      "title": "公益广告 友爱互助 用爱相处 30s",
+      "categories": [
+        "友善"
+      ],
+      "duration": 30.036,
+      "url": "http://www.bilibili.com/video/av113271508113567",
+      "play_url": "http://www.bilibili.com/video/av113271508113567",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 1735
+    },
+    {
+      "id": "BV1tu411Z7NE",
+      "title": "【公益广告】 珍惜粮食，拒绝“剩宴”",
+      "categories": [
+        "节约"
+      ],
+      "duration": 166.762,
+      "url": "http://www.bilibili.com/video/av506005387",
+      "play_url": "http://www.bilibili.com/video/av506005387",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Heribert是只虎",
+      "view_count": 28829
+    },
+    {
+      "id": "BV1Li4y1G7Su",
+      "title": "梦娃 - 孝当先",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 15.166,
+      "url": "http://www.bilibili.com/video/av541088430",
+      "play_url": "http://www.bilibili.com/video/av541088430",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "电视包装酷",
+      "view_count": 22673
+    },
+    {
+      "id": "BV1VK4y1i7Eg",
+      "title": "【flash选修课自制】Fmaily-公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 61.083,
+      "url": "http://www.bilibili.com/video/av881629425",
+      "play_url": "http://www.bilibili.com/video/av881629425",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "笠碧栗璧",
+      "view_count": 1951
+    },
+    {
+      "id": "BV14n4y1f7sk",
+      "title": "【收藏】24年命题说话三分钟范文《谈传统美德》",
+      "categories": [
+        "友善",
+        "诚信",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 185.527,
+      "url": "http://www.bilibili.com/video/av1056455186",
+      "play_url": "http://www.bilibili.com/video/av1056455186",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "凯璐老师教普通话",
+      "view_count": 3913
+    },
+    {
+      "id": "BV19W411E7k6",
+      "title": "【公益广告】信任是一种美德",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 15.347,
+      "url": "http://www.bilibili.com/video/av19578330",
+      "play_url": "http://www.bilibili.com/video/av19578330",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱拼安小匠",
+      "view_count": 10390
+    },
+    {
+      "id": "BV1dQ4y1Y7fi",
+      "title": "「央视公益广告」「交通安全动物」「1920*1080」",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.56,
+      "url": "http://www.bilibili.com/video/av720078078",
+      "play_url": "http://www.bilibili.com/video/av720078078",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 41436
     }
   ]
 }
