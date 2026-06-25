@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T14:37:54.062052+00:00",
-  "total": 936,
+  "generated_at": "2026-06-25T20:06:56.004116+00:00",
+  "total": 944,
   "categories_summary": {
     "综合": 399,
     "爱国": 111,
-    "文明礼貌": 104,
-    "环保": 97,
-    "友善": 82,
-    "节约": 72,
-    "诚信": 48,
+    "文明礼貌": 106,
+    "环保": 100,
+    "友善": 83,
+    "节约": 73,
+    "诚信": 50,
     "交通安全": 40,
-    "孝道": 30,
+    "孝道": 32,
     "助人为乐": 25,
     "禁烟": 14
   },
@@ -13205,6 +13205,121 @@
       "source": "bilibili",
       "uploader": "呵斯奇",
       "view_count": 33610
+    },
+    {
+      "id": "BV1LW411N7wm",
+      "title": "【CCTV公益广告】【诚信公益广告《早餐店篇》】",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 90.5,
+      "url": "http://www.bilibili.com/video/av24248621",
+      "play_url": "http://www.bilibili.com/video/av24248621",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "诚信七分配",
+      "view_count": 189226
+    },
+    {
+      "id": "BV1rD4y1T7aU",
+      "title": "【CCTV公益传播】让绿色低碳生活 成为新时尚",
+      "categories": [
+        "环保"
+      ],
+      "duration": 65.269,
+      "url": "http://www.bilibili.com/video/av736338822",
+      "play_url": "http://www.bilibili.com/video/av736338822",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 63174
+    },
+    {
+      "id": "BV1EYqNYjE5c",
+      "title": "《中华孝道》舞台led视频背景高清素材",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 244.645,
+      "url": "http://www.bilibili.com/video/av113622638399374",
+      "play_url": "http://www.bilibili.com/video/av113622638399374",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "壹心视觉工作室",
+      "view_count": 3309
+    },
+    {
+      "id": "BV1pV411Y7Ro",
+      "title": "CCTV - 公益广告：珍惜粮食 反对浪费",
+      "categories": [
+        "节约"
+      ],
+      "duration": 45.069,
+      "url": "http://www.bilibili.com/video/av417077754",
+      "play_url": "http://www.bilibili.com/video/av417077754",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "-BRC-",
+      "view_count": 37136
+    },
+    {
+      "id": "BV1so4y1n74h",
+      "title": "一等奖少儿传统美德朗诵｜《中华孝道》",
+      "categories": [
+        "孝道",
+        "诚信",
+        "文明礼貌",
+        "友善"
+      ],
+      "duration": 181.95,
+      "url": "http://www.bilibili.com/video/av397251209",
+      "play_url": "http://www.bilibili.com/video/av397251209",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "需此素材V号laoshi2939",
+      "view_count": 6852
+    },
+    {
+      "id": "BV1B44y1278C",
+      "title": "文明养成公益短片（文明只是一个小小的举动，与陋习告别，拥抱美好的明天）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 198.186,
+      "url": "http://www.bilibili.com/video/av974196771",
+      "play_url": "http://www.bilibili.com/video/av974196771",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "壹术家摄影",
+      "view_count": 86617
+    },
+    {
+      "id": "BV1jh411H7Ee",
+      "title": "蒙牛公益广告—生态草原篇篇30秒",
+      "categories": [
+        "环保"
+      ],
+      "duration": 30.255,
+      "url": "http://www.bilibili.com/video/av208334918",
+      "play_url": "http://www.bilibili.com/video/av208334918",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "喜羊羊与灰太狼视频",
+      "view_count": 6957
+    },
+    {
+      "id": "BV11U4y1p7D2",
+      "title": "环保公益短片《一次》| 让环保成为我们与这颗蓝色星球共存的桥梁 让美好成为现实 我们只需要一次就够了",
+      "categories": [
+        "环保"
+      ],
+      "duration": 251.413,
+      "url": "http://www.bilibili.com/video/av672086764",
+      "play_url": "http://www.bilibili.com/video/av672086764",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Jan-Mine",
+      "view_count": 76367
     }
   ]
 }
