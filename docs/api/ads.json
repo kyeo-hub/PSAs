@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T20:06:56.004116+00:00",
-  "total": 944,
+  "generated_at": "2026-06-26T03:45:14.409035+00:00",
+  "total": 949,
   "categories_summary": {
     "综合": 399,
-    "爱国": 111,
-    "文明礼貌": 106,
-    "环保": 100,
-    "友善": 83,
-    "节约": 73,
-    "诚信": 50,
+    "爱国": 113,
+    "文明礼貌": 107,
+    "环保": 101,
+    "友善": 85,
+    "节约": 75,
+    "诚信": 52,
     "交通安全": 40,
     "孝道": 32,
     "助人为乐": 25,
@@ -13320,6 +13320,81 @@
       "source": "bilibili",
       "uploader": "Jan-Mine",
       "view_count": 76367
+    },
+    {
+      "id": "BV1eu4y1g75j",
+      "title": "2022年度总局扶持公益广告《文明旅游爱护环境》 中国教育电视台",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 30.207,
+      "url": "http://www.bilibili.com/video/av921780155",
+      "play_url": "http://www.bilibili.com/video/av921780155",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哔哩小红旗",
+      "view_count": 1294
+    },
+    {
+      "id": "BV1337Y6dERA",
+      "title": "历行节约反对浪费公益广告（CCTV-1）",
+      "categories": [
+        "节约"
+      ],
+      "duration": 60.4,
+      "url": "http://www.bilibili.com/video/av116810494056106",
+      "play_url": "http://www.bilibili.com/video/av116810494056106",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "自信的爱好者2025",
+      "view_count": 37
+    },
+    {
+      "id": "BV1sL746fEFa",
+      "title": "CCTV13央视新闻频道公益广告《厉行节约反对浪费》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 70.2,
+      "url": "http://www.bilibili.com/video/av116806064936588",
+      "play_url": "http://www.bilibili.com/video/av116806064936588",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "暗夜行者之光11",
+      "view_count": 46
+    },
+    {
+      "id": "BV1m94y1j755",
+      "title": "【思政视频】弘扬红色权益理念 践行社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 105.391,
+      "url": "http://www.bilibili.com/video/av366821385",
+      "play_url": "http://www.bilibili.com/video/av366821385",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "不会骑车-",
+      "view_count": 73952
+    },
+    {
+      "id": "BV1CP4y1B7j6",
+      "title": "【党政风】践行社会主义核心价值观PPT模板",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 110.69,
+      "url": "http://www.bilibili.com/video/av904046540",
+      "play_url": "http://www.bilibili.com/video/av904046540",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "柯恩哥",
+      "view_count": 11931
     }
   ]
 }
