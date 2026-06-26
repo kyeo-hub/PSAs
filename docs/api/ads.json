@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T09:31:00.558339+00:00",
-  "total": 954,
+  "generated_at": "2026-06-26T14:29:58.075391+00:00",
+  "total": 957,
   "categories_summary": {
     "综合": 399,
-    "爱国": 114,
-    "文明礼貌": 108,
-    "环保": 103,
+    "爱国": 115,
+    "文明礼貌": 109,
+    "环保": 104,
     "友善": 86,
     "节约": 75,
     "诚信": 53,
     "交通安全": 40,
-    "孝道": 32,
+    "孝道": 33,
     "助人为乐": 26,
     "禁烟": 14
   },
@@ -13467,6 +13467,49 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 583
+    },
+    {
+      "id": "BV1Fp4y1V7Ri",
+      "title": "【CCTV公益传播】新疆生态文明公益广告《大美新疆》",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 90.139,
+      "url": "http://www.bilibili.com/video/av956681782",
+      "play_url": "http://www.bilibili.com/video/av956681782",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 8321
+    },
+    {
+      "id": "BV1Qi4y1M73u",
+      "title": "【公益广告】公益广告《今天，我们这样爱国》（辽宁卫视播出版）",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.08,
+      "url": "http://www.bilibili.com/video/av541965700",
+      "play_url": "http://www.bilibili.com/video/av541965700",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一只神谕蓝",
+      "view_count": 8789
+    },
+    {
+      "id": "BV1g5411A7CN",
+      "title": "【央视感人公益广告】-我们的家庭（family）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 90.239,
+      "url": "http://www.bilibili.com/video/av459949970",
+      "play_url": "http://www.bilibili.com/video/av459949970",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "昂首奋进新时代",
+      "view_count": 27788
     }
   ]
 }
