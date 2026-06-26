@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T03:45:14.409035+00:00",
-  "total": 949,
+  "generated_at": "2026-06-26T09:31:00.558339+00:00",
+  "total": 954,
   "categories_summary": {
     "综合": 399,
-    "爱国": 113,
-    "文明礼貌": 107,
-    "环保": 101,
-    "友善": 85,
+    "爱国": 114,
+    "文明礼貌": 108,
+    "环保": 103,
+    "友善": 86,
     "节约": 75,
-    "诚信": 52,
+    "诚信": 53,
     "交通安全": 40,
     "孝道": 32,
-    "助人为乐": 25,
+    "助人为乐": 26,
     "禁烟": 14
   },
   "items": [
@@ -13395,6 +13395,78 @@
       "source": "bilibili",
       "uploader": "柯恩哥",
       "view_count": 11931
+    },
+    {
+      "id": "BV13hE76DENt",
+      "title": "大学生环保公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 236.334,
+      "url": "http://www.bilibili.com/video/av116719779645994",
+      "play_url": "http://www.bilibili.com/video/av116719779645994",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "71282217827_bili",
+      "view_count": 198
+    },
+    {
+      "id": "BV1Zp421o73j",
+      "title": "【动画｜环保宣传】AE动画 保护地球，人人有责",
+      "categories": [
+        "环保"
+      ],
+      "duration": 132.817,
+      "url": "http://www.bilibili.com/video/av1850442717",
+      "play_url": "http://www.bilibili.com/video/av1850442717",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Simon2050",
+      "view_count": 61778
+    },
+    {
+      "id": "BV1537q6GEen",
+      "title": "华夏文明节日正在被遗忘覆盖！应该刻在中国人骨子里",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 140.48,
+      "url": "http://www.bilibili.com/video/av116814319256973",
+      "play_url": "http://www.bilibili.com/video/av116814319256973",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "秦汉宋明丶",
+      "view_count": 62
+    },
+    {
+      "id": "BV1icfQBSEzE",
+      "title": "忠诚可靠，服务人民，竭诚奉献是消防员永远的承诺公益广告(CCTV1台湾版)",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 34.922,
+      "url": "http://www.bilibili.com/video/av116007200887281",
+      "play_url": "http://www.bilibili.com/video/av116007200887281",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Gacha-想象美食招学徒",
+      "view_count": 853
+    },
+    {
+      "id": "BV1wT411C7jg",
+      "title": "央视版社会主义核心价值观公益广告",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 61.393,
+      "url": "http://www.bilibili.com/video/av481079337",
+      "play_url": "http://www.bilibili.com/video/av481079337",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 583
     }
   ]
 }
