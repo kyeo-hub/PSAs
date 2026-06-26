@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T14:29:58.075391+00:00",
-  "total": 957,
+  "generated_at": "2026-06-26T19:54:42.233189+00:00",
+  "total": 962,
   "categories_summary": {
     "综合": 399,
     "爱国": 115,
-    "文明礼貌": 109,
+    "文明礼貌": 112,
     "环保": 104,
-    "友善": 86,
+    "友善": 87,
     "节约": 75,
-    "诚信": 53,
-    "交通安全": 40,
-    "孝道": 33,
+    "诚信": 54,
+    "交通安全": 41,
+    "孝道": 36,
     "助人为乐": 26,
     "禁烟": 14
   },
@@ -13510,6 +13510,80 @@
       "source": "bilibili",
       "uploader": "昂首奋进新时代",
       "view_count": 27788
+    },
+    {
+      "id": "BV1Ms4y1v7ir",
+      "title": "史上最震撼交通安全公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.139,
+      "url": "http://www.bilibili.com/video/av997034941",
+      "play_url": "http://www.bilibili.com/video/av997034941",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 91403
+    },
+    {
+      "id": "BV1P441127Fk",
+      "title": "请握住父母的手公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 41.643,
+      "url": "http://www.bilibili.com/video/av66492090",
+      "play_url": "http://www.bilibili.com/video/av66492090",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 11468
+    },
+    {
+      "id": "BV1hz421a7Tm",
+      "title": "【创文公益广告】弘扬中华美德，传承文明家风，争做文明市民。",
+      "categories": [
+        "孝道",
+        "文明礼貌"
+      ],
+      "duration": 39.426,
+      "url": "http://www.bilibili.com/video/av1355127055",
+      "play_url": "http://www.bilibili.com/video/av1355127055",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "商州融媒",
+      "view_count": 244
+    },
+    {
+      "id": "BV1EhRFBeEEQ",
+      "title": "传统美德公益广告",
+      "categories": [
+        "孝道",
+        "文明礼貌",
+        "友善",
+        "诚信"
+      ],
+      "duration": 154.534,
+      "url": "http://www.bilibili.com/video/av116509796013389",
+      "play_url": "http://www.bilibili.com/video/av116509796013389",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "冬雨811",
+      "view_count": 610
+    },
+    {
+      "id": "BV1AG411572D",
+      "title": "（电视公益广告）文明中国人：电梯篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 24.612,
+      "url": "http://www.bilibili.com/video/av430004580",
+      "play_url": "http://www.bilibili.com/video/av430004580",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 2730
     }
   ]
 }
