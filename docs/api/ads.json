@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T08:43:06.060866+00:00",
-  "total": 967,
+  "generated_at": "2026-06-27T13:47:04.905251+00:00",
+  "total": 974,
   "categories_summary": {
     "综合": 399,
-    "爱国": 116,
-    "文明礼貌": 115,
+    "爱国": 120,
+    "文明礼貌": 117,
     "环保": 106,
-    "友善": 87,
+    "友善": 89,
     "节约": 75,
-    "诚信": 54,
+    "诚信": 56,
     "交通安全": 41,
-    "孝道": 36,
+    "孝道": 37,
     "助人为乐": 26,
     "禁烟": 14
   },
@@ -13655,6 +13655,108 @@
       "source": "bilibili",
       "uploader": "寻找紫薇星_",
       "view_count": 827
+    },
+    {
+      "id": "BV1Ri4y15757",
+      "title": "社会主义核心价值观英文版来啦！",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 18.204,
+      "url": "http://www.bilibili.com/video/av543144618",
+      "play_url": "http://www.bilibili.com/video/av543144618",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_82030354597",
+      "view_count": 6046
+    },
+    {
+      "id": "BV1Yj41147XL",
+      "title": "4分钟搞懂社会主义核心价值观！哲学人生价值观！",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 256.022,
+      "url": "http://www.bilibili.com/video/av449400566",
+      "play_url": "http://www.bilibili.com/video/av449400566",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "智冬老师讲政治",
+      "view_count": 18196
+    },
+    {
+      "id": "BV1m67n67EwJ",
+      "title": "中国有没有公元前4千纪文明区域",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 69.033,
+      "url": "http://www.bilibili.com/video/av116820275171724",
+      "play_url": "http://www.bilibili.com/video/av116820275171724",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "dc_ffrh",
+      "view_count": 94
+    },
+    {
+      "id": "BV1rh411r7pz",
+      "title": "广而告之公益广告《劳动创造美好未来》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 64.084,
+      "url": "http://www.bilibili.com/video/av204260665",
+      "play_url": "http://www.bilibili.com/video/av204260665",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 35990
+    },
+    {
+      "id": "BV13Y4y1A7Q3",
+      "title": "【央视公益广告】民族要复兴 乡村必振兴",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 75.835,
+      "url": "http://www.bilibili.com/video/av644301592",
+      "play_url": "http://www.bilibili.com/video/av644301592",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "はやせ_あきね",
+      "view_count": 249873
+    },
+    {
+      "id": "BV1cp4y1c71j",
+      "title": "公益广告-孝道责任 代代相传（15秒版本）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 15.231,
+      "url": "http://www.bilibili.com/video/av959027407",
+      "play_url": "http://www.bilibili.com/video/av959027407",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 521
+    },
+    {
+      "id": "BV1gx411P76t",
+      "title": "”讲文明树新风“逗比公益广告第三弹",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 40.449,
+      "url": "http://www.bilibili.com/video/av1587282",
+      "play_url": "http://www.bilibili.com/video/av1587282",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "毛毛蓥",
+      "view_count": 815
     }
   ]
 }
