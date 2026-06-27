@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T19:54:42.233189+00:00",
-  "total": 962,
+  "generated_at": "2026-06-27T03:03:28.293632+00:00",
+  "total": 965,
   "categories_summary": {
     "综合": 399,
-    "爱国": 115,
-    "文明礼貌": 112,
-    "环保": 104,
+    "爱国": 116,
+    "文明礼貌": 114,
+    "环保": 105,
     "友善": 87,
     "节约": 75,
     "诚信": 54,
@@ -13584,6 +13584,49 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 2730
+    },
+    {
+      "id": "BV1u37J6EETU",
+      "title": "公益广告《还我山水》水墨风格环保宣传",
+      "categories": [
+        "环保",
+        "爱国"
+      ],
+      "duration": 46.1,
+      "url": "http://www.bilibili.com/video/av116819302024178",
+      "play_url": "http://www.bilibili.com/video/av116819302024178",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "搞嘢kv",
+      "view_count": 87
+    },
+    {
+      "id": "BV1fhj16iEiW",
+      "title": "野蛮其体魄，文明其精神 2026年6月14日（12）周末做公益 #公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 187.269,
+      "url": "http://www.bilibili.com/video/av116797860748218",
+      "play_url": "http://www.bilibili.com/video/av116797860748218",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 444418
+    },
+    {
+      "id": "BV1ss421u7sn",
+      "title": "2000年 央视公益广告 尊重他人 尊重自己",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 52.476,
+      "url": "http://www.bilibili.com/video/av1855641783",
+      "play_url": "http://www.bilibili.com/video/av1855641783",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 6785430
     }
   ]
 }
