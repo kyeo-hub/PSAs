@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T03:03:28.293632+00:00",
-  "total": 965,
+  "generated_at": "2026-06-27T08:43:06.060866+00:00",
+  "total": 967,
   "categories_summary": {
     "综合": 399,
     "爱国": 116,
-    "文明礼貌": 114,
-    "环保": 105,
+    "文明礼貌": 115,
+    "环保": 106,
     "友善": 87,
     "节约": 75,
     "诚信": 54,
@@ -13627,6 +13627,34 @@
       "source": "bilibili",
       "uploader": "4A广告提案网",
       "view_count": 6785430
+    },
+    {
+      "id": "BV1R54y177Qz",
+      "title": "公益广告环保《飘》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.96,
+      "url": "http://www.bilibili.com/video/av847181325",
+      "play_url": "http://www.bilibili.com/video/av847181325",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "三了个皮",
+      "view_count": 1820
+    },
+    {
+      "id": "BV18L7H6WEc2",
+      "title": "投稿：紫薇星会火遍全世界吗？以什么样的方式把中華文明带到全世界？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 92.09,
+      "url": "http://www.bilibili.com/video/av116820090624568",
+      "play_url": "http://www.bilibili.com/video/av116820090624568",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "寻找紫薇星_",
+      "view_count": 827
     }
   ]
 }
