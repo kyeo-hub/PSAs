@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T13:47:04.905251+00:00",
-  "total": 974,
+  "generated_at": "2026-06-27T19:25:23.611600+00:00",
+  "total": 980,
   "categories_summary": {
     "综合": 399,
-    "爱国": 120,
-    "文明礼貌": 117,
-    "环保": 106,
+    "爱国": 122,
+    "文明礼貌": 118,
+    "环保": 109,
     "友善": 89,
-    "节约": 75,
+    "节约": 76,
     "诚信": 56,
     "交通安全": 41,
     "孝道": 37,
@@ -13757,6 +13757,91 @@
       "source": "bilibili",
       "uploader": "毛毛蓥",
       "view_count": 815
+    },
+    {
+      "id": "BV1RQ4y1h7e5",
+      "title": "献礼建党百年，自制爱国公益广告 《为了什么》，愿中国青年奋发向上，不惧风雨",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 194.837,
+      "url": "http://www.bilibili.com/video/av720211447",
+      "play_url": "http://www.bilibili.com/video/av720211447",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "瓜瓜的烦恼",
+      "view_count": 77629
+    },
+    {
+      "id": "BV1rXLh6wEwh",
+      "title": "央视公益广告－-《爱国篇》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.139,
+      "url": "http://www.bilibili.com/video/av116612690608745",
+      "play_url": "http://www.bilibili.com/video/av116612690608745",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "杨旭6867",
+      "view_count": 268
+    },
+    {
+      "id": "BV1Ff4y1e72a",
+      "title": "【AE·MG动画】保护环境公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 100.286,
+      "url": "http://www.bilibili.com/video/av288160178",
+      "play_url": "http://www.bilibili.com/video/av288160178",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "邦邦邦邦邦邦呀",
+      "view_count": 90150
+    },
+    {
+      "id": "BV1S7411M7bT",
+      "title": "“迎奥运 讲文明 树新风”系列主题公益广告 让世界记住我们的掌声 60s",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.974,
+      "url": "http://www.bilibili.com/video/av91269556",
+      "play_url": "http://www.bilibili.com/video/av91269556",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 16562
+    },
+    {
+      "id": "BV1ZH4y1T7iD",
+      "title": "【自己UP主拍摄】节约用水 爱护环境的公益广告",
+      "categories": [
+        "节约",
+        "环保"
+      ],
+      "duration": 59.69,
+      "url": "http://www.bilibili.com/video/av1052874780",
+      "play_url": "http://www.bilibili.com/video/av1052874780",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "俊辉爱好者",
+      "view_count": 4687
+    },
+    {
+      "id": "BV1m4411d76m",
+      "title": "宇通纯电动公交《绿色公交 纯净呼吸》公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 31.564,
+      "url": "http://www.bilibili.com/video/av64723543",
+      "play_url": "http://www.bilibili.com/video/av64723543",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 38392
     }
   ]
 }
