@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T13:50:49.290295+00:00",
-  "total": 997,
+  "generated_at": "2026-06-28T19:26:09.526907+00:00",
+  "total": 1001,
   "categories_summary": {
     "综合": 399,
-    "爱国": 125,
-    "文明礼貌": 123,
+    "爱国": 126,
+    "文明礼貌": 126,
     "环保": 111,
-    "友善": 94,
+    "友善": 96,
     "节约": 78,
-    "诚信": 59,
+    "诚信": 61,
     "交通安全": 44,
-    "孝道": 42,
+    "孝道": 43,
     "助人为乐": 28,
     "禁烟": 14
   },
@@ -14093,6 +14093,67 @@
       "source": "bilibili",
       "uploader": "阳光男孩是东北人",
       "view_count": 23363
+    },
+    {
+      "id": "BV1um4y1J7y9",
+      "title": "当文明走向文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 105.983,
+      "url": "http://www.bilibili.com/video/av700465589",
+      "play_url": "http://www.bilibili.com/video/av700465589",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "东南卫视",
+      "view_count": 6228
+    },
+    {
+      "id": "BV1xgTK6LECj",
+      "title": "野蛮其体魄 文明其精神 2026年6月14日（15）周末做公益 #公益 #正能量 #人间观察计划",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 68.522,
+      "url": "http://www.bilibili.com/video/av116826281351883",
+      "play_url": "http://www.bilibili.com/video/av116826281351883",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 532
+    },
+    {
+      "id": "BV1DM411L7qq",
+      "title": "社会主义核心价值观视频素材",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 66.826,
+      "url": "http://www.bilibili.com/video/av527694547",
+      "play_url": "http://www.bilibili.com/video/av527694547",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Sy-Ag",
+      "view_count": 2738
+    },
+    {
+      "id": "BV1bCTK6XEp8",
+      "title": "传统美德",
+      "categories": [
+        "友善",
+        "孝道",
+        "文明礼貌",
+        "诚信"
+      ],
+      "duration": 12.533,
+      "url": "http://www.bilibili.com/video/av116825979421818",
+      "play_url": "http://www.bilibili.com/video/av116825979421818",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "是凉不是西",
+      "view_count": 388
     }
   ]
 }
