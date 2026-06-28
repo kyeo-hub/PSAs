@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T08:58:06.991765+00:00",
-  "total": 992,
+  "generated_at": "2026-06-28T13:50:49.290295+00:00",
+  "total": 997,
   "categories_summary": {
     "综合": 399,
-    "爱国": 124,
-    "文明礼貌": 120,
-    "环保": 110,
-    "友善": 91,
+    "爱国": 125,
+    "文明礼貌": 123,
+    "环保": 111,
+    "友善": 94,
     "节约": 78,
-    "诚信": 57,
+    "诚信": 59,
     "交通安全": 44,
-    "孝道": 38,
-    "助人为乐": 27,
+    "孝道": 42,
+    "助人为乐": 28,
     "禁烟": 14
   },
   "items": [
@@ -14013,6 +14013,86 @@
       "source": "bilibili",
       "uploader": "一定会是富婆的",
       "view_count": 143
+    },
+    {
+      "id": "BV17SeoeiEqZ",
+      "title": "【画质提升】经典公益广告《梦娃孝当先》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 15.103,
+      "url": "http://www.bilibili.com/video/av112864140591751",
+      "play_url": "http://www.bilibili.com/video/av112864140591751",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "啦啦啦啦啦流量中",
+      "view_count": 19892
+    },
+    {
+      "id": "BV1Cs411Y7XC",
+      "title": "[经典公益广告] 尊老 爱老 是中华民族的传统美德",
+      "categories": [
+        "文明礼貌",
+        "友善",
+        "孝道",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 45.185,
+      "url": "http://www.bilibili.com/video/av7374843",
+      "play_url": "http://www.bilibili.com/video/av7374843",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蓝轩光的萤火虫",
+      "view_count": 8543
+    },
+    {
+      "id": "BV12Xq2YCER6",
+      "title": "\"中华传统美德\" | 2002年公益广告",
+      "categories": [
+        "友善",
+        "孝道",
+        "文明礼貌",
+        "诚信"
+      ],
+      "duration": 48.582,
+      "url": "http://www.bilibili.com/video/av113633006722182",
+      "play_url": "http://www.bilibili.com/video/av113633006722182",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "风物上海",
+      "view_count": 33272
+    },
+    {
+      "id": "BV1Gs411x7VR",
+      "title": "央视公益广告-善行无迹系列之《一群人》-中英双字幕-ChinaYouth",
+      "categories": [
+        "友善",
+        "助人为乐",
+        "孝道"
+      ],
+      "duration": 64.575,
+      "url": "http://www.bilibili.com/video/av6958564",
+      "play_url": "http://www.bilibili.com/video/av6958564",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "ChinaYouth中国青年",
+      "view_count": 17867
+    },
+    {
+      "id": "BV1wW411C7K7",
+      "title": "【公益广告】留影不留垃圾 文明旅游人人有责（中国大陆）",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 30.059,
+      "url": "http://www.bilibili.com/video/av31950702",
+      "play_url": "http://www.bilibili.com/video/av31950702",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阳光男孩是东北人",
+      "view_count": 23363
     }
   ]
 }
