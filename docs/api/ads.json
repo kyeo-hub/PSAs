@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T03:48:44.172691+00:00",
-  "total": 983,
+  "generated_at": "2026-06-28T08:58:06.991765+00:00",
+  "total": 992,
   "categories_summary": {
     "综合": 399,
-    "爱国": 122,
-    "文明礼貌": 119,
-    "环保": 109,
-    "友善": 89,
-    "节约": 76,
-    "诚信": 56,
-    "交通安全": 42,
+    "爱国": 124,
+    "文明礼貌": 120,
+    "环保": 110,
+    "友善": 91,
+    "节约": 78,
+    "诚信": 57,
+    "交通安全": 44,
     "孝道": 38,
-    "助人为乐": 26,
+    "助人为乐": 27,
     "禁烟": 14
   },
   "items": [
@@ -13884,6 +13884,135 @@
       "source": "bilibili",
       "uploader": "华夏道统文化",
       "view_count": 11264
+    },
+    {
+      "id": "BV1fW411y7LK",
+      "title": "践行社会主义核心价值观公益广告——敬业篇",
+      "categories": [
+        "诚信",
+        "爱国",
+        "友善"
+      ],
+      "duration": 60.046,
+      "url": "http://www.bilibili.com/video/av33412675",
+      "play_url": "http://www.bilibili.com/video/av33412675",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "青农艺术素质拓展中心",
+      "view_count": 4465
+    },
+    {
+      "id": "BV1ub411T7s3",
+      "title": "环保公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 96.167,
+      "url": "http://www.bilibili.com/video/av49222988",
+      "play_url": "http://www.bilibili.com/video/av49222988",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "假装叛逆少年",
+      "view_count": 51334
+    },
+    {
+      "id": "BV1Ls41167KF",
+      "title": "[经典公益广告] 举手之劳，我们能做的还有很多",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 45.44,
+      "url": "http://www.bilibili.com/video/av6060491",
+      "play_url": "http://www.bilibili.com/video/av6060491",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蓝轩光的萤火虫",
+      "view_count": 92376
+    },
+    {
+      "id": "BV1eE3te9EPD",
+      "title": "【画质提升】央视经典公益广告《交通安全动物》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.415,
+      "url": "http://www.bilibili.com/video/av112693600062406",
+      "play_url": "http://www.bilibili.com/video/av112693600062406",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "啦啦啦啦啦流量中",
+      "view_count": 11021
+    },
+    {
+      "id": "BV1CGLG62EZ2",
+      "title": "【放送文化】央视公益广告《交通安全动物篇》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.0,
+      "url": "http://www.bilibili.com/video/av116584337120150",
+      "play_url": "http://www.bilibili.com/video/av116584337120150",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "丷奈亚子丷",
+      "view_count": 2418
+    },
+    {
+      "id": "BV1daTK6cET2",
+      "title": "世界上只有一个文明就是我们，光从中国来！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 53.429,
+      "url": "http://www.bilibili.com/video/av116825845269416",
+      "play_url": "http://www.bilibili.com/video/av116825845269416",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "为于雪耻",
+      "view_count": 1168
+    },
+    {
+      "id": "BV1ABC7BYEzH",
+      "title": "广而告之公益广告《民族团结 中国一心》",
+      "categories": [
+        "爱国",
+        "友善"
+      ],
+      "duration": 34.005,
+      "url": "http://www.bilibili.com/video/av115536281274838",
+      "play_url": "http://www.bilibili.com/video/av115536281274838",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 2608
+    },
+    {
+      "id": "BV1K3yxYqEdX",
+      "title": "公益广告__ __节约粮食反对浪费☆2024-10-23",
+      "categories": [
+        "节约"
+      ],
+      "duration": 10.587,
+      "url": "http://www.bilibili.com/video/av113352122568492",
+      "play_url": "http://www.bilibili.com/video/av113352122568492",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梁彦芝",
+      "view_count": 89
+    },
+    {
+      "id": "BV115411K7Hc",
+      "title": "【摸鱼某个公益广告比赛】节约粮食题材",
+      "categories": [
+        "节约"
+      ],
+      "duration": 26.282,
+      "url": "http://www.bilibili.com/video/av461176600",
+      "play_url": "http://www.bilibili.com/video/av461176600",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一定会是富婆的",
+      "view_count": 143
     }
   ]
 }
