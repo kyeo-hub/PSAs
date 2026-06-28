@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T19:25:23.611600+00:00",
-  "total": 980,
+  "generated_at": "2026-06-28T03:48:44.172691+00:00",
+  "total": 983,
   "categories_summary": {
     "综合": 399,
     "爱国": 122,
-    "文明礼貌": 118,
+    "文明礼貌": 119,
     "环保": 109,
     "友善": 89,
     "节约": 76,
     "诚信": 56,
-    "交通安全": 41,
-    "孝道": 37,
+    "交通安全": 42,
+    "孝道": 38,
     "助人为乐": 26,
     "禁烟": 14
   },
@@ -13842,6 +13842,48 @@
       "source": "bilibili",
       "uploader": "小老鼠-舒克",
       "view_count": 38392
+    },
+    {
+      "id": "BV1ma4y1f7Sg",
+      "title": "（电视公益广告）动物篇",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 65.108,
+      "url": "http://www.bilibili.com/video/av644660801",
+      "play_url": "http://www.bilibili.com/video/av644660801",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 14121
+    },
+    {
+      "id": "BV1XS7H6FE3P",
+      "title": "《岁月长歌》｜星河古文明，几多湮没于岁月，唯我华夏脉，劫后仍蓬勃",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 201.133,
+      "url": "http://www.bilibili.com/video/av116821936046933",
+      "play_url": "http://www.bilibili.com/video/av116821936046933",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "离喵喵_",
+      "view_count": 134
+    },
+    {
+      "id": "BV1124y1F7Hc",
+      "title": "【公益广告】梦娃系列《易经》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 90.0,
+      "url": "http://www.bilibili.com/video/av782555896",
+      "play_url": "http://www.bilibili.com/video/av782555896",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "华夏道统文化",
+      "view_count": 11264
     }
   ]
 }
