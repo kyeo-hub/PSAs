@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T11:04:46.745005+00:00",
-  "total": 1012,
+  "generated_at": "2026-06-29T15:52:54.768047+00:00",
+  "total": 1017,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 128,
+    "文明礼貌": 130,
     "爱国": 127,
     "环保": 111,
     "友善": 100,
-    "节约": 82,
-    "诚信": 63,
+    "节约": 83,
+    "诚信": 65,
     "交通安全": 45,
     "孝道": 44,
     "助人为乐": 28,
@@ -14313,6 +14313,76 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 16922
+    },
+    {
+      "id": "BV1Ww411f7rY",
+      "title": "【大梦初醒，我没作弊！】东南大学诚信考试主题原创微电影《幸好可以重来》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 174.421,
+      "url": "http://www.bilibili.com/video/av333648303",
+      "play_url": "http://www.bilibili.com/video/av333648303",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "东南大学",
+      "view_count": 122800
+    },
+    {
+      "id": "BV1ZdDYBDE6y",
+      "title": "【央视公益广告】守诚信 心比心（90s）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 89.7,
+      "url": "http://www.bilibili.com/video/av116361619637362",
+      "play_url": "http://www.bilibili.com/video/av116361619637362",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "はやせ_あきね",
+      "view_count": 6054
+    },
+    {
+      "id": "BV1XJ411X7B9",
+      "title": "勤俭节约中华美德公益广告",
+      "categories": [
+        "节约"
+      ],
+      "duration": 31.564,
+      "url": "http://www.bilibili.com/video/av77209905",
+      "play_url": "http://www.bilibili.com/video/av77209905",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 35274
+    },
+    {
+      "id": "BV1RUT56HEve",
+      "title": "究竟是文明，还是悲哀呢？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.733,
+      "url": "http://www.bilibili.com/video/av116831415311706",
+      "play_url": "http://www.bilibili.com/video/av116831415311706",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "古希腊掌管压抑的神",
+      "view_count": 2358
+    },
+    {
+      "id": "BV1PaTN6GEBE",
+      "title": "超丰富的手机版😨“文明”【Unciv】模组介绍👉Emperor and Deities👈",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 73.166,
+      "url": "http://www.bilibili.com/video/av116824620467183",
+      "play_url": "http://www.bilibili.com/video/av116824620467183",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "508965555",
+      "view_count": 609
     }
   ]
 }
