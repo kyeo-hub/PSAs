@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T19:26:09.526907+00:00",
-  "total": 1001,
+  "generated_at": "2026-06-29T03:52:16.365957+00:00",
+  "total": 1006,
   "categories_summary": {
     "综合": 399,
-    "爱国": 126,
-    "文明礼貌": 126,
+    "爱国": 127,
+    "文明礼貌": 127,
     "环保": 111,
-    "友善": 96,
-    "节约": 78,
-    "诚信": 61,
+    "友善": 99,
+    "节约": 80,
+    "诚信": 63,
     "交通安全": 44,
-    "孝道": 43,
+    "孝道": 44,
     "助人为乐": 28,
     "禁烟": 14
   },
@@ -14154,6 +14154,81 @@
       "source": "bilibili",
       "uploader": "是凉不是西",
       "view_count": 388
+    },
+    {
+      "id": "BV1WZ4y1z7zF",
+      "title": "13.传统美德",
+      "categories": [
+        "文明礼貌",
+        "诚信",
+        "友善",
+        "孝道"
+      ],
+      "duration": 154.644,
+      "url": "http://www.bilibili.com/video/av382229363",
+      "play_url": "http://www.bilibili.com/video/av382229363",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "晨阳早教",
+      "view_count": 1161
+    },
+    {
+      "id": "BV1NJ41197h2",
+      "title": "请珍惜粮食公益广告",
+      "categories": [
+        "节约"
+      ],
+      "duration": 44.566,
+      "url": "http://www.bilibili.com/video/av77284646",
+      "play_url": "http://www.bilibili.com/video/av77284646",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 70163
+    },
+    {
+      "id": "BV18u4y1R7fm",
+      "title": "央视公益广告·珍惜粮食，反对浪费（2012）",
+      "categories": [
+        "节约"
+      ],
+      "duration": 45.14,
+      "url": "http://www.bilibili.com/video/av829489599",
+      "play_url": "http://www.bilibili.com/video/av829489599",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "迷音同志",
+      "view_count": 6401
+    },
+    {
+      "id": "BV1cT41157mc",
+      "title": "社会主义核心价值观《友善》",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 126.57,
+      "url": "http://www.bilibili.com/video/av469882602",
+      "play_url": "http://www.bilibili.com/video/av469882602",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小前Guoli",
+      "view_count": 23666
+    },
+    {
+      "id": "BV16P411y7Vn",
+      "title": "【开联公益短片】“友善，让世界更美好”",
+      "categories": [
+        "友善"
+      ],
+      "duration": 90.464,
+      "url": "http://www.bilibili.com/video/av315857313",
+      "play_url": "http://www.bilibili.com/video/av315857313",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平凡de超人",
+      "view_count": 16361
     }
   ]
 }
