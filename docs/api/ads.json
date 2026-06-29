@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T03:52:16.365957+00:00",
-  "total": 1006,
+  "generated_at": "2026-06-29T11:04:46.745005+00:00",
+  "total": 1012,
   "categories_summary": {
     "综合": 399,
+    "文明礼貌": 128,
     "爱国": 127,
-    "文明礼貌": 127,
     "环保": 111,
-    "友善": 99,
-    "节约": 80,
+    "友善": 100,
+    "节约": 82,
     "诚信": 63,
-    "交通安全": 44,
+    "交通安全": 45,
     "孝道": 44,
     "助人为乐": 28,
-    "禁烟": 14
+    "禁烟": 15
   },
   "items": [
     {
@@ -14229,6 +14229,90 @@
       "source": "bilibili",
       "uploader": "平凡de超人",
       "view_count": 16361
+    },
+    {
+      "id": "BV1MJ411977p",
+      "title": "公共场所不吸烟是一种美德公益广告",
+      "categories": [
+        "禁烟"
+      ],
+      "duration": 16.702,
+      "url": "http://www.bilibili.com/video/av77292219",
+      "play_url": "http://www.bilibili.com/video/av77292219",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 6021
+    },
+    {
+      "id": "BV1hk4y1D7GJ",
+      "title": "【公益广告】节约粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 15.51,
+      "url": "http://www.bilibili.com/video/av751519040",
+      "play_url": "http://www.bilibili.com/video/av751519040",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "885259",
+      "view_count": 214
+    },
+    {
+      "id": "BV14M411e7Ca",
+      "title": "兔小贝儿歌 交通安全歌",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 218.452,
+      "url": "http://www.bilibili.com/video/av523785000",
+      "play_url": "http://www.bilibili.com/video/av523785000",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "兔小贝儿童",
+      "view_count": 71819
+    },
+    {
+      "id": "BV1tNEg6sEmV",
+      "title": "【放送文化】CCTV《今天你的文明进化了吗？》公益广告宣传片电影院篇——公共场所勿大声喧哗 请保持安静（无台标版本）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 20.423,
+      "url": "http://www.bilibili.com/video/av116713924336206",
+      "play_url": "http://www.bilibili.com/video/av116713924336206",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "繁星耀文",
+      "view_count": 241
+    },
+    {
+      "id": "BV1ms411Y7ia",
+      "title": "[经典公益广告] 植树造林 造福后人",
+      "categories": [
+        "友善"
+      ],
+      "duration": 25.931,
+      "url": "http://www.bilibili.com/video/av7385310",
+      "play_url": "http://www.bilibili.com/video/av7385310",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蓝轩光的萤火虫",
+      "view_count": 2917
+    },
+    {
+      "id": "BV1EN4y1j7pG",
+      "title": "（电视公益广告）节约无小事",
+      "categories": [
+        "节约"
+      ],
+      "duration": 34.73,
+      "url": "http://www.bilibili.com/video/av899126299",
+      "play_url": "http://www.bilibili.com/video/av899126299",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 16922
     }
   ]
 }
