@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T09:39:05.075110+00:00",
-  "total": 1023,
+  "generated_at": "2026-06-30T14:22:53.516329+00:00",
+  "total": 1030,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 132,
+    "文明礼貌": 135,
     "爱国": 127,
     "环保": 111,
     "友善": 100,
     "节约": 85,
     "诚信": 66,
-    "交通安全": 45,
+    "交通安全": 49,
     "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
@@ -14467,6 +14467,104 @@
       "source": "bilibili",
       "uploader": "4A广告提案网",
       "view_count": 7692
+    },
+    {
+      "id": "BV1BW411i7ST",
+      "title": "【中文字幕】2017戛纳广告大奖作品交通安全公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 143.846,
+      "url": "http://www.bilibili.com/video/av18122456",
+      "play_url": "http://www.bilibili.com/video/av18122456",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "adyizhan",
+      "view_count": 2163
+    },
+    {
+      "id": "BV1DZ4y1Z7Ez",
+      "title": "【稀有资料】某年某广州机构制作的交通安全公益广告【雨天路滑 小心驾驶】",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 28.885,
+      "url": "http://www.bilibili.com/video/av381072229",
+      "play_url": "http://www.bilibili.com/video/av381072229",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "凉茶cha",
+      "view_count": 148
+    },
+    {
+      "id": "BV1vB4y1m7rt",
+      "title": "【Vimeo搬运】巴西交通安全30秒电视公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 30.058,
+      "url": "http://www.bilibili.com/video/av596110600",
+      "play_url": "http://www.bilibili.com/video/av596110600",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "启蕊康复志愿者理克斯",
+      "view_count": 495
+    },
+    {
+      "id": "BV1jv4y187Tx",
+      "title": "英属香港公益广告——遵守交通规则(1976)(交通安全)",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 28.117,
+      "url": "http://www.bilibili.com/video/av568214828",
+      "play_url": "http://www.bilibili.com/video/av568214828",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "牟一焜",
+      "view_count": 485
+    },
+    {
+      "id": "BV1QJ4m1M77x",
+      "title": "文明时刻",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 151.466,
+      "url": "http://www.bilibili.com/video/av1255706224",
+      "play_url": "http://www.bilibili.com/video/av1255706224",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "东南卫视",
+      "view_count": 172
+    },
+    {
+      "id": "BV1A14y1F77y",
+      "title": "【网络文明】这才是文明上网！ 来源：网信唐山",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 127.801,
+      "url": "http://www.bilibili.com/video/av779452746",
+      "play_url": "http://www.bilibili.com/video/av779452746",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "青海普法",
+      "view_count": 86
+    },
+    {
+      "id": "BV1VaTP6pEeu",
+      "title": "送给我们每个守护大夏文明的神明，共建一带一路",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 120.0,
+      "url": "http://www.bilibili.com/video/av116825207609516",
+      "play_url": "http://www.bilibili.com/video/av116825207609516",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "吟游厮人",
+      "view_count": 0
     }
   ]
 }
