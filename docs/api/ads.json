@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T20:03:33.406175+00:00",
-  "total": 1019,
+  "generated_at": "2026-06-30T03:41:18.417365+00:00",
+  "total": 1023,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 132,
     "爱国": 127,
     "环保": 111,
     "友善": 100,
-    "节约": 83,
-    "诚信": 65,
+    "节约": 85,
+    "诚信": 66,
     "交通安全": 45,
-    "孝道": 44,
+    "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
   },
@@ -14411,6 +14411,62 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 700
+    },
+    {
+      "id": "BV17mBzBMEvs",
+      "title": "《节约粮食指南》ae动画短片",
+      "categories": [
+        "节约"
+      ],
+      "duration": 43.096,
+      "url": "http://www.bilibili.com/video/av115789986334731",
+      "play_url": "http://www.bilibili.com/video/av115789986334731",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "橘茶_mist",
+      "view_count": 388
+    },
+    {
+      "id": "BV14e4y1s7QY",
+      "title": "【广播电视】CCTV-14 少儿频道 HD版 公益广告 节约用水",
+      "categories": [
+        "节约"
+      ],
+      "duration": 59.79,
+      "url": "http://www.bilibili.com/video/av647711639",
+      "play_url": "http://www.bilibili.com/video/av647711639",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 11707
+    },
+    {
+      "id": "BV1HZY5z1E8a",
+      "title": "【架空】自制公益广告（98）——央视公益广告·中华智慧，诚信为贵（2012版公益广告版权页）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 30.069,
+      "url": "http://www.bilibili.com/video/av115162367393822",
+      "play_url": "http://www.bilibili.com/video/av115162367393822",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小雪自媒中心-Official",
+      "view_count": 1857
+    },
+    {
+      "id": "BV1Ad4y1L7Ht",
+      "title": "央视公益广告《孝道》，别让等待成为遗憾",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 30.509,
+      "url": "http://www.bilibili.com/video/av392787386",
+      "play_url": "http://www.bilibili.com/video/av392787386",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 7692
     }
   ]
 }
