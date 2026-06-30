@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T14:22:53.516329+00:00",
-  "total": 1030,
+  "generated_at": "2026-06-30T20:03:02.965871+00:00",
+  "total": 1033,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 135,
-    "爱国": 127,
+    "爱国": 128,
     "环保": 111,
-    "友善": 100,
-    "节约": 85,
-    "诚信": 66,
-    "交通安全": 49,
+    "友善": 101,
+    "节约": 86,
+    "诚信": 67,
+    "交通安全": 50,
     "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
@@ -14565,6 +14565,50 @@
       "source": "bilibili",
       "uploader": "吟游厮人",
       "view_count": 0
+    },
+    {
+      "id": "BV19TidYGEk7",
+      "title": "粮食节约反食品浪费公益广告",
+      "categories": [
+        "节约"
+      ],
+      "duration": 12.538,
+      "url": "http://www.bilibili.com/video/av113599099968160",
+      "play_url": "http://www.bilibili.com/video/av113599099968160",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哔哩小红旗",
+      "view_count": 672
+    },
+    {
+      "id": "BV13N4y167aF",
+      "title": "公益广告：你的服务器的地狱交通做防刷怪了吗？",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 37.119,
+      "url": "http://www.bilibili.com/video/av877900929",
+      "play_url": "http://www.bilibili.com/video/av877900929",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "芒果瓜Pro",
+      "view_count": 7162
+    },
+    {
+      "id": "BV1yi4y1G7Vq",
+      "title": "自觉践行社会主义核心价值观 央视公益传播",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 61.116,
+      "url": "http://www.bilibili.com/video/av541143625",
+      "play_url": "http://www.bilibili.com/video/av541143625",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 44596
     }
   ]
 }
