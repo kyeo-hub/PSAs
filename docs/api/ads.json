@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T14:39:29.305500+00:00",
-  "total": 1037,
+  "generated_at": "2026-07-01T19:58:34.551096+00:00",
+  "total": 1038,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 135,
+    "文明礼貌": 136,
     "爱国": 128,
     "环保": 113,
     "友善": 101,
@@ -14665,6 +14665,20 @@
       "source": "bilibili",
       "uploader": "47752585985",
       "view_count": 323
+    },
+    {
+      "id": "BV1Yd4y177zJ",
+      "title": "【公益广告】看演出懂礼貌 做个文明好观众",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.626,
+      "url": "http://www.bilibili.com/video/av392225356",
+      "play_url": "http://www.bilibili.com/video/av392225356",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 2779
     }
   ]
 }
