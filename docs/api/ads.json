@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T03:47:32.866437+00:00",
-  "total": 1035,
+  "generated_at": "2026-07-01T09:51:24.301506+00:00",
+  "total": 1036,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 135,
     "爱国": 128,
-    "环保": 111,
+    "环保": 112,
     "友善": 101,
     "节约": 87,
     "诚信": 67,
@@ -14637,6 +14637,20 @@
       "source": "bilibili",
       "uploader": "摸娱星看台",
       "view_count": 55
+    },
+    {
+      "id": "BV19y411Y7Nk",
+      "title": "小组作业《关于环保，不止环保》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 290.559,
+      "url": "http://www.bilibili.com/video/av1954697360",
+      "play_url": "http://www.bilibili.com/video/av1954697360",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "非常过分的亦风",
+      "view_count": 16790
     }
   ]
 }
