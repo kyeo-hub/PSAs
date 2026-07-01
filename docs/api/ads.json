@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T20:03:02.965871+00:00",
-  "total": 1033,
+  "generated_at": "2026-07-01T03:47:32.866437+00:00",
+  "total": 1035,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 135,
     "爱国": 128,
     "环保": 111,
     "友善": 101,
-    "节约": 86,
+    "节约": 87,
     "诚信": 67,
-    "交通安全": 50,
+    "交通安全": 51,
     "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
@@ -14609,6 +14609,34 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 44596
+    },
+    {
+      "id": "BV1fA4m1g7A4",
+      "title": "节约无小事 人人皆可为公益广告高清版",
+      "categories": [
+        "节约"
+      ],
+      "duration": 35.242,
+      "url": "http://www.bilibili.com/video/av1100771863",
+      "play_url": "http://www.bilibili.com/video/av1100771863",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "彩虹甜心_Official",
+      "view_count": 4379
+    },
+    {
+      "id": "BV1tuj16QEhD",
+      "title": "终于有人治这个导航摇一摇弹窗广告了#导航#地图#摇一摇广告#驾驶安全#交通事故",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 43.374,
+      "url": "http://www.bilibili.com/video/av116798028582642",
+      "play_url": "http://www.bilibili.com/video/av116798028582642",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "摸娱星看台",
+      "view_count": 55
     }
   ]
 }
