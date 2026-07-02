@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T09:01:14.510687+00:00",
-  "total": 1039,
+  "generated_at": "2026-07-02T14:04:03.132955+00:00",
+  "total": 1048,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 137,
-    "爱国": 128,
+    "文明礼貌": 141,
+    "爱国": 130,
     "环保": 113,
-    "友善": 101,
+    "友善": 105,
     "节约": 87,
-    "诚信": 67,
-    "交通安全": 51,
+    "诚信": 68,
+    "交通安全": 52,
     "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
@@ -14693,6 +14693,135 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 617
+    },
+    {
+      "id": "BV1Lo4y1h7Kx",
+      "title": "公益广告《社会主义核心价值观 认知 认同 践行》+社会主义核心价值观公益广告《传统艺术篇》+麦当劳经典广告片之麦当劳麦辣鸡翅广告+高清版+高清广告（优酷视频版）",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 298.004,
+      "url": "http://www.bilibili.com/video/av397632970",
+      "play_url": "http://www.bilibili.com/video/av397632970",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "超级马里奥兄弟F7",
+      "view_count": 2412
+    },
+    {
+      "id": "BV164Tk6gEGG",
+      "title": "交通安全日公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 110.834,
+      "url": "http://www.bilibili.com/video/av116848226010763",
+      "play_url": "http://www.bilibili.com/video/av116848226010763",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "初可",
+      "view_count": 33
+    },
+    {
+      "id": "BV1xcE66zEdk",
+      "title": "《友善是爱的温度》公益广告",
+      "categories": [
+        "友善"
+      ],
+      "duration": 161.5,
+      "url": "http://www.bilibili.com/video/av116733855664018",
+      "play_url": "http://www.bilibili.com/video/av116733855664018",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_59929414323",
+      "view_count": 785
+    },
+    {
+      "id": "BV1PDygYRE4g",
+      "title": "公益广告__ __举手之劳，每个人都能点亮友善的光☆2024-10-17",
+      "categories": [
+        "友善"
+      ],
+      "duration": 45.231,
+      "url": "http://www.bilibili.com/video/av113325094471437",
+      "play_url": "http://www.bilibili.com/video/av113325094471437",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梁彦芝",
+      "view_count": 202
+    },
+    {
+      "id": "BV1aiegeZEGC",
+      "title": "【放送文化】2023年中央电视台新闻频道公益广告（友善是最温暖的语言）",
+      "categories": [
+        "友善"
+      ],
+      "duration": 60.5,
+      "url": "http://www.bilibili.com/video/av112970793223157",
+      "play_url": "http://www.bilibili.com/video/av112970793223157",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "宇哥放送迷",
+      "view_count": 1660
+    },
+    {
+      "id": "BV1TM411m7RT",
+      "title": "公益广告《树立文明新风 共创美好生活》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 40.148,
+      "url": "http://www.bilibili.com/video/av521506926",
+      "play_url": "http://www.bilibili.com/video/av521506926",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Lucivah利",
+      "view_count": 272
+    },
+    {
+      "id": "BV1R4411B7Bg",
+      "title": "文明城市公益广告，“城市因你我而文明，生活因你我而精彩”。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 56.127,
+      "url": "http://www.bilibili.com/video/av65657235",
+      "play_url": "http://www.bilibili.com/video/av65657235",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "盆盆和良良",
+      "view_count": 1010
+    },
+    {
+      "id": "BV1bBe8zBEG7",
+      "title": "【公益广告】奏响文明主旋律 共圆美丽中国梦",
+      "categories": [
+        "文明礼貌",
+        "爱国"
+      ],
+      "duration": 25.657,
+      "url": "http://www.bilibili.com/video/av115071988600042",
+      "play_url": "http://www.bilibili.com/video/av115071988600042",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "张阳王子Prince",
+      "view_count": 148
+    },
+    {
+      "id": "BV1Av4y1U7xu",
+      "title": "【SMG RADIO】公益广告：请文明观展 自觉关闭闪光灯",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 20.427,
+      "url": "http://www.bilibili.com/video/av562738476",
+      "play_url": "http://www.bilibili.com/video/av562738476",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 28
     }
   ]
 }
