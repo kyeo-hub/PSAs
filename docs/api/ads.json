@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T03:35:02.896402+00:00",
-  "total": 1038,
+  "generated_at": "2026-07-02T09:01:14.510687+00:00",
+  "total": 1039,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 136,
+    "文明礼貌": 137,
     "爱国": 128,
     "环保": 113,
     "友善": 101,
@@ -14679,6 +14679,20 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 2779
+    },
+    {
+      "id": "BV1AG4y1s7vb",
+      "title": "（电视公益广告）文明赢得尊重",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 38.869,
+      "url": "http://www.bilibili.com/video/av816312263",
+      "play_url": "http://www.bilibili.com/video/av816312263",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 617
     }
   ]
 }
