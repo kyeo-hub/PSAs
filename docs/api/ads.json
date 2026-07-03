@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T09:23:48.671066+00:00",
-  "total": 1059,
+  "generated_at": "2026-07-03T14:07:32.982591+00:00",
+  "total": 1061,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 143,
-    "爱国": 131,
+    "爱国": 132,
     "环保": 116,
     "友善": 105,
     "节约": 90,
     "诚信": 69,
-    "交通安全": 53,
+    "交通安全": 54,
     "孝道": 45,
-    "助人为乐": 28,
+    "助人为乐": 29,
     "禁烟": 15
   },
   "items": [
@@ -14976,6 +14976,35 @@
       "source": "bilibili",
       "uploader": "毛毛蓥",
       "view_count": 1029
+    },
+    {
+      "id": "BV1Vu4y1u7yT",
+      "title": "【SMG RADIO】公益广告：遵守《道路交通法》 安全你我他",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 30.416,
+      "url": "http://www.bilibili.com/video/av922039338",
+      "play_url": "http://www.bilibili.com/video/av922039338",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 114
+    },
+    {
+      "id": "BV1HA411e7dh",
+      "title": "让人泪目的公益广告《支教女孩赵小亭》 （BGM–那些花儿）",
+      "categories": [
+        "助人为乐",
+        "爱国"
+      ],
+      "duration": 90.32,
+      "url": "http://www.bilibili.com/video/av328741757",
+      "play_url": "http://www.bilibili.com/video/av328741757",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "吃树根的喵酱",
+      "view_count": 48840
     }
   ]
 }
