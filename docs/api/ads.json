@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T14:07:32.982591+00:00",
-  "total": 1061,
+  "generated_at": "2026-07-03T19:27:08.590072+00:00",
+  "total": 1062,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 143,
+    "文明礼貌": 144,
     "爱国": 132,
     "环保": 116,
     "友善": 105,
     "节约": 90,
     "诚信": 69,
-    "交通安全": 54,
+    "交通安全": 55,
     "孝道": 45,
     "助人为乐": 29,
     "禁烟": 15
@@ -15005,6 +15005,21 @@
       "source": "bilibili",
       "uploader": "吃树根的喵酱",
       "view_count": 48840
+    },
+    {
+      "id": "BV1ke411M7vn",
+      "title": "交通运输部制作的公益广告 你不文明的样子，好像一只动物。｜广告创意视频TVC",
+      "categories": [
+        "交通安全",
+        "文明礼貌"
+      ],
+      "duration": 30.115,
+      "url": "http://www.bilibili.com/video/av260773639",
+      "play_url": "http://www.bilibili.com/video/av260773639",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "他山传播",
+      "view_count": 235
     }
   ]
 }
