@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T19:30:29.007484+00:00",
-  "total": 1051,
+  "generated_at": "2026-07-03T02:57:23.468072+00:00",
+  "total": 1057,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 141,
+    "文明礼貌": 142,
     "爱国": 131,
-    "环保": 115,
+    "环保": 116,
     "友善": 105,
-    "节约": 87,
+    "节约": 90,
     "诚信": 68,
-    "交通安全": 52,
+    "交通安全": 53,
     "孝道": 45,
     "助人为乐": 28,
     "禁烟": 15
@@ -14864,6 +14864,90 @@
       "source": "bilibili",
       "uploader": "3cH0_Nu1L",
       "view_count": 654
+    },
+    {
+      "id": "BV18tTn6FE9W",
+      "title": "注意交通安全！",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 10.1,
+      "url": "http://www.bilibili.com/video/av116851061300664",
+      "play_url": "http://www.bilibili.com/video/av116851061300664",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "芝士乐滋猫",
+      "view_count": 155
+    },
+    {
+      "id": "BV1g7411D7Vm",
+      "title": "[视频]儿时央视公益广告：保护濒危动物 刻不容缓",
+      "categories": [
+        "环保"
+      ],
+      "duration": 44.543,
+      "url": "http://www.bilibili.com/video/av100184987",
+      "play_url": "http://www.bilibili.com/video/av100184987",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "郑反反Fun",
+      "view_count": 84888
+    },
+    {
+      "id": "BV1zz421m7Yv",
+      "title": "CCTV节约粮食公益广告《空盘篇》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 60.202,
+      "url": "http://www.bilibili.com/video/av1354407985",
+      "play_url": "http://www.bilibili.com/video/av1354407985",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_20100728114",
+      "view_count": 9744
+    },
+    {
+      "id": "BV1GB4y1H7Mh",
+      "title": "节约粮食日：《一粒米的诞生》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 159.679,
+      "url": "http://www.bilibili.com/video/av600590157",
+      "play_url": "http://www.bilibili.com/video/av600590157",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "유로로",
+      "view_count": 118772
+    },
+    {
+      "id": "BV16y4y1E7XC",
+      "title": "CCTV公益广告节约粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 60.325,
+      "url": "http://www.bilibili.com/video/av801690831",
+      "play_url": "http://www.bilibili.com/video/av801690831",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "妹妹说哥哥要中奖啊",
+      "view_count": 80791
+    },
+    {
+      "id": "BV18qGQeXEQc",
+      "title": "【公益广告：倒放版】“请你尊重我”",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 134.721,
+      "url": "http://www.bilibili.com/video/av112610099923386",
+      "play_url": "http://www.bilibili.com/video/av112610099923386",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "绿色啵啵菜",
+      "view_count": 142646
     }
   ]
 }
