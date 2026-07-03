@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T02:57:23.468072+00:00",
-  "total": 1057,
+  "generated_at": "2026-07-03T09:23:48.671066+00:00",
+  "total": 1059,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 142,
+    "文明礼貌": 143,
     "爱国": 131,
     "环保": 116,
     "友善": 105,
     "节约": 90,
-    "诚信": 68,
+    "诚信": 69,
     "交通安全": 53,
     "孝道": 45,
     "助人为乐": 28,
@@ -14948,6 +14948,34 @@
       "source": "bilibili",
       "uploader": "绿色啵啵菜",
       "view_count": 142646
+    },
+    {
+      "id": "BV1u4421c7nr",
+      "title": "公益广告 你的诚信呢",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 92.182,
+      "url": "http://www.bilibili.com/video/av1750801287",
+      "play_url": "http://www.bilibili.com/video/av1750801287",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "娃哈哈集团等着你",
+      "view_count": 4538
+    },
+    {
+      "id": "BV1rx411K7VE",
+      "title": "“讲文明树新风”逗比公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 56.168,
+      "url": "http://www.bilibili.com/video/av1548799",
+      "play_url": "http://www.bilibili.com/video/av1548799",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "毛毛蓥",
+      "view_count": 1029
     }
   ]
 }
