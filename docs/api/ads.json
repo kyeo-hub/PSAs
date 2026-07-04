@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-03T19:27:08.590072+00:00",
-  "total": 1062,
+  "generated_at": "2026-07-04T02:54:29.095024+00:00",
+  "total": 1064,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 144,
     "爱国": 132,
     "环保": 116,
     "友善": 105,
-    "节约": 90,
+    "节约": 91,
     "诚信": 69,
-    "交通安全": 55,
+    "交通安全": 56,
     "孝道": 45,
     "助人为乐": 29,
     "禁烟": 15
@@ -15020,6 +15020,34 @@
       "source": "bilibili",
       "uploader": "他山传播",
       "view_count": 235
+    },
+    {
+      "id": "BV1aJTE6oENk",
+      "title": "车牌号也看不到放大号也看不到，上次连续闯红灯也是这种车#交通 #交通安全 #大车 #碴土车 #交通出行",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 47.0,
+      "url": "http://www.bilibili.com/video/av116850239211316",
+      "play_url": "http://www.bilibili.com/video/av116850239211316",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Lianjia史运超",
+      "view_count": 78
+    },
+    {
+      "id": "BV1b1Tb6SEpP",
+      "title": "节约粮食1",
+      "categories": [
+        "节约"
+      ],
+      "duration": 10.1,
+      "url": "http://www.bilibili.com/video/av116856547443499",
+      "play_url": "http://www.bilibili.com/video/av116856547443499",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "NJL6108EVD",
+      "view_count": 8
     }
   ]
 }
