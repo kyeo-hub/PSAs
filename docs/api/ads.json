@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-04T02:54:29.095024+00:00",
-  "total": 1064,
+  "generated_at": "2026-07-04T08:42:46.023912+00:00",
+  "total": 1065,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 144,
-    "爱国": 132,
+    "爱国": 133,
     "环保": 116,
-    "友善": 105,
+    "友善": 106,
     "节约": 91,
-    "诚信": 69,
+    "诚信": 70,
     "交通安全": 56,
     "孝道": 45,
     "助人为乐": 29,
@@ -15048,6 +15048,22 @@
       "source": "bilibili",
       "uploader": "NJL6108EVD",
       "view_count": 8
+    },
+    {
+      "id": "BV1dJ411Q7aU",
+      "title": "00245.社会主义核心价值观宣传AE模板",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 75.461,
+      "url": "http://www.bilibili.com/video/av77583638",
+      "play_url": "http://www.bilibili.com/video/av77583638",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AE世界",
+      "view_count": 1186
     }
   ]
 }
