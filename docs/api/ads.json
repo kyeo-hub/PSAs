@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-04T13:28:05.670738+00:00",
-  "total": 1067,
+  "generated_at": "2026-07-04T19:16:20.049700+00:00",
+  "total": 1069,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 146,
     "爱国": 133,
     "环保": 117,
-    "友善": 106,
+    "友善": 107,
     "节约": 91,
     "诚信": 70,
     "交通安全": 56,
-    "孝道": 45,
+    "孝道": 46,
     "助人为乐": 29,
     "禁烟": 15
   },
@@ -15093,6 +15093,34 @@
       "source": "bilibili",
       "uploader": "小老鼠-舒克",
       "view_count": 6484
+    },
+    {
+      "id": "BV1Bf4y1P7bT",
+      "title": "关爱听障儿童(公益广告)",
+      "categories": [
+        "友善"
+      ],
+      "duration": 92.136,
+      "url": "http://www.bilibili.com/video/av377490936",
+      "play_url": "http://www.bilibili.com/video/av377490936",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "三真求法者",
+      "view_count": 11414
+    },
+    {
+      "id": "BV1zP411A7Ux",
+      "title": "催泪央视公益广告：常回家看看……小时候看不懂，现在却泪流满面",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 57.166,
+      "url": "http://www.bilibili.com/video/av304411924",
+      "play_url": "http://www.bilibili.com/video/av304411924",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 52193
     }
   ]
 }
