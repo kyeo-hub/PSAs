@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-04T08:42:46.023912+00:00",
-  "total": 1065,
+  "generated_at": "2026-07-04T13:28:05.670738+00:00",
+  "total": 1067,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 144,
+    "文明礼貌": 146,
     "爱国": 133,
-    "环保": 116,
+    "环保": 117,
     "友善": 106,
     "节约": 91,
     "诚信": 70,
@@ -15064,6 +15064,35 @@
       "source": "bilibili",
       "uploader": "AE世界",
       "view_count": 1186
+    },
+    {
+      "id": "BV1CM411A7GW",
+      "title": "文明体育美好生活公益广告比赛篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.022,
+      "url": "http://www.bilibili.com/video/av479712884",
+      "play_url": "http://www.bilibili.com/video/av479712884",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 383
+    },
+    {
+      "id": "BV1v4411o7pw",
+      "title": "保护生物多样性共创生态文明公益广告",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 20.153,
+      "url": "http://www.bilibili.com/video/av64381477",
+      "play_url": "http://www.bilibili.com/video/av64381477",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 6484
     }
   ]
 }
