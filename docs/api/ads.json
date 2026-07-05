@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-04T19:16:20.049700+00:00",
-  "total": 1069,
+  "generated_at": "2026-07-05T03:02:35.143495+00:00",
+  "total": 1071,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 146,
@@ -11,8 +11,8 @@
     "节约": 91,
     "诚信": 70,
     "交通安全": 56,
-    "孝道": 46,
-    "助人为乐": 29,
+    "孝道": 47,
+    "助人为乐": 30,
     "禁烟": 15
   },
   "items": [
@@ -15121,6 +15121,34 @@
       "source": "bilibili",
       "uploader": "4A广告提案网",
       "view_count": 52193
+    },
+    {
+      "id": "BV1vajR6oEmG",
+      "title": "【CCTV公益传播】阳光高考主题公益广告《阳光志愿  不负心愿》",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 45.075,
+      "url": "http://www.bilibili.com/video/av116804823288499",
+      "play_url": "http://www.bilibili.com/video/av116804823288499",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 277
+    },
+    {
+      "id": "BV1a54y1k76X",
+      "title": "新时代公民道德建设实施纲要》主题公益广告《家庭美德篇》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 30.079,
+      "url": "http://www.bilibili.com/video/av842352598",
+      "play_url": "http://www.bilibili.com/video/av842352598",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "狮城清风",
+      "view_count": 8040
     }
   ]
 }
