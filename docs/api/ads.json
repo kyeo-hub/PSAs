@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T15:35:50.395511+00:00",
-  "total": 1083,
+  "generated_at": "2026-07-06T20:03:26.558286+00:00",
+  "total": 1084,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 157,
+    "文明礼貌": 158,
     "爱国": 133,
     "环保": 118,
     "友善": 108,
@@ -15320,6 +15320,20 @@
       "source": "bilibili",
       "uploader": "一本零页书_",
       "view_count": 21
+    },
+    {
+      "id": "BV1u2TQ6EEuf",
+      "title": "大陆文明第一集",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 34.0,
+      "url": "http://www.bilibili.com/video/av116872167098236",
+      "play_url": "http://www.bilibili.com/video/av116872167098236",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "橙子-Pouto",
+      "view_count": 36
     }
   ]
 }
