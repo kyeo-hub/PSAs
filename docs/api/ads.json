@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T03:30:45.670364+00:00",
-  "total": 1078,
+  "generated_at": "2026-07-06T10:26:15.834070+00:00",
+  "total": 1080,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 152,
+    "文明礼貌": 154,
     "爱国": 133,
     "环保": 118,
     "友善": 108,
@@ -15250,6 +15250,34 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 10456
+    },
+    {
+      "id": "BV12zT16ZEmz",
+      "title": "云先生 中华文明 河洛文明 有点模糊",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 67.43,
+      "url": "http://www.bilibili.com/video/av116867653967133",
+      "play_url": "http://www.bilibili.com/video/av116867653967133",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "夏种子",
+      "view_count": 1295
+    },
+    {
+      "id": "BV13wTQ6EEHR",
+      "title": "全球化时代坦克vs青铜时代文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 128.695,
+      "url": "http://www.bilibili.com/video/av116870506093096",
+      "play_url": "http://www.bilibili.com/video/av116870506093096",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "將毅x",
+      "view_count": 206
     }
   ]
 }
