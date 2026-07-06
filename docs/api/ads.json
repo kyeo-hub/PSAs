@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T10:26:15.834070+00:00",
-  "total": 1080,
+  "generated_at": "2026-07-06T15:35:50.395511+00:00",
+  "total": 1083,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 154,
+    "文明礼貌": 157,
     "爱国": 133,
     "环保": 118,
     "友善": 108,
@@ -15278,6 +15278,48 @@
       "source": "bilibili",
       "uploader": "將毅x",
       "view_count": 206
+    },
+    {
+      "id": "BV1vDTD6dEri",
+      "title": "中国最文明地区排名",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 114.133,
+      "url": "http://www.bilibili.com/video/av116870355159936",
+      "play_url": "http://www.bilibili.com/video/av116870355159936",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "启蒙教育家official",
+      "view_count": 1313
+    },
+    {
+      "id": "BV159TD69E2U",
+      "title": "天佑华夏，华夏文明永远屹立世界之巅！！！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 175.317,
+      "url": "http://www.bilibili.com/video/av116870388652098",
+      "play_url": "http://www.bilibili.com/video/av116870388652098",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "赴一场山河无恙",
+      "view_count": 91
+    },
+    {
+      "id": "BV1xjT962EXc",
+      "title": "新建动物园，但是歌者文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 126.85,
+      "url": "http://www.bilibili.com/video/av116873056294144",
+      "play_url": "http://www.bilibili.com/video/av116873056294144",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一本零页书_",
+      "view_count": 21
     }
   ]
 }
