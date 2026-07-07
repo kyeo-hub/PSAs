@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T03:06:22.143072+00:00",
-  "total": 1085,
+  "generated_at": "2026-07-07T09:46:03.143035+00:00",
+  "total": 1087,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 158,
-    "爱国": 133,
+    "文明礼貌": 159,
+    "爱国": 134,
     "环保": 118,
     "友善": 108,
     "节约": 91,
@@ -15348,6 +15348,34 @@
       "source": "bilibili",
       "uploader": "爱玩球的球球玩不好球",
       "view_count": 345
+    },
+    {
+      "id": "BV1sy4y1o795",
+      "title": "公益广告-遵守文明礼仪 共建美好生活",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.953,
+      "url": "http://www.bilibili.com/video/av779990533",
+      "play_url": "http://www.bilibili.com/video/av779990533",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 38641
+    },
+    {
+      "id": "BV1MzB2Y7ELZ",
+      "title": "公益广告-国家好 民族好 大家才会更好",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 61.16,
+      "url": "http://www.bilibili.com/video/av113532813253885",
+      "play_url": "http://www.bilibili.com/video/av113532813253885",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "丷奈亚子丷",
+      "view_count": 10036
     }
   ]
 }
