@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T20:03:26.558286+00:00",
-  "total": 1084,
+  "generated_at": "2026-07-07T03:06:22.143072+00:00",
+  "total": 1085,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 158,
@@ -10,7 +10,7 @@
     "友善": 108,
     "节约": 91,
     "诚信": 70,
-    "交通安全": 56,
+    "交通安全": 57,
     "孝道": 48,
     "助人为乐": 31,
     "禁烟": 15
@@ -15334,6 +15334,20 @@
       "source": "bilibili",
       "uploader": "橙子-Pouto",
       "view_count": 36
+    },
+    {
+      "id": "BV1wnjC6iEQa",
+      "title": "交通安全公益动画《遵守交通法规平安出行》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 80.109,
+      "url": "http://www.bilibili.com/video/av116779623913192",
+      "play_url": "http://www.bilibili.com/video/av116779623913192",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱玩球的球球玩不好球",
+      "view_count": 345
     }
   ]
 }
