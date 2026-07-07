@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T09:46:03.143035+00:00",
-  "total": 1087,
+  "generated_at": "2026-07-07T14:39:14.560153+00:00",
+  "total": 1090,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 159,
+    "文明礼貌": 161,
     "爱国": 134,
     "环保": 118,
     "友善": 108,
-    "节约": 91,
+    "节约": 92,
     "诚信": 70,
     "交通安全": 57,
     "孝道": 48,
@@ -15376,6 +15376,48 @@
       "source": "bilibili",
       "uploader": "丷奈亚子丷",
       "view_count": 10036
+    },
+    {
+      "id": "BV1aQTq6mE9J",
+      "title": "天津卫视公益广告：遵守交规 文明出行",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 21.524,
+      "url": "http://www.bilibili.com/video/av116844786616732",
+      "play_url": "http://www.bilibili.com/video/av116844786616732",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 27
+    },
+    {
+      "id": "BV11V4y1W7s2",
+      "title": "（电视公益广告）文明中国人：电影院",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 25.286,
+      "url": "http://www.bilibili.com/video/av857416270",
+      "play_url": "http://www.bilibili.com/video/av857416270",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 2287
+    },
+    {
+      "id": "BV1BGMb6KEmJ",
+      "title": "上海广播电视台公益广告：节约粮食篇",
+      "categories": [
+        "节约"
+      ],
+      "duration": 11.838,
+      "url": "http://www.bilibili.com/video/av116878777256376",
+      "play_url": "http://www.bilibili.com/video/av116878777256376",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 5
     }
   ]
 }
