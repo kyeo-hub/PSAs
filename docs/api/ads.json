@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T08:35:37.786561+00:00",
-  "total": 1092,
+  "generated_at": "2026-07-08T14:10:44.667665+00:00",
+  "total": 1095,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 163,
-    "爱国": 134,
+    "文明礼貌": 166,
+    "爱国": 135,
     "环保": 118,
     "友善": 108,
     "节约": 92,
@@ -15446,6 +15446,49 @@
       "source": "bilibili",
       "uploader": "平民路线_",
       "view_count": 30447
+    },
+    {
+      "id": "BV1pZ4y1M7Qg",
+      "title": "城市文明宣传片/文明公益宣传片/创意宣传片制作/城市文明形象宣传片/创意形象宣传片制作",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 119.058,
+      "url": "http://www.bilibili.com/video/av371650637",
+      "play_url": "http://www.bilibili.com/video/av371650637",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "想做视频咋办1573113109",
+      "view_count": 57018
+    },
+    {
+      "id": "BV1Jy4y1E7qu",
+      "title": "公益广告-文明在身边",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.378,
+      "url": "http://www.bilibili.com/video/av802144614",
+      "play_url": "http://www.bilibili.com/video/av802144614",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "路克LOOKLISTEN",
+      "view_count": 5857
+    },
+    {
+      "id": "BV1ojMb6YEE8",
+      "title": "四川卫视公益广告：传承弘扬巴蜀传统文化 建华中华民族现代文明",
+      "categories": [
+        "文明礼貌",
+        "爱国"
+      ],
+      "duration": 61.78,
+      "url": "http://www.bilibili.com/video/av116878726990646",
+      "play_url": "http://www.bilibili.com/video/av116878726990646",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 31
     }
   ]
 }
