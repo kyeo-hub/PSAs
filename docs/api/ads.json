@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T19:59:21.399456+00:00",
-  "total": 1090,
+  "generated_at": "2026-07-08T02:43:11.398743+00:00",
+  "total": 1092,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 161,
+    "文明礼貌": 163,
     "爱国": 134,
     "环保": 118,
     "友善": 108,
@@ -15418,6 +15418,34 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 5
+    },
+    {
+      "id": "BV18KMx6CEby",
+      "title": "当中华文明出现在澳洲",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 84.4,
+      "url": "http://www.bilibili.com/video/av116876780837500",
+      "play_url": "http://www.bilibili.com/video/av116876780837500",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "林帝夫lh",
+      "view_count": 847
+    },
+    {
+      "id": "BV1ma411v7oC",
+      "title": "【央视公益广告】让爱无碍 多一份尊重 多一份善意",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.93,
+      "url": "http://www.bilibili.com/video/av213384323",
+      "play_url": "http://www.bilibili.com/video/av213384323",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平民路线_",
+      "view_count": 30447
     }
   ]
 }
