@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T14:10:44.667665+00:00",
-  "total": 1095,
+  "generated_at": "2026-07-08T19:32:00.021964+00:00",
+  "total": 1098,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 166,
-    "爱国": 135,
+    "爱国": 136,
     "环保": 118,
-    "友善": 108,
+    "友善": 109,
     "节约": 92,
     "诚信": 70,
-    "交通安全": 57,
+    "交通安全": 58,
     "孝道": 48,
-    "助人为乐": 31,
+    "助人为乐": 32,
     "禁烟": 15
   },
   "items": [
@@ -15489,6 +15489,49 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 31
+    },
+    {
+      "id": "BV1Z1M36SEib",
+      "title": "“扬正气 促和谐”廉政公益广告 育廉洁风尚 做祖国栋梁 30s",
+      "categories": [
+        "友善",
+        "爱国"
+      ],
+      "duration": 29.999,
+      "url": "http://www.bilibili.com/video/av116885202998609",
+      "play_url": "http://www.bilibili.com/video/av116885202998609",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 35
+    },
+    {
+      "id": "BV1Ne4y117du",
+      "title": "【公益广告】爱心献社会，深情暖人心。2017-2018（志愿者日）宣传片",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 66.602,
+      "url": "http://www.bilibili.com/video/av559756178",
+      "play_url": "http://www.bilibili.com/video/av559756178",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "885259",
+      "view_count": 4857
+    },
+    {
+      "id": "BV1us411T7Vk",
+      "title": "【中国大陆广告】公益广告之人生印记篇（2014）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 61.284,
+      "url": "http://www.bilibili.com/video/av29158956",
+      "play_url": "http://www.bilibili.com/video/av29158956",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 21180
     }
   ]
 }
