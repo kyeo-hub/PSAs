@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T15:01:57.116619+00:00",
-  "total": 1107,
+  "generated_at": "2026-07-09T19:53:07.771080+00:00",
+  "total": 1108,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 168,
@@ -9,7 +9,7 @@
     "环保": 118,
     "友善": 111,
     "节约": 93,
-    "诚信": 71,
+    "诚信": 72,
     "交通安全": 58,
     "孝道": 55,
     "助人为乐": 32,
@@ -15663,6 +15663,20 @@
       "source": "bilibili",
       "uploader": "中国广告博物馆",
       "view_count": 60936
+    },
+    {
+      "id": "BV1m441117KW",
+      "title": "诚信是金公益广告",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 61.284,
+      "url": "http://www.bilibili.com/video/av66471344",
+      "play_url": "http://www.bilibili.com/video/av66471344",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 15540
     }
   ]
 }
