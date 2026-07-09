@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T02:59:41.021322+00:00",
-  "total": 1104,
+  "generated_at": "2026-07-09T09:45:40.356507+00:00",
+  "total": 1107,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 168,
@@ -11,7 +11,7 @@
     "节约": 93,
     "诚信": 71,
     "交通安全": 58,
-    "孝道": 52,
+    "孝道": 55,
     "助人为乐": 32,
     "禁烟": 15
   },
@@ -15621,6 +15621,48 @@
       "source": "bilibili",
       "uploader": "F4DAY-",
       "view_count": 167995
+    },
+    {
+      "id": "BV1EXM76gEoA",
+      "title": "【启源号】2026云南爱心公益行！“奖学助学”专项教育基金正式成立！",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 108.565,
+      "url": "http://www.bilibili.com/video/av116887971301690",
+      "play_url": "http://www.bilibili.com/video/av116887971301690",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "启源号品牌",
+      "view_count": 20
+    },
+    {
+      "id": "BV1tm411R7op",
+      "title": "一等奖少儿口才朗诵《中华传统家风》，家风对我们每个人都很重要，传承优良的家风是我们的中华美德！",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 243.669,
+      "url": "http://www.bilibili.com/video/av1901930331",
+      "play_url": "http://www.bilibili.com/video/av1901930331",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版薇PY2770",
+      "view_count": 2219
+    },
+    {
+      "id": "BV1yi4y1X7Fg",
+      "title": "【公益广告】【新年快乐，记得回家。】【2001年前后】",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 54.975,
+      "url": "http://www.bilibili.com/video/av550361925",
+      "play_url": "http://www.bilibili.com/video/av550361925",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国广告博物馆",
+      "view_count": 60936
     }
   ]
 }
