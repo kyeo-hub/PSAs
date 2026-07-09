@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-08T19:32:00.021964+00:00",
-  "total": 1098,
+  "generated_at": "2026-07-09T02:59:41.021322+00:00",
+  "total": 1104,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 166,
-    "爱国": 136,
+    "文明礼貌": 168,
+    "爱国": 137,
     "环保": 118,
-    "友善": 109,
-    "节约": 92,
-    "诚信": 70,
+    "友善": 111,
+    "节约": 93,
+    "诚信": 71,
     "交通安全": 58,
-    "孝道": 48,
+    "孝道": 52,
     "助人为乐": 32,
     "禁烟": 15
   },
@@ -15532,6 +15532,95 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 21180
+    },
+    {
+      "id": "BV1qhMv67Eck",
+      "title": "复旦教授唐世平：我们要少沉迷中国历史，多去对比世界文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 236.288,
+      "url": "http://www.bilibili.com/video/av116881344173664",
+      "play_url": "http://www.bilibili.com/video/av116881344173664",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "五三小时",
+      "view_count": 200
+    },
+    {
+      "id": "BV1AwML6qEN5",
+      "title": "“扬正气 促和谐”廉政公益广告 清白做人 平安一生 35s",
+      "categories": [
+        "友善"
+      ],
+      "duration": 34.963,
+      "url": "http://www.bilibili.com/video/av116887350615783",
+      "play_url": "http://www.bilibili.com/video/av116887350615783",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 75
+    },
+    {
+      "id": "BV1LA4y1d7be",
+      "title": "作为新时代道士我们要继承发扬中华民族勤俭节约的传统美德，深入挖掘、阐释、弘扬清静淡泊、尚俭寡欲、中道简朴、仁爱节制等优良传统。",
+      "categories": [
+        "节约",
+        "爱国",
+        "孝道",
+        "文明礼貌",
+        "诚信",
+        "友善"
+      ],
+      "duration": 90.8,
+      "url": "http://www.bilibili.com/video/av897529422",
+      "play_url": "http://www.bilibili.com/video/av897529422",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "致真通玄",
+      "view_count": 393
+    },
+    {
+      "id": "BV1w8pVzSEoc",
+      "title": "央视公益广告【孝道】",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 61.461,
+      "url": "http://www.bilibili.com/video/av115193975668852",
+      "play_url": "http://www.bilibili.com/video/av115193975668852",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "龙江鹏少侠",
+      "view_count": 1301
+    },
+    {
+      "id": "BV12U4y1c7tg",
+      "title": "韩国公益广告·孝道就是一句话、孝敬父母“笑”顺父母（2015）中文字幕",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 123.274,
+      "url": "http://www.bilibili.com/video/av675853359",
+      "play_url": "http://www.bilibili.com/video/av675853359",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "八成是一",
+      "view_count": 4322
+    },
+    {
+      "id": "BV144411V76P",
+      "title": "央视《孝道》公益广告 别让等待成为遗憾",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 30.406,
+      "url": "http://www.bilibili.com/video/av55636977",
+      "play_url": "http://www.bilibili.com/video/av55636977",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "F4DAY-",
+      "view_count": 167995
     }
   ]
 }
