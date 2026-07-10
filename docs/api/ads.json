@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T19:53:07.771080+00:00",
-  "total": 1108,
+  "generated_at": "2026-07-10T03:01:40.671829+00:00",
+  "total": 1110,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 168,
+    "文明礼貌": 169,
     "爱国": 137,
     "环保": 118,
     "友善": 111,
-    "节约": 93,
+    "节约": 94,
     "诚信": 72,
     "交通安全": 58,
     "孝道": 55,
@@ -15677,6 +15677,34 @@
       "source": "bilibili",
       "uploader": "小老鼠-舒克",
       "view_count": 15540
+    },
+    {
+      "id": "BV1gr4y1K7sX",
+      "title": "公益广告·节约无小事 勤俭是美德",
+      "categories": [
+        "节约"
+      ],
+      "duration": 30.037,
+      "url": "http://www.bilibili.com/video/av756358912",
+      "play_url": "http://www.bilibili.com/video/av756358912",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "-星空下被删除的记忆-",
+      "view_count": 1361
+    },
+    {
+      "id": "BV1Qk4y117C9",
+      "title": "让世界通道我们的掌声·迎奥运讲文明树新风·北京2008奥运会公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.906,
+      "url": "http://www.bilibili.com/video/av754284619",
+      "play_url": "http://www.bilibili.com/video/av754284619",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "-星空下被删除的记忆-",
+      "view_count": 5772
     }
   ]
 }
