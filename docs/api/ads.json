@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T14:31:26.653214+00:00",
-  "total": 1115,
+  "generated_at": "2026-07-10T19:36:06.424237+00:00",
+  "total": 1116,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 171,
-    "爱国": 138,
+    "爱国": 139,
     "环保": 119,
     "友善": 112,
     "节约": 95,
@@ -15777,6 +15777,20 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 132
+    },
+    {
+      "id": "BV1MnMa6tEC3",
+      "title": "《我爱我的祖国》爱国主题朗诵背景视频",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 149.745,
+      "url": "http://www.bilibili.com/video/av116879129582300",
+      "play_url": "http://www.bilibili.com/video/av116879129582300",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "十一视频S",
+      "view_count": 94
     }
   ]
 }
