@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T03:01:40.671829+00:00",
-  "total": 1110,
+  "generated_at": "2026-07-10T09:39:25.575275+00:00",
+  "total": 1114,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 169,
-    "爱国": 137,
+    "文明礼貌": 171,
+    "爱国": 138,
     "环保": 118,
-    "友善": 111,
-    "节约": 94,
-    "诚信": 72,
+    "友善": 112,
+    "节约": 95,
+    "诚信": 73,
     "交通安全": 58,
     "孝道": 55,
     "助人为乐": 32,
@@ -15705,6 +15705,64 @@
       "source": "bilibili",
       "uploader": "-星空下被删除的记忆-",
       "view_count": 5772
+    },
+    {
+      "id": "BV1mBM76UELy",
+      "title": "中华文明探源工程-文明自己定义，期待更多发现～",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 133.933,
+      "url": "http://www.bilibili.com/video/av116887853732106",
+      "play_url": "http://www.bilibili.com/video/av116887853732106",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "拾玖wz",
+      "view_count": 1622
+    },
+    {
+      "id": "BV1Ug41167Rr",
+      "title": "（电视公益广告）文明中国礼：皮影戏篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 50.526,
+      "url": "http://www.bilibili.com/video/av514597285",
+      "play_url": "http://www.bilibili.com/video/av514597285",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 4006
+    },
+    {
+      "id": "BV1ZnMH62Eof",
+      "title": "公益广告：节约是一种美德",
+      "categories": [
+        "节约"
+      ],
+      "duration": 63.358,
+      "url": "http://www.bilibili.com/video/av116889715999404",
+      "play_url": "http://www.bilibili.com/video/av116889715999404",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 35
+    },
+    {
+      "id": "BV1Y5FQesEWL",
+      "title": "公益公告——梦娃中国梦  社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 149.568,
+      "url": "http://www.bilibili.com/video/av113921876825854",
+      "play_url": "http://www.bilibili.com/video/av113921876825854",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鸭先知--沉默",
+      "view_count": 11017
     }
   ]
 }
