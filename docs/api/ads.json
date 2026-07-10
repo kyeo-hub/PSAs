@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T09:39:25.575275+00:00",
-  "total": 1114,
+  "generated_at": "2026-07-10T14:31:26.653214+00:00",
+  "total": 1115,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 171,
     "爱国": 138,
-    "环保": 118,
+    "环保": 119,
     "友善": 112,
     "节约": 95,
     "诚信": 73,
@@ -15763,6 +15763,20 @@
       "source": "bilibili",
       "uploader": "鸭先知--沉默",
       "view_count": 11017
+    },
+    {
+      "id": "BV1AwTC6jEZp",
+      "title": "我爱大自然 爱绿色家园 低碳生活（央视公益广告）",
+      "categories": [
+        "环保"
+      ],
+      "duration": 25.123,
+      "url": "http://www.bilibili.com/video/av116866966100105",
+      "play_url": "http://www.bilibili.com/video/av116866966100105",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 132
     }
   ]
 }
