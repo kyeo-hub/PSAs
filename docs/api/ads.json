@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-11T02:38:07.826237+00:00",
-  "total": 1119,
+  "generated_at": "2026-07-11T08:01:10.122263+00:00",
+  "total": 1121,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 171,
+    "文明礼貌": 172,
     "爱国": 140,
-    "环保": 120,
+    "环保": 121,
     "友善": 113,
     "节约": 96,
     "诚信": 74,
@@ -15835,6 +15835,34 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 31
+    },
+    {
+      "id": "BV1MDNE6SEtq",
+      "title": "文明也曾到达东北",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 74.605,
+      "url": "http://www.bilibili.com/video/av116894162094633",
+      "play_url": "http://www.bilibili.com/video/av116894162094633",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我爱种萝卜",
+      "view_count": 1771
+    },
+    {
+      "id": "BV1Rg411x74B",
+      "title": "【公益广告】秀出你的环保搭档（2）",
+      "categories": [
+        "环保"
+      ],
+      "duration": 61.973,
+      "url": "http://www.bilibili.com/video/av519783646",
+      "play_url": "http://www.bilibili.com/video/av519783646",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 3602
     }
   ]
 }
