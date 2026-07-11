@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T19:36:06.424237+00:00",
-  "total": 1116,
+  "generated_at": "2026-07-11T02:38:07.826237+00:00",
+  "total": 1119,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 171,
-    "爱国": 139,
-    "环保": 119,
-    "友善": 112,
-    "节约": 95,
-    "诚信": 73,
+    "爱国": 140,
+    "环保": 120,
+    "友善": 113,
+    "节约": 96,
+    "诚信": 74,
     "交通安全": 58,
     "孝道": 55,
     "助人为乐": 32,
@@ -15791,6 +15791,50 @@
       "source": "bilibili",
       "uploader": "十一视频S",
       "view_count": 94
+    },
+    {
+      "id": "BV1xQ1TYnEug",
+      "title": "践行社会主义核心价值观，争做时代好青年",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 172.755,
+      "url": "http://www.bilibili.com/video/av113378915779555",
+      "play_url": "http://www.bilibili.com/video/av113378915779555",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "mnncaa",
+      "view_count": 1202
+    },
+    {
+      "id": "BV1VUMn6zEjN",
+      "title": "江苏卫视公益广告：珍惜粮食 从一粒米开始",
+      "categories": [
+        "节约"
+      ],
+      "duration": 23.636,
+      "url": "http://www.bilibili.com/video/av116890068322434",
+      "play_url": "http://www.bilibili.com/video/av116890068322434",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 29
+    },
+    {
+      "id": "BV1mcMH6hEbt",
+      "title": "安徽卫视公益广告：严管野外用火 守护绿色家园",
+      "categories": [
+        "环保"
+      ],
+      "duration": 31.571,
+      "url": "http://www.bilibili.com/video/av116890202671248",
+      "play_url": "http://www.bilibili.com/video/av116890202671248",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 31
     }
   ]
 }
