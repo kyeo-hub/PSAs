@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-11T08:01:10.122263+00:00",
-  "total": 1121,
+  "generated_at": "2026-07-11T13:23:11.602771+00:00",
+  "total": 1122,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 172,
-    "爱国": 140,
+    "爱国": 141,
     "环保": 121,
     "友善": 113,
     "节约": 96,
@@ -15863,6 +15863,20 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 3602
+    },
+    {
+      "id": "BV1tV4y177Jo",
+      "title": "CCTV中国国家公益广告 爱国篇 导演版",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 94.058,
+      "url": "http://www.bilibili.com/video/av856227314",
+      "play_url": "http://www.bilibili.com/video/av856227314",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "虎要有虎样",
+      "view_count": 3222
     }
   ]
 }
