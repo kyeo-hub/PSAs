@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T08:23:27.182557+00:00",
-  "total": 1123,
+  "generated_at": "2026-07-12T13:25:04.665944+00:00",
+  "total": 1126,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 173,
+    "文明礼貌": 174,
     "爱国": 141,
-    "环保": 121,
+    "环保": 122,
     "友善": 113,
-    "节约": 96,
+    "节约": 97,
     "诚信": 74,
     "交通安全": 58,
     "孝道": 55,
@@ -15891,6 +15891,48 @@
       "source": "bilibili",
       "uploader": "星戏会眼",
       "view_count": 3746
+    },
+    {
+      "id": "BV16LNG6EEnj",
+      "title": "【广告之声】节约粮食公益广告",
+      "categories": [
+        "节约"
+      ],
+      "duration": 48.7,
+      "url": "http://www.bilibili.com/video/av116907013309135",
+      "play_url": "http://www.bilibili.com/video/av116907013309135",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "睿智满满的哥哥",
+      "view_count": 4
+    },
+    {
+      "id": "BV1oMN46JEZ8",
+      "title": "当中华文明出现在天上",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 36.933,
+      "url": "http://www.bilibili.com/video/av116900117879514",
+      "play_url": "http://www.bilibili.com/video/av116900117879514",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "林帝夫lh",
+      "view_count": 2308
+    },
+    {
+      "id": "BV1KqNJ67E33",
+      "title": "吉林卫视公益广告：绿色生活 健康环保",
+      "categories": [
+        "环保"
+      ],
+      "duration": 32.02,
+      "url": "http://www.bilibili.com/video/av116895739020594",
+      "play_url": "http://www.bilibili.com/video/av116895739020594",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 37
     }
   ]
 }
