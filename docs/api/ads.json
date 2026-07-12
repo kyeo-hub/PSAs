@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T02:43:53.568659+00:00",
-  "total": 1122,
+  "generated_at": "2026-07-12T08:23:27.182557+00:00",
+  "total": 1123,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 172,
+    "文明礼貌": 173,
     "爱国": 141,
     "环保": 121,
     "友善": 113,
@@ -15877,6 +15877,20 @@
       "source": "bilibili",
       "uploader": "虎要有虎样",
       "view_count": 3222
+    },
+    {
+      "id": "BV1hvhFz7E7d",
+      "title": "【CCTV公益传播】文明旅游主题公益广告《文明旅游  美丽中国》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.2,
+      "url": "http://www.bilibili.com/video/av114938710331211",
+      "play_url": "http://www.bilibili.com/video/av114938710331211",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 3746
     }
   ]
 }
