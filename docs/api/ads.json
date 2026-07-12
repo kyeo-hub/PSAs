@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T13:25:04.665944+00:00",
-  "total": 1126,
+  "generated_at": "2026-07-12T19:12:29.299178+00:00",
+  "total": 1128,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 174,
-    "爱国": 141,
-    "环保": 122,
-    "友善": 113,
+    "文明礼貌": 176,
+    "爱国": 142,
+    "环保": 123,
+    "友善": 114,
     "节约": 97,
-    "诚信": 74,
+    "诚信": 75,
     "交通安全": 58,
     "孝道": 55,
-    "助人为乐": 32,
+    "助人为乐": 33,
     "禁烟": 15
   },
   "items": [
@@ -15933,6 +15933,39 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 37
+    },
+    {
+      "id": "BV1cVNG6DEVB",
+      "title": "江苏卫视公益广告：文明的种子",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 32.131,
+      "url": "http://www.bilibili.com/video/av116907097261352",
+      "play_url": "http://www.bilibili.com/video/av116907097261352",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 7
+    },
+    {
+      "id": "BV1Bm4y1x7hK",
+      "title": "社会主义核心价值观解读",
+      "categories": [
+        "友善",
+        "环保",
+        "文明礼貌",
+        "诚信",
+        "爱国",
+        "助人为乐"
+      ],
+      "duration": 229.552,
+      "url": "http://www.bilibili.com/video/av701701109",
+      "play_url": "http://www.bilibili.com/video/av701701109",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "四电老陈",
+      "view_count": 5791
     }
   ]
 }
