@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T14:38:17.690549+00:00",
-  "total": 1130,
+  "generated_at": "2026-07-13T19:27:41.189785+00:00",
+  "total": 1131,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 178,
-    "爱国": 142,
+    "爱国": 143,
     "环保": 123,
     "友善": 114,
     "节约": 97,
@@ -15994,6 +15994,20 @@
       "source": "bilibili",
       "uploader": "XLya6688",
       "view_count": 0
+    },
+    {
+      "id": "BV1SaNg6fEkv",
+      "title": "梦娃公益广告之善作魂+中国梦 我的梦",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 66.2,
+      "url": "http://www.bilibili.com/video/av116905989965791",
+      "play_url": "http://www.bilibili.com/video/av116905989965791",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "膀兵",
+      "view_count": 316
     }
   ]
 }
