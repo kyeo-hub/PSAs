@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-12T19:12:29.299178+00:00",
-  "total": 1128,
+  "generated_at": "2026-07-13T02:46:44.934596+00:00",
+  "total": 1129,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 176,
+    "文明礼貌": 177,
     "爱国": 142,
     "环保": 123,
     "友善": 114,
@@ -15966,6 +15966,20 @@
       "source": "bilibili",
       "uploader": "四电老陈",
       "view_count": 5791
+    },
+    {
+      "id": "BV1TmNA6iEpA",
+      "title": "华夏文明到底是排外性文明还是包容性文明？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 69.966,
+      "url": "http://www.bilibili.com/video/av116901560783912",
+      "play_url": "http://www.bilibili.com/video/av116901560783912",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "昵称最多可以有多少个字",
+      "view_count": 33498
     }
   ]
 }
