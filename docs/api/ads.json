@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T02:46:44.934596+00:00",
-  "total": 1129,
+  "generated_at": "2026-07-13T09:32:07.888724+00:00",
+  "total": 1130,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 177,
+    "文明礼貌": 178,
     "爱国": 142,
     "环保": 123,
     "友善": 114,
@@ -15980,6 +15980,20 @@
       "source": "bilibili",
       "uploader": "昵称最多可以有多少个字",
       "view_count": 33498
+    },
+    {
+      "id": "BV11KNG6sEtP",
+      "title": "泽连斯基真的公开讲过“给中国一个加入文明世界的机会”这句话吗？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 35.738,
+      "url": "http://www.bilibili.com/video/av116906912650345",
+      "play_url": "http://www.bilibili.com/video/av116906912650345",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "XLya6688",
+      "view_count": 0
     }
   ]
 }
