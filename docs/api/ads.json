@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T08:08:21.449815+00:00",
-  "total": 1133,
+  "generated_at": "2026-07-14T13:48:50.816635+00:00",
+  "total": 1135,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 178,
+    "文明礼貌": 180,
     "爱国": 145,
     "环保": 123,
     "友善": 116,
@@ -16040,6 +16040,34 @@
       "source": "bilibili",
       "uploader": "猫小帅儿歌故事",
       "view_count": 21823
+    },
+    {
+      "id": "BV1zTNb6fEWA",
+      "title": "西藏卫视公益广告：文明旅游 有你有我",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 84.522,
+      "url": "http://www.bilibili.com/video/av116918069625842",
+      "play_url": "http://www.bilibili.com/video/av116918069625842",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 5
+    },
+    {
+      "id": "BV1kGNG6nEDg",
+      "title": "胖东来的文明，进工地",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 102.771,
+      "url": "http://www.bilibili.com/video/av116907113976019",
+      "play_url": "http://www.bilibili.com/video/av116907113976019",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "施工行者up",
+      "view_count": 620422
     }
   ]
 }
