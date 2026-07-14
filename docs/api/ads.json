@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-13T19:27:41.189785+00:00",
-  "total": 1131,
+  "generated_at": "2026-07-14T02:32:26.860506+00:00",
+  "total": 1133,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 178,
-    "爱国": 143,
+    "爱国": 145,
     "环保": 123,
-    "友善": 114,
+    "友善": 116,
     "节约": 97,
-    "诚信": 75,
+    "诚信": 77,
     "交通安全": 58,
     "孝道": 55,
     "助人为乐": 33,
@@ -16008,6 +16008,38 @@
       "source": "bilibili",
       "uploader": "膀兵",
       "view_count": 316
+    },
+    {
+      "id": "BV1k3411w7uc",
+      "title": "社会主义核心价值观手绘",
+      "categories": [
+        "诚信",
+        "友善",
+        "爱国"
+      ],
+      "duration": 59.767,
+      "url": "http://www.bilibili.com/video/av512939284",
+      "play_url": "http://www.bilibili.com/video/av512939284",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "墙绘小姐姐",
+      "view_count": 334
+    },
+    {
+      "id": "BV1yD4y1777v",
+      "title": "公益短片：什么是社会主义核心价值观呢？",
+      "categories": [
+        "诚信",
+        "友善",
+        "爱国"
+      ],
+      "duration": 60.417,
+      "url": "http://www.bilibili.com/video/av734107131",
+      "play_url": "http://www.bilibili.com/video/av734107131",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "猫小帅儿歌故事",
+      "view_count": 21823
     }
   ]
 }
