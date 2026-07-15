@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T13:48:31.955423+00:00",
-  "total": 1139,
+  "generated_at": "2026-07-15T19:14:08.122320+00:00",
+  "total": 1142,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 180,
-    "爱国": 145,
-    "环保": 124,
+    "文明礼貌": 182,
+    "爱国": 146,
+    "环保": 125,
     "友善": 116,
     "节约": 98,
     "诚信": 77,
@@ -16124,6 +16124,49 @@
       "source": "bilibili",
       "uploader": "原汁河野",
       "view_count": 5840
+    },
+    {
+      "id": "BV1BBzMY4ETs",
+      "title": "燃值很高的央视公益广告——中国低碳环保环境",
+      "categories": [
+        "环保"
+      ],
+      "duration": 88.8,
+      "url": "http://www.bilibili.com/video/av113546687939353",
+      "play_url": "http://www.bilibili.com/video/av113546687939353",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "给你个大列巴",
+      "view_count": 11986
+    },
+    {
+      "id": "BV1zaEq6DEB2",
+      "title": "讲文明树新风中国梦公益广告宣传片",
+      "categories": [
+        "爱国",
+        "文明礼貌"
+      ],
+      "duration": 24.0,
+      "url": "http://www.bilibili.com/video/av116731188089892",
+      "play_url": "http://www.bilibili.com/video/av116731188089892",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "两脚尖",
+      "view_count": 155
+    },
+    {
+      "id": "BV1Ct411u7mC",
+      "title": "【中国大陆广告】迎奥运讲文明树新风宣传片福娃篇（2008）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 120.178,
+      "url": "http://www.bilibili.com/video/av62004045",
+      "play_url": "http://www.bilibili.com/video/av62004045",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 41973
     }
   ]
 }
