@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T19:22:33.588874+00:00",
-  "total": 1135,
+  "generated_at": "2026-07-15T02:27:19.382613+00:00",
+  "total": 1136,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 180,
     "爱国": 145,
     "环保": 123,
     "友善": 116,
-    "节约": 97,
+    "节约": 98,
     "诚信": 77,
     "交通安全": 58,
     "孝道": 55,
@@ -16068,6 +16068,20 @@
       "source": "bilibili",
       "uploader": "施工行者up",
       "view_count": 620422
+    },
+    {
+      "id": "BV1Eh411q7x1",
+      "title": "CCTV公益广告，我们要《节约用纸 珍惜资源》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 33.151,
+      "url": "http://www.bilibili.com/video/av207604741",
+      "play_url": "http://www.bilibili.com/video/av207604741",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 9573
     }
   ]
 }
