@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T08:15:46.453175+00:00",
-  "total": 1138,
+  "generated_at": "2026-07-15T13:48:31.955423+00:00",
+  "total": 1139,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 180,
@@ -11,7 +11,7 @@
     "节约": 98,
     "诚信": 77,
     "交通安全": 59,
-    "孝道": 55,
+    "孝道": 56,
     "助人为乐": 33,
     "禁烟": 15
   },
@@ -16110,6 +16110,20 @@
       "source": "bilibili",
       "uploader": "鱼囍少女",
       "view_count": 55398
+    },
+    {
+      "id": "BV1v4411w78S",
+      "title": "《孝》公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 149.226,
+      "url": "http://www.bilibili.com/video/av57682593",
+      "play_url": "http://www.bilibili.com/video/av57682593",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "原汁河野",
+      "view_count": 5840
     }
   ]
 }
