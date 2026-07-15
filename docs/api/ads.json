@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T02:27:19.382613+00:00",
-  "total": 1136,
+  "generated_at": "2026-07-15T08:15:46.453175+00:00",
+  "total": 1138,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 180,
     "爱国": 145,
-    "环保": 123,
+    "环保": 124,
     "友善": 116,
     "节约": 98,
     "诚信": 77,
-    "交通安全": 58,
+    "交通安全": 59,
     "孝道": 55,
     "助人为乐": 33,
     "禁烟": 15
@@ -16082,6 +16082,34 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 9573
+    },
+    {
+      "id": "BV1cJNU6pEum",
+      "title": "高效守护交通安全，红绿灯也智能！",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.323,
+      "url": "http://www.bilibili.com/video/av116914059806407",
+      "play_url": "http://www.bilibili.com/video/av116914059806407",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "大姐的实在推荐",
+      "view_count": 0
+    },
+    {
+      "id": "BV12y4y1C7DT",
+      "title": "公益广告：垃圾在度假",
+      "categories": [
+        "环保"
+      ],
+      "duration": 39.38,
+      "url": "http://www.bilibili.com/video/av796923598",
+      "play_url": "http://www.bilibili.com/video/av796923598",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鱼囍少女",
+      "view_count": 55398
     }
   ]
 }
