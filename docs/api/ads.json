@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T08:16:28.469664+00:00",
-  "total": 1142,
+  "generated_at": "2026-07-16T13:54:03.260569+00:00",
+  "total": 1144,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 182,
-    "爱国": 146,
+    "文明礼貌": 183,
+    "爱国": 147,
     "环保": 125,
-    "友善": 116,
+    "友善": 117,
     "节约": 98,
-    "诚信": 77,
+    "诚信": 78,
     "交通安全": 59,
     "孝道": 56,
     "助人为乐": 33,
@@ -16167,6 +16167,36 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 41973
+    },
+    {
+      "id": "BV1TBN96yEGh",
+      "title": "野蛮其体魄 文明其精神 2026年7月10日3周末做公益 #公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 118.12,
+      "url": "http://www.bilibili.com/video/av116917012536001",
+      "play_url": "http://www.bilibili.com/video/av116917012536001",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1614
+    },
+    {
+      "id": "BV17QE4zMEWk",
+      "title": "【放送文化】CCTV公益广告《自觉践行社会主义核心价值观》（60秒版本）",
+      "categories": [
+        "诚信",
+        "友善",
+        "爱国"
+      ],
+      "duration": 60.291,
+      "url": "http://www.bilibili.com/video/av114517484833336",
+      "play_url": "http://www.bilibili.com/video/av114517484833336",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "在家就是累1F",
+      "view_count": 4601
     }
   ]
 }
