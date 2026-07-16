@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T13:54:03.260569+00:00",
-  "total": 1144,
+  "generated_at": "2026-07-16T19:14:37.196795+00:00",
+  "total": 1145,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 183,
+    "文明礼貌": 184,
     "爱国": 147,
     "环保": 125,
     "友善": 117,
@@ -16197,6 +16197,20 @@
       "source": "bilibili",
       "uploader": "在家就是累1F",
       "view_count": 4601
+    },
+    {
+      "id": "BV15v411K7Dt",
+      "title": "文明礼仪《有样学样》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.245,
+      "url": "http://www.bilibili.com/video/av249625062",
+      "play_url": "http://www.bilibili.com/video/av249625062",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "三了个皮",
+      "view_count": 22548
     }
   ]
 }
