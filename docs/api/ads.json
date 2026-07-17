@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T13:31:24.647581+00:00",
-  "total": 1147,
+  "generated_at": "2026-07-17T19:10:41.075764+00:00",
+  "total": 1149,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 185,
     "爱国": 148,
     "环保": 125,
     "友善": 117,
-    "节约": 99,
+    "节约": 100,
     "诚信": 78,
-    "交通安全": 59,
+    "交通安全": 60,
     "孝道": 56,
     "助人为乐": 33,
     "禁烟": 15
@@ -16240,6 +16240,34 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 24472
+    },
+    {
+      "id": "BV1Cx4y1w7Nd",
+      "title": "【央视公益广告】厉行节约 反对浪费",
+      "categories": [
+        "节约"
+      ],
+      "duration": 64.828,
+      "url": "http://www.bilibili.com/video/av993831771",
+      "play_url": "http://www.bilibili.com/video/av993831771",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平民路线_",
+      "view_count": 51816
+    },
+    {
+      "id": "BV1T54y1X73K",
+      "title": "交通安全宣传片《魔术》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 270.0,
+      "url": "http://www.bilibili.com/video/av840548963",
+      "play_url": "http://www.bilibili.com/video/av840548963",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "有点意思110",
+      "view_count": 463
     }
   ]
 }
