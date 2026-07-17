@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T02:38:22.928915+00:00",
-  "total": 1146,
+  "generated_at": "2026-07-17T08:14:07.911120+00:00",
+  "total": 1147,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 185,
-    "爱国": 147,
+    "爱国": 148,
     "环保": 125,
     "友善": 117,
     "节约": 99,
@@ -16226,6 +16226,20 @@
       "source": "bilibili",
       "uploader": "4A广告提案网",
       "view_count": 176975
+    },
+    {
+      "id": "BV1ZA411K7Rr",
+      "title": "广而告之公益广告《我的梦 中国梦》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 64.49,
+      "url": "http://www.bilibili.com/video/av331982321",
+      "play_url": "http://www.bilibili.com/video/av331982321",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 24472
     }
   ]
 }
