@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T19:14:37.196795+00:00",
-  "total": 1145,
+  "generated_at": "2026-07-17T02:38:22.928915+00:00",
+  "total": 1146,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 184,
+    "文明礼貌": 185,
     "爱国": 147,
     "环保": 125,
     "友善": 117,
-    "节约": 98,
+    "节约": 99,
     "诚信": 78,
     "交通安全": 59,
     "孝道": 56,
@@ -16211,6 +16211,21 @@
       "source": "bilibili",
       "uploader": "三了个皮",
       "view_count": 22548
+    },
+    {
+      "id": "BV12W421X7zC",
+      "title": "央视经典公益广告：不剩菜不剩饭，文明餐桌从我做起",
+      "categories": [
+        "节约",
+        "文明礼貌"
+      ],
+      "duration": 35.327,
+      "url": "http://www.bilibili.com/video/av1856259577",
+      "play_url": "http://www.bilibili.com/video/av1856259577",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 176975
     }
   ]
 }
