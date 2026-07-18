@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T07:53:23.953150+00:00",
-  "total": 1149,
+  "generated_at": "2026-07-18T13:17:37.142445+00:00",
+  "total": 1151,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 185,
+    "文明礼貌": 187,
     "爱国": 148,
     "环保": 125,
     "友善": 117,
@@ -16268,6 +16268,34 @@
       "source": "bilibili",
       "uploader": "有点意思110",
       "view_count": 463
+    },
+    {
+      "id": "BV1yJ411D7vD",
+      "title": "文明出行安全乘梯公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 16.703,
+      "url": "http://www.bilibili.com/video/av77349650",
+      "play_url": "http://www.bilibili.com/video/av77349650",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 10413
+    },
+    {
+      "id": "BV1mU4y1w7HH",
+      "title": "公益广告-文明行为，每个人都能做得到",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.232,
+      "url": "http://www.bilibili.com/video/av676049460",
+      "play_url": "http://www.bilibili.com/video/av676049460",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "视频综合电视",
+      "view_count": 3344
     }
   ]
 }
