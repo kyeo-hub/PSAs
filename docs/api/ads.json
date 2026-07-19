@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-19T02:41:03.731519+00:00",
-  "total": 1152,
+  "generated_at": "2026-07-19T08:20:52.111732+00:00",
+  "total": 1155,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 188,
     "爱国": 148,
     "环保": 125,
     "友善": 118,
-    "节约": 100,
-    "诚信": 79,
-    "交通安全": 60,
+    "节约": 101,
+    "诚信": 80,
+    "交通安全": 61,
     "孝道": 57,
     "助人为乐": 34,
     "禁烟": 15
@@ -16314,6 +16314,48 @@
       "source": "bilibili",
       "uploader": "昵称是什么哈哈哈123",
       "view_count": 418
+    },
+    {
+      "id": "BV1WC4y197Ro",
+      "title": "【放送文化】广东广播电视台公益广告《让诚信成为一种习惯》（15秒版本）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 15.324,
+      "url": "http://www.bilibili.com/video/av791682638",
+      "play_url": "http://www.bilibili.com/video/av791682638",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 805
+    },
+    {
+      "id": "BV1mEKB6KEVe",
+      "title": "[中国内地公益广告]《共度中秋/拒绝浪费》(2009年)",
+      "categories": [
+        "节约"
+      ],
+      "duration": 32.0,
+      "url": "http://www.bilibili.com/video/av116944846001248",
+      "play_url": "http://www.bilibili.com/video/av116944846001248",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "只是普通的up主罢了",
+      "view_count": 12
+    },
+    {
+      "id": "BV1CEKi6tEoN",
+      "title": "交通安全儿童动物公益广告2012年版（CCTV-13播出版）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.041,
+      "url": "http://www.bilibili.com/video/av116944074246976",
+      "play_url": "http://www.bilibili.com/video/av116944074246976",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我的品牌我们的世界",
+      "view_count": 79
     }
   ]
 }
