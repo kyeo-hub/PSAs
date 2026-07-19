@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T19:08:24.803201+00:00",
-  "total": 1151,
+  "generated_at": "2026-07-19T02:41:03.731519+00:00",
+  "total": 1152,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 187,
+    "文明礼貌": 188,
     "爱国": 148,
     "环保": 125,
-    "友善": 117,
+    "友善": 118,
     "节约": 100,
-    "诚信": 78,
+    "诚信": 79,
     "交通安全": 60,
-    "孝道": 56,
-    "助人为乐": 33,
+    "孝道": 57,
+    "助人为乐": 34,
     "禁烟": 15
   },
   "items": [
@@ -16296,6 +16296,24 @@
       "source": "bilibili",
       "uploader": "视频综合电视",
       "view_count": 3344
+    },
+    {
+      "id": "BV1f1edzZEvY",
+      "title": "乐于助人是我们的传统美德！！",
+      "categories": [
+        "孝道",
+        "助人为乐",
+        "诚信",
+        "友善",
+        "文明礼貌"
+      ],
+      "duration": 178.517,
+      "url": "http://www.bilibili.com/video/av115089654941571",
+      "play_url": "http://www.bilibili.com/video/av115089654941571",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "昵称是什么哈哈哈123",
+      "view_count": 418
     }
   ]
 }
