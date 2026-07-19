@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-19T08:20:52.111732+00:00",
-  "total": 1155,
+  "generated_at": "2026-07-19T13:19:57.468902+00:00",
+  "total": 1156,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 188,
+    "文明礼貌": 189,
     "爱国": 148,
-    "环保": 125,
+    "环保": 126,
     "友善": 118,
     "节约": 101,
     "诚信": 80,
@@ -16356,6 +16356,21 @@
       "source": "bilibili",
       "uploader": "我的品牌我们的世界",
       "view_count": 79
+    },
+    {
+      "id": "BV1mH4y1w7xG",
+      "title": "留影不留垃圾 文明旅游人人有责公益广告",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 31.81,
+      "url": "http://www.bilibili.com/video/av1056055541",
+      "play_url": "http://www.bilibili.com/video/av1056055541",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 2877
     }
   ]
 }
