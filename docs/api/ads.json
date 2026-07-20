@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-07-19T19:10:35.951969+00:00",
-  "total": 1159,
+  "generated_at": "2026-07-20T02:56:35.998484+00:00",
+  "total": 1160,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 191,
     "爱国": 148,
     "环保": 126,
     "友善": 118,
-    "节约": 101,
+    "节约": 102,
     "诚信": 81,
     "交通安全": 61,
     "孝道": 57,
@@ -16413,6 +16413,20 @@
       "source": "bilibili",
       "uploader": "央视纪录",
       "view_count": 1790
+    },
+    {
+      "id": "BV1Vs411s7GS",
+      "title": "节约-餐饮浪费篇",
+      "categories": [
+        "节约"
+      ],
+      "duration": 35.28,
+      "url": "http://www.bilibili.com/video/av7290663",
+      "play_url": "http://www.bilibili.com/video/av7290663",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "lele1894",
+      "view_count": 96748
     }
   ]
 }
