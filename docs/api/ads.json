@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T14:08:04.111570+00:00",
-  "total": 1162,
+  "generated_at": "2026-07-20T19:48:46.625412+00:00",
+  "total": 1169,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 193,
+    "文明礼貌": 197,
     "爱国": 148,
     "环保": 126,
-    "友善": 118,
+    "友善": 120,
     "节约": 102,
-    "诚信": 81,
+    "诚信": 83,
+    "孝道": 62,
     "交通安全": 61,
-    "孝道": 57,
-    "助人为乐": 34,
+    "助人为乐": 36,
     "禁烟": 15
   },
   "items": [
@@ -16455,6 +16455,112 @@
       "source": "bilibili",
       "uploader": "浙江星风尚影视",
       "view_count": 398
+    },
+    {
+      "id": "BV1KM411a7ZX",
+      "title": "【公益广告】文明发布广告，共建社会秩序",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.022,
+      "url": "http://www.bilibili.com/video/av522282184",
+      "play_url": "http://www.bilibili.com/video/av522282184",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 14508
+    },
+    {
+      "id": "BV1qz4y1m7aM",
+      "title": "【公益广告】公益广告《父母是孩子最好的老师》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 35.422,
+      "url": "http://www.bilibili.com/video/av586427349",
+      "play_url": "http://www.bilibili.com/video/av586427349",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一只神谕蓝",
+      "view_count": 16167
+    },
+    {
+      "id": "BV1pg4y1S74J",
+      "title": "文明行为从我我做起",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 72.631,
+      "url": "http://www.bilibili.com/video/av836171860",
+      "play_url": "http://www.bilibili.com/video/av836171860",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "badudonghua",
+      "view_count": 607
+    },
+    {
+      "id": "BV15zKm6CEA3",
+      "title": "魔兽世界公益私服-原版海量魔兽世界SiFu发布站",
+      "categories": [
+        "助人为乐",
+        "孝道"
+      ],
+      "duration": 33.266,
+      "url": "http://www.bilibili.com/video/av116951657548730",
+      "play_url": "http://www.bilibili.com/video/av116951657548730",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "快乐小马扎啊",
+      "view_count": 0
+    },
+    {
+      "id": "BV15ZK26rE7s",
+      "title": "魔兽世界公益私服-原版海量魔兽世界SiFu发布站",
+      "categories": [
+        "助人为乐",
+        "孝道"
+      ],
+      "duration": 33.266,
+      "url": "http://www.bilibili.com/video/av116951774922513",
+      "play_url": "http://www.bilibili.com/video/av116951774922513",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "快乐小马扎啊",
+      "view_count": 0
+    },
+    {
+      "id": "BV1NN4y1g7NC",
+      "title": "尊重和礼让是传统美德",
+      "categories": [
+        "友善",
+        "诚信",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 197.119,
+      "url": "http://www.bilibili.com/video/av897909147",
+      "play_url": "http://www.bilibili.com/video/av897909147",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "功夫动漫剧场",
+      "view_count": 8590
+    },
+    {
+      "id": "BV1YbEQzFEMH",
+      "title": "传统美德",
+      "categories": [
+        "友善",
+        "诚信",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 151.626,
+      "url": "http://www.bilibili.com/video/av114531778957886",
+      "play_url": "http://www.bilibili.com/video/av114531778957886",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小小鱼讲民间小故事",
+      "view_count": 226
     }
   ]
 }
