@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T02:56:35.998484+00:00",
-  "total": 1160,
+  "generated_at": "2026-07-20T09:01:28.273413+00:00",
+  "total": 1161,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 191,
+    "文明礼貌": 192,
     "爱国": 148,
     "环保": 126,
     "友善": 118,
@@ -16427,6 +16427,20 @@
       "source": "bilibili",
       "uploader": "lele1894",
       "view_count": 96748
+    },
+    {
+      "id": "BV1aG4y197aU",
+      "title": "【公益广告】文明出行，从我做起。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 14.419,
+      "url": "http://www.bilibili.com/video/av860627466",
+      "play_url": "http://www.bilibili.com/video/av860627466",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "多彩物语",
+      "view_count": 399
     }
   ]
 }
