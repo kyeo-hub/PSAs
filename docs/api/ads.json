@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T09:01:28.273413+00:00",
-  "total": 1161,
+  "generated_at": "2026-07-20T14:08:04.111570+00:00",
+  "total": 1162,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 192,
+    "文明礼貌": 193,
     "爱国": 148,
     "环保": 126,
     "友善": 118,
@@ -16441,6 +16441,20 @@
       "source": "bilibili",
       "uploader": "多彩物语",
       "view_count": 399
+    },
+    {
+      "id": "BV1p5411V7nK",
+      "title": "《文明台州》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 74.09,
+      "url": "http://www.bilibili.com/video/av457712981",
+      "play_url": "http://www.bilibili.com/video/av457712981",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "浙江星风尚影视",
+      "view_count": 398
     }
   ]
 }
