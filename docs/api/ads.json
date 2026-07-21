@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T19:48:46.625412+00:00",
-  "total": 1169,
+  "generated_at": "2026-07-21T02:38:31.808040+00:00",
+  "total": 1170,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 197,
-    "爱国": 148,
+    "爱国": 149,
     "环保": 126,
     "友善": 120,
     "节约": 102,
@@ -16561,6 +16561,20 @@
       "source": "bilibili",
       "uploader": "小小鱼讲民间小故事",
       "view_count": 226
+    },
+    {
+      "id": "BV1Sx411i7GV",
+      "title": "CCTV公益广告 · 古丽的中国梦",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 90.44,
+      "url": "http://www.bilibili.com/video/av12509270",
+      "play_url": "http://www.bilibili.com/video/av12509270",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "HaricoTwilight",
+      "view_count": 3841
     }
   ]
 }
