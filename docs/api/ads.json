@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-21T02:38:31.808040+00:00",
-  "total": 1170,
+  "generated_at": "2026-07-21T08:32:40.808426+00:00",
+  "total": 1171,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 197,
+    "文明礼貌": 198,
     "爱国": 149,
     "环保": 126,
     "友善": 120,
@@ -16575,6 +16575,20 @@
       "source": "bilibili",
       "uploader": "HaricoTwilight",
       "view_count": 3841
+    },
+    {
+      "id": "BV1tZKb6mEX7",
+      "title": "【广告之声】文明礼仪多一度公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 45.166,
+      "url": "http://www.bilibili.com/video/av116956556429120",
+      "play_url": "http://www.bilibili.com/video/av116956556429120",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "睿智满满的哥哥",
+      "view_count": 4
     }
   ]
 }
