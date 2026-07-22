@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-22T02:37:27.884660+00:00",
-  "total": 1173,
+  "generated_at": "2026-07-22T08:36:09.789990+00:00",
+  "total": 1178,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 199,
-    "爱国": 149,
+    "文明礼貌": 200,
+    "爱国": 151,
     "环保": 126,
-    "友善": 120,
+    "友善": 121,
     "节约": 102,
-    "诚信": 83,
+    "诚信": 84,
+    "交通安全": 64,
     "孝道": 63,
-    "交通安全": 61,
     "助人为乐": 36,
     "禁烟": 15
   },
@@ -16617,6 +16617,79 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 1299
+    },
+    {
+      "id": "BV17EKt6xE8D",
+      "title": "雪佛兰交通安全公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 30.0,
+      "url": "http://www.bilibili.com/video/av116955499467988",
+      "play_url": "http://www.bilibili.com/video/av116955499467988",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告网",
+      "view_count": 26
+    },
+    {
+      "id": "BV1sh411q78s",
+      "title": "央视公益广告-交通安全（专心开车 请勿使用手机）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 45.185,
+      "url": "http://www.bilibili.com/video/av207592529",
+      "play_url": "http://www.bilibili.com/video/av207592529",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 13799
+    },
+    {
+      "id": "BV1vx411p7xv",
+      "title": "《有距离有尊重》 交通安全公益广告(2)(标清)",
+      "categories": [
+        "文明礼貌",
+        "交通安全"
+      ],
+      "duration": 11.288,
+      "url": "http://www.bilibili.com/video/av13045583",
+      "play_url": "http://www.bilibili.com/video/av13045583",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "真是滑了天下之大稽",
+      "view_count": 3033
+    },
+    {
+      "id": "BV1mc411u7Ty",
+      "title": "国家好民族好大家才会更好公益广告",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.159,
+      "url": "http://www.bilibili.com/video/av272147306",
+      "play_url": "http://www.bilibili.com/video/av272147306",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "彩虹甜心_Official",
+      "view_count": 5224
+    },
+    {
+      "id": "BV1ns411e7dk",
+      "title": "社会主义核心价值观公益广告",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 67.599,
+      "url": "http://www.bilibili.com/video/av7530502",
+      "play_url": "http://www.bilibili.com/video/av7530502",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "参城子",
+      "view_count": 77415
     }
   ]
 }
