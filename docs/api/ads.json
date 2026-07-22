@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-22T08:36:09.789990+00:00",
-  "total": 1178,
+  "generated_at": "2026-07-22T13:55:34.981797+00:00",
+  "total": 1180,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 200,
+    "文明礼貌": 202,
     "爱国": 151,
     "环保": 126,
     "友善": 121,
@@ -16690,6 +16690,34 @@
       "source": "bilibili",
       "uploader": "参城子",
       "view_count": 77415
+    },
+    {
+      "id": "BV1pRKn6mEwR",
+      "title": "《让我们夺回长沙》  外星文明入侵了长沙，霸蛮的长沙人会如何应对？（内容纯属虚构）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 195.434,
+      "url": "http://www.bilibili.com/video/av116934125291034",
+      "play_url": "http://www.bilibili.com/video/av116934125291034",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "齐柏林一号",
+      "view_count": 42310
+    },
+    {
+      "id": "BV1LTKh6hEbn",
+      "title": "昆明出现高等文明事件！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 237.215,
+      "url": "http://www.bilibili.com/video/av116957881900467",
+      "play_url": "http://www.bilibili.com/video/av116957881900467",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "浩哥频道",
+      "view_count": 4626
     }
   ]
 }
