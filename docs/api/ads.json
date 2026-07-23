@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-23T14:00:45.243735+00:00",
-  "total": 1184,
+  "generated_at": "2026-07-23T19:21:23.399681+00:00",
+  "total": 1187,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 205,
+    "文明礼貌": 208,
     "爱国": 151,
     "环保": 126,
     "友善": 121,
@@ -16774,6 +16774,48 @@
       "source": "bilibili",
       "uploader": "真实传媒",
       "view_count": 7556
+    },
+    {
+      "id": "BV1gsgx6EEKa",
+      "title": "【文明中国·看云南 | 主题曲《携手长歌行》首次唱响】7月22日，2026年“文明中国”主题采访报道启动仪式暨“文明中国·看云南——兴滇润边新时代文明实践带”典",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 176.1,
+      "url": "http://www.bilibili.com/video/av116969760167688",
+      "play_url": "http://www.bilibili.com/video/av116969760167688",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "云南广播电视台",
+      "view_count": 27
+    },
+    {
+      "id": "BV18Cgm6yEiH",
+      "title": "野蛮其体魄 文明其精神 2026年7月11日11周末做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 78.878,
+      "url": "http://www.bilibili.com/video/av116966572431348",
+      "play_url": "http://www.bilibili.com/video/av116966572431348",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 457
+    },
+    {
+      "id": "BV1zZgC6UEyu",
+      "title": "野蛮其体魄 文明其精神 2026年7月11日10周末做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 68.243,
+      "url": "http://www.bilibili.com/video/av116962864730348",
+      "play_url": "http://www.bilibili.com/video/av116962864730348",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 858
     }
   ]
 }
