@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-23T08:33:19.130447+00:00",
-  "total": 1180,
+  "generated_at": "2026-07-23T14:00:45.243735+00:00",
+  "total": 1184,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 202,
+    "文明礼貌": 205,
     "爱国": 151,
     "环保": 126,
     "友善": 121,
     "节约": 102,
-    "诚信": 84,
+    "诚信": 85,
     "交通安全": 64,
     "孝道": 63,
     "助人为乐": 36,
@@ -16718,6 +16718,62 @@
       "source": "bilibili",
       "uploader": "浩哥频道",
       "view_count": 4626
+    },
+    {
+      "id": "BV1yJ411D7Tn",
+      "title": "自尊自爱 文明出行 维护形象 全靠你我公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 40.851,
+      "url": "http://www.bilibili.com/video/av77350229",
+      "play_url": "http://www.bilibili.com/video/av77350229",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 104207
+    },
+    {
+      "id": "BV1oSWZzqExQ",
+      "title": "公益广告——合规经营诚信纳税☆2025-10-19",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 26.964,
+      "url": "http://www.bilibili.com/video/av115398053726243",
+      "play_url": "http://www.bilibili.com/video/av115398053726243",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梁彦芝",
+      "view_count": 145
+    },
+    {
+      "id": "BV16DBYYaEiu",
+      "title": "文明，触手可及；互鉴，从未停止。在良渚，全球文明互见，互鉴。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 192.127,
+      "url": "http://www.bilibili.com/video/av113541151595584",
+      "play_url": "http://www.bilibili.com/video/av113541151595584",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "美丽浙江",
+      "view_count": 14028
+    },
+    {
+      "id": "BV1UxoWYaE8R",
+      "title": "当中国主动拥抱世界文明，多元文化在这里碰撞交织 ，文明和合共生的火焰熊熊燃起，照亮中国未来的前行之路。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 82.06,
+      "url": "http://www.bilibili.com/video/av114221182353456",
+      "play_url": "http://www.bilibili.com/video/av114221182353456",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "真实传媒",
+      "view_count": 7556
     }
   ]
 }
