@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-24T02:42:19.775466+00:00",
-  "total": 1191,
+  "generated_at": "2026-07-24T08:32:53.980961+00:00",
+  "total": 1193,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 212,
-    "爱国": 151,
+    "爱国": 153,
     "环保": 127,
     "友善": 121,
     "节约": 102,
@@ -16873,6 +16873,34 @@
       "source": "bilibili",
       "uploader": "北京一之诺文化传媒",
       "view_count": 3
+    },
+    {
+      "id": "BV1mW411U7Nb",
+      "title": "同升一面旗，共爱一个家。爱国教育公益广告",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.835,
+      "url": "http://www.bilibili.com/video/av32554149",
+      "play_url": "http://www.bilibili.com/video/av32554149",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 12414
+    },
+    {
+      "id": "BV19z4y1y7E6",
+      "title": "爱国主义精神公益广告",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 61.119,
+      "url": "http://www.bilibili.com/video/av586941656",
+      "play_url": "http://www.bilibili.com/video/av586941656",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "银河修理员c",
+      "view_count": 4179
     }
   ]
 }
