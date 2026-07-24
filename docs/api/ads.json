@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-07-24T08:32:53.980961+00:00",
-  "total": 1193,
+  "generated_at": "2026-07-24T13:48:22.991058+00:00",
+  "total": 1197,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 212,
+    "文明礼貌": 215,
     "爱国": 153,
     "环保": 127,
-    "友善": 121,
+    "友善": 122,
     "节约": 102,
     "诚信": 85,
     "交通安全": 64,
@@ -16901,6 +16901,62 @@
       "source": "bilibili",
       "uploader": "银河修理员c",
       "view_count": 4179
+    },
+    {
+      "id": "BV11g4y1q7XE",
+      "title": "【公益广告】关爱大学生心理健康",
+      "categories": [
+        "友善"
+      ],
+      "duration": 189.76,
+      "url": "http://www.bilibili.com/video/av838102443",
+      "play_url": "http://www.bilibili.com/video/av838102443",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "君陌monarch",
+      "view_count": 61144
+    },
+    {
+      "id": "BV1DfgY6MEuz",
+      "title": "中国2010年上海世博会公益广告 当好东道主 文明迎嘉宾 30s",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 29.892,
+      "url": "http://www.bilibili.com/video/av116973652545855",
+      "play_url": "http://www.bilibili.com/video/av116973652545855",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 93
+    },
+    {
+      "id": "BV1bPg46DE5e",
+      "title": "伪史论高兴太早，全球文明研究院属于社科院下属机构，这里发表了第一篇反对伪史论的学术论文《伪史论的病理透析》。#西史辨伪#伪史论 #文明互鉴 #文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 10.474,
+      "url": "http://www.bilibili.com/video/av116969659435454",
+      "play_url": "http://www.bilibili.com/video/av116969659435454",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "司马门Smartman",
+      "view_count": 3399
+    },
+    {
+      "id": "BV1QPgQ6oE7d",
+      "title": "国家主导的全球文明研究院昨天正式成立！各位香菱看懂里面的含义了吗？#全球文明研究院#",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 19.481,
+      "url": "http://www.bilibili.com/video/av116968602470379",
+      "play_url": "http://www.bilibili.com/video/av116968602470379",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "子鱼鸿鹄",
+      "view_count": 2082
     }
   ]
 }
