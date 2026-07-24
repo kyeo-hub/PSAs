@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-23T19:21:23.399681+00:00",
-  "total": 1187,
+  "generated_at": "2026-07-24T02:42:19.775466+00:00",
+  "total": 1191,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 208,
+    "文明礼貌": 212,
     "爱国": 151,
-    "环保": 126,
+    "环保": 127,
     "友善": 121,
     "节约": 102,
     "诚信": 85,
@@ -16816,6 +16816,63 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 858
+    },
+    {
+      "id": "BV1zV4y1W7g9",
+      "title": "（电视公益广告）文明出行 乘车环境靠大家",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 36.222,
+      "url": "http://www.bilibili.com/video/av857428035",
+      "play_url": "http://www.bilibili.com/video/av857428035",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 24883
+    },
+    {
+      "id": "BV1UVgQ6DEg6",
+      "title": "7月假期更新战争与文明 GM后台(破解) 内置福利礼包，（无限内购）随便唰 一键三连 免费玩 评论分享",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 176.194,
+      "url": "http://www.bilibili.com/video/av116968837355108",
+      "play_url": "http://www.bilibili.com/video/av116968837355108",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "w9猎",
+      "view_count": 71
+    },
+    {
+      "id": "BV1FbVf6vEGM",
+      "title": "公众场合不随便-注重形象讲文明-公众场合不随便-注重形象讲文明公益-公众场合不随便-注重形象讲文明公益视频-兔小贝公益",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 32.763,
+      "url": "http://www.bilibili.com/video/av116675923942379",
+      "play_url": "http://www.bilibili.com/video/av116675923942379",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "兔小贝儿童",
+      "view_count": 657
+    },
+    {
+      "id": "BV1B4gm6xELR",
+      "title": "公益诉讼动画：文明爬山，文明户外，文明旅游，共同保护我们的绿水青山。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 183.402,
+      "url": "http://www.bilibili.com/video/av116966756979916",
+      "play_url": "http://www.bilibili.com/video/av116966756979916",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "北京一之诺文化传媒",
+      "view_count": 3
     }
   ]
 }
