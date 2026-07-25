@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-24T19:30:13.451615+00:00",
-  "total": 1197,
+  "generated_at": "2026-07-25T02:39:04.379325+00:00",
+  "total": 1202,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 215,
+    "文明礼貌": 218,
     "爱国": 153,
-    "环保": 127,
+    "环保": 130,
     "友善": 122,
     "节约": 102,
     "诚信": 85,
@@ -16957,6 +16957,77 @@
       "source": "bilibili",
       "uploader": "子鱼鸿鹄",
       "view_count": 2082
+    },
+    {
+      "id": "BV1CfRaBeE9W",
+      "title": "【00后、10后回忆杀广告】秀出你的环保搭档2012年公益广告宣传片+贵州百灵维C银翘片2008年广告(八遍)+新胃必治牌复方铝酸铋片2011年广告(七遍)",
+      "categories": [
+        "环保"
+      ],
+      "duration": 136.266,
+      "url": "http://www.bilibili.com/video/av116514711672644",
+      "play_url": "http://www.bilibili.com/video/av116514711672644",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "繁星耀文",
+      "view_count": 725
+    },
+    {
+      "id": "BV1xwga6tEZx",
+      "title": "欲文明其精神必先野蛮其体魄，2026年7月11日12周末做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 92.322,
+      "url": "http://www.bilibili.com/video/av116972780066526",
+      "play_url": "http://www.bilibili.com/video/av116972780066526",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 678
+    },
+    {
+      "id": "BV1eNgY65EZY",
+      "title": "还“请”文明“购物”！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.3,
+      "url": "http://www.bilibili.com/video/av116973971179311",
+      "play_url": "http://www.bilibili.com/video/av116973971179311",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国智驾",
+      "view_count": 2870
+    },
+    {
+      "id": "BV1A441127Dc",
+      "title": "美好环境 我们共同创造公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.847,
+      "url": "http://www.bilibili.com/video/av66491636",
+      "play_url": "http://www.bilibili.com/video/av66491636",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 6194
+    },
+    {
+      "id": "BV13UqqYxEMh",
+      "title": "留影不留垃圾 文明旅游人人有责公益广告（无台标版）",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 33.855,
+      "url": "http://www.bilibili.com/video/av113642989166345",
+      "play_url": "http://www.bilibili.com/video/av113642989166345",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "宝晓峰严於信宫婷马荔",
+      "view_count": 221
     }
   ]
 }
