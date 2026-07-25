@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-07-25T02:39:04.379325+00:00",
-  "total": 1202,
+  "generated_at": "2026-07-25T08:10:25.917076+00:00",
+  "total": 1203,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 218,
-    "爱国": 153,
+    "爱国": 154,
     "环保": 130,
     "友善": 122,
     "节约": 102,
@@ -17028,6 +17028,20 @@
       "source": "bilibili",
       "uploader": "宝晓峰严於信宫婷马荔",
       "view_count": 221
+    },
+    {
+      "id": "BV1Sd6NY3EQ7",
+      "title": "央视公益广告：梦娃中国梦2015年版合集",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 149.529,
+      "url": "http://www.bilibili.com/video/av113583413266886",
+      "play_url": "http://www.bilibili.com/video/av113583413266886",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "doge永远滴神",
+      "view_count": 656388
     }
   ]
 }
