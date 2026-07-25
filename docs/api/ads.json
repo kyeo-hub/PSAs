@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-25T08:10:25.917076+00:00",
-  "total": 1203,
+  "generated_at": "2026-07-25T13:30:40.863351+00:00",
+  "total": 1207,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 218,
-    "爱国": 154,
-    "环保": 130,
-    "友善": 122,
+    "文明礼貌": 220,
+    "爱国": 155,
+    "环保": 131,
+    "友善": 123,
     "节约": 102,
-    "诚信": 85,
+    "诚信": 86,
     "交通安全": 64,
     "孝道": 63,
     "助人为乐": 36,
@@ -17042,6 +17042,64 @@
       "source": "bilibili",
       "uploader": "doge永远滴神",
       "view_count": 656388
+    },
+    {
+      "id": "BV1yW411q76q",
+      "title": "yy青橙-梦娃公益广告合集-社会主义核心价值观-2018公益广告-超清",
+      "categories": [
+        "诚信",
+        "爱国",
+        "友善"
+      ],
+      "duration": 149.712,
+      "url": "http://www.bilibili.com/video/av17849805",
+      "play_url": "http://www.bilibili.com/video/av17849805",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "yy青橙",
+      "view_count": 234320
+    },
+    {
+      "id": "BV1nG411G7ZZ",
+      "title": "文明 让生活更美好",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 118.506,
+      "url": "http://www.bilibili.com/video/av430198659",
+      "play_url": "http://www.bilibili.com/video/av430198659",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_51429994250",
+      "view_count": 922
+    },
+    {
+      "id": "BV1XZ3u6yEDN",
+      "title": "打卡哈巴河白桦林，欢乐亲子时光，共赴暖心生态守护之旅。#醉美白桦林#阿勒泰守望者#亲子公益性",
+      "categories": [
+        "环保"
+      ],
+      "duration": 57.121,
+      "url": "http://www.bilibili.com/video/av116980480872632",
+      "play_url": "http://www.bilibili.com/video/av116980480872632",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哈巴河醉美白桦林",
+      "view_count": 0
+    },
+    {
+      "id": "BV1dV41117Vn",
+      "title": "《新时代公民道德建设实施纲要》主题公益广告《社会公德篇》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.079,
+      "url": "http://www.bilibili.com/video/av414836373",
+      "play_url": "http://www.bilibili.com/video/av414836373",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "狮城清风",
+      "view_count": 9467
     }
   ]
 }
