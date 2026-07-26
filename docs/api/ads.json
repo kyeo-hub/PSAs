@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T13:26:49.442789+00:00",
-  "total": 1209,
+  "generated_at": "2026-07-26T19:14:43.889387+00:00",
+  "total": 1210,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 222,
+    "文明礼貌": 223,
     "爱国": 156,
     "环保": 131,
     "友善": 124,
@@ -17132,6 +17132,20 @@
       "source": "bilibili",
       "uploader": "肆月的心灵小屋",
       "view_count": 738
+    },
+    {
+      "id": "BV1wn3g6fEgg",
+      "title": "文明解释权崩再拖了！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 232.571,
+      "url": "http://www.bilibili.com/video/av116980229083621",
+      "play_url": "http://www.bilibili.com/video/av116980229083621",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "嘎嘎爱说话",
+      "view_count": 1258
     }
   ]
 }
