@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T08:28:53.581112+00:00",
-  "total": 1208,
+  "generated_at": "2026-07-26T13:26:49.442789+00:00",
+  "total": 1209,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 221,
-    "爱国": 155,
+    "文明礼貌": 222,
+    "爱国": 156,
     "环保": 131,
-    "友善": 123,
+    "友善": 124,
     "节约": 102,
-    "诚信": 86,
+    "诚信": 87,
     "交通安全": 64,
-    "孝道": 63,
+    "孝道": 64,
     "助人为乐": 36,
     "禁烟": 15
   },
@@ -17114,6 +17114,24 @@
       "source": "bilibili",
       "uploader": "熊猫mbtigg",
       "view_count": 2620
+    },
+    {
+      "id": "BV1r5411v7HP",
+      "title": "这难道就是中华民族的传统美德嘛，“这世界破破烂烂，总有人缝缝补补”",
+      "categories": [
+        "孝道",
+        "诚信",
+        "友善",
+        "爱国",
+        "文明礼貌"
+      ],
+      "duration": 110.851,
+      "url": "http://www.bilibili.com/video/av454006605",
+      "play_url": "http://www.bilibili.com/video/av454006605",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "肆月的心灵小屋",
+      "view_count": 738
     }
   ]
 }
