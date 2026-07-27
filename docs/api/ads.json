@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T19:14:43.889387+00:00",
-  "total": 1210,
+  "generated_at": "2026-07-27T02:55:54.332592+00:00",
+  "total": 1213,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 223,
+    "文明礼貌": 226,
     "爱国": 156,
     "环保": 131,
-    "友善": 124,
-    "节约": 102,
+    "友善": 125,
+    "节约": 103,
     "诚信": 87,
-    "交通安全": 64,
+    "交通安全": 65,
     "孝道": 64,
     "助人为乐": 36,
     "禁烟": 15
@@ -17146,6 +17146,51 @@
       "source": "bilibili",
       "uploader": "嘎嘎爱说话",
       "view_count": 1258
+    },
+    {
+      "id": "BV1aDeEenEQR",
+      "title": "【放送文化】讲文明 树新风-节约篇 2013年湖南卫视公益宣传片",
+      "categories": [
+        "节约",
+        "文明礼貌"
+      ],
+      "duration": 30.046,
+      "url": "http://www.bilibili.com/video/av112959015617230",
+      "play_url": "http://www.bilibili.com/video/av112959015617230",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 319
+    },
+    {
+      "id": "BV1Gf4y1P7Ga",
+      "title": "公益广告-文明交通人人参与 和谐平安你我共享（汕头一套）",
+      "categories": [
+        "交通安全",
+        "友善",
+        "文明礼貌"
+      ],
+      "duration": 35.688,
+      "url": "http://www.bilibili.com/video/av377928140",
+      "play_url": "http://www.bilibili.com/video/av377928140",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 1407
+    },
+    {
+      "id": "BV1jb3g6WEUw",
+      "title": "台湾的文明，体现在人文关怀",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 23.637,
+      "url": "http://www.bilibili.com/video/av116980145258523",
+      "play_url": "http://www.bilibili.com/video/av116980145258523",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "戰無不勝阿光",
+      "view_count": 2336
     }
   ]
 }
