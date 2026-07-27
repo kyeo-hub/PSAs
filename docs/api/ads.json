@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-27T02:55:54.332592+00:00",
-  "total": 1213,
+  "generated_at": "2026-07-27T09:56:29.719137+00:00",
+  "total": 1214,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 226,
+    "文明礼貌": 227,
     "爱国": 156,
     "环保": 131,
     "友善": 125,
@@ -17191,6 +17191,20 @@
       "source": "bilibili",
       "uploader": "戰無不勝阿光",
       "view_count": 2336
+    },
+    {
+      "id": "BV118gZ6PEqR",
+      "title": "【广告之声】文明旅游公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 55.654,
+      "url": "http://www.bilibili.com/video/av116990161198630",
+      "play_url": "http://www.bilibili.com/video/av116990161198630",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "睿智满满的哥哥",
+      "view_count": 18
     }
   ]
 }
