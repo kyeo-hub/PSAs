@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T08:38:43.811476+00:00",
-  "total": 1217,
+  "generated_at": "2026-07-28T14:09:11.201658+00:00",
+  "total": 1219,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 229,
     "爱国": 156,
     "环保": 131,
     "友善": 125,
-    "节约": 103,
-    "诚信": 87,
+    "节约": 104,
+    "诚信": 88,
     "交通安全": 66,
     "孝道": 64,
     "助人为乐": 36,
@@ -17247,6 +17247,34 @@
       "source": "bilibili",
       "uploader": "bili_64709978965",
       "view_count": 29
+    },
+    {
+      "id": "BV1YtyhYcEyG",
+      "title": "【公益广告】你的诚信呢-窍门篇46秒",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 45.278,
+      "url": "http://www.bilibili.com/video/av113337996151929",
+      "play_url": "http://www.bilibili.com/video/av113337996151929",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "耀眼男孩",
+      "view_count": 2928
+    },
+    {
+      "id": "BV11E411y7NV",
+      "title": "拒绝过度包装 杜绝铺张浪费公益广告",
+      "categories": [
+        "节约"
+      ],
+      "duration": 50.139,
+      "url": "http://www.bilibili.com/video/av73253100",
+      "play_url": "http://www.bilibili.com/video/av73253100",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 262453
     }
   ]
 }
