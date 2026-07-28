@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T14:09:11.201658+00:00",
-  "total": 1219,
+  "generated_at": "2026-07-28T19:27:58.496953+00:00",
+  "total": 1221,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 229,
+    "文明礼貌": 231,
     "爱国": 156,
-    "环保": 131,
+    "环保": 132,
     "友善": 125,
     "节约": 104,
     "诚信": 88,
@@ -17275,6 +17275,35 @@
       "source": "bilibili",
       "uploader": "小老鼠-舒克",
       "view_count": 262453
+    },
+    {
+      "id": "BV1aDMu6BEkF",
+      "title": "一级文明的地球",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 168.0,
+      "url": "http://www.bilibili.com/video/av116864986383429",
+      "play_url": "http://www.bilibili.com/video/av116864986383429",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "此子玩游戏",
+      "view_count": 4473
+    },
+    {
+      "id": "BV1354y197Ug",
+      "title": "讲文明 树新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 142.741,
+      "url": "http://www.bilibili.com/video/av840206663",
+      "play_url": "http://www.bilibili.com/video/av840206663",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "观看下一段",
+      "view_count": 167
     }
   ]
 }
