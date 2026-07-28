@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T02:33:10.600207+00:00",
-  "total": 1214,
+  "generated_at": "2026-07-28T08:38:43.811476+00:00",
+  "total": 1217,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 227,
+    "文明礼貌": 229,
     "爱国": 156,
     "环保": 131,
     "友善": 125,
     "节约": 103,
     "诚信": 87,
-    "交通安全": 65,
+    "交通安全": 66,
     "孝道": 64,
     "助人为乐": 36,
     "禁烟": 15
@@ -17205,6 +17205,48 @@
       "source": "bilibili",
       "uploader": "睿智满满的哥哥",
       "view_count": 18
+    },
+    {
+      "id": "BV1FS786AEfV",
+      "title": "科技文明和修仙文明真的撞上了，到底哪家更强",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 158.429,
+      "url": "http://www.bilibili.com/video/av116810175224724",
+      "play_url": "http://www.bilibili.com/video/av116810175224724",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "每日一个故事",
+      "view_count": 7210
+    },
+    {
+      "id": "BV1gs411U795",
+      "title": "中国：这个拥有五千年文明的国家",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 281.791,
+      "url": "http://www.bilibili.com/video/av2851789",
+      "play_url": "http://www.bilibili.com/video/av2851789",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "冷冰凝勇闯毒蛇帮",
+      "view_count": 58575
+    },
+    {
+      "id": "BV1RG3u6LEqc",
+      "title": "“维护交通安全”公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 13.026,
+      "url": "http://www.bilibili.com/video/av116978903749710",
+      "play_url": "http://www.bilibili.com/video/av116978903749710",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_64709978965",
+      "view_count": 29
     }
   ]
 }
