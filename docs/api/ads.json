@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T08:44:32.894781+00:00",
-  "total": 1222,
+  "generated_at": "2026-07-29T14:13:27.366064+00:00",
+  "total": 1224,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 231,
-    "爱国": 156,
+    "文明礼貌": 232,
+    "爱国": 157,
     "环保": 132,
-    "友善": 125,
-    "节约": 104,
-    "诚信": 88,
+    "友善": 127,
+    "节约": 105,
+    "诚信": 90,
     "交通安全": 66,
-    "孝道": 64,
+    "孝道": 65,
     "助人为乐": 37,
     "禁烟": 15
   },
@@ -17318,6 +17318,40 @@
       "source": "bilibili",
       "uploader": "四角貉貉秞",
       "view_count": 6462
+    },
+    {
+      "id": "BV1nh411C74z",
+      "title": "鹿山艺术少儿美术～勤俭节约是中华传统美德手抄报(⸝⸝•‧̫•⸝⸝)今天宝贝们是否光盘行动了呢？",
+      "categories": [
+        "文明礼貌",
+        "友善",
+        "诚信",
+        "节约",
+        "孝道"
+      ],
+      "duration": 48.249,
+      "url": "http://www.bilibili.com/video/av204027025",
+      "play_url": "http://www.bilibili.com/video/av204027025",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鹿山艺术",
+      "view_count": 2152
+    },
+    {
+      "id": "BV1iH4y1W7S2",
+      "title": "中国特色社会主义核心价值观",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 182.879,
+      "url": "http://www.bilibili.com/video/av1051732634",
+      "play_url": "http://www.bilibili.com/video/av1051732634",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一公说历史",
+      "view_count": 549
     }
   ]
 }
