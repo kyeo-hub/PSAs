@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T02:35:53.960740+00:00",
-  "total": 1221,
+  "generated_at": "2026-07-29T08:44:32.894781+00:00",
+  "total": 1222,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 231,
@@ -12,7 +12,7 @@
     "诚信": 88,
     "交通安全": 66,
     "孝道": 64,
-    "助人为乐": 36,
+    "助人为乐": 37,
     "禁烟": 15
   },
   "items": [
@@ -17304,6 +17304,20 @@
       "source": "bilibili",
       "uploader": "观看下一段",
       "view_count": 167
+    },
+    {
+      "id": "BV1q7411N7gf",
+      "title": "关于乐于助人的公益广告",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 175.733,
+      "url": "http://www.bilibili.com/video/av92215742",
+      "play_url": "http://www.bilibili.com/video/av92215742",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "四角貉貉秞",
+      "view_count": 6462
     }
   ]
 }
