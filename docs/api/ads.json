@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-30T14:04:24.779656+00:00",
-  "total": 1230,
+  "generated_at": "2026-07-30T19:30:41.444506+00:00",
+  "total": 1231,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 234,
+    "文明礼貌": 235,
     "爱国": 158,
     "环保": 132,
     "友善": 127,
@@ -17436,6 +17436,20 @@
       "source": "bilibili",
       "uploader": "森系恋人",
       "view_count": 5265
+    },
+    {
+      "id": "BV1k54y1U7U2",
+      "title": "迎奥运讲文明树新风 央视主持人宣传片",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 119.52,
+      "url": "http://www.bilibili.com/video/av839328244",
+      "play_url": "http://www.bilibili.com/video/av839328244",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "-星空下被删除的记忆-",
+      "view_count": 8439
     }
   ]
 }
