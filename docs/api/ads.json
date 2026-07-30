@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-07-30T02:17:28.386712+00:00",
-  "total": 1225,
+  "generated_at": "2026-07-30T08:30:57.631948+00:00",
+  "total": 1230,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 233,
-    "爱国": 157,
+    "文明礼貌": 234,
+    "爱国": 158,
     "环保": 132,
     "友善": 127,
     "节约": 105,
     "诚信": 90,
+    "孝道": 67,
     "交通安全": 66,
-    "孝道": 65,
     "助人为乐": 37,
-    "禁烟": 15
+    "禁烟": 16
   },
   "items": [
     {
@@ -17366,6 +17366,76 @@
       "source": "bilibili",
       "uploader": "洛訶以北",
       "view_count": 618032
+    },
+    {
+      "id": "BV1Q4411D7FS",
+      "title": "央视公益广告：家风家教一笔一划书写人生真谛19秒",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 20.12,
+      "url": "http://www.bilibili.com/video/av63263579",
+      "play_url": "http://www.bilibili.com/video/av63263579",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "DJ一烟封我心",
+      "view_count": 12465
+    },
+    {
+      "id": "BV1KJ41197gg",
+      "title": "为自己 为他人 请勿吸烟公益广告",
+      "categories": [
+        "禁烟"
+      ],
+      "duration": 44.688,
+      "url": "http://www.bilibili.com/video/av77291181",
+      "play_url": "http://www.bilibili.com/video/av77291181",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 32794
+    },
+    {
+      "id": "BV1rt411u79a",
+      "title": "【公益宣传片】爱，拒绝遗憾",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 194.374,
+      "url": "http://www.bilibili.com/video/av62026308",
+      "play_url": "http://www.bilibili.com/video/av62026308",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "冬瓜山不是山",
+      "view_count": 4072
+    },
+    {
+      "id": "BV1PJ41197Uu",
+      "title": "爱旅行讲文明公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 61.284,
+      "url": "http://www.bilibili.com/video/av77286484",
+      "play_url": "http://www.bilibili.com/video/av77286484",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 44774
+    },
+    {
+      "id": "BV1FN411Z7V6",
+      "title": "公益广告《爱陪伴》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 60.04,
+      "url": "http://www.bilibili.com/video/av503151346",
+      "play_url": "http://www.bilibili.com/video/av503151346",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "森系恋人",
+      "view_count": 5265
     }
   ]
 }
