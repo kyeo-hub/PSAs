@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T19:20:24.647734+00:00",
-  "total": 1224,
+  "generated_at": "2026-07-30T02:17:28.386712+00:00",
+  "total": 1225,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 232,
+    "文明礼貌": 233,
     "爱国": 157,
     "环保": 132,
     "友善": 127,
@@ -17352,6 +17352,20 @@
       "source": "bilibili",
       "uploader": "一公说历史",
       "view_count": 549
+    },
+    {
+      "id": "BV1YC4y1e7eX",
+      "title": "我们开创文明 我们传承文明 周而复始 生生不息",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.717,
+      "url": "http://www.bilibili.com/video/av793280398",
+      "play_url": "http://www.bilibili.com/video/av793280398",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "洛訶以北",
+      "view_count": 618032
     }
   ]
 }
