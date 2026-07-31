@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-31T02:46:23.119651+00:00",
-  "total": 1232,
+  "generated_at": "2026-07-31T08:56:07.843170+00:00",
+  "total": 1234,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 235,
+    "文明礼貌": 236,
     "爱国": 159,
     "环保": 132,
     "友善": 128,
     "节约": 105,
     "诚信": 91,
+    "交通安全": 67,
     "孝道": 67,
-    "交通安全": 66,
     "助人为乐": 37,
     "禁烟": 16
   },
@@ -17466,6 +17466,34 @@
       "source": "bilibili",
       "uploader": "白盏1",
       "view_count": 324
+    },
+    {
+      "id": "BV1njGA6VE5m",
+      "title": "【公益广告】抵制网络暴力，倡导网络文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.989,
+      "url": "http://www.bilibili.com/video/av117013649492553",
+      "play_url": "http://www.bilibili.com/video/av117013649492553",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阳光男孩是东北人",
+      "view_count": 12
+    },
+    {
+      "id": "BV1TU3h6cE5z",
+      "title": "用豆包生成的交通安全公益广告——狼来了篇-2",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 10.1,
+      "url": "http://www.bilibili.com/video/av117011904468157",
+      "play_url": "http://www.bilibili.com/video/av117011904468157",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鸿雁长城",
+      "view_count": 144
     }
   ]
 }
