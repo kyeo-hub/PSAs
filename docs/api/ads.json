@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-31T14:09:21.814262+00:00",
-  "total": 1236,
+  "generated_at": "2026-07-31T19:29:21.198792+00:00",
+  "total": 1237,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 238,
+    "文明礼貌": 239,
     "爱国": 159,
     "环保": 132,
     "友善": 128,
@@ -17522,6 +17522,20 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 70
+    },
+    {
+      "id": "BV1FY4y1u7tm",
+      "title": "（电视公益广告）文明出行 排队礼让",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 36.222,
+      "url": "http://www.bilibili.com/video/av644881359",
+      "play_url": "http://www.bilibili.com/video/av644881359",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 13339
     }
   ]
 }
