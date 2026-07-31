@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-07-30T19:30:41.444506+00:00",
-  "total": 1231,
+  "generated_at": "2026-07-31T02:46:23.119651+00:00",
+  "total": 1232,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 235,
-    "爱国": 158,
+    "爱国": 159,
     "环保": 132,
-    "友善": 127,
+    "友善": 128,
     "节约": 105,
-    "诚信": 90,
+    "诚信": 91,
     "孝道": 67,
     "交通安全": 66,
     "助人为乐": 37,
@@ -17450,6 +17450,22 @@
       "source": "bilibili",
       "uploader": "-星空下被删除的记忆-",
       "view_count": 8439
+    },
+    {
+      "id": "BV1og411i79K",
+      "title": "社会主义核心价值观元宵节版",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 90.487,
+      "url": "http://www.bilibili.com/video/av517513593",
+      "play_url": "http://www.bilibili.com/video/av517513593",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "白盏1",
+      "view_count": 324
     }
   ]
 }
