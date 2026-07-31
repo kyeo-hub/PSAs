@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-07-31T08:56:07.843170+00:00",
-  "total": 1234,
+  "generated_at": "2026-07-31T14:09:21.814262+00:00",
+  "total": 1236,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 236,
+    "文明礼貌": 238,
     "爱国": 159,
     "环保": 132,
     "友善": 128,
@@ -17494,6 +17494,34 @@
       "source": "bilibili",
       "uploader": "鸿雁长城",
       "view_count": 144
+    },
+    {
+      "id": "BV1bfGw69Emq",
+      "title": "文明之上起源之下",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 139.0,
+      "url": "http://www.bilibili.com/video/av117013833848875",
+      "play_url": "http://www.bilibili.com/video/av117013833848875",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "雾痕沙雕动画",
+      "view_count": 599
+    },
+    {
+      "id": "BV12MGN6xEXK",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日1周末做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 70.774,
+      "url": "http://www.bilibili.com/video/av117014303678251",
+      "play_url": "http://www.bilibili.com/video/av117014303678251",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 70
     }
   ]
 }
