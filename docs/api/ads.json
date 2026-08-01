@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T02:45:32.136730+00:00",
-  "total": 1237,
+  "generated_at": "2026-08-01T08:24:22.628356+00:00",
+  "total": 1238,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 239,
@@ -10,7 +10,7 @@
     "友善": 128,
     "节约": 105,
     "诚信": 91,
-    "交通安全": 67,
+    "交通安全": 68,
     "孝道": 67,
     "助人为乐": 37,
     "禁烟": 16
@@ -17536,6 +17536,20 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 13339
+    },
+    {
+      "id": "BV1d33a65ESz",
+      "title": "交通安全 ，又有谁来承担。",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 26.215,
+      "url": "http://www.bilibili.com/video/av117011988353477",
+      "play_url": "http://www.bilibili.com/video/av117011988353477",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "HanaTakeshi",
+      "view_count": 24
     }
   ]
 }
