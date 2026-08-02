@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-02T02:43:23.819558+00:00",
-  "total": 1239,
+  "generated_at": "2026-08-02T08:27:33.337923+00:00",
+  "total": 1241,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 240,
     "爱国": 159,
-    "环保": 132,
+    "环保": 133,
     "友善": 128,
     "节约": 105,
     "诚信": 91,
     "交通安全": 68,
-    "孝道": 67,
+    "孝道": 68,
     "助人为乐": 37,
     "禁烟": 16
   },
@@ -17564,6 +17564,34 @@
       "source": "bilibili",
       "uploader": "长安遗梦",
       "view_count": 125
+    },
+    {
+      "id": "BV1mf4y1v7SP",
+      "title": "孝道",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 60.117,
+      "url": "http://www.bilibili.com/video/av287981639",
+      "play_url": "http://www.bilibili.com/video/av287981639",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "反正记不住我",
+      "view_count": 114
+    },
+    {
+      "id": "BV1CW4y1V74F",
+      "title": "【公益广告】秀出你的环保搭档",
+      "categories": [
+        "环保"
+      ],
+      "duration": 59.976,
+      "url": "http://www.bilibili.com/video/av947133823",
+      "play_url": "http://www.bilibili.com/video/av947133823",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 6020
     }
   ]
 }
