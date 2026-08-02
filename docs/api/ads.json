@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T19:12:12.960054+00:00",
-  "total": 1238,
+  "generated_at": "2026-08-02T02:43:23.819558+00:00",
+  "total": 1239,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 239,
+    "文明礼貌": 240,
     "爱国": 159,
     "环保": 132,
     "友善": 128,
@@ -17550,6 +17550,20 @@
       "source": "bilibili",
       "uploader": "HanaTakeshi",
       "view_count": 24
+    },
+    {
+      "id": "BV1kXGG6BEKG",
+      "title": "第1课 中华文明的起源与早期国家",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 129.592,
+      "url": "http://www.bilibili.com/video/av117019957531903",
+      "play_url": "http://www.bilibili.com/video/av117019957531903",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "长安遗梦",
+      "view_count": 125
     }
   ]
 }
