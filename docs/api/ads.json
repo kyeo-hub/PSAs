@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-03T02:46:22.082935+00:00",
-  "total": 1243,
+  "generated_at": "2026-08-03T09:47:25.291901+00:00",
+  "total": 1245,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 240,
+    "文明礼貌": 241,
     "爱国": 159,
     "环保": 133,
     "友善": 128,
-    "节约": 106,
+    "节约": 107,
     "诚信": 91,
     "交通安全": 68,
     "孝道": 68,
@@ -17620,6 +17620,34 @@
       "source": "bilibili",
       "uploader": "A1ine_",
       "view_count": 1626
+    },
+    {
+      "id": "BV1eCMD6sEJg",
+      "title": "【公益广告】每一粒粮食，都应该被珍惜",
+      "categories": [
+        "节约"
+      ],
+      "duration": 95.317,
+      "url": "http://www.bilibili.com/video/av117030208471975",
+      "play_url": "http://www.bilibili.com/video/av117030208471975",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阳光男孩是东北人",
+      "view_count": 58
+    },
+    {
+      "id": "BV16aMX66EeS",
+      "title": "让双休成为一种美德和文明山东公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.445,
+      "url": "http://www.bilibili.com/video/av117030896339285",
+      "play_url": "http://www.bilibili.com/video/av117030896339285",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "不知道莫须有",
+      "view_count": 2
     }
   ]
 }
