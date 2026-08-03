@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-02T19:14:18.292289+00:00",
-  "total": 1241,
+  "generated_at": "2026-08-03T02:46:22.082935+00:00",
+  "total": 1243,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 240,
     "爱国": 159,
     "环保": 133,
     "友善": 128,
-    "节约": 105,
+    "节约": 106,
     "诚信": 91,
     "交通安全": 68,
     "孝道": 68,
-    "助人为乐": 37,
+    "助人为乐": 38,
     "禁烟": 16
   },
   "items": [
@@ -17592,6 +17592,34 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 6020
+    },
+    {
+      "id": "BV1eKGV6fELs",
+      "title": "【央视公益广告】“广而告之”1996版“酗酒，危害健康，危害社会”“电资源是有限的”“水是生命之源，请节约每一滴水”",
+      "categories": [
+        "节约"
+      ],
+      "duration": 85.033,
+      "url": "http://www.bilibili.com/video/av117020074969809",
+      "play_url": "http://www.bilibili.com/video/av117020074969809",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "江苏客户电视",
+      "view_count": 454
+    },
+    {
+      "id": "BV1KwtGeuE5o",
+      "title": "哈药六厂公益广告 2001年版 35s《扶助肢残人 让他们摆脱困境·帮助残疾人 奉献一份爱》",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 35.585,
+      "url": "http://www.bilibili.com/video/av113155661503576",
+      "play_url": "http://www.bilibili.com/video/av113155661503576",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "A1ine_",
+      "view_count": 1626
     }
   ]
 }
