@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T08:40:15.887993+00:00",
-  "total": 1246,
+  "generated_at": "2026-08-04T14:12:51.985517+00:00",
+  "total": 1248,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 242,
@@ -9,9 +9,9 @@
     "环保": 133,
     "友善": 129,
     "节约": 107,
-    "诚信": 92,
+    "诚信": 93,
+    "交通安全": 69,
     "孝道": 69,
-    "交通安全": 68,
     "助人为乐": 38,
     "禁烟": 16
   },
@@ -17665,6 +17665,34 @@
       "source": "bilibili",
       "uploader": "懂一點人情世故",
       "view_count": 5528
+    },
+    {
+      "id": "BV1Pg4y1v73p",
+      "title": "厦门一套“您的诚信请不要随意揉碎”公益广告（附上方滚动消息）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 59.263,
+      "url": "http://www.bilibili.com/video/av838621871",
+      "play_url": "http://www.bilibili.com/video/av838621871",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "phineaio",
+      "view_count": 1878
+    },
+    {
+      "id": "BV1W34y1p7KB",
+      "title": "公益广告-别让酒驾毁了你的幸福",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 35.12,
+      "url": "http://www.bilibili.com/video/av813059814",
+      "play_url": "http://www.bilibili.com/video/av813059814",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是奈亚子呀",
+      "view_count": 16601
     }
   ]
 }
