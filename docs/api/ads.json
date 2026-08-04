@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T14:12:51.985517+00:00",
-  "total": 1248,
+  "generated_at": "2026-08-04T19:38:32.208824+00:00",
+  "total": 1252,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 242,
+    "文明礼貌": 246,
     "爱国": 159,
     "环保": 133,
     "友善": 129,
@@ -12,7 +12,7 @@
     "诚信": 93,
     "交通安全": 69,
     "孝道": 69,
-    "助人为乐": 38,
+    "助人为乐": 39,
     "禁烟": 16
   },
   "items": [
@@ -17693,6 +17693,63 @@
       "source": "bilibili",
       "uploader": "我是奈亚子呀",
       "view_count": 16601
+    },
+    {
+      "id": "BV1Hmuc6aEea",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日5周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 79.04,
+      "url": "http://www.bilibili.com/video/av117036281762942",
+      "play_url": "http://www.bilibili.com/video/av117036281762942",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 2227
+    },
+    {
+      "id": "BV1WD3Q6JEUE",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日3周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 69.056,
+      "url": "http://www.bilibili.com/video/av117024520937383",
+      "play_url": "http://www.bilibili.com/video/av117024520937383",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 2729
+    },
+    {
+      "id": "BV1dsM96PE14",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日4周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 72.934,
+      "url": "http://www.bilibili.com/video/av117030392962833",
+      "play_url": "http://www.bilibili.com/video/av117030392962833",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 2324
+    },
+    {
+      "id": "BV16KMf6QE5Z",
+      "title": "沧州义工周日照常走进众合•凤凰城小区开展活动。让公益融入日常，让善行成为习惯。这是公益最本真的模样，也是社会文明最坚实的底色。#公益活动#沧州义工#最美志愿者",
+      "categories": [
+        "助人为乐",
+        "文明礼貌"
+      ],
+      "duration": 209.533,
+      "url": "http://www.bilibili.com/video/av117034016837867",
+      "play_url": "http://www.bilibili.com/video/av117034016837867",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "沧州义工王晓妹",
+      "view_count": 95
     }
   ]
 }
