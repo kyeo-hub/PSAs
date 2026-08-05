@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T14:12:02.937647+00:00",
-  "total": 1255,
+  "generated_at": "2026-08-05T19:34:32.569175+00:00",
+  "total": 1259,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 248,
-    "爱国": 160,
+    "文明礼貌": 250,
+    "爱国": 161,
+    "友善": 133,
     "环保": 133,
-    "友善": 132,
     "节约": 107,
-    "诚信": 96,
+    "诚信": 98,
     "孝道": 71,
     "交通安全": 69,
     "助人为乐": 39,
@@ -17800,6 +17800,64 @@
       "source": "bilibili",
       "uploader": "哔哩视频家AR98258",
       "view_count": 209
+    },
+    {
+      "id": "BV1uLVdzoEfZ",
+      "title": "【架空】公益广告：诚实 是一种美德（2012版公益广告版权页）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 32.055,
+      "url": "http://www.bilibili.com/video/av114481531194165",
+      "play_url": "http://www.bilibili.com/video/av114481531194165",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_24957752826",
+      "view_count": 553
+    },
+    {
+      "id": "BV1dNMC6TE5X",
+      "title": "守护长城传承文明第52位左云段长城保护员高忠",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 69.102,
+      "url": "http://www.bilibili.com/video/av117041465919428",
+      "play_url": "http://www.bilibili.com/video/av117041465919428",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "画说长城",
+      "view_count": 0
+    },
+    {
+      "id": "BV1dNMC6TEVb",
+      "title": "守护长城传承文明第51位右玉明长城保护员姚永丽",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 53.8,
+      "url": "http://www.bilibili.com/video/av117041465918997",
+      "play_url": "http://www.bilibili.com/video/av117041465918997",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "画说长城",
+      "view_count": 0
+    },
+    {
+      "id": "BV1wu411S7Te",
+      "title": "社会主义核心价值观-诚信",
+      "categories": [
+        "诚信",
+        "爱国",
+        "友善"
+      ],
+      "duration": 275.643,
+      "url": "http://www.bilibili.com/video/av507543252",
+      "play_url": "http://www.bilibili.com/video/av507543252",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "暮秋十三123",
+      "view_count": 1463
     }
   ]
 }
