@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T08:38:37.595555+00:00",
-  "total": 1253,
+  "generated_at": "2026-08-05T14:12:02.937647+00:00",
+  "total": 1255,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 246,
+    "文明礼貌": 248,
     "爱国": 160,
     "环保": 133,
-    "友善": 130,
+    "友善": 132,
     "节约": 107,
-    "诚信": 94,
+    "诚信": 96,
+    "孝道": 71,
     "交通安全": 69,
-    "孝道": 69,
     "助人为乐": 39,
     "禁烟": 16
   },
@@ -17766,6 +17766,40 @@
       "source": "bilibili",
       "uploader": "道法议题式家园",
       "view_count": 970
+    },
+    {
+      "id": "BV19ZKYeuECa",
+      "title": "德行天下  孝耀中华    弘扬中华传统美德    传承孝则家和家风",
+      "categories": [
+        "孝道",
+        "友善",
+        "诚信",
+        "文明礼貌"
+      ],
+      "duration": 189.938,
+      "url": "http://www.bilibili.com/video/av112506865192192",
+      "play_url": "http://www.bilibili.com/video/av112506865192192",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爆爆发的小宇宙",
+      "view_count": 267
+    },
+    {
+      "id": "BV1A9d1BgE7b",
+      "title": "舞蹈《传统美德》完整版来啦！弘扬中华优秀传统文化，以舞传情、以礼修身，百善孝为先，中华孝道代代传。舞台效果好、简单易排，小学生少儿都能轻松演，获奖朗诵舞蹈超适合",
+      "categories": [
+        "孝道",
+        "友善",
+        "诚信",
+        "文明礼貌"
+      ],
+      "duration": 146.889,
+      "url": "http://www.bilibili.com/video/av116440455846761",
+      "play_url": "http://www.bilibili.com/video/av116440455846761",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哔哩视频家AR98258",
+      "view_count": 209
     }
   ]
 }
