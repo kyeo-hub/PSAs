@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T19:38:32.208824+00:00",
-  "total": 1252,
+  "generated_at": "2026-08-05T02:29:13.260167+00:00",
+  "total": 1253,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 246,
-    "爱国": 159,
+    "爱国": 160,
     "环保": 133,
-    "友善": 129,
+    "友善": 130,
     "节约": 107,
-    "诚信": 93,
+    "诚信": 94,
     "交通安全": 69,
     "孝道": 69,
     "助人为乐": 39,
@@ -17750,6 +17750,22 @@
       "source": "bilibili",
       "uploader": "沧州义工王晓妹",
       "view_count": 95
+    },
+    {
+      "id": "BV1z149zvEiX",
+      "title": "25年八上道法7.1《珍视自由》议题式课件+大单元教学设计+导学案+课堂笔记||社会主义核心价值观中的自由到底是什么？",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 72.213,
+      "url": "http://www.bilibili.com/video/av115370539095890",
+      "play_url": "http://www.bilibili.com/video/av115370539095890",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "道法议题式家园",
+      "view_count": 970
     }
   ]
 }
