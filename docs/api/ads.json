@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T02:32:29.885810+00:00",
-  "total": 1259,
+  "generated_at": "2026-08-06T08:39:35.153204+00:00",
+  "total": 1260,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 250,
+    "文明礼貌": 251,
     "爱国": 161,
     "友善": 133,
     "环保": 133,
@@ -17858,6 +17858,20 @@
       "source": "bilibili",
       "uploader": "暮秋十三123",
       "view_count": 1463
+    },
+    {
+      "id": "BV1k7M26dEue",
+      "title": "文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 12.0,
+      "url": "http://www.bilibili.com/video/av117043579913940",
+      "play_url": "http://www.bilibili.com/video/av117043579913940",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱禄粉TV",
+      "view_count": 593
     }
   ]
 }
