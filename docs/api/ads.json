@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T08:39:35.153204+00:00",
-  "total": 1260,
+  "generated_at": "2026-08-06T14:10:11.305728+00:00",
+  "total": 1262,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 251,
+    "文明礼貌": 252,
     "爱国": 161,
-    "友善": 133,
+    "友善": 134,
     "环保": 133,
     "节约": 107,
     "诚信": 98,
@@ -17872,6 +17872,34 @@
       "source": "bilibili",
       "uploader": "爱禄粉TV",
       "view_count": 593
+    },
+    {
+      "id": "BV1BtuE6uE3P",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日6周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 75.743,
+      "url": "http://www.bilibili.com/video/av117046817919253",
+      "play_url": "http://www.bilibili.com/video/av117046817919253",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 434
+    },
+    {
+      "id": "BV1wt4y1i7ua",
+      "title": "正能量动画宣传短片分享：用友善给生活添色彩，让世界充满爱！",
+      "categories": [
+        "友善"
+      ],
+      "duration": 120.882,
+      "url": "http://www.bilibili.com/video/av627457826",
+      "play_url": "http://www.bilibili.com/video/av627457826",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "N姐姐呀",
+      "view_count": 6705
     }
   ]
 }
