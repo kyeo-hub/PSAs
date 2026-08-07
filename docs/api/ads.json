@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T00:04:21.370655+00:00",
-  "total": 1265,
+  "generated_at": "2026-08-07T02:50:01.283276+00:00",
+  "total": 1267,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 252,
+    "文明礼貌": 254,
     "爱国": 161,
     "友善": 134,
     "环保": 134,
@@ -17942,6 +17942,34 @@
       "source": "bilibili",
       "uploader": "泰善耐耐",
       "view_count": 4162
+    },
+    {
+      "id": "BV1rY4y1N7XR",
+      "title": "讲文明树新风 公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 56.145,
+      "url": "http://www.bilibili.com/video/av645844304",
+      "play_url": "http://www.bilibili.com/video/av645844304",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鹰郡的500w",
+      "view_count": 1603
+    },
+    {
+      "id": "BV11BBXBDEVF",
+      "title": "讲文明树新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 29.066,
+      "url": "http://www.bilibili.com/video/av115779466959457",
+      "play_url": "http://www.bilibili.com/video/av115779466959457",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "两脚尖",
+      "view_count": 67
     }
   ]
 }
