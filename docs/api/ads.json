@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T14:10:11.305728+00:00",
-  "total": 1262,
+  "generated_at": "2026-08-07T00:04:21.370655+00:00",
+  "total": 1265,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 252,
     "爱国": 161,
     "友善": 134,
-    "环保": 133,
+    "环保": 134,
     "节约": 107,
     "诚信": 98,
-    "孝道": 71,
+    "孝道": 72,
     "交通安全": 69,
     "助人为乐": 39,
-    "禁烟": 16
+    "禁烟": 17
   },
   "items": [
     {
@@ -17900,6 +17900,48 @@
       "source": "bilibili",
       "uploader": "N姐姐呀",
       "view_count": 6705
+    },
+    {
+      "id": "BV132up6kEsA",
+      "title": "什么东西“吸烟”还能有益健康？？？ #树新风 #空气净化器 #树新风T2Pro",
+      "categories": [
+        "禁烟"
+      ],
+      "duration": 56.656,
+      "url": "http://www.bilibili.com/video/av117050626284908",
+      "play_url": "http://www.bilibili.com/video/av117050626284908",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "洛克王国中百",
+      "view_count": 0
+    },
+    {
+      "id": "BV1Ss411B7ai",
+      "title": "央视公益广告《蓝天篇》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 45.16,
+      "url": "http://www.bilibili.com/video/av4699370",
+      "play_url": "http://www.bilibili.com/video/av4699370",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_30644673",
+      "view_count": 23002
+    },
+    {
+      "id": "BV1hi4y1L7yT",
+      "title": "《中华美德》之《尊老爱幼》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 60.022,
+      "url": "http://www.bilibili.com/video/av542737470",
+      "play_url": "http://www.bilibili.com/video/av542737470",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "泰善耐耐",
+      "view_count": 4162
     }
   ]
 }
