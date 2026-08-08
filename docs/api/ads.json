@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T18:59:43.820340+00:00",
-  "total": 1267,
+  "generated_at": "2026-08-08T01:31:04.708970+00:00",
+  "total": 1268,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 254,
     "爱国": 161,
     "友善": 134,
     "环保": 134,
-    "节约": 107,
+    "节约": 108,
     "诚信": 98,
-    "孝道": 72,
+    "孝道": 73,
     "交通安全": 69,
     "助人为乐": 39,
     "禁烟": 17
@@ -17970,6 +17970,21 @@
       "source": "bilibili",
       "uploader": "两脚尖",
       "view_count": 67
+    },
+    {
+      "id": "BV1Mi4y1x7wk",
+      "title": "勤俭节约 ，传承中华美德！",
+      "categories": [
+        "孝道",
+        "节约"
+      ],
+      "duration": 46.829,
+      "url": "http://www.bilibili.com/video/av540944622",
+      "play_url": "http://www.bilibili.com/video/av540944622",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "吾乃侍奉无至尊上之人",
+      "view_count": 2880
     }
   ]
 }
