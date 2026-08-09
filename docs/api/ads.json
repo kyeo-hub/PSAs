@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T01:42:19.854775+00:00",
-  "total": 1269,
+  "generated_at": "2026-08-09T06:59:33.422036+00:00",
+  "total": 1270,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 254,
+    "文明礼貌": 255,
     "爱国": 161,
     "友善": 134,
     "环保": 134,
@@ -17999,6 +17999,20 @@
       "source": "bilibili",
       "uploader": "青海普法",
       "view_count": 1
+    },
+    {
+      "id": "BV1BN41117R4",
+      "title": "可可小爱公益广告剧：文明观影",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 35.386,
+      "url": "http://www.bilibili.com/video/av486745947",
+      "play_url": "http://www.bilibili.com/video/av486745947",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 4030
     }
   ]
 }
