@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-09T06:59:33.422036+00:00",
-  "total": 1270,
+  "generated_at": "2026-08-09T12:51:23.662489+00:00",
+  "total": 1272,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 255,
+    "文明礼貌": 257,
     "爱国": 161,
     "友善": 134,
     "环保": 134,
@@ -18013,6 +18013,34 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 4030
+    },
+    {
+      "id": "BV1qMuh66Evz",
+      "title": "异常管理局：否定文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.433,
+      "url": "http://www.bilibili.com/video/av117054384381657",
+      "play_url": "http://www.bilibili.com/video/av117054384381657",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "诸葛皮皮9527",
+      "view_count": 179606
+    },
+    {
+      "id": "BV1tCuj6nEhT",
+      "title": "若中华文明在欧洲………",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.733,
+      "url": "http://www.bilibili.com/video/av117063259593668",
+      "play_url": "http://www.bilibili.com/video/av117063259593668",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中汪出精卫",
+      "view_count": 236
     }
   ]
 }
