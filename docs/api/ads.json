@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T18:42:12.769701+00:00",
-  "total": 1268,
+  "generated_at": "2026-08-09T01:42:19.854775+00:00",
+  "total": 1269,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 254,
@@ -11,7 +11,7 @@
     "节约": 108,
     "诚信": 98,
     "孝道": 73,
-    "交通安全": 69,
+    "交通安全": 70,
     "助人为乐": 39,
     "禁烟": 17
   },
@@ -17985,6 +17985,20 @@
       "source": "bilibili",
       "uploader": "吾乃侍奉无至尊上之人",
       "view_count": 2880
+    },
+    {
+      "id": "BV1Kyuj6SEds",
+      "title": "道路交通安全普法知识 来源：都兰县司法局",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 71.888,
+      "url": "http://www.bilibili.com/video/av117062907207367",
+      "play_url": "http://www.bilibili.com/video/av117062907207367",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "青海普法",
+      "view_count": 1
     }
   ]
 }
