@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T01:48:26.047540+00:00",
-  "total": 1272,
+  "generated_at": "2026-08-10T07:45:02.831619+00:00",
+  "total": 1273,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 257,
+    "文明礼貌": 258,
     "爱国": 161,
     "友善": 134,
     "环保": 134,
@@ -18041,6 +18041,20 @@
       "source": "bilibili",
       "uploader": "中汪出精卫",
       "view_count": 236
+    },
+    {
+      "id": "BV1aSum62EGC",
+      "title": "假如中华文明在美洲起步",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 67.105,
+      "url": "http://www.bilibili.com/video/av117064903688221",
+      "play_url": "http://www.bilibili.com/video/av117064903688221",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "神宗宗宗宗",
+      "view_count": 7433
     }
   ]
 }
