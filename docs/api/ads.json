@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T07:45:02.831619+00:00",
-  "total": 1273,
+  "generated_at": "2026-08-10T13:12:48.789502+00:00",
+  "total": 1274,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 258,
@@ -10,7 +10,7 @@
     "环保": 134,
     "节约": 108,
     "诚信": 98,
-    "孝道": 73,
+    "孝道": 74,
     "交通安全": 70,
     "助人为乐": 39,
     "禁烟": 17
@@ -18055,6 +18055,20 @@
       "source": "bilibili",
       "uploader": "神宗宗宗宗",
       "view_count": 7433
+    },
+    {
+      "id": "BV1mYud68Egr",
+      "title": "【放送文化】2026年安徽广播电视台公益广告《千年称谓演变 孝亲美德不改》（安徽卫视播出版本）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 60.113,
+      "url": "http://www.bilibili.com/video/av117070373062199",
+      "play_url": "http://www.bilibili.com/video/av117070373062199",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "宇哥放送迷",
+      "view_count": 40
     }
   ]
 }
