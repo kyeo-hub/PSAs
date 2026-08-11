@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T19:03:12.775150+00:00",
-  "total": 1274,
+  "generated_at": "2026-08-11T01:43:50.326095+00:00",
+  "total": 1275,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 258,
     "爱国": 161,
-    "友善": 134,
+    "友善": 135,
     "环保": 134,
     "节约": 108,
     "诚信": 98,
@@ -18069,6 +18069,20 @@
       "source": "bilibili",
       "uploader": "宇哥放送迷",
       "view_count": 40
+    },
+    {
+      "id": "BV19cgyzdE1y",
+      "title": "央视新闻频道公益广告《友善是最温暖的语言》（原视频无配音，本人亲自配音）",
+      "categories": [
+        "友善"
+      ],
+      "duration": 59.754,
+      "url": "http://www.bilibili.com/video/av114772766885000",
+      "play_url": "http://www.bilibili.com/video/av114772766885000",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "魏小皓",
+      "view_count": 480
     }
   ]
 }
