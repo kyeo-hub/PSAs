@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T13:06:11.167428+00:00",
-  "total": 1277,
+  "generated_at": "2026-08-11T19:04:15.023846+00:00",
+  "total": 1280,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 259,
+    "文明礼貌": 261,
     "爱国": 161,
-    "友善": 135,
+    "友善": 136,
     "环保": 134,
     "节约": 108,
     "诚信": 98,
@@ -18111,6 +18111,48 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 6978
+    },
+    {
+      "id": "BV19W411r7qb",
+      "title": "我们熟悉的公益广告[关爱别人 快乐自己]【晨跑·举手之劳篇】",
+      "categories": [
+        "友善"
+      ],
+      "duration": 55.495,
+      "url": "http://www.bilibili.com/video/av31728543",
+      "play_url": "http://www.bilibili.com/video/av31728543",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "摇一曳",
+      "view_count": 19258
+    },
+    {
+      "id": "BV1zZuq6hEWs",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日11周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 66.687,
+      "url": "http://www.bilibili.com/video/av117075473407949",
+      "play_url": "http://www.bilibili.com/video/av117075473407949",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 439
+    },
+    {
+      "id": "BV1w9uj6CEZs",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日9，周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 68.568,
+      "url": "http://www.bilibili.com/video/av117062873651835",
+      "play_url": "http://www.bilibili.com/video/av117062873651835",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1839
     }
   ]
 }
