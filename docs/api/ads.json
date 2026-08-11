@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T01:43:50.326095+00:00",
-  "total": 1275,
+  "generated_at": "2026-08-11T07:09:25.595602+00:00",
+  "total": 1276,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 258,
+    "文明礼貌": 259,
     "爱国": 161,
     "友善": 135,
     "环保": 134,
@@ -18083,6 +18083,20 @@
       "source": "bilibili",
       "uploader": "魏小皓",
       "view_count": 480
+    },
+    {
+      "id": "BV1Htuo6XE53",
+      "title": "反清复明！兴复旧室，还于旧都【文明时代3/历史时代3】一战风云大明线（架空历史纯属虚构）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 129.933,
+      "url": "http://www.bilibili.com/video/av117072185006632",
+      "play_url": "http://www.bilibili.com/video/av117072185006632",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "普通的人114517",
+      "view_count": 387
     }
   ]
 }
