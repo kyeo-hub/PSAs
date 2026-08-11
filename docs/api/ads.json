@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T07:09:25.595602+00:00",
-  "total": 1276,
+  "generated_at": "2026-08-11T13:06:11.167428+00:00",
+  "total": 1277,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 259,
@@ -11,7 +11,7 @@
     "节约": 108,
     "诚信": 98,
     "孝道": 74,
-    "交通安全": 70,
+    "交通安全": 71,
     "助人为乐": 39,
     "禁烟": 17
   },
@@ -18097,6 +18097,20 @@
       "source": "bilibili",
       "uploader": "普通的人114517",
       "view_count": 387
+    },
+    {
+      "id": "BV1hb4y1h7uT",
+      "title": "广而告之经典公益广告《自觉遵守交通法规 无论白天与黑夜》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.245,
+      "url": "http://www.bilibili.com/video/av633725634",
+      "play_url": "http://www.bilibili.com/video/av633725634",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 6978
     }
   ]
 }
