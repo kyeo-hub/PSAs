@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T13:10:41.535247+00:00",
-  "total": 1286,
+  "generated_at": "2026-08-12T19:05:56.387095+00:00",
+  "total": 1287,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 267,
     "爱国": 163,
     "友善": 138,
-    "环保": 134,
-    "节约": 108,
+    "环保": 135,
+    "节约": 109,
     "诚信": 99,
     "孝道": 76,
     "交通安全": 71,
@@ -18245,6 +18245,21 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 3881
+    },
+    {
+      "id": "BV1Ch411J7f4",
+      "title": "世界粮食日，让我们一起节约粮食",
+      "categories": [
+        "节约",
+        "环保"
+      ],
+      "duration": 169.109,
+      "url": "http://www.bilibili.com/video/av208562719",
+      "play_url": "http://www.bilibili.com/video/av208562719",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国三农发布",
+      "view_count": 48845
     }
   ]
 }
