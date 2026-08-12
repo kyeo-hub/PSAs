@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T07:27:45.638365+00:00",
-  "total": 1283,
+  "generated_at": "2026-08-12T13:10:41.535247+00:00",
+  "total": 1286,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 264,
-    "爱国": 161,
-    "友善": 136,
+    "文明礼貌": 267,
+    "爱国": 163,
+    "友善": 138,
     "环保": 134,
     "节约": 108,
-    "诚信": 98,
-    "孝道": 74,
+    "诚信": 99,
+    "孝道": 76,
     "交通安全": 71,
-    "助人为乐": 39,
+    "助人为乐": 40,
     "禁烟": 17
   },
   "items": [
@@ -18195,6 +18195,56 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 779
+    },
+    {
+      "id": "BV1h9pwzeE5T",
+      "title": "“尊老爱幼是中华民族的传统美德”，松江1路报站更新啦！",
+      "categories": [
+        "诚信",
+        "爱国",
+        "助人为乐",
+        "文明礼貌",
+        "孝道",
+        "友善"
+      ],
+      "duration": 102.485,
+      "url": "http://www.bilibili.com/video/av115203152872776",
+      "play_url": "http://www.bilibili.com/video/av115203152872776",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Solid-Block",
+      "view_count": 1943
+    },
+    {
+      "id": "BV1PmtZeNE6c",
+      "title": "90年代公益广告《孝敬老人 中华美德》",
+      "categories": [
+        "孝道",
+        "友善",
+        "文明礼貌",
+        "爱国"
+      ],
+      "duration": 32.852,
+      "url": "http://www.bilibili.com/video/av113168898655636",
+      "play_url": "http://www.bilibili.com/video/av113168898655636",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 2424
+    },
+    {
+      "id": "BV1GL41167f8",
+      "title": "广而告之公益广告《多一些尊重 多一些交流》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.164,
+      "url": "http://www.bilibili.com/video/av443699044",
+      "play_url": "http://www.bilibili.com/video/av443699044",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 3881
     }
   ]
 }
