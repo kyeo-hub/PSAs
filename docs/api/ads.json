@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T19:05:56.387095+00:00",
-  "total": 1287,
+  "generated_at": "2026-08-13T01:56:29.031149+00:00",
+  "total": 1289,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 267,
-    "爱国": 163,
+    "爱国": 164,
     "友善": 138,
     "环保": 135,
     "节约": 109,
     "诚信": 99,
-    "孝道": 76,
+    "孝道": 77,
     "交通安全": 71,
-    "助人为乐": 40,
+    "助人为乐": 41,
     "禁烟": 17
   },
   "items": [
@@ -18260,6 +18260,35 @@
       "source": "bilibili",
       "uploader": "中国三农发布",
       "view_count": 48845
+    },
+    {
+      "id": "BV1XAg768EV2",
+      "title": "【高清重制】哈药六厂公益广告《人人敬业奉献 祖国繁荣昌盛》（16:9）",
+      "categories": [
+        "爱国",
+        "助人为乐"
+      ],
+      "duration": 47.345,
+      "url": "http://www.bilibili.com/video/av117085036352632",
+      "play_url": "http://www.bilibili.com/video/av117085036352632",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "A1ine_",
+      "view_count": 260
+    },
+    {
+      "id": "BV19P4y1P7cE",
+      "title": "广而告之公益广告《请给留守儿童一份完整的爱》60秒",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 64.212,
+      "url": "http://www.bilibili.com/video/av893478663",
+      "play_url": "http://www.bilibili.com/video/av893478663",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 2262
     }
   ]
 }
