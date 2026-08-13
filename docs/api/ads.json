@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T13:13:23.686144+00:00",
-  "total": 1296,
+  "generated_at": "2026-08-13T19:07:12.752481+00:00",
+  "total": 1298,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 271,
+    "文明礼貌": 273,
     "爱国": 164,
     "友善": 140,
     "环保": 136,
@@ -18388,6 +18388,34 @@
       "source": "bilibili",
       "uploader": "中国传媒大学",
       "view_count": 106514
+    },
+    {
+      "id": "BV1NzgE6REaZ",
+      "title": "无敌是多么的寂寞 幸亏科技掌握在文明手里",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 199.412,
+      "url": "http://www.bilibili.com/video/av117086126874113",
+      "play_url": "http://www.bilibili.com/video/av117086126874113",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "董大韵",
+      "view_count": 13283
+    },
+    {
+      "id": "BV1wQgn6sEa5",
+      "title": "【中国】我从他们身上看到了人类文明！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 250.325,
+      "url": "http://www.bilibili.com/video/av117086898622567",
+      "play_url": "http://www.bilibili.com/video/av117086898622567",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "钢镚小豆豆",
+      "view_count": 4756
     }
   ]
 }
