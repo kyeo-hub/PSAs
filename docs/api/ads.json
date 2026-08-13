@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T01:56:29.031149+00:00",
-  "total": 1289,
+  "generated_at": "2026-08-13T07:31:48.766257+00:00",
+  "total": 1296,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 267,
+    "文明礼貌": 271,
     "爱国": 164,
-    "友善": 138,
-    "环保": 135,
-    "节约": 109,
+    "友善": 140,
+    "环保": 136,
+    "节约": 110,
     "诚信": 99,
     "孝道": 77,
     "交通安全": 71,
@@ -18289,6 +18289,105 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 2262
+    },
+    {
+      "id": "BV1zmyWBCEzP",
+      "title": "被道法课的公益广告戳中！＃友善是最温暖的语言 平凡瞬间藏着治愈力量",
+      "categories": [
+        "友善"
+      ],
+      "duration": 59.95,
+      "url": "http://www.bilibili.com/video/av115457596070099",
+      "play_url": "http://www.bilibili.com/video/av115457596070099",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "秋禾与月酌",
+      "view_count": 92
+    },
+    {
+      "id": "BV1H44y1C7rF",
+      "title": "日本公益广告·友善的地藏菩萨（1985）中文字幕",
+      "categories": [
+        "节约",
+        "友善"
+      ],
+      "duration": 89.117,
+      "url": "http://www.bilibili.com/video/av975163983",
+      "play_url": "http://www.bilibili.com/video/av975163983",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "八成是一",
+      "view_count": 2648
+    },
+    {
+      "id": "BV1HT4y1w75F",
+      "title": "【环保短片】央视环保公益广告《污染的画》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 71.402,
+      "url": "http://www.bilibili.com/video/av927458971",
+      "play_url": "http://www.bilibili.com/video/av927458971",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "山海talk",
+      "view_count": 13607
+    },
+    {
+      "id": "BV1FZg368Eoe",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日12周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 62.902,
+      "url": "http://www.bilibili.com/video/av117081731373732",
+      "play_url": "http://www.bilibili.com/video/av117081731373732",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1035
+    },
+    {
+      "id": "BV1khgH6oEUc",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日13周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 107.276,
+      "url": "http://www.bilibili.com/video/av117086395306200",
+      "play_url": "http://www.bilibili.com/video/av117086395306200",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 186
+    },
+    {
+      "id": "BV1wo4y1y7zG",
+      "title": "文明出游用心灵记录美景公益广告高清版",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 15.325,
+      "url": "http://www.bilibili.com/video/av376010147",
+      "play_url": "http://www.bilibili.com/video/av376010147",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "郎永淳欧阳夏丹安卡尔",
+      "view_count": 217
+    },
+    {
+      "id": "BV1vW411P7Nn",
+      "title": "【动画短片】《文明以礼》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 209.962,
+      "url": "http://www.bilibili.com/video/av24117973",
+      "play_url": "http://www.bilibili.com/video/av24117973",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国传媒大学",
+      "view_count": 106514
     }
   ]
 }
