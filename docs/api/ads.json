@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T19:07:12.752481+00:00",
-  "total": 1298,
+  "generated_at": "2026-08-14T01:55:43.621426+00:00",
+  "total": 1300,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 273,
-    "爱国": 164,
-    "友善": 140,
+    "文明礼貌": 274,
+    "爱国": 165,
+    "友善": 141,
     "环保": 136,
     "节约": 110,
-    "诚信": 99,
+    "诚信": 100,
     "孝道": 77,
     "交通安全": 71,
     "助人为乐": 41,
@@ -18416,6 +18416,36 @@
       "source": "bilibili",
       "uploader": "钢镚小豆豆",
       "view_count": 4756
+    },
+    {
+      "id": "BV1Yi4y177Hs",
+      "title": "社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 90.32,
+      "url": "http://www.bilibili.com/video/av542613065",
+      "play_url": "http://www.bilibili.com/video/av542613065",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小飞虫6号",
+      "view_count": 12592
+    },
+    {
+      "id": "BV15TgG6pE1n",
+      "title": "华夏文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 26.966,
+      "url": "http://www.bilibili.com/video/av117081831900863",
+      "play_url": "http://www.bilibili.com/video/av117081831900863",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "十三香xia",
+      "view_count": 63
     }
   ]
 }
