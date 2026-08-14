@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T13:08:30.065564+00:00",
-  "total": 1301,
+  "generated_at": "2026-08-14T18:58:25.514968+00:00",
+  "total": 1304,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 274,
+    "文明礼貌": 277,
     "爱国": 165,
     "友善": 141,
     "环保": 136,
     "节约": 110,
     "诚信": 101,
-    "孝道": 77,
+    "孝道": 78,
     "交通安全": 71,
     "助人为乐": 41,
     "禁烟": 17
@@ -18460,6 +18460,49 @@
       "source": "bilibili",
       "uploader": "文明作品",
       "view_count": 27774
+    },
+    {
+      "id": "BV1bg4y1v78k",
+      "title": "文明发布广告 共建网络秩序高清公益广告-广正网",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 29.84,
+      "url": "http://www.bilibili.com/video/av838670624",
+      "play_url": "http://www.bilibili.com/video/av838670624",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "本人巡回济_李柳璇I47",
+      "view_count": 1448
+    },
+    {
+      "id": "BV11t411T7a7",
+      "title": "萤火｜立足传统文化，践行乡土教育之孝道文化篇",
+      "categories": [
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 270.16,
+      "url": "http://www.bilibili.com/video/av62142164",
+      "play_url": "http://www.bilibili.com/video/av62142164",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小陈不爱吃皮蛋",
+      "view_count": 5028
+    },
+    {
+      "id": "BV1mmgw65EKp",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日14周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 70.844,
+      "url": "http://www.bilibili.com/video/av117092317664993",
+      "play_url": "http://www.bilibili.com/video/av117092317664993",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 555
     }
   ]
 }
