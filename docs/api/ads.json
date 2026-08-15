@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T06:42:18.727216+00:00",
-  "total": 1308,
+  "generated_at": "2026-08-15T12:41:07.354489+00:00",
+  "total": 1310,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 279,
+    "文明礼貌": 280,
     "爱国": 166,
     "友善": 143,
     "环保": 138,
     "节约": 110,
-    "诚信": 103,
+    "诚信": 104,
     "孝道": 80,
     "交通安全": 71,
     "助人为乐": 42,
@@ -18567,6 +18567,34 @@
       "source": "bilibili",
       "uploader": "8282225683",
       "view_count": 4
+    },
+    {
+      "id": "BV18huv63E54",
+      "title": "【CCTV公益传播】公益广告《守诚信心比心》《成长的模样》（央视综艺频道、财经频道播出版本）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 150.133,
+      "url": "http://www.bilibili.com/video/av117074936464937",
+      "play_url": "http://www.bilibili.com/video/av117074936464937",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "喜欢康权的我",
+      "view_count": 114
+    },
+    {
+      "id": "BV1Yag36jEkJ",
+      "title": "自古以来人类只有一个文明-華夏",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 213.376,
+      "url": "http://www.bilibili.com/video/av117096981729782",
+      "play_url": "http://www.bilibili.com/video/av117096981729782",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "桑大当家",
+      "view_count": 1445
     }
   ]
 }
