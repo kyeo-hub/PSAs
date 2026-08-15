@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T18:58:25.514968+00:00",
-  "total": 1304,
+  "generated_at": "2026-08-15T01:14:21.511431+00:00",
+  "total": 1308,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 277,
-    "爱国": 165,
-    "友善": 141,
-    "环保": 136,
+    "文明礼貌": 279,
+    "爱国": 166,
+    "友善": 143,
+    "环保": 138,
     "节约": 110,
-    "诚信": 101,
-    "孝道": 78,
+    "诚信": 103,
+    "孝道": 80,
     "交通安全": 71,
-    "助人为乐": 41,
+    "助人为乐": 42,
     "禁烟": 17
   },
   "items": [
@@ -18503,6 +18503,70 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 555
+    },
+    {
+      "id": "BV1V9gc6HE71",
+      "title": "【高清重制】哈药六厂公益广告《他们需要更多的帮助》",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 35.085,
+      "url": "http://www.bilibili.com/video/av117090690275289",
+      "play_url": "http://www.bilibili.com/video/av117090690275289",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "A1ine_",
+      "view_count": 214
+    },
+    {
+      "id": "BV1Wp4y1a78e",
+      "title": "【环保短片】央视公益广告《保护濒危动物》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 56.682,
+      "url": "http://www.bilibili.com/video/av969674332",
+      "play_url": "http://www.bilibili.com/video/av969674332",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "山海talk",
+      "view_count": 21711
+    },
+    {
+      "id": "BV1Sd4y1g7hy",
+      "title": "传统美德低碳环保",
+      "categories": [
+        "环保",
+        "诚信",
+        "孝道",
+        "文明礼貌",
+        "友善"
+      ],
+      "duration": 57.701,
+      "url": "http://www.bilibili.com/video/av345302236",
+      "play_url": "http://www.bilibili.com/video/av345302236",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "谢不负韶华",
+      "view_count": 73
+    },
+    {
+      "id": "BV1MV4y1f7Uh",
+      "title": "科瑞37krr(Android+Win)---是我们中华民族的传统美德我们每一个人都微",
+      "categories": [
+        "诚信",
+        "孝道",
+        "爱国",
+        "文明礼貌",
+        "友善"
+      ],
+      "duration": 27.022,
+      "url": "http://www.bilibili.com/video/av867606311",
+      "play_url": "http://www.bilibili.com/video/av867606311",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "8282225683",
+      "view_count": 4
     }
   ]
 }
