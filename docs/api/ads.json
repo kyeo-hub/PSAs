@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T12:41:07.354489+00:00",
-  "total": 1310,
+  "generated_at": "2026-08-15T18:33:24.603605+00:00",
+  "total": 1311,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 280,
+    "文明礼貌": 281,
     "爱国": 166,
-    "友善": 143,
+    "友善": 144,
     "环保": 138,
     "节约": 110,
     "诚信": 104,
@@ -18595,6 +18595,21 @@
       "source": "bilibili",
       "uploader": "桑大当家",
       "view_count": 1445
+    },
+    {
+      "id": "BV1SXEA6uEPo",
+      "title": "《校园文明歌》和谐美好校园靠大家共同维护#手势舞#以文明为主题的校园歌曲#文明礼仪歌#文明校园#讲文明树新风",
+      "categories": [
+        "友善",
+        "文明礼貌"
+      ],
+      "duration": 13.166,
+      "url": "http://www.bilibili.com/video/av116692567004812",
+      "play_url": "http://www.bilibili.com/video/av116692567004812",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "舞蹈找薇381872160",
+      "view_count": 3
     }
   ]
 }
