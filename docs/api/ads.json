@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T01:18:15.938258+00:00",
-  "total": 1312,
+  "generated_at": "2026-08-16T06:42:58.030542+00:00",
+  "total": 1314,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 281,
+    "文明礼貌": 282,
     "爱国": 166,
     "友善": 144,
     "环保": 138,
-    "节约": 110,
+    "节约": 111,
     "诚信": 105,
-    "孝道": 80,
+    "孝道": 81,
     "交通安全": 71,
     "助人为乐": 42,
     "禁烟": 17
@@ -18624,6 +18624,35 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 1369
+    },
+    {
+      "id": "BV1es411e782",
+      "title": "孝悌忠信礼义廉耻",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 64.789,
+      "url": "http://www.bilibili.com/video/av7538384",
+      "play_url": "http://www.bilibili.com/video/av7538384",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "水墨凡尘",
+      "view_count": 3631
+    },
+    {
+      "id": "BV1bbzPB4Eqb",
+      "title": "央视公益广告新老版本对比（1）——节约粮食",
+      "categories": [
+        "文明礼貌",
+        "节约"
+      ],
+      "duration": 39.868,
+      "url": "http://www.bilibili.com/video/av115942273057887",
+      "play_url": "http://www.bilibili.com/video/av115942273057887",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小雪自媒中心-Official",
+      "view_count": 1672
     }
   ]
 }
