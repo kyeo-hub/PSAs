@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T18:33:24.603605+00:00",
-  "total": 1311,
+  "generated_at": "2026-08-16T01:18:15.938258+00:00",
+  "total": 1312,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 281,
@@ -9,7 +9,7 @@
     "友善": 144,
     "环保": 138,
     "节约": 110,
-    "诚信": 104,
+    "诚信": 105,
     "孝道": 80,
     "交通安全": 71,
     "助人为乐": 42,
@@ -18610,6 +18610,20 @@
       "source": "bilibili",
       "uploader": "舞蹈找薇381872160",
       "view_count": 3
+    },
+    {
+      "id": "BV16Z4y1R7f3",
+      "title": "【公益广告】诚信，让世界更美好！",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 45.013,
+      "url": "http://www.bilibili.com/video/av381540930",
+      "play_url": "http://www.bilibili.com/video/av381540930",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 1369
     }
   ]
 }
