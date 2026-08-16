@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T12:43:02.414150+00:00",
-  "total": 1319,
+  "generated_at": "2026-08-16T18:33:36.783165+00:00",
+  "total": 1322,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 286,
+    "文明礼貌": 288,
     "爱国": 166,
     "友善": 144,
     "环保": 139,
     "节约": 111,
     "诚信": 106,
-    "孝道": 81,
+    "孝道": 82,
     "交通安全": 71,
-    "助人为乐": 42,
+    "助人为乐": 43,
     "禁烟": 17
   },
   "items": [
@@ -18724,6 +18724,49 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 750
+    },
+    {
+      "id": "BV1xabX6AEvY",
+      "title": "爱旅行 讲文明公益广告倒放",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.04,
+      "url": "http://www.bilibili.com/video/av117105169011195",
+      "play_url": "http://www.bilibili.com/video/av117105169011195",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "熊孩子双一",
+      "view_count": 11
+    },
+    {
+      "id": "BV1oBgg6pEku",
+      "title": "婺源长溪村老村长戴向阳二十多年来尊老爱幼，热心公益事业，是中央文",
+      "categories": [
+        "孝道",
+        "文明礼貌"
+      ],
+      "duration": 15.116,
+      "url": "http://www.bilibili.com/video/av117097904475604",
+      "play_url": "http://www.bilibili.com/video/av117097904475604",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "婺源戴向阳",
+      "view_count": 4
+    },
+    {
+      "id": "BV1Zd4y1R7K4",
+      "title": "（电视公益广告）字典篇",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 78.924,
+      "url": "http://www.bilibili.com/video/av387275909",
+      "play_url": "http://www.bilibili.com/video/av387275909",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 17767
     }
   ]
 }
