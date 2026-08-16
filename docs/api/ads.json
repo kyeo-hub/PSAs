@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T06:42:58.030542+00:00",
-  "total": 1314,
+  "generated_at": "2026-08-16T12:43:02.414150+00:00",
+  "total": 1319,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 282,
+    "文明礼貌": 286,
     "爱国": 166,
     "友善": 144,
-    "环保": 138,
+    "环保": 139,
     "节约": 111,
-    "诚信": 105,
+    "诚信": 106,
     "孝道": 81,
     "交通安全": 71,
     "助人为乐": 42,
@@ -18653,6 +18653,77 @@
       "source": "bilibili",
       "uploader": "小雪自媒中心-Official",
       "view_count": 1672
+    },
+    {
+      "id": "BV1V3XtBPEn3",
+      "title": "【CCTV公益传播】诚信建设主题公益广告《守诚信  心比心》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 90.033,
+      "url": "http://www.bilibili.com/video/av116297580939276",
+      "play_url": "http://www.bilibili.com/video/av116297580939276",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 1559
+    },
+    {
+      "id": "BV12441117Ze",
+      "title": "央视新闻频道《共建生态文明 共享绿色未来》公益广告垃圾分类篇",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 46.287,
+      "url": "http://www.bilibili.com/video/av66472830",
+      "play_url": "http://www.bilibili.com/video/av66472830",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 66191
+    },
+    {
+      "id": "BV15mbU6iE32",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日16周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 86.889,
+      "url": "http://www.bilibili.com/video/av117103122191616",
+      "play_url": "http://www.bilibili.com/video/av117103122191616",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 476
+    },
+    {
+      "id": "BV17QgN6uEsN",
+      "title": "《铁血文明》第二集，雷霆战士即将开始反击",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 210.976,
+      "url": "http://www.bilibili.com/video/av117094330933082",
+      "play_url": "http://www.bilibili.com/video/av117094330933082",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "柒哥漫说",
+      "view_count": 3239
+    },
+    {
+      "id": "BV1Wobk6KEof",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日15周末线下赠书做公益#公益#正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 65.434,
+      "url": "http://www.bilibili.com/video/av117098374306736",
+      "play_url": "http://www.bilibili.com/video/av117098374306736",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 750
     }
   ]
 }
