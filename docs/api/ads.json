@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T12:46:25.766917+00:00",
-  "total": 1324,
+  "generated_at": "2026-08-17T18:42:10.284655+00:00",
+  "total": 1327,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 288,
-    "爱国": 166,
+    "文明礼貌": 290,
+    "爱国": 167,
     "友善": 144,
     "环保": 139,
-    "节约": 111,
-    "诚信": 106,
+    "节约": 112,
+    "诚信": 107,
     "孝道": 82,
     "交通安全": 73,
     "助人为乐": 43,
@@ -18795,6 +18795,50 @@
       "source": "bilibili",
       "uploader": "蠢萌小浣熊",
       "view_count": 2
+    },
+    {
+      "id": "BV16o4y1Z7Bu",
+      "title": "大学生创意视频，节约粮食，珍爱生命",
+      "categories": [
+        "节约"
+      ],
+      "duration": 190.783,
+      "url": "http://www.bilibili.com/video/av373399468",
+      "play_url": "http://www.bilibili.com/video/av373399468",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "寒育帛singar",
+      "view_count": 2010
+    },
+    {
+      "id": "BV1aHba6JEjz",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日15周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 100.403,
+      "url": "http://www.bilibili.com/video/av117109547932561",
+      "play_url": "http://www.bilibili.com/video/av117109547932561",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 904
+    },
+    {
+      "id": "BV1zQbi6LECn",
+      "title": "《诚信润文明》诵读弘扬诚信礼仪，人无信不立，校无信不兴。国旗下的庄严承诺，是孩子们心中种下的诚信种子。以诚润心，以信铸魂，让文明之花在校园绽放！",
+      "categories": [
+        "诚信",
+        "爱国",
+        "文明礼貌"
+      ],
+      "duration": 153.112,
+      "url": "http://www.bilibili.com/video/av117110890171667",
+      "play_url": "http://www.bilibili.com/video/av117110890171667",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "清音舞资料",
+      "view_count": 0
     }
   ]
 }
