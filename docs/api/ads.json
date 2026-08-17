@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T01:15:04.937410+00:00",
-  "total": 1322,
+  "generated_at": "2026-08-17T06:57:20.539842+00:00",
+  "total": 1324,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 288,
@@ -11,7 +11,7 @@
     "节约": 111,
     "诚信": 106,
     "孝道": 82,
-    "交通安全": 71,
+    "交通安全": 73,
     "助人为乐": 43,
     "禁烟": 17
   },
@@ -18767,6 +18767,34 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 17767
+    },
+    {
+      "id": "BV1r5bb64EVZ",
+      "title": "西藏公路防撞护栏推荐，坚固的公路护栏，是交通安全的可靠保障，伴您一路平安。公路护栏防腐防锈，长期使用不变形，持久可靠。【鼎创】集SNS主动防护网、被动防护网研发",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 23.509,
+      "url": "http://www.bilibili.com/video/av117107635260257",
+      "play_url": "http://www.bilibili.com/video/av117107635260257",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_24996309204",
+      "view_count": 0
+    },
+    {
+      "id": "BV1WjbY6kE4e",
+      "title": "当你以为自己是最安全的汽车时...#交通安全 #行车安全 #安全是最大的豪华 #福特蒙迪欧 #蒙迪欧",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 26.517,
+      "url": "http://www.bilibili.com/video/av117109212449010",
+      "play_url": "http://www.bilibili.com/video/av117109212449010",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蠢萌小浣熊",
+      "view_count": 2
     }
   ]
 }
