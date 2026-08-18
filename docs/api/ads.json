@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T06:46:43.770004+00:00",
-  "total": 1329,
+  "generated_at": "2026-08-18T12:49:00.540615+00:00",
+  "total": 1331,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 291,
+    "文明礼貌": 293,
     "爱国": 167,
     "友善": 144,
     "环保": 140,
@@ -18868,6 +18868,34 @@
       "source": "bilibili",
       "uploader": "万物都是源泉",
       "view_count": 398
+    },
+    {
+      "id": "BV1E78g6qEdE",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日18周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 82.686,
+      "url": "http://www.bilibili.com/video/av117115638190429",
+      "play_url": "http://www.bilibili.com/video/av117115638190429",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1114
+    },
+    {
+      "id": "BV1b2bh6VEsy",
+      "title": "重塑叙事，定义文明从“被言说”到“自我言说\"的回归之路#华夏文明#文化复兴#知行焕叔",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 255.766,
+      "url": "http://www.bilibili.com/video/av117108054692984",
+      "play_url": "http://www.bilibili.com/video/av117108054692984",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "知行焕叔",
+      "view_count": 1124
     }
   ]
 }
