@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T12:49:00.540615+00:00",
-  "total": 1331,
+  "generated_at": "2026-08-18T18:42:31.419948+00:00",
+  "total": 1332,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 293,
@@ -12,7 +12,7 @@
     "诚信": 107,
     "孝道": 82,
     "交通安全": 73,
-    "助人为乐": 43,
+    "助人为乐": 44,
     "禁烟": 17
   },
   "items": [
@@ -18896,6 +18896,20 @@
       "source": "bilibili",
       "uploader": "知行焕叔",
       "view_count": 1124
+    },
+    {
+      "id": "BV17V4y1u79q",
+      "title": "（电视公益广告）晨跑",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 59.024,
+      "url": "http://www.bilibili.com/video/av857747251",
+      "play_url": "http://www.bilibili.com/video/av857747251",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 4235
     }
   ]
 }
