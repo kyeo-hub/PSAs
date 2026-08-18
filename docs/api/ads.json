@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T01:12:07.971444+00:00",
-  "total": 1327,
+  "generated_at": "2026-08-18T06:46:43.770004+00:00",
+  "total": 1329,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 290,
+    "文明礼貌": 291,
     "爱国": 167,
     "友善": 144,
-    "环保": 139,
-    "节约": 112,
+    "环保": 140,
+    "节约": 113,
     "诚信": 107,
     "孝道": 82,
     "交通安全": 73,
@@ -18839,6 +18839,35 @@
       "source": "bilibili",
       "uploader": "清音舞资料",
       "view_count": 0
+    },
+    {
+      "id": "BV1X3bz6uEKf",
+      "title": "2003年广东电视台公益广告-环保潮流，节约资源，垃圾分类，循环再造2",
+      "categories": [
+        "环保",
+        "节约"
+      ],
+      "duration": 24.04,
+      "url": "http://www.bilibili.com/video/av117113993824194",
+      "play_url": "http://www.bilibili.com/video/av117113993824194",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "张舒阳游戏记录",
+      "view_count": 38
+    },
+    {
+      "id": "BV1Xobr6jE6G",
+      "title": "战争与文明玩家力竭时刻1：隐秘的角落的金币堆",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 76.888,
+      "url": "http://www.bilibili.com/video/av117114329440165",
+      "play_url": "http://www.bilibili.com/video/av117114329440165",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "万物都是源泉",
+      "view_count": 398
     }
   ]
 }
