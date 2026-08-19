@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T06:45:30.657763+00:00",
-  "total": 1332,
+  "generated_at": "2026-08-19T12:47:21.827431+00:00",
+  "total": 1333,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 293,
     "爱国": 167,
     "友善": 144,
-    "环保": 140,
+    "环保": 141,
     "节约": 113,
     "诚信": 107,
     "孝道": 82,
@@ -18910,6 +18910,20 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 4235
+    },
+    {
+      "id": "BV1wX8G6nEpw",
+      "title": "公益广告_随手扔垃圾",
+      "categories": [
+        "环保"
+      ],
+      "duration": 100.914,
+      "url": "http://www.bilibili.com/video/av117118305567757",
+      "play_url": "http://www.bilibili.com/video/av117118305567757",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "炮灰也想活",
+      "view_count": 4
     }
   ]
 }
