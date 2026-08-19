@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T12:47:21.827431+00:00",
-  "total": 1333,
+  "generated_at": "2026-08-19T18:38:13.441111+00:00",
+  "total": 1337,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 293,
-    "爱国": 167,
-    "友善": 144,
+    "爱国": 170,
+    "友善": 147,
     "环保": 141,
     "节约": 113,
-    "诚信": 107,
+    "诚信": 110,
     "孝道": 82,
-    "交通安全": 73,
+    "交通安全": 74,
     "助人为乐": 44,
     "禁烟": 17
   },
@@ -18924,6 +18924,68 @@
       "source": "bilibili",
       "uploader": "炮灰也想活",
       "view_count": 4
+    },
+    {
+      "id": "BV1Nc411h7PJ",
+      "title": "张三杀手带你学习社会主义核心价值观",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 252.9,
+      "url": "http://www.bilibili.com/video/av285021620",
+      "play_url": "http://www.bilibili.com/video/av285021620",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "铁小林",
+      "view_count": 7040
+    },
+    {
+      "id": "BV1Rs411Q78v",
+      "title": "社会主义核心价值观沙画",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 238.335,
+      "url": "http://www.bilibili.com/video/av4104611",
+      "play_url": "http://www.bilibili.com/video/av4104611",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "美万",
+      "view_count": 14183
+    },
+    {
+      "id": "BV17x41157hq",
+      "title": "【洛天依】社会主义核心价值观之歌",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 219.124,
+      "url": "http://www.bilibili.com/video/av16701647",
+      "play_url": "http://www.bilibili.com/video/av16701647",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 13034
+    },
+    {
+      "id": "BV1Kk8g6JEZZ",
+      "title": "笑死！电影牛来真的火了连人民日报都下场玩梗！联合交警创作了交通安全科普视频！一句盔来直接点燃全网！此前新京报批评牛来扰乱电影市场！别放任牛来胡来这不打脸了…",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 131.355,
+      "url": "http://www.bilibili.com/video/av117115369558419",
+      "play_url": "http://www.bilibili.com/video/av117115369558419",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "谢阿狗",
+      "view_count": 12648
     }
   ]
 }
