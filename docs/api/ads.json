@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T06:48:19.781760+00:00",
-  "total": 1340,
+  "generated_at": "2026-08-20T12:51:58.725886+00:00",
+  "total": 1346,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 295,
-    "爱国": 171,
-    "友善": 148,
+    "文明礼貌": 300,
+    "爱国": 172,
+    "友善": 149,
     "环保": 141,
     "节约": 113,
-    "诚信": 111,
+    "诚信": 112,
     "孝道": 82,
     "交通安全": 74,
     "助人为乐": 44,
@@ -19030,6 +19030,92 @@
       "source": "bilibili",
       "uploader": "bili_24957752826",
       "view_count": 5926
+    },
+    {
+      "id": "BV15A8p6vEXq",
+      "title": "文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 43.167,
+      "url": "http://www.bilibili.com/video/av117122684554353",
+      "play_url": "http://www.bilibili.com/video/av117122684554353",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "鸽子V_V",
+      "view_count": 2545
+    },
+    {
+      "id": "BV1A88F6UEhT",
+      "title": "野蛮其体魄 文明其精神 2026年7月18日20周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 110.62,
+      "url": "http://www.bilibili.com/video/av117126425943036",
+      "play_url": "http://www.bilibili.com/video/av117126425943036",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1263
+    },
+    {
+      "id": "BV193bz6uEGW",
+      "title": "中原文明是本土自生？移民，才是中华文明的底色【复旦葛剑雄】",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 242.369,
+      "url": "http://www.bilibili.com/video/av117113993827756",
+      "play_url": "http://www.bilibili.com/video/av117113993827756",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "葛剑雄教授",
+      "view_count": 3356
+    },
+    {
+      "id": "BV1kg4y1o7Di",
+      "title": "【公益广告】培育和践行社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 30.092,
+      "url": "http://www.bilibili.com/video/av834455106",
+      "play_url": "http://www.bilibili.com/video/av834455106",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "885259",
+      "view_count": 1394
+    },
+    {
+      "id": "BV1HXbB6pEwF",
+      "title": "【央视公益广告】交替通行 礼让前行",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 19.566,
+      "url": "http://www.bilibili.com/video/av117113926780019",
+      "play_url": "http://www.bilibili.com/video/av117113926780019",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_65835531843",
+      "view_count": 42
+    },
+    {
+      "id": "BV1ry4y167BW",
+      "title": "《文明养犬从我做起》 - TVC公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 55.061,
+      "url": "http://www.bilibili.com/video/av797928346",
+      "play_url": "http://www.bilibili.com/video/av797928346",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "电视包装酷",
+      "view_count": 2709
     }
   ]
 }
