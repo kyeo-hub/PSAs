@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T01:14:19.487415+00:00",
-  "total": 1338,
+  "generated_at": "2026-08-20T06:48:19.781760+00:00",
+  "total": 1340,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 294,
-    "爱国": 170,
-    "友善": 147,
+    "文明礼貌": 295,
+    "爱国": 171,
+    "友善": 148,
     "环保": 141,
     "节约": 113,
-    "诚信": 110,
+    "诚信": 111,
     "孝道": 82,
     "交通安全": 74,
     "助人为乐": 44,
@@ -19000,6 +19000,36 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 1463
+    },
+    {
+      "id": "BV1Jp4y1X7kS",
+      "title": "社会主义核心价值观之自由",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 106.693,
+      "url": "http://www.bilibili.com/video/av968349445",
+      "play_url": "http://www.bilibili.com/video/av968349445",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "是否-记得",
+      "view_count": 2077
+    },
+    {
+      "id": "BV1B55LzFEUB",
+      "title": "【架空】公益广告：举手之劳 我们能做的还有很多（汇聚力量 传播文明）版本",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 44.86,
+      "url": "http://www.bilibili.com/video/av114477337020516",
+      "play_url": "http://www.bilibili.com/video/av114477337020516",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_24957752826",
+      "view_count": 5926
     }
   ]
 }
