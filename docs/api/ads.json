@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T01:17:47.917891+00:00",
-  "total": 1346,
+  "generated_at": "2026-08-21T06:47:53.753455+00:00",
+  "total": 1349,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 300,
+    "文明礼貌": 301,
     "爱国": 172,
     "友善": 149,
-    "环保": 141,
-    "节约": 113,
+    "环保": 142,
+    "节约": 114,
     "诚信": 112,
-    "孝道": 82,
+    "孝道": 83,
     "交通安全": 74,
     "助人为乐": 44,
     "禁烟": 17
@@ -19116,6 +19116,49 @@
       "source": "bilibili",
       "uploader": "电视包装酷",
       "view_count": 2709
+    },
+    {
+      "id": "BV1h4411t7ik",
+      "title": "【文明小贴士】这可能是最稀有的文明小贴士",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 33.42,
+      "url": "http://www.bilibili.com/video/av51047932",
+      "play_url": "http://www.bilibili.com/video/av51047932",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哔哩哔哩4312",
+      "view_count": 165508
+    },
+    {
+      "id": "BV1mD421N7t5",
+      "title": "【放送文化】CCTV公益广告《爱的延续 孝的传承》（有卡顿）（不完整）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 59.489,
+      "url": "http://www.bilibili.com/video/av1503983815",
+      "play_url": "http://www.bilibili.com/video/av1503983815",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 3809
+    },
+    {
+      "id": "BV1Q3bz6uEd7",
+      "title": "2003年广东电视台公益广告-环保潮流，节约资源，垃圾分类，循环再造",
+      "categories": [
+        "节约",
+        "环保"
+      ],
+      "duration": 24.012,
+      "url": "http://www.bilibili.com/video/av117113993823350",
+      "play_url": "http://www.bilibili.com/video/av117113993823350",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "张舒阳游戏记录",
+      "view_count": 163
     }
   ]
 }
