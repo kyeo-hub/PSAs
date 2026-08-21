@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T12:49:35.677681+00:00",
-  "total": 1349,
+  "generated_at": "2026-08-21T18:42:34.173014+00:00",
+  "total": 1351,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 301,
+    "文明礼貌": 303,
     "爱国": 172,
     "友善": 149,
     "环保": 142,
@@ -12,7 +12,7 @@
     "诚信": 112,
     "孝道": 83,
     "交通安全": 74,
-    "助人为乐": 44,
+    "助人为乐": 45,
     "禁烟": 17
   },
   "items": [
@@ -19159,6 +19159,35 @@
       "source": "bilibili",
       "uploader": "张舒阳游戏记录",
       "view_count": 163
+    },
+    {
+      "id": "BV1K7411K785",
+      "title": "2009年“迎国庆 讲文明 树新风”公益广告展播",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 222.532,
+      "url": "http://www.bilibili.com/video/av91784611",
+      "play_url": "http://www.bilibili.com/video/av91784611",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 8277
+    },
+    {
+      "id": "BV1Qt411L7PJ",
+      "title": "【中国大陆广告】迎奥运讲文明树新风公益广告之帮助篇（2008）",
+      "categories": [
+        "助人为乐",
+        "文明礼貌"
+      ],
+      "duration": 120.255,
+      "url": "http://www.bilibili.com/video/av60610768",
+      "play_url": "http://www.bilibili.com/video/av60610768",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 8282
     }
   ]
 }
