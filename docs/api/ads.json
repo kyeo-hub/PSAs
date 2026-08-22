@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T06:42:32.191302+00:00",
-  "total": 1355,
+  "generated_at": "2026-08-22T12:40:03.325304+00:00",
+  "total": 1356,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 306,
+    "文明礼貌": 307,
     "爱国": 172,
-    "友善": 151,
+    "友善": 152,
     "环保": 142,
-    "诚信": 114,
+    "诚信": 115,
     "节约": 114,
-    "孝道": 85,
+    "孝道": 86,
     "交通安全": 74,
     "助人为乐": 45,
     "禁烟": 18
@@ -19250,6 +19250,23 @@
       "source": "bilibili",
       "uploader": "885259",
       "view_count": 2948
+    },
+    {
+      "id": "BV1aJ411X7ar",
+      "title": "中华传统美德格言展示",
+      "categories": [
+        "诚信",
+        "友善",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 198.399,
+      "url": "http://www.bilibili.com/video/av77146473",
+      "play_url": "http://www.bilibili.com/video/av77146473",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱转火箭头",
+      "view_count": 7758
     }
   ]
 }
