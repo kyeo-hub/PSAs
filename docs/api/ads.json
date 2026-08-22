@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T01:13:40.043214+00:00",
-  "total": 1352,
+  "generated_at": "2026-08-22T06:42:32.191302+00:00",
+  "total": 1355,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 304,
+    "文明礼貌": 306,
     "爱国": 172,
-    "友善": 150,
+    "友善": 151,
     "环保": 142,
+    "诚信": 114,
     "节约": 114,
-    "诚信": 113,
-    "孝道": 84,
+    "孝道": 85,
     "交通安全": 74,
     "助人为乐": 45,
-    "禁烟": 17
+    "禁烟": 18
   },
   "items": [
     {
@@ -19205,6 +19205,51 @@
       "source": "bilibili",
       "uploader": "这种饼",
       "view_count": 1487225
+    },
+    {
+      "id": "BV1o8411k7uc",
+      "title": "中华传统美德",
+      "categories": [
+        "友善",
+        "孝道",
+        "诚信",
+        "文明礼貌"
+      ],
+      "duration": 101.145,
+      "url": "http://www.bilibili.com/video/av234607652",
+      "play_url": "http://www.bilibili.com/video/av234607652",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "欧阳雪梅Sky",
+      "view_count": 5150
+    },
+    {
+      "id": "BV1djb16FE9q",
+      "title": "SUICIDE小队电影院文明观影须知（自制公益广告）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 90.279,
+      "url": "http://www.bilibili.com/video/av117099196323935",
+      "play_url": "http://www.bilibili.com/video/av117099196323935",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "啾哥666",
+      "view_count": 169
+    },
+    {
+      "id": "BV1qT411F7Uo",
+      "title": "【公益广告】世界吸烟日公益广告",
+      "categories": [
+        "禁烟"
+      ],
+      "duration": 34.154,
+      "url": "http://www.bilibili.com/video/av472511622",
+      "play_url": "http://www.bilibili.com/video/av472511622",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "885259",
+      "view_count": 2948
     }
   ]
 }
