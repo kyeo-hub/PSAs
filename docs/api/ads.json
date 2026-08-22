@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T18:42:34.173014+00:00",
-  "total": 1351,
+  "generated_at": "2026-08-22T01:13:40.043214+00:00",
+  "total": 1352,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 303,
+    "文明礼貌": 304,
     "爱国": 172,
-    "友善": 149,
+    "友善": 150,
     "环保": 142,
     "节约": 114,
-    "诚信": 112,
-    "孝道": 83,
+    "诚信": 113,
+    "孝道": 84,
     "交通安全": 74,
     "助人为乐": 45,
     "禁烟": 17
@@ -19188,6 +19188,23 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 8282
+    },
+    {
+      "id": "BV1kPgu6oEqG",
+      "title": "传统美德",
+      "categories": [
+        "诚信",
+        "友善",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 62.786,
+      "url": "http://www.bilibili.com/video/av117096444858027",
+      "play_url": "http://www.bilibili.com/video/av117096444858027",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "这种饼",
+      "view_count": 1487225
     }
   ]
 }
