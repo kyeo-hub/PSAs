@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T18:34:39.621973+00:00",
-  "total": 1357,
+  "generated_at": "2026-08-23T01:20:21.782929+00:00",
+  "total": 1360,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 308,
+    "文明礼貌": 310,
     "爱国": 172,
-    "友善": 152,
+    "友善": 153,
     "环保": 142,
     "诚信": 115,
     "节约": 114,
-    "孝道": 86,
+    "孝道": 87,
     "交通安全": 74,
     "助人为乐": 45,
     "禁烟": 18
@@ -19281,6 +19281,49 @@
       "source": "bilibili",
       "uploader": "郑为熙",
       "view_count": 89
+    },
+    {
+      "id": "BV1wd826jEis",
+      "title": "倡导文明，从我做起",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 170.4,
+      "url": "http://www.bilibili.com/video/av117139562305749",
+      "play_url": "http://www.bilibili.com/video/av117139562305749",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "莫莫无闻的又一日",
+      "view_count": 123
+    },
+    {
+      "id": "BV1Uw826pEdj",
+      "title": "西方驴牌抄袭中国文明反告国知局，蛮夷阴谋绝对不能得逞！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 147.866,
+      "url": "http://www.bilibili.com/video/av117137934979459",
+      "play_url": "http://www.bilibili.com/video/av117137934979459",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "季叙文",
+      "view_count": 281
+    },
+    {
+      "id": "BV1P7421o73h",
+      "title": "关爱老人用心开始公益广告—自信篇55秒(濮存昕版)",
+      "categories": [
+        "友善",
+        "孝道"
+      ],
+      "duration": 55.522,
+      "url": "http://www.bilibili.com/video/av1655279279",
+      "play_url": "http://www.bilibili.com/video/av1655279279",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "朋友圈APERTURE",
+      "view_count": 5772
     }
   ]
 }
