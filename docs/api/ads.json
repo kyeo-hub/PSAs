@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T06:43:57.444238+00:00",
-  "total": 1364,
+  "generated_at": "2026-08-23T12:43:26.897799+00:00",
+  "total": 1367,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 314,
+    "文明礼貌": 317,
     "爱国": 173,
-    "友善": 154,
+    "友善": 155,
     "环保": 142,
-    "诚信": 116,
+    "诚信": 117,
     "节约": 114,
-    "孝道": 88,
+    "孝道": 89,
     "交通安全": 74,
     "助人为乐": 45,
     "禁烟": 18
@@ -19384,6 +19384,51 @@
       "source": "bilibili",
       "uploader": "灵闲生",
       "view_count": 752
+    },
+    {
+      "id": "BV1FV8y6MEfQ",
+      "title": "讲文明树新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 48.0,
+      "url": "http://www.bilibili.com/video/av117136710305303",
+      "play_url": "http://www.bilibili.com/video/av117136710305303",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_28346518924",
+      "view_count": 53
+    },
+    {
+      "id": "BV19b4y1L7qZ",
+      "title": "中华传统美德~仁",
+      "categories": [
+        "孝道",
+        "诚信",
+        "友善",
+        "文明礼貌"
+      ],
+      "duration": 166.997,
+      "url": "http://www.bilibili.com/video/av621961715",
+      "play_url": "http://www.bilibili.com/video/av621961715",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "乐乐滴滴滴",
+      "view_count": 589
+    },
+    {
+      "id": "BV1YG4y1L71C",
+      "title": "【公益广告】文明发布广告，撑起儿童明天",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 29.93,
+      "url": "http://www.bilibili.com/video/av819862465",
+      "play_url": "http://www.bilibili.com/video/av819862465",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 8824
     }
   ]
 }
