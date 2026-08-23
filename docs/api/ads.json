@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T01:20:21.782929+00:00",
-  "total": 1360,
+  "generated_at": "2026-08-23T06:43:57.444238+00:00",
+  "total": 1364,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 310,
-    "爱国": 172,
-    "友善": 153,
+    "文明礼貌": 314,
+    "爱国": 173,
+    "友善": 154,
     "环保": 142,
-    "诚信": 115,
+    "诚信": 116,
     "节约": 114,
-    "孝道": 87,
+    "孝道": 88,
     "交通安全": 74,
     "助人为乐": 45,
     "禁烟": 18
@@ -19324,6 +19324,66 @@
       "source": "bilibili",
       "uploader": "朋友圈APERTURE",
       "view_count": 5772
+    },
+    {
+      "id": "BV16x4y1v7qR",
+      "title": "公益动画：文明旅游，拒绝陋习，让文明旅游为风景增色。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 91.476,
+      "url": "http://www.bilibili.com/video/av1004290242",
+      "play_url": "http://www.bilibili.com/video/av1004290242",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "北京一之诺文化传媒",
+      "view_count": 1533
+    },
+    {
+      "id": "BV19U8w6GEf2",
+      "title": "《文明6》手机终极完全体！支持联机，全DLC+MOD终极版，包含“新纪元”等所有内容，优化触屏，手机上的“再来一回合”地狱！又是开心玩游戏的一天。还有谁没有",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 123.948,
+      "url": "http://www.bilibili.com/video/av117128875215084",
+      "play_url": "http://www.bilibili.com/video/av117128875215084",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_58730171155",
+      "view_count": 342
+    },
+    {
+      "id": "BV1ou4y1m7Bm",
+      "title": "公益宣传片《文明“基本功”》来啦",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 176.192,
+      "url": "http://www.bilibili.com/video/av828738487",
+      "play_url": "http://www.bilibili.com/video/av828738487",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "深圳龙岗发布",
+      "view_count": 1986
+    },
+    {
+      "id": "BV1Xy4y1978F",
+      "title": "中华民族的传统美德",
+      "categories": [
+        "友善",
+        "爱国",
+        "孝道",
+        "文明礼貌",
+        "诚信"
+      ],
+      "duration": 26.145,
+      "url": "http://www.bilibili.com/video/av778446133",
+      "play_url": "http://www.bilibili.com/video/av778446133",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "灵闲生",
+      "view_count": 752
     }
   ]
 }
