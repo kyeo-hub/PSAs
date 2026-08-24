@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T12:53:45.131443+00:00",
-  "total": 1369,
+  "generated_at": "2026-08-24T18:43:00.501070+00:00",
+  "total": 1370,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 319,
+    "文明礼貌": 320,
     "爱国": 173,
     "友善": 155,
     "环保": 142,
@@ -19458,6 +19458,20 @@
       "source": "bilibili",
       "uploader": "薇bx41070",
       "view_count": 412
+    },
+    {
+      "id": "BV1hJ8S6BECs",
+      "title": "文明之鹰2026",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 279.801,
+      "url": "http://www.bilibili.com/video/av117140065750615",
+      "play_url": "http://www.bilibili.com/video/av117140065750615",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "明亮的车头漆",
+      "view_count": 68656
     }
   ]
 }
