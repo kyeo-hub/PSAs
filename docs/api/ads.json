@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T06:59:43.566949+00:00",
-  "total": 1367,
+  "generated_at": "2026-08-24T12:53:45.131443+00:00",
+  "total": 1369,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 317,
+    "文明礼貌": 319,
     "爱国": 173,
     "友善": 155,
     "环保": 142,
     "诚信": 117,
     "节约": 114,
     "孝道": 89,
-    "交通安全": 74,
+    "交通安全": 75,
     "助人为乐": 45,
     "禁烟": 18
   },
@@ -19429,6 +19429,35 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 8824
+    },
+    {
+      "id": "BV1Vx411p7dt",
+      "title": "《有距离有尊重》 交通安全公益广告(标清)",
+      "categories": [
+        "交通安全",
+        "文明礼貌"
+      ],
+      "duration": 11.177,
+      "url": "http://www.bilibili.com/video/av13007600",
+      "play_url": "http://www.bilibili.com/video/av13007600",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "真是滑了天下之大稽",
+      "view_count": 2628
+    },
+    {
+      "id": "BV1EfH6zDEXw",
+      "title": "文明主题少儿朗诵校园文明教育做文明好少年《我为文明代言》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 71.215,
+      "url": "http://www.bilibili.com/video/av115188892179755",
+      "play_url": "http://www.bilibili.com/video/av115188892179755",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "薇bx41070",
+      "view_count": 412
     }
   ]
 }
