@@ -1,19 +1,20 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T01:15:02.284596+00:00",
-  "total": 1370,
+  "generated_at": "2026-08-25T06:51:39.256721+00:00",
+  "total": 1376,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 320,
+    "文明礼貌": 323,
     "爱国": 173,
     "友善": 155,
     "环保": 142,
-    "诚信": 117,
-    "节约": 114,
+    "诚信": 118,
+    "节约": 115,
     "孝道": 89,
     "交通安全": 75,
     "助人为乐": 45,
-    "禁烟": 18
+    "禁烟": 18,
+    "待分类": 1
   },
   "items": [
     {
@@ -19472,6 +19473,90 @@
       "source": "bilibili",
       "uploader": "明亮的车头漆",
       "view_count": 68656
+    },
+    {
+      "id": "BV1Uj4zeUEw6",
+      "title": "CCTV6電影頻道光影星播客公益星主張歷年結尾合集(2010-now)",
+      "categories": [
+        "待分类"
+      ],
+      "duration": 168.362,
+      "url": "http://www.bilibili.com/video/av113118181065108",
+      "play_url": "http://www.bilibili.com/video/av113118181065108",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "光影星播客公益星主张",
+      "view_count": 3144
+    },
+    {
+      "id": "BV1f14y1g7Bn",
+      "title": "【放送文化】诚信经营请恪守本分公益广告",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 56.191,
+      "url": "http://www.bilibili.com/video/av777392625",
+      "play_url": "http://www.bilibili.com/video/av777392625",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 2313
+    },
+    {
+      "id": "BV1UF411W7xE",
+      "title": "节约粮食，光盆儿行动！",
+      "categories": [
+        "节约"
+      ],
+      "duration": 188.15,
+      "url": "http://www.bilibili.com/video/av297684267",
+      "play_url": "http://www.bilibili.com/video/av297684267",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "噗噗怕胖",
+      "view_count": 54
+    },
+    {
+      "id": "BV1FG8h6hEFb",
+      "title": "三角洲止痛药文明（7）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 185.167,
+      "url": "http://www.bilibili.com/video/av117145249848279",
+      "play_url": "http://www.bilibili.com/video/av117145249848279",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "猛攻的好鼠鼠",
+      "view_count": 13162
+    },
+    {
+      "id": "BV1fM8b6sEjX",
+      "title": "人族联盟来到北斗七星，碰上一个统一的文明，于是一场星际战争彻底爆发",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 207.632,
+      "url": "http://www.bilibili.com/video/av117144528422796",
+      "play_url": "http://www.bilibili.com/video/av117144528422796",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "时空观测台",
+      "view_count": 3150
+    },
+    {
+      "id": "BV19b8Y64EKU",
+      "title": "华夏文明：来自天上的文明。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 292.333,
+      "url": "http://www.bilibili.com/video/av117148320078768",
+      "play_url": "http://www.bilibili.com/video/av117148320078768",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "奔赴苍穹",
+      "view_count": 29
     }
   ]
 }
