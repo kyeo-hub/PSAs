@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T06:51:39.256721+00:00",
-  "total": 1376,
+  "generated_at": "2026-08-25T12:50:17.444364+00:00",
+  "total": 1383,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 323,
+    "文明礼貌": 327,
     "爱国": 173,
-    "友善": 155,
-    "环保": 142,
-    "诚信": 118,
+    "友善": 157,
+    "环保": 144,
+    "诚信": 121,
     "节约": 115,
-    "孝道": 89,
+    "孝道": 92,
     "交通安全": 75,
-    "助人为乐": 45,
+    "助人为乐": 46,
     "禁烟": 18,
     "待分类": 1
   },
@@ -19557,6 +19557,112 @@
       "source": "bilibili",
       "uploader": "奔赴苍穹",
       "view_count": 29
+    },
+    {
+      "id": "BV1D84y1B7X9",
+      "title": "公益广告-环保节拍 你我共奏（随手关灯篇）",
+      "categories": [
+        "环保"
+      ],
+      "duration": 30.139,
+      "url": "http://www.bilibili.com/video/av604010821",
+      "play_url": "http://www.bilibili.com/video/av604010821",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 7225
+    },
+    {
+      "id": "BV1XB4y1U7Y8",
+      "title": "孝顺父母传统美德！都多跟我学点好的就行！！生活 炉石",
+      "categories": [
+        "诚信",
+        "文明礼貌",
+        "孝道",
+        "友善"
+      ],
+      "duration": 84.775,
+      "url": "http://www.bilibili.com/video/av595801418",
+      "play_url": "http://www.bilibili.com/video/av595801418",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "销冠李老板的连麦日常",
+      "view_count": 32
+    },
+    {
+      "id": "BV1gWKd6dEH3",
+      "title": "巴西绝杀日本！甲亢哥赛后发挥传统美德与日本队粉丝一起捡垃圾",
+      "categories": [
+        "友善",
+        "孝道",
+        "诚信",
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 156.084,
+      "url": "http://www.bilibili.com/video/av116837052323086",
+      "play_url": "http://www.bilibili.com/video/av116837052323086",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "DEANkill",
+      "view_count": 855
+    },
+    {
+      "id": "BV15xmvBuEcx",
+      "title": "诚信经营 请恪守本分公益广告（CCTV15）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 46.2,
+      "url": "http://www.bilibili.com/video/av115716854387544",
+      "play_url": "http://www.bilibili.com/video/av115716854387544",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Gacha-想象美食招学徒",
+      "view_count": 645
+    },
+    {
+      "id": "BV1HG7fzcEgy",
+      "title": "【架空】自制公益广告（29）——央视公益广告·帮助残疾人，奉献一份爱·彼此关怀篇（2012版公益广告版权页）",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 29.86,
+      "url": "http://www.bilibili.com/video/av114498794948080",
+      "play_url": "http://www.bilibili.com/video/av114498794948080",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "QvQ在B站-Offical",
+      "view_count": 1083
+    },
+    {
+      "id": "BV1ZG8b6QEgK",
+      "title": "文明！张家界外国游客轮番捐款给拾荒老人",
+      "categories": [
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 38.846,
+      "url": "http://www.bilibili.com/video/av117144478094369",
+      "play_url": "http://www.bilibili.com/video/av117144478094369",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "幽默老孔",
+      "view_count": 105075
+    },
+    {
+      "id": "BV14P8W6XE8y",
+      "title": "文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.277,
+      "url": "http://www.bilibili.com/video/av117141609190502",
+      "play_url": "http://www.bilibili.com/video/av117141609190502",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "美中友谊万万岁",
+      "view_count": 26329
     }
   ]
 }
