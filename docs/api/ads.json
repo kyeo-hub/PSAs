@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T01:17:25.893434+00:00",
-  "total": 1385,
+  "generated_at": "2026-08-26T06:51:29.274043+00:00",
+  "total": 1388,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 329,
+    "文明礼貌": 332,
     "爱国": 173,
     "友善": 157,
     "环保": 144,
@@ -19691,6 +19691,48 @@
       "source": "bilibili",
       "uploader": "汉龙帝朝",
       "view_count": 42
+    },
+    {
+      "id": "BV16GhN6tEKL",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日2周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 148.584,
+      "url": "http://www.bilibili.com/video/av117149695745828",
+      "play_url": "http://www.bilibili.com/video/av117149695745828",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1487
+    },
+    {
+      "id": "BV1e48v6iEqc",
+      "title": "文明观熊",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 198.28,
+      "url": "http://www.bilibili.com/video/av117149242756158",
+      "play_url": "http://www.bilibili.com/video/av117149242756158",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "begyouformercy",
+      "view_count": 856
+    },
+    {
+      "id": "BV1xz8Q6YETZ",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日3周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 84.567,
+      "url": "http://www.bilibili.com/video/av117159745426793",
+      "play_url": "http://www.bilibili.com/video/av117159745426793",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 158
     }
   ]
 }
