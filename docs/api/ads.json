@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T12:54:24.605047+00:00",
-  "total": 1389,
+  "generated_at": "2026-08-26T19:53:19.342259+00:00",
+  "total": 1390,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 333,
+    "文明礼貌": 334,
     "爱国": 173,
-    "友善": 157,
+    "友善": 158,
     "环保": 144,
-    "诚信": 121,
+    "诚信": 122,
     "节约": 115,
-    "孝道": 92,
+    "孝道": 93,
     "交通安全": 75,
     "助人为乐": 46,
     "禁烟": 18,
@@ -19747,6 +19747,23 @@
       "source": "bilibili",
       "uploader": "成就卓越教育",
       "view_count": 107
+    },
+    {
+      "id": "BV1Yc8X67E5m",
+      "title": "中华传统美德-惜物",
+      "categories": [
+        "诚信",
+        "友善",
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 95.805,
+      "url": "http://www.bilibili.com/video/av117159577521641",
+      "play_url": "http://www.bilibili.com/video/av117159577521641",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一米慧和",
+      "view_count": 4010
     }
   ]
 }
