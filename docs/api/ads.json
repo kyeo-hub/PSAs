@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T18:42:28.037928+00:00",
-  "total": 1383,
+  "generated_at": "2026-08-26T01:17:25.893434+00:00",
+  "total": 1385,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 327,
+    "文明礼貌": 329,
     "爱国": 173,
     "友善": 157,
     "环保": 144,
@@ -19663,6 +19663,34 @@
       "source": "bilibili",
       "uploader": "美中友谊万万岁",
       "view_count": 26329
+    },
+    {
+      "id": "BV14d4y1771M",
+      "title": "【公益广告】吐痰有讲究 文明卫生好习惯",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 29.93,
+      "url": "http://www.bilibili.com/video/av392179147",
+      "play_url": "http://www.bilibili.com/video/av392179147",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 3078
+    },
+    {
+      "id": "BV1Bz8F6rEyj",
+      "title": "土耳其出土6000年前中国文字。实证中华文明是世界文明之源",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 222.005,
+      "url": "http://www.bilibili.com/video/av117125989669817",
+      "play_url": "http://www.bilibili.com/video/av117125989669817",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "汉龙帝朝",
+      "view_count": 42
     }
   ]
 }
