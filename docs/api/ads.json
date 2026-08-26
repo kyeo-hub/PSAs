@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T06:51:29.274043+00:00",
-  "total": 1388,
+  "generated_at": "2026-08-26T12:54:24.605047+00:00",
+  "total": 1389,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 332,
+    "文明礼貌": 333,
     "爱国": 173,
     "友善": 157,
     "环保": 144,
@@ -19733,6 +19733,20 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 158
+    },
+    {
+      "id": "BV1MAh36fE6o",
+      "title": "暑你快乐，护少年成长｜成就卓越教育×社区&文明办公益课堂活动记录",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 20.688,
+      "url": "http://www.bilibili.com/video/av117154108214782",
+      "play_url": "http://www.bilibili.com/video/av117154108214782",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "成就卓越教育",
+      "view_count": 107
     }
   ]
 }
