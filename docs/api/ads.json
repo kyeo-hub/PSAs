@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T19:53:19.342259+00:00",
-  "total": 1390,
+  "generated_at": "2026-08-27T07:29:15.037089+00:00",
+  "total": 1391,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 334,
+    "文明礼貌": 335,
     "爱国": 173,
     "友善": 158,
     "环保": 144,
@@ -19764,6 +19764,20 @@
       "source": "bilibili",
       "uploader": "一米慧和",
       "view_count": 4010
+    },
+    {
+      "id": "BV1W9h369ECA",
+      "title": "讲文明树新风2",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 75.0,
+      "url": "http://www.bilibili.com/video/av117155701983448",
+      "play_url": "http://www.bilibili.com/video/av117155701983448",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_28346518924",
+      "view_count": 50
     }
   ]
 }
