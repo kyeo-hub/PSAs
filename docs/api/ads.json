@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T07:29:15.037089+00:00",
-  "total": 1391,
+  "generated_at": "2026-08-27T21:52:58.108120+00:00",
+  "total": 1393,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 335,
+    "文明礼貌": 337,
     "爱国": 173,
     "友善": 158,
     "环保": 144,
@@ -19778,6 +19778,34 @@
       "source": "bilibili",
       "uploader": "bili_28346518924",
       "view_count": 50
+    },
+    {
+      "id": "BV1M4496BE1e",
+      "title": "真没想到华夏文明竟然一直在倒退！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 110.016,
+      "url": "http://www.bilibili.com/video/av117167613808122",
+      "play_url": "http://www.bilibili.com/video/av117167613808122",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "马踏樱花_兴我华夏",
+      "view_count": 1945
+    },
+    {
+      "id": "BV1t54R6iEv1",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日4周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 176.773,
+      "url": "http://www.bilibili.com/video/av117167093846527",
+      "play_url": "http://www.bilibili.com/video/av117167093846527",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 380
     }
   ]
 }
