@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T21:52:58.108120+00:00",
-  "total": 1393,
+  "generated_at": "2026-08-28T09:42:49.379585+00:00",
+  "total": 1395,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 337,
+    "文明礼貌": 339,
     "爱国": 173,
     "友善": 158,
     "环保": 144,
@@ -19806,6 +19806,34 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 380
+    },
+    {
+      "id": "BV1Z6DcYwEMH",
+      "title": "致敬传奇文明中国人",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 47.575,
+      "url": "http://www.bilibili.com/video/av113411681685950",
+      "play_url": "http://www.bilibili.com/video/av113411681685950",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "沈优悠",
+      "view_count": 328
+    },
+    {
+      "id": "BV1JT8764EtC",
+      "title": "全国文明好",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.433,
+      "url": "http://www.bilibili.com/video/av117119480045327",
+      "play_url": "http://www.bilibili.com/video/av117119480045327",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "老袁走乡村",
+      "view_count": 130
     }
   ]
 }
