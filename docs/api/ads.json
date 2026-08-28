@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T09:42:49.379585+00:00",
-  "total": 1395,
+  "generated_at": "2026-08-28T21:49:35.651190+00:00",
+  "total": 1396,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 339,
@@ -10,7 +10,7 @@
     "环保": 144,
     "诚信": 122,
     "节约": 115,
-    "孝道": 93,
+    "孝道": 94,
     "交通安全": 75,
     "助人为乐": 46,
     "禁烟": 18,
@@ -19834,6 +19834,20 @@
       "source": "bilibili",
       "uploader": "老袁走乡村",
       "view_count": 130
+    },
+    {
+      "id": "BV1pp4y1Z7xQ",
+      "title": "那些关于孝道的广告你还记得多少呢",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 144.241,
+      "url": "http://www.bilibili.com/video/av965144239",
+      "play_url": "http://www.bilibili.com/video/av965144239",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Sevn",
+      "view_count": 1277
     }
   ]
 }
