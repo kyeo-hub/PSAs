@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T05:49:16.565847+00:00",
-  "total": 1396,
+  "generated_at": "2026-08-29T12:25:02.205018+00:00",
+  "total": 1398,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 339,
+    "文明礼貌": 341,
     "爱国": 173,
     "友善": 158,
     "环保": 144,
     "诚信": 122,
-    "节约": 115,
+    "节约": 116,
     "孝道": 94,
     "交通安全": 75,
     "助人为乐": 46,
@@ -19848,6 +19848,35 @@
       "source": "bilibili",
       "uploader": "Sevn",
       "view_count": 1277
+    },
+    {
+      "id": "BV17V411U7KC",
+      "title": "珍惜粮食，节约粮食 餐桌文明 手抄报 手账版式设计 By：小玩子 大家可参考",
+      "categories": [
+        "节约",
+        "文明礼貌"
+      ],
+      "duration": 155.455,
+      "url": "http://www.bilibili.com/video/av414252489",
+      "play_url": "http://www.bilibili.com/video/av414252489",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "罗玩子",
+      "view_count": 29606
+    },
+    {
+      "id": "BV1XEtN6kEm3",
+      "title": "【高一历史第1课】中华文明的起源与早期国家：从元谋人到山顶洞人，穿过去我才知道，狩猎死亡率比996高多了",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 105.1,
+      "url": "http://www.bilibili.com/video/av117173569718352",
+      "play_url": "http://www.bilibili.com/video/av117173569718352",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "卫沫",
+      "view_count": 133
     }
   ]
 }
