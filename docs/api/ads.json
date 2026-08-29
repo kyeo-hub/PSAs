@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T12:25:02.205018+00:00",
-  "total": 1398,
+  "generated_at": "2026-08-29T20:32:43.559192+00:00",
+  "total": 1399,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 341,
+    "文明礼貌": 342,
     "爱国": 173,
     "友善": 158,
     "环保": 144,
@@ -19877,6 +19877,20 @@
       "source": "bilibili",
       "uploader": "卫沫",
       "view_count": 133
+    },
+    {
+      "id": "BV1rT421r7Ye",
+      "title": "公益广告-讲文明 树新风（不麻烦篇）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 31.346,
+      "url": "http://www.bilibili.com/video/av1706064266",
+      "play_url": "http://www.bilibili.com/video/av1706064266",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 375
     }
   ]
 }
