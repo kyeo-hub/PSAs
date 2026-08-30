@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T03:50:33.973571+00:00",
-  "total": 1403,
+  "generated_at": "2026-08-30T11:24:31.899840+00:00",
+  "total": 1407,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 345,
-    "爱国": 173,
+    "文明礼貌": 348,
+    "爱国": 174,
     "友善": 158,
     "环保": 145,
     "诚信": 123,
     "节约": 116,
     "孝道": 94,
-    "交通安全": 75,
+    "交通安全": 76,
     "助人为乐": 46,
     "禁烟": 18,
     "待分类": 1
@@ -19948,6 +19948,63 @@
       "source": "bilibili",
       "uploader": "答了100题还要我起昵称",
       "view_count": 5
+    },
+    {
+      "id": "BV1votN62EGw",
+      "title": "“讲文明 树新风”｜蜡笔小新",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 128.615,
+      "url": "http://www.bilibili.com/video/av117175029335425",
+      "play_url": "http://www.bilibili.com/video/av117175029335425",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "和保姆地覆天翻不哭发",
+      "view_count": 138
+    },
+    {
+      "id": "BV1DA4X6KEuT",
+      "title": "【公益广告】公益广告《弘扬抗战精神 歌颂爱国情怀》（2020年）",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 61.56,
+      "url": "http://www.bilibili.com/video/av117183770462766",
+      "play_url": "http://www.bilibili.com/video/av117183770462766",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "PhainonCH",
+      "view_count": 6
+    },
+    {
+      "id": "BV1y3411m7YJ",
+      "title": "CCTV交通安全公益广告动物篇",
+      "categories": [
+        "文明礼貌",
+        "交通安全"
+      ],
+      "duration": 40.191,
+      "url": "http://www.bilibili.com/video/av435025124",
+      "play_url": "http://www.bilibili.com/video/av435025124",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "雪儿广告工作室",
+      "view_count": 3624
+    },
+    {
+      "id": "BV1aHhG6vERH",
+      "title": "化学文明 01",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 110.666,
+      "url": "http://www.bilibili.com/video/av117155467171144",
+      "play_url": "http://www.bilibili.com/video/av117155467171144",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 44757
     }
   ]
 }
