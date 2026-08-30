@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T20:32:43.559192+00:00",
-  "total": 1399,
+  "generated_at": "2026-08-30T03:50:33.973571+00:00",
+  "total": 1403,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 342,
+    "文明礼貌": 345,
     "爱国": 173,
     "友善": 158,
-    "环保": 144,
-    "诚信": 122,
+    "环保": 145,
+    "诚信": 123,
     "节约": 116,
     "孝道": 94,
     "交通安全": 75,
@@ -19891,6 +19891,63 @@
       "source": "bilibili",
       "uploader": "刘铎圳",
       "view_count": 375
+    },
+    {
+      "id": "BV1Q84y1Y7Nc",
+      "title": "【公益广告】诚信，内心的力量",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 45.023,
+      "url": "http://www.bilibili.com/video/av607197568",
+      "play_url": "http://www.bilibili.com/video/av607197568",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "后起之秀2004",
+      "view_count": 4930
+    },
+    {
+      "id": "BV1xdtP6bEF9",
+      "title": "文明时代：流浪地球全新mod强势来袭",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 116.633,
+      "url": "http://www.bilibili.com/video/av117173821447651",
+      "play_url": "http://www.bilibili.com/video/av117173821447651",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "普通的人114517",
+      "view_count": 2055
+    },
+    {
+      "id": "BV1u5416yEns",
+      "title": "三角洲止痛药文明（10）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 143.2,
+      "url": "http://www.bilibili.com/video/av117179441747751",
+      "play_url": "http://www.bilibili.com/video/av117179441747751",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "猛攻的好鼠鼠",
+      "view_count": 1172
+    },
+    {
+      "id": "BV1pv4Q6sEoV",
+      "title": "进一步证明了文明之光来自中华",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 132.733,
+      "url": "http://www.bilibili.com/video/av117181991946336",
+      "play_url": "http://www.bilibili.com/video/av117181991946336",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "答了100题还要我起昵称",
+      "view_count": 5
     }
   ]
 }
