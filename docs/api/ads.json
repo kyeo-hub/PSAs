@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T11:24:31.899840+00:00",
-  "total": 1407,
+  "generated_at": "2026-08-30T16:11:08.340384+00:00",
+  "total": 1412,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 348,
-    "爱国": 174,
-    "友善": 158,
+    "文明礼貌": 351,
+    "爱国": 175,
+    "友善": 159,
     "环保": 145,
-    "诚信": 123,
+    "诚信": 124,
     "节约": 116,
     "孝道": 94,
-    "交通安全": 76,
+    "交通安全": 77,
     "助人为乐": 46,
     "禁烟": 18,
     "待分类": 1
@@ -20005,6 +20005,78 @@
       "source": "bilibili",
       "uploader": "Minecraft_Future",
       "view_count": 44757
+    },
+    {
+      "id": "BV1Ux41127Df",
+      "title": "公益广告《社会主义核心价值观——唱响新时代，点亮中国梦》（65s）_高清",
+      "categories": [
+        "诚信",
+        "友善",
+        "爱国"
+      ],
+      "duration": 63.96,
+      "url": "http://www.bilibili.com/video/av10232156",
+      "play_url": "http://www.bilibili.com/video/av10232156",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "红茶奶酥好吃不贵",
+      "view_count": 60515
+    },
+    {
+      "id": "BV1vT4y1j76k",
+      "title": "震撼人心的交通广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 114.88,
+      "url": "http://www.bilibili.com/video/av926565836",
+      "play_url": "http://www.bilibili.com/video/av926565836",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "假装会学习",
+      "view_count": 3046
+    },
+    {
+      "id": "BV1krtN6oEW4",
+      "title": "数学文明1",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 110.633,
+      "url": "http://www.bilibili.com/video/av117173385168215",
+      "play_url": "http://www.bilibili.com/video/av117173385168215",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "不知道昵称怎么起的屑",
+      "view_count": 172
+    },
+    {
+      "id": "BV1cetH6qELL",
+      "title": "【领土战争文明】第一集",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 45.222,
+      "url": "http://www.bilibili.com/video/av117184374246258",
+      "play_url": "http://www.bilibili.com/video/av117184374246258",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一个神秘的黑色火柴人",
+      "view_count": 108
+    },
+    {
+      "id": "BV1XV8L6CEm6",
+      "title": "最后一个真的是文明城市吗？[捂脸]",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 15.232,
+      "url": "http://www.bilibili.com/video/av117118909550308",
+      "play_url": "http://www.bilibili.com/video/av117118909550308",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "游戏啊浩哥",
+      "view_count": 206656
     }
   ]
 }
