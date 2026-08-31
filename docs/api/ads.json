@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T03:50:57.767361+00:00",
-  "total": 1412,
+  "generated_at": "2026-08-31T12:52:01.482473+00:00",
+  "total": 1417,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 351,
-    "爱国": 175,
-    "友善": 159,
+    "文明礼貌": 355,
+    "爱国": 176,
+    "友善": 160,
     "环保": 145,
-    "诚信": 124,
+    "诚信": 125,
     "节约": 116,
     "孝道": 94,
     "交通安全": 77,
@@ -20077,6 +20077,78 @@
       "source": "bilibili",
       "uploader": "游戏啊浩哥",
       "view_count": 206656
+    },
+    {
+      "id": "BV1An4X69E5h",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日7周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 116.889,
+      "url": "http://www.bilibili.com/video/av117183569006637",
+      "play_url": "http://www.bilibili.com/video/av117183569006637",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 681
+    },
+    {
+      "id": "BV11Jtb6FEUr",
+      "title": "掩埋文明，华夏文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 139.817,
+      "url": "http://www.bilibili.com/video/av117188266564149",
+      "play_url": "http://www.bilibili.com/video/av117188266564149",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "趣趣的人",
+      "view_count": 224
+    },
+    {
+      "id": "BV1iQtA6GEoz",
+      "title": "《战争与文明》发个视频证明一下还没退游还能打",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 223.421,
+      "url": "http://www.bilibili.com/video/av117172177213555",
+      "play_url": "http://www.bilibili.com/video/av117172177213555",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "守夜人曹渊",
+      "view_count": 233
+    },
+    {
+      "id": "BV138411S7Xr",
+      "title": "社会主义核心价值观你没学过吗呜呜呜",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 48.962,
+      "url": "http://www.bilibili.com/video/av231111497",
+      "play_url": "http://www.bilibili.com/video/av231111497",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "娇弱文青",
+      "view_count": 132
+    },
+    {
+      "id": "BV1oUtx6kEYZ",
+      "title": "讲文明礼貌，树社会新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 277.0,
+      "url": "http://www.bilibili.com/video/av117188098788791",
+      "play_url": "http://www.bilibili.com/video/av117188098788791",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "可可漫阁",
+      "view_count": 156
     }
   ]
 }
