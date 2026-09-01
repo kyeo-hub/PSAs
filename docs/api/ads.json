@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T16:10:28.942329+00:00",
-  "total": 1422,
+  "generated_at": "2026-09-01T20:40:47.666596+00:00",
+  "total": 1424,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 358,
+    "文明礼貌": 360,
     "爱国": 176,
-    "友善": 161,
+    "友善": 162,
     "环保": 145,
-    "诚信": 126,
+    "诚信": 127,
     "节约": 116,
-    "孝道": 94,
+    "孝道": 95,
     "交通安全": 78,
     "助人为乐": 48,
     "禁烟": 18,
@@ -20222,6 +20222,37 @@
       "source": "bilibili",
       "uploader": "爱小丫基金",
       "view_count": 8
+    },
+    {
+      "id": "BV1fJt36KE3U",
+      "title": "文明观猴（3）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 249.87,
+      "url": "http://www.bilibili.com/video/av117195195550250",
+      "play_url": "http://www.bilibili.com/video/av117195195550250",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "食品科学阿祖",
+      "view_count": 67164
+    },
+    {
+      "id": "BV13a411o7ZW",
+      "title": "【洛天依】中华传统美德故事",
+      "categories": [
+        "文明礼貌",
+        "诚信",
+        "友善",
+        "孝道"
+      ],
+      "duration": 77.076,
+      "url": "http://www.bilibili.com/video/av259269888",
+      "play_url": "http://www.bilibili.com/video/av259269888",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "新郑课代表",
+      "view_count": 1231
     }
   ]
 }
