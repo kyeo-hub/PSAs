@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T03:44:28.449914+00:00",
-  "total": 1417,
+  "generated_at": "2026-09-01T11:12:39.977304+00:00",
+  "total": 1420,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 355,
+    "文明礼貌": 358,
     "爱国": 176,
-    "友善": 160,
+    "友善": 161,
     "环保": 145,
     "诚信": 125,
     "节约": 116,
     "孝道": 94,
     "交通安全": 77,
-    "助人为乐": 46,
+    "助人为乐": 47,
     "禁烟": 18,
     "待分类": 1
   },
@@ -20149,6 +20149,50 @@
       "source": "bilibili",
       "uploader": "可可漫阁",
       "view_count": 156
+    },
+    {
+      "id": "BV1qTtG6PEqM",
+      "title": "中吉联合考古取得重大突破 实证丝绸之路多元文明交融",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 102.818,
+      "url": "http://www.bilibili.com/video/av117194675458507",
+      "play_url": "http://www.bilibili.com/video/av117194675458507",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国考古",
+      "view_count": 392
+    },
+    {
+      "id": "BV1uF411q7zY",
+      "title": "致敬公益！助人为乐是刻在中国人五千年文明里的良善",
+      "categories": [
+        "文明礼貌",
+        "友善",
+        "助人为乐"
+      ],
+      "duration": 227.114,
+      "url": "http://www.bilibili.com/video/av295340411",
+      "play_url": "http://www.bilibili.com/video/av295340411",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "TimBored",
+      "view_count": 272
+    },
+    {
+      "id": "BV1BXtt6UEfn",
+      "title": "野蛮其体魄 文明其精神2026年8月15日8周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 78.808,
+      "url": "http://www.bilibili.com/video/av117188887452161",
+      "play_url": "http://www.bilibili.com/video/av117188887452161",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1196
     }
   ]
 }
