@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T11:12:39.977304+00:00",
-  "total": 1420,
+  "generated_at": "2026-09-01T16:10:28.942329+00:00",
+  "total": 1422,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 358,
     "爱国": 176,
     "友善": 161,
     "环保": 145,
-    "诚信": 125,
+    "诚信": 126,
     "节约": 116,
     "孝道": 94,
-    "交通安全": 77,
-    "助人为乐": 47,
+    "交通安全": 78,
+    "助人为乐": 48,
     "禁烟": 18,
     "待分类": 1
   },
@@ -20193,6 +20193,35 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 1196
+    },
+    {
+      "id": "BV1jH4y1J7Hi",
+      "title": "红灯停 绿灯行 交通信号要遵守公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 20.223,
+      "url": "http://www.bilibili.com/video/av1050882326",
+      "play_url": "http://www.bilibili.com/video/av1050882326",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "彩虹甜心_Official",
+      "view_count": 758
+    },
+    {
+      "id": "BV1Pgt36VEhD",
+      "title": "中国社会福利基金会爱小丫公益团队荣获“中华慈善奖”慈善楷模奖！",
+      "categories": [
+        "助人为乐",
+        "诚信"
+      ],
+      "duration": 114.52,
+      "url": "http://www.bilibili.com/video/av117195229108366",
+      "play_url": "http://www.bilibili.com/video/av117195229108366",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱小丫基金",
+      "view_count": 8
     }
   ]
 }
