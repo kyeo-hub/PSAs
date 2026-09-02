@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T10:47:58.598733+00:00",
-  "total": 1427,
+  "generated_at": "2026-09-02T16:07:16.422579+00:00",
+  "total": 1431,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 361,
-    "爱国": 177,
-    "友善": 163,
+    "文明礼貌": 364,
+    "爱国": 178,
+    "友善": 164,
     "环保": 146,
-    "诚信": 128,
+    "诚信": 129,
     "节约": 116,
     "孝道": 95,
-    "交通安全": 78,
+    "交通安全": 79,
     "助人为乐": 48,
     "禁烟": 18,
     "待分类": 1
@@ -20297,6 +20297,65 @@
       "source": "bilibili",
       "uploader": "bili_16719412970",
       "view_count": 18
+    },
+    {
+      "id": "BV1Fb41167wJ",
+      "title": "自觉践行 社会主义核心价值观",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 30.037,
+      "url": "http://www.bilibili.com/video/av42889092",
+      "play_url": "http://www.bilibili.com/video/av42889092",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小林铛铛",
+      "view_count": 83941
+    },
+    {
+      "id": "BV1UJtg67E1J",
+      "title": "现代文明为什么在古代世界无法存活",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 289.066,
+      "url": "http://www.bilibili.com/video/av117193635338276",
+      "play_url": "http://www.bilibili.com/video/av117193635338276",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "少前STG-44",
+      "view_count": 979
+    },
+    {
+      "id": "BV1dntE6UEqo",
+      "title": "笑死，台湾省参加太平洋论坛遭多国抵制，民进党“外长”急了：要教中国大陆如何成为一个文明大国，(蚂蚁要教大象如何做事？真绷不住了🤣)",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 93.6,
+      "url": "http://www.bilibili.com/video/av117199440254676",
+      "play_url": "http://www.bilibili.com/video/av117199440254676",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "YT情报员",
+      "view_count": 23049
+    },
+    {
+      "id": "BV1cXta6NEmf",
+      "title": "沧州教育号召“争做文明有礼天津人”，抄天津交通作文不改地名上新闻，沧州已更正",
+      "categories": [
+        "交通安全",
+        "文明礼貌"
+      ],
+      "duration": 33.666,
+      "url": "http://www.bilibili.com/video/av117190565039034",
+      "play_url": "http://www.bilibili.com/video/av117190565039034",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "最爱祺Qi",
+      "view_count": 367
     }
   ]
 }
