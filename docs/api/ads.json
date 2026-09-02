@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T20:40:47.666596+00:00",
-  "total": 1424,
+  "generated_at": "2026-09-02T03:02:51.807316+00:00",
+  "total": 1425,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 360,
-    "爱国": 176,
-    "友善": 162,
+    "爱国": 177,
+    "友善": 163,
     "环保": 145,
-    "诚信": 127,
+    "诚信": 128,
     "节约": 116,
     "孝道": 95,
     "交通安全": 78,
@@ -20253,6 +20253,22 @@
       "source": "bilibili",
       "uploader": "新郑课代表",
       "view_count": 1231
+    },
+    {
+      "id": "BV1qNq3YfED7",
+      "title": "公益广告《自觉践行社会主义核心价值观》主题曲《让我们荡起双桨》MTV 30S 央视少儿频道 智慧树、七巧板、大手牵小手以及音乐快递 播出版（12.5-31）",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 36.13,
+      "url": "http://www.bilibili.com/video/av113625708627336",
+      "play_url": "http://www.bilibili.com/video/av113625708627336",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 3276
     }
   ]
 }
