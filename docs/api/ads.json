@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T03:02:51.807316+00:00",
-  "total": 1425,
+  "generated_at": "2026-09-02T10:47:58.598733+00:00",
+  "total": 1427,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 360,
+    "文明礼貌": 361,
     "爱国": 177,
     "友善": 163,
-    "环保": 145,
+    "环保": 146,
     "诚信": 128,
     "节约": 116,
     "孝道": 95,
@@ -20269,6 +20269,34 @@
       "source": "bilibili",
       "uploader": "我是魏通",
       "view_count": 3276
+    },
+    {
+      "id": "BV1eNtJ6UEnr",
+      "title": "公益广告：文明用餐 从我做起",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 19.892,
+      "url": "http://www.bilibili.com/video/av117200832764103",
+      "play_url": "http://www.bilibili.com/video/av117200832764103",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 0
+    },
+    {
+      "id": "BV13dtg6XELd",
+      "title": "2011环境日公益广告",
+      "categories": [
+        "环保"
+      ],
+      "duration": 50.898,
+      "url": "http://www.bilibili.com/video/av117195648537819",
+      "play_url": "http://www.bilibili.com/video/av117195648537819",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_16719412970",
+      "view_count": 18
     }
   ]
 }
