@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T15:54:46.367382+00:00",
-  "total": 1438,
+  "generated_at": "2026-09-03T20:36:32.693311+00:00",
+  "total": 1440,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 366,
     "爱国": 179,
     "友善": 165,
-    "环保": 148,
-    "诚信": 129,
+    "环保": 149,
+    "诚信": 130,
     "节约": 116,
     "孝道": 96,
     "交通安全": 79,
@@ -20455,6 +20455,34 @@
       "source": "bilibili",
       "uploader": "王熔杰2026工作室",
       "view_count": 3130
+    },
+    {
+      "id": "BV1ic411P7VP",
+      "title": "公益广告 车窗抛吻 扔垃圾",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.188,
+      "url": "http://www.bilibili.com/video/av271135049",
+      "play_url": "http://www.bilibili.com/video/av271135049",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "农村大昆",
+      "view_count": 26069
+    },
+    {
+      "id": "BV1FP411f7P1",
+      "title": "诚信微视频《算账》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 297.3,
+      "url": "http://www.bilibili.com/video/av311152103",
+      "play_url": "http://www.bilibili.com/video/av311152103",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "老子尼克洋",
+      "view_count": 28278
     }
   ]
 }
