@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T10:49:46.721258+00:00",
-  "total": 1437,
+  "generated_at": "2026-09-03T15:54:46.367382+00:00",
+  "total": 1438,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 366,
@@ -12,7 +12,7 @@
     "节约": 116,
     "孝道": 96,
     "交通安全": 79,
-    "助人为乐": 48,
+    "助人为乐": 49,
     "禁烟": 18,
     "待分类": 1
   },
@@ -20441,6 +20441,20 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 108
+    },
+    {
+      "id": "BV1GC41147sq",
+      "title": "【放送文化】CCTV公益广告-帮助孩子们学会使用字典",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 75.185,
+      "url": "http://www.bilibili.com/video/av1950467119",
+      "play_url": "http://www.bilibili.com/video/av1950467119",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "王熔杰2026工作室",
+      "view_count": 3130
     }
   ]
 }
