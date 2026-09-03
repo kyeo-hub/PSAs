@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T03:05:44.540893+00:00",
-  "total": 1434,
+  "generated_at": "2026-09-03T10:49:46.721258+00:00",
+  "total": 1437,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 364,
+    "文明礼貌": 366,
     "爱国": 179,
     "友善": 165,
-    "环保": 147,
+    "环保": 148,
     "诚信": 129,
     "节约": 116,
     "孝道": 96,
@@ -20399,6 +20399,48 @@
       "source": "bilibili",
       "uploader": "NIP电子竞技俱乐部",
       "view_count": 3391
+    },
+    {
+      "id": "BV1oJ411D7yg",
+      "title": "《文明旅游》公益宣传片",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 90.08,
+      "url": "http://www.bilibili.com/video/av77390727",
+      "play_url": "http://www.bilibili.com/video/av77390727",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_483157924",
+      "view_count": 10293
+    },
+    {
+      "id": "BV1wSta6TEmV",
+      "title": "公益网红摆拍成灾！将垃圾空瓶子串起来摆拍，拍摄结束又将垃圾丢在山里",
+      "categories": [
+        "环保"
+      ],
+      "duration": 119.7,
+      "url": "http://www.bilibili.com/video/av117190531485090",
+      "play_url": "http://www.bilibili.com/video/av117190531485090",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "时空过敏株",
+      "view_count": 3687
+    },
+    {
+      "id": "BV1Jktd6FEWf",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日11周末线下赠书做公益#公益#正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 218.987,
+      "url": "http://www.bilibili.com/video/av117205580715632",
+      "play_url": "http://www.bilibili.com/video/av117205580715632",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 108
     }
   ]
 }
