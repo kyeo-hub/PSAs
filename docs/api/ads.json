@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T03:05:16.969685+00:00",
-  "total": 1440,
+  "generated_at": "2026-09-04T10:43:25.324447+00:00",
+  "total": 1442,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 366,
+    "文明礼貌": 368,
     "爱国": 179,
     "友善": 165,
     "环保": 149,
@@ -20483,6 +20483,34 @@
       "source": "bilibili",
       "uploader": "老子尼克洋",
       "view_count": 28278
+    },
+    {
+      "id": "BV1PV4y1n75s",
+      "title": "[公益宣传]自尊自爱文明出行维护形象全靠你我公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 39.659,
+      "url": "http://www.bilibili.com/video/av855653631",
+      "play_url": "http://www.bilibili.com/video/av855653631",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我的帅心你给我",
+      "view_count": 45708
+    },
+    {
+      "id": "BV1Afti62EBR",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日12周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 56.703,
+      "url": "http://www.bilibili.com/video/av117211419121248",
+      "play_url": "http://www.bilibili.com/video/av117211419121248",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 175
     }
   ]
 }
