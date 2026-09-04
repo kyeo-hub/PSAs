@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T15:52:24.059205+00:00",
-  "total": 1444,
+  "generated_at": "2026-09-04T20:24:50.399574+00:00",
+  "total": 1446,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 368,
-    "爱国": 180,
+    "爱国": 181,
     "友善": 165,
     "环保": 149,
     "诚信": 130,
     "节约": 117,
     "孝道": 96,
-    "交通安全": 79,
+    "交通安全": 80,
     "助人为乐": 49,
     "禁烟": 18,
     "待分类": 1
@@ -20539,6 +20539,34 @@
       "source": "bilibili",
       "uploader": "文明作品",
       "view_count": 7991
+    },
+    {
+      "id": "BV1cs411b7Pb",
+      "title": "今天，我们这样爱国",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.039,
+      "url": "http://www.bilibili.com/video/av6484435",
+      "play_url": "http://www.bilibili.com/video/av6484435",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "壹席传媒",
+      "view_count": 4521
+    },
+    {
+      "id": "BV15nftBSEVT",
+      "title": "央视公益广告《交通安全动物篇》",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 30.166,
+      "url": "http://www.bilibili.com/video/av116131402745482",
+      "play_url": "http://www.bilibili.com/video/av116131402745482",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "叫我大哥ei想死你们了",
+      "view_count": 4632
     }
   ]
 }
