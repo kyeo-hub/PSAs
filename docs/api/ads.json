@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T10:43:25.324447+00:00",
-  "total": 1442,
+  "generated_at": "2026-09-04T15:52:24.059205+00:00",
+  "total": 1444,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 368,
-    "爱国": 179,
+    "爱国": 180,
     "友善": 165,
     "环保": 149,
     "诚信": 130,
-    "节约": 116,
+    "节约": 117,
     "孝道": 96,
     "交通安全": 79,
     "助人为乐": 49,
@@ -20511,6 +20511,34 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 175
+    },
+    {
+      "id": "BV1c84y1S7wY",
+      "title": "如果奇迹有颜色，那一定是中国红！5分钟感受来自百年巨变！谨以此片献给祖国【高燃/催泪/爱国】",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 299.305,
+      "url": "http://www.bilibili.com/video/av619069363",
+      "play_url": "http://www.bilibili.com/video/av619069363",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "苳咚咚CC",
+      "view_count": 636543
+    },
+    {
+      "id": "BV1Bx411J7Jo",
+      "title": "9节约一片纸 保护一片绿",
+      "categories": [
+        "节约"
+      ],
+      "duration": 45.51,
+      "url": "http://www.bilibili.com/video/av13514650",
+      "play_url": "http://www.bilibili.com/video/av13514650",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "文明作品",
+      "view_count": 7991
     }
   ]
 }
