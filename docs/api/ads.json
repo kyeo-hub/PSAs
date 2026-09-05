@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T20:24:50.399574+00:00",
-  "total": 1446,
+  "generated_at": "2026-09-05T03:07:07.562510+00:00",
+  "total": 1449,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 368,
+    "文明礼貌": 369,
     "爱国": 181,
     "友善": 165,
     "环保": 149,
     "诚信": 130,
     "节约": 117,
-    "孝道": 96,
-    "交通安全": 80,
+    "孝道": 97,
+    "交通安全": 81,
     "助人为乐": 49,
     "禁烟": 18,
     "待分类": 1
@@ -20567,6 +20567,48 @@
       "source": "bilibili",
       "uploader": "叫我大哥ei想死你们了",
       "view_count": 4632
+    },
+    {
+      "id": "BV1SnXbYiEgK",
+      "title": "【Family·公益广告】有爱就有责任—家",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 89.822,
+      "url": "http://www.bilibili.com/video/av114209169874137",
+      "play_url": "http://www.bilibili.com/video/av114209169874137",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "幸福你的幸福_",
+      "view_count": 5697
+    },
+    {
+      "id": "BV1ND4y1o72a",
+      "title": "交通安全知识宣传公益动画-艺虎动画",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 136.663,
+      "url": "http://www.bilibili.com/video/av712065750",
+      "play_url": "http://www.bilibili.com/video/av712065750",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "艺虎动画",
+      "view_count": 24008
+    },
+    {
+      "id": "BV1sPtE6hEcP",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日10周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 75.0,
+      "url": "http://www.bilibili.com/video/av117199624869589",
+      "play_url": "http://www.bilibili.com/video/av117199624869589",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1058
     }
   ]
 }
