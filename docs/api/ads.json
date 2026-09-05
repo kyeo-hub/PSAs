@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T10:04:12.459428+00:00",
-  "total": 1451,
+  "generated_at": "2026-09-05T14:44:34.556728+00:00",
+  "total": 1455,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 371,
+    "文明礼貌": 374,
     "爱国": 181,
-    "友善": 165,
+    "友善": 166,
     "环保": 149,
-    "诚信": 130,
-    "节约": 117,
-    "孝道": 97,
+    "诚信": 132,
+    "节约": 118,
+    "孝道": 99,
     "交通安全": 81,
     "助人为乐": 49,
     "禁烟": 18,
@@ -20637,6 +20637,67 @@
       "source": "bilibili",
       "uploader": "CODM英俊",
       "view_count": 4508
+    },
+    {
+      "id": "BV14em3YKE5c",
+      "title": "爱粮节粮，节约粮食《节约最闪亮》动作完整版#10月16日世界粮食日 #世界粮食日 #节约最闪亮完整版手势舞 #勤俭节约不浪费 #中华传统美德",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "友善",
+        "节约",
+        "诚信"
+      ],
+      "duration": 48.482,
+      "url": "http://www.bilibili.com/video/av113302764001518",
+      "play_url": "http://www.bilibili.com/video/av113302764001518",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小沐沐吖-全网同名",
+      "view_count": 4759
+    },
+    {
+      "id": "BV1j8t16tETD",
+      "title": "它们说我们是唯一没有断代的古文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 144.7,
+      "url": "http://www.bilibili.com/video/av117216569790484",
+      "play_url": "http://www.bilibili.com/video/av117216569790484",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "夏土華嘉",
+      "view_count": 905
+    },
+    {
+      "id": "BV1ygpbeuEfN",
+      "title": "百善孝为先，孝敬是根本！弘扬中华美德，传承传统文化！#少儿汉唐古典舞 #中华孝道#国学舞蹈 #爱跳舞的女孩 #舞蹈课堂 @汇艺舞蹈艺术中心",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 83.498,
+      "url": "http://www.bilibili.com/video/av113096706363224",
+      "play_url": "http://www.bilibili.com/video/av113096706363224",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "汇艺舞蹈艺术培训中心",
+      "view_count": 82
+    },
+    {
+      "id": "BV1DjtY6mEuF",
+      "title": "《守一份诚信，传一脉文明》古人一诺重千金！诚信，藏在笔墨里，刻在骨子里。#诚信做人诚信做事 #诚信故事朗读背景视频",
+      "categories": [
+        "诚信",
+        "文明礼貌"
+      ],
+      "duration": 172.8,
+      "url": "http://www.bilibili.com/video/av117192444092037",
+      "play_url": "http://www.bilibili.com/video/av117192444092037",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "想在冬日去看海k",
+      "view_count": 40
     }
   ]
 }
