@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T03:07:07.562510+00:00",
-  "total": 1449,
+  "generated_at": "2026-09-05T10:04:12.459428+00:00",
+  "total": 1451,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 369,
+    "文明礼貌": 371,
     "爱国": 181,
     "友善": 165,
     "环保": 149,
@@ -20609,6 +20609,34 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 1058
+    },
+    {
+      "id": "BV1Jrty6cEcr",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日13周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 91.742,
+      "url": "http://www.bilibili.com/video/av117217106597901",
+      "play_url": "http://www.bilibili.com/video/av117217106597901",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 87
+    },
+    {
+      "id": "BV1aLtd6mEKL",
+      "title": "差一点！太不文明了",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 47.67,
+      "url": "http://www.bilibili.com/video/av117205664603964",
+      "play_url": "http://www.bilibili.com/video/av117205664603964",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "CODM英俊",
+      "view_count": 4508
     }
   ]
 }
