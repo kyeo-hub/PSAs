@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T20:04:16.868933+00:00",
-  "total": 1455,
+  "generated_at": "2026-09-06T03:07:03.049354+00:00",
+  "total": 1456,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 374,
-    "爱国": 181,
-    "友善": 166,
+    "爱国": 182,
+    "友善": 167,
     "环保": 149,
-    "诚信": 132,
+    "诚信": 133,
     "节约": 118,
     "孝道": 99,
     "交通安全": 81,
@@ -20698,6 +20698,22 @@
       "source": "bilibili",
       "uploader": "想在冬日去看海k",
       "view_count": 40
+    },
+    {
+      "id": "BV1eJ4m1a7To",
+      "title": "公益广告《自觉践行社会主义核心价值观》央视少儿频道《大手牵小手》《音乐快递》中场广告版",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 20.572,
+      "url": "http://www.bilibili.com/video/av1251219042",
+      "play_url": "http://www.bilibili.com/video/av1251219042",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 1197
     }
   ]
 }
