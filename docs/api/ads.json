@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T10:23:49.067103+00:00",
-  "total": 1457,
+  "generated_at": "2026-09-06T15:02:55.982818+00:00",
+  "total": 1458,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 374,
@@ -11,7 +11,7 @@
     "诚信": 133,
     "节约": 118,
     "孝道": 100,
-    "交通安全": 81,
+    "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
     "待分类": 1
@@ -20731,6 +20731,20 @@
       "source": "bilibili",
       "uploader": "吉他情报局",
       "view_count": 1109
+    },
+    {
+      "id": "BV1WYbE6eEar",
+      "title": "CCTV 14少儿频道播出知危险会避险-2026年秋季开学交通安全主题课-少年篇（2026年9月6日8:45）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 142.675,
+      "url": "http://www.bilibili.com/video/av117221368011401",
+      "play_url": "http://www.bilibili.com/video/av117221368011401",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "新围棋少年",
+      "view_count": 474
     }
   ]
 }
