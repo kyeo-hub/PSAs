@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T15:02:55.982818+00:00",
-  "total": 1458,
+  "generated_at": "2026-09-06T20:06:52.096514+00:00",
+  "total": 1461,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 374,
+    "文明礼貌": 377,
     "爱国": 182,
     "友善": 168,
     "环保": 150,
@@ -20745,6 +20745,48 @@
       "source": "bilibili",
       "uploader": "新围棋少年",
       "view_count": 474
+    },
+    {
+      "id": "BV1UDbH6UExJ",
+      "title": "野蛮其体魄 文明其精神 2026年8月15日14周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 71.308,
+      "url": "http://www.bilibili.com/video/av117223163171258",
+      "play_url": "http://www.bilibili.com/video/av117223163171258",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 850
+    },
+    {
+      "id": "BV14ebp6JEsh",
+      "title": "文明荒野",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 42.796,
+      "url": "http://www.bilibili.com/video/av117222961847717",
+      "play_url": "http://www.bilibili.com/video/av117222961847717",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "荒野乱斗阿布",
+      "view_count": 7362
+    },
+    {
+      "id": "BV1dAuS6dE8s",
+      "title": "文明的起点从一根断掉又愈合的大腿骨开始",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 26.935,
+      "url": "http://www.bilibili.com/video/av117066245866873",
+      "play_url": "http://www.bilibili.com/video/av117066245866873",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "JDM_Evolution",
+      "view_count": 713979
     }
   ]
 }
