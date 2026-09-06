@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T03:07:03.049354+00:00",
-  "total": 1456,
+  "generated_at": "2026-09-06T10:23:49.067103+00:00",
+  "total": 1457,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 374,
     "爱国": 182,
-    "友善": 167,
-    "环保": 149,
+    "友善": 168,
+    "环保": 150,
     "诚信": 133,
     "节约": 118,
-    "孝道": 99,
+    "孝道": 100,
     "交通安全": 81,
-    "助人为乐": 49,
+    "助人为乐": 50,
     "禁烟": 18,
     "待分类": 1
   },
@@ -20714,6 +20714,23 @@
       "source": "bilibili",
       "uploader": "我是魏通",
       "view_count": 1197
+    },
+    {
+      "id": "BV1RUt96jEuL",
+      "title": "吉他公益第四期｜有些画面不能给你们看，但有些声音你们一定要听",
+      "categories": [
+        "环保",
+        "助人为乐",
+        "友善",
+        "孝道"
+      ],
+      "duration": 247.617,
+      "url": "http://www.bilibili.com/video/av117204741789542",
+      "play_url": "http://www.bilibili.com/video/av117204741789542",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "吉他情报局",
+      "view_count": 1109
     }
   ]
 }
