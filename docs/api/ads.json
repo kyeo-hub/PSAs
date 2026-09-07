@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T20:06:52.096514+00:00",
-  "total": 1461,
+  "generated_at": "2026-09-07T03:06:00.119096+00:00",
+  "total": 1464,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 377,
+    "文明礼貌": 379,
     "爱国": 182,
     "友善": 168,
     "环保": 150,
     "诚信": 133,
     "节约": 118,
-    "孝道": 100,
+    "孝道": 101,
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
@@ -20787,6 +20787,48 @@
       "source": "bilibili",
       "uploader": "JDM_Evolution",
       "view_count": 713979
+    },
+    {
+      "id": "BV18wKa6XEPX",
+      "title": "文明游戏，从我做起。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 122.566,
+      "url": "http://www.bilibili.com/video/av116957546287484",
+      "play_url": "http://www.bilibili.com/video/av116957546287484",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "林脉有才",
+      "view_count": 252670
+    },
+    {
+      "id": "BV1mUbJ6GEsi",
+      "title": "化学文明 07",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 127.57,
+      "url": "http://www.bilibili.com/video/av117222357867488",
+      "play_url": "http://www.bilibili.com/video/av117222357867488",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 4012
+    },
+    {
+      "id": "BV1xetj6wEtp",
+      "title": "公益广告《动在日常乐享健康》央视少儿频道《智慧树》《七巧板》《大手牵小手》《音乐快递》《央视春晚》《六一晚会》播出版（2026年八月底起）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 39.933,
+      "url": "http://www.bilibili.com/video/av117198131563651",
+      "play_url": "http://www.bilibili.com/video/av117198131563651",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 161
     }
   ]
 }
