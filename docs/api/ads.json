@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T17:23:23.088734+00:00",
-  "total": 1465,
+  "generated_at": "2026-09-07T21:14:12.191208+00:00",
+  "total": 1468,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 380,
+    "文明礼貌": 381,
     "爱国": 182,
-    "友善": 168,
+    "友善": 170,
     "环保": 150,
-    "诚信": 133,
+    "诚信": 135,
     "节约": 118,
-    "孝道": 101,
+    "孝道": 102,
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
@@ -20843,6 +20843,51 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 150
+    },
+    {
+      "id": "BV1f54y1b7uC",
+      "title": "广而告之公益广告《传递微笑 沟通和谐》",
+      "categories": [
+        "友善"
+      ],
+      "duration": 31.125,
+      "url": "http://www.bilibili.com/video/av845146371",
+      "play_url": "http://www.bilibili.com/video/av845146371",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 6167
+    },
+    {
+      "id": "BV1UfMpzSE1d",
+      "title": "关于诚信演讲背景视频《诚信以人为本》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 281.788,
+      "url": "http://www.bilibili.com/video/av114666298678849",
+      "play_url": "http://www.bilibili.com/video/av114666298678849",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小chen设计",
+      "view_count": 1356
+    },
+    {
+      "id": "BV1rJ411R7Kc",
+      "title": "弘扬中华传统美德",
+      "categories": [
+        "诚信",
+        "文明礼貌",
+        "友善",
+        "孝道"
+      ],
+      "duration": 39.715,
+      "url": "http://www.bilibili.com/video/av77039278",
+      "play_url": "http://www.bilibili.com/video/av77039278",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "幽暗冥王s",
+      "view_count": 822
     }
   ]
 }
