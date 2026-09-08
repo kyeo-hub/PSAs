@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T16:06:35.842820+00:00",
-  "total": 1471,
+  "generated_at": "2026-09-08T20:50:22.324395+00:00",
+  "total": 1473,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 381,
+    "文明礼貌": 382,
     "爱国": 183,
     "友善": 171,
     "环保": 151,
@@ -14,7 +14,7 @@
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
-    "待分类": 1
+    "待分类": 2
   },
   "items": [
     {
@@ -20932,6 +20932,34 @@
       "source": "bilibili",
       "uploader": "永磁-老鼠",
       "view_count": 3409
+    },
+    {
+      "id": "BV1Y2b56uEZM",
+      "title": "野蛮其体魄 文明其精神 2026年8月29日2周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 197.811,
+      "url": "http://www.bilibili.com/video/av117234588523883",
+      "play_url": "http://www.bilibili.com/video/av117234588523883",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 373
+    },
+    {
+      "id": "BV1entz6gEpT",
+      "title": "【2026青春扬益公益广告】《别让心声梗住了》",
+      "categories": [
+        "待分类"
+      ],
+      "duration": 127.338,
+      "url": "http://www.bilibili.com/video/av117212023228332",
+      "play_url": "http://www.bilibili.com/video/av117212023228332",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "湖南卫视",
+      "view_count": 546
     }
   ]
 }
