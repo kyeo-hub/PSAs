@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T21:14:12.191208+00:00",
-  "total": 1468,
+  "generated_at": "2026-09-08T03:15:16.235376+00:00",
+  "total": 1471,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 381,
-    "爱国": 182,
-    "友善": 170,
-    "环保": 150,
-    "诚信": 135,
+    "爱国": 183,
+    "友善": 171,
+    "环保": 151,
+    "诚信": 136,
     "节约": 118,
-    "孝道": 102,
+    "孝道": 103,
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
@@ -20888,6 +20888,50 @@
       "source": "bilibili",
       "uploader": "幽暗冥王s",
       "view_count": 822
+    },
+    {
+      "id": "BV1vp4y167Zv",
+      "title": "社会主义核心价值观——诚信篇",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 251.123,
+      "url": "http://www.bilibili.com/video/av970253993",
+      "play_url": "http://www.bilibili.com/video/av970253993",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "不桐-成长站",
+      "view_count": 7745
+    },
+    {
+      "id": "BV13M4y1H7Cg",
+      "title": "《中華孝道是美德～傳給後來人》治愈系・正能量歌曲・音樂短片",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 113.266,
+      "url": "http://www.bilibili.com/video/av914106265",
+      "play_url": "http://www.bilibili.com/video/av914106265",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "國學啓蒙動漫",
+      "view_count": 911
+    },
+    {
+      "id": "BV1oi4y167GY",
+      "title": "【放送文化】环保公益广告•水土流失篇黄土高原版",
+      "categories": [
+        "环保"
+      ],
+      "duration": 119.675,
+      "url": "http://www.bilibili.com/video/av538063591",
+      "play_url": "http://www.bilibili.com/video/av538063591",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "永磁-老鼠",
+      "view_count": 3409
     }
   ]
 }
