@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T16:01:56.805962+00:00",
-  "total": 1482,
+  "generated_at": "2026-09-09T20:31:41.872548+00:00",
+  "total": 1483,
   "categories_summary": {
     "综合": 399,
     "文明礼貌": 388,
     "爱国": 184,
-    "友善": 172,
-    "环保": 151,
+    "友善": 173,
+    "环保": 152,
     "诚信": 138,
     "节约": 119,
     "孝道": 103,
@@ -21089,6 +21089,21 @@
       "source": "bilibili",
       "uploader": "湖南卫视",
       "view_count": 335
+    },
+    {
+      "id": "BV1iv411G7r9",
+      "title": "韩国公益广告·善意评论接力（2011）中文字幕",
+      "categories": [
+        "环保",
+        "友善"
+      ],
+      "duration": 30.696,
+      "url": "http://www.bilibili.com/video/av250865899",
+      "play_url": "http://www.bilibili.com/video/av250865899",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "八成是一",
+      "view_count": 1974
     }
   ]
 }
