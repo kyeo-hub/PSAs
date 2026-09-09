@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T20:50:22.324395+00:00",
-  "total": 1473,
+  "generated_at": "2026-09-09T03:15:55.271440+00:00",
+  "total": 1477,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 382,
-    "爱国": 183,
-    "友善": 171,
+    "文明礼貌": 384,
+    "爱国": 184,
+    "友善": 172,
     "环保": 151,
-    "诚信": 136,
-    "节约": 118,
+    "诚信": 138,
+    "节约": 119,
     "孝道": 103,
     "交通安全": 82,
     "助人为乐": 50,
@@ -20960,6 +20960,65 @@
       "source": "bilibili",
       "uploader": "湖南卫视",
       "view_count": 546
+    },
+    {
+      "id": "BV1zvb562EzJ",
+      "title": "请大家文明出行",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 37.083,
+      "url": "http://www.bilibili.com/video/av117234370418356",
+      "play_url": "http://www.bilibili.com/video/av117234370418356",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "盾牌就是我",
+      "view_count": 18
+    },
+    {
+      "id": "BV12BbV6REJM",
+      "title": "【公益广告】诚信铸就无悔人生公益广告",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 60.787,
+      "url": "http://www.bilibili.com/video/av117235326654521",
+      "play_url": "http://www.bilibili.com/video/av117235326654521",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "睿智满满的哥哥",
+      "view_count": 13
+    },
+    {
+      "id": "BV1Ug411A79S",
+      "title": "社会主义核心价值观中英双语朗读版",
+      "categories": [
+        "文明礼貌",
+        "诚信",
+        "爱国",
+        "友善"
+      ],
+      "duration": 60.069,
+      "url": "http://www.bilibili.com/video/av507081591",
+      "play_url": "http://www.bilibili.com/video/av507081591",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小默英语",
+      "view_count": 7272
+    },
+    {
+      "id": "BV1GWbV6KERT",
+      "title": "天津卫视公益广告：节约粮食 杜绝浪费",
+      "categories": [
+        "节约"
+      ],
+      "duration": 27.732,
+      "url": "http://www.bilibili.com/video/av117235158944354",
+      "play_url": "http://www.bilibili.com/video/av117235158944354",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 37
     }
   ]
 }
