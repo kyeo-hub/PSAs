@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T03:15:55.271440+00:00",
-  "total": 1477,
+  "generated_at": "2026-09-09T10:54:35.275790+00:00",
+  "total": 1482,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 384,
+    "文明礼貌": 388,
     "爱国": 184,
     "友善": 172,
     "环保": 151,
@@ -14,7 +14,7 @@
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
-    "待分类": 2
+    "待分类": 3
   },
   "items": [
     {
@@ -21019,6 +21019,76 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 37
+    },
+    {
+      "id": "BV1ihYx6XEZP",
+      "title": "【公益广告】文明健康 有你有我",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 14.93,
+      "url": "http://www.bilibili.com/video/av117240275929667",
+      "play_url": "http://www.bilibili.com/video/av117240275929667",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "张阳王子Prince",
+      "view_count": 1
+    },
+    {
+      "id": "BV1phN4zyE9b",
+      "title": "【吴镇宇&黄子华&张达明】请你《做个文明中国人》！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 68.588,
+      "url": "http://www.bilibili.com/video/av114709466448079",
+      "play_url": "http://www.bilibili.com/video/av114709466448079",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "网易云音乐",
+      "view_count": 1467522
+    },
+    {
+      "id": "BV1PEbH6rEhq",
+      "title": "老外：中国人的“规矩”让我们看到了文明，这一幕，值得我们几代人学习！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 298.038,
+      "url": "http://www.bilibili.com/video/av117221703553371",
+      "play_url": "http://www.bilibili.com/video/av117221703553371",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "福泽悠长",
+      "view_count": 2153
+    },
+    {
+      "id": "BV1cActezEcV",
+      "title": "【梗百科】文明中国人是啥梗？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 140.123,
+      "url": "http://www.bilibili.com/video/av113826078989808",
+      "play_url": "http://www.bilibili.com/video/av113826078989808",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梗百科",
+      "view_count": 2019278
+    },
+    {
+      "id": "BV1Sttz6eE8o",
+      "title": "【2026青春扬益公益广告】《123》",
+      "categories": [
+        "待分类"
+      ],
+      "duration": 167.04,
+      "url": "http://www.bilibili.com/video/av117211939212218",
+      "play_url": "http://www.bilibili.com/video/av117211939212218",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "湖南卫视",
+      "view_count": 335
     }
   ]
 }
