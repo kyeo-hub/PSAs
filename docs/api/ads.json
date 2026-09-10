@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T20:31:41.872548+00:00",
-  "total": 1483,
+  "generated_at": "2026-09-10T03:16:39.754303+00:00",
+  "total": 1484,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 388,
+    "文明礼貌": 389,
     "爱国": 184,
     "友善": 173,
     "环保": 152,
@@ -21104,6 +21104,20 @@
       "source": "bilibili",
       "uploader": "八成是一",
       "view_count": 1974
+    },
+    {
+      "id": "BV1z9bV6yEa2",
+      "title": "China GT.早就不是一开始的China GT了。少爷们攒的局，出问题了，又说中国不文明，是不是脑子坏了？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 285.722,
+      "url": "http://www.bilibili.com/video/av117235091773176",
+      "play_url": "http://www.bilibili.com/video/av117235091773176",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "灯塔破壁人李晨",
+      "view_count": 82469
     }
   ]
 }
