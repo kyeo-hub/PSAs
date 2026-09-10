@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T03:16:39.754303+00:00",
-  "total": 1484,
+  "generated_at": "2026-09-10T10:45:47.610465+00:00",
+  "total": 1486,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 389,
-    "爱国": 184,
+    "文明礼貌": 390,
+    "爱国": 185,
     "友善": 173,
     "环保": 152,
     "诚信": 138,
     "节约": 119,
-    "孝道": 103,
+    "孝道": 104,
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21118,6 +21118,35 @@
       "source": "bilibili",
       "uploader": "灯塔破壁人李晨",
       "view_count": 82469
+    },
+    {
+      "id": "BV12stk6PEcm",
+      "title": "2026青春扬益公益广告片《声音不越界 静音更文明》【wb湖南电影频道20260904】",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.793,
+      "url": "http://www.bilibili.com/video/av117214036430951",
+      "play_url": "http://www.bilibili.com/video/av117214036430951",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "周可语夏",
+      "view_count": 255
+    },
+    {
+      "id": "BV1p4YT6CEat",
+      "title": "重阳节国旗下表演，少儿手势舞，弘扬传统文化，传承中华美德#弘扬孝道 #敬老爱幼 #传承中华美德 #爱老敬老传承中华美德 #传统文化从小培养",
+      "categories": [
+        "孝道",
+        "爱国"
+      ],
+      "duration": 49.203,
+      "url": "http://www.bilibili.com/video/av117245694975378",
+      "play_url": "http://www.bilibili.com/video/av117245694975378",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星星资料库La526999",
+      "view_count": 0
     }
   ]
 }
