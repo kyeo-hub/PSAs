@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T20:31:39.723897+00:00",
-  "total": 1486,
+  "generated_at": "2026-09-11T03:11:33.855626+00:00",
+  "total": 1489,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 390,
-    "爱国": 185,
-    "友善": 173,
+    "文明礼貌": 391,
+    "爱国": 186,
+    "友善": 174,
     "环保": 152,
-    "诚信": 138,
-    "节约": 119,
-    "孝道": 104,
+    "诚信": 139,
+    "节约": 120,
+    "孝道": 105,
     "交通安全": 82,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21147,6 +21147,51 @@
       "source": "bilibili",
       "uploader": "星星资料库La526999",
       "view_count": 0
+    },
+    {
+      "id": "BV1Qr4X6uEi5",
+      "title": "【补档/儿时记忆】勤俭节约 中华美德公益广告（央视新闻频道出品）",
+      "categories": [
+        "孝道",
+        "节约"
+      ],
+      "duration": 54.961,
+      "url": "http://www.bilibili.com/video/av117183082465047",
+      "play_url": "http://www.bilibili.com/video/av117183082465047",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "大爱之声-王金山",
+      "view_count": 363
+    },
+    {
+      "id": "BV1BJ4m1T7ec",
+      "title": "【放送文化】CCTV13公益广告《社会主义核心价值观》",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 60.232,
+      "url": "http://www.bilibili.com/video/av1256025580",
+      "play_url": "http://www.bilibili.com/video/av1256025580",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 10391
+    },
+    {
+      "id": "BV1BC4y1a7vN",
+      "title": "文明只差一点点小举只大公德中国中央电视台广而告之公益广告—博物馆篇30秒(卡通人版)",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 28.633,
+      "url": "http://www.bilibili.com/video/av796052510",
+      "play_url": "http://www.bilibili.com/video/av796052510",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 4118
     }
   ]
 }
