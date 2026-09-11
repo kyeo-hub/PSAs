@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T03:11:33.855626+00:00",
-  "total": 1489,
+  "generated_at": "2026-09-11T10:44:37.706618+00:00",
+  "total": 1491,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 391,
+    "文明礼貌": 393,
     "爱国": 186,
     "友善": 174,
     "环保": 152,
@@ -21192,6 +21192,34 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 4118
+    },
+    {
+      "id": "BV1G9Y36rEip",
+      "title": "【青春扬益公益广告】声音不越界，静音更文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.68,
+      "url": "http://www.bilibili.com/video/av117247406245967",
+      "play_url": "http://www.bilibili.com/video/av117247406245967",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阳光男孩是东北人",
+      "view_count": 96
+    },
+    {
+      "id": "BV1cHY56cEpE",
+      "title": "公益广告文明小贴士",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 151.766,
+      "url": "http://www.bilibili.com/video/av117250090601521",
+      "play_url": "http://www.bilibili.com/video/av117250090601521",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我的品牌我们的世界",
+      "view_count": 53
     }
   ]
 }
