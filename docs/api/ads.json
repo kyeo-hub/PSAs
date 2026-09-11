@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T10:44:37.706618+00:00",
-  "total": 1491,
+  "generated_at": "2026-09-11T15:59:26.956432+00:00",
+  "total": 1493,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 393,
+    "文明礼貌": 395,
     "爱国": 186,
     "友善": 174,
     "环保": 152,
@@ -21220,6 +21220,34 @@
       "source": "bilibili",
       "uploader": "我的品牌我们的世界",
       "view_count": 53
+    },
+    {
+      "id": "BV1ZULs66EpR",
+      "title": "中国在世界文明的花园里扮演着什么角色",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 172.431,
+      "url": "http://www.bilibili.com/video/av116610492865410",
+      "play_url": "http://www.bilibili.com/video/av116610492865410",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "江烬霜",
+      "view_count": 240
+    },
+    {
+      "id": "BV1XhbK67EMf",
+      "title": "文明百花园中的中国",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 145.933,
+      "url": "http://www.bilibili.com/video/av117229203098662",
+      "play_url": "http://www.bilibili.com/video/av117229203098662",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "来造孽啊-",
+      "view_count": 109
     }
   ]
 }
