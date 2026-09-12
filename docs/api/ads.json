@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T20:33:28.232334+00:00",
-  "total": 1493,
+  "generated_at": "2026-09-12T03:20:59.228401+00:00",
+  "total": 1495,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 395,
+    "文明礼貌": 396,
     "爱国": 186,
-    "友善": 174,
+    "友善": 175,
     "环保": 152,
-    "诚信": 139,
+    "诚信": 140,
     "节约": 120,
-    "孝道": 105,
-    "交通安全": 82,
+    "孝道": 106,
+    "交通安全": 83,
     "助人为乐": 50,
     "禁烟": 18,
     "待分类": 3
@@ -21248,6 +21248,37 @@
       "source": "bilibili",
       "uploader": "来造孽啊-",
       "view_count": 109
+    },
+    {
+      "id": "BV1LnbV6MEdS",
+      "title": "中华传统美德故事《别出心裁的赛马》",
+      "categories": [
+        "文明礼貌",
+        "诚信",
+        "孝道",
+        "友善"
+      ],
+      "duration": 182.323,
+      "url": "http://www.bilibili.com/video/av117235259610995",
+      "play_url": "http://www.bilibili.com/video/av117235259610995",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "老白科普A",
+      "view_count": 44
+    },
+    {
+      "id": "BV1HW4y1T723",
+      "title": "最好的交通安全广告！",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 213.247,
+      "url": "http://www.bilibili.com/video/av946416066",
+      "play_url": "http://www.bilibili.com/video/av946416066",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广告圈poor猴",
+      "view_count": 25319
     }
   ]
 }
