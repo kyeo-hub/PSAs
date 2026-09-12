@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T15:08:17.178717+00:00",
-  "total": 1503,
+  "generated_at": "2026-09-12T20:16:49.467882+00:00",
+  "total": 1504,
   "categories_summary": {
-    "文明礼貌": 402,
+    "文明礼貌": 403,
     "综合": 399,
     "爱国": 186,
     "友善": 175,
@@ -21391,6 +21391,20 @@
       "source": "bilibili",
       "uploader": "王楚玥的语文老师",
       "view_count": 59
+    },
+    {
+      "id": "BV1LofmYjEFm",
+      "title": "新时代网络文明公益广告｜美好中国年 致敬奋斗者（来源：中国文明网）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 90.622,
+      "url": "http://www.bilibili.com/video/av113899898672097",
+      "play_url": "http://www.bilibili.com/video/av113899898672097",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "共青小海狮",
+      "view_count": 162
     }
   ]
 }
