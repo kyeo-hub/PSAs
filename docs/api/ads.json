@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T03:20:59.228401+00:00",
-  "total": 1495,
+  "generated_at": "2026-09-12T10:15:07.118611+00:00",
+  "total": 1498,
   "categories_summary": {
     "综合": 399,
-    "文明礼貌": 396,
+    "文明礼貌": 398,
     "爱国": 186,
     "友善": 175,
     "环保": 152,
     "诚信": 140,
     "节约": 120,
     "孝道": 106,
-    "交通安全": 83,
+    "交通安全": 84,
     "助人为乐": 50,
     "禁烟": 18,
     "待分类": 3
@@ -21279,6 +21279,48 @@
       "source": "bilibili",
       "uploader": "广告圈poor猴",
       "view_count": 25319
+    },
+    {
+      "id": "BV1snYj6zEZH",
+      "title": "野蛮其体魄 文明其精神 2026年8月29日4周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 226.882,
+      "url": "http://www.bilibili.com/video/av117250862419982",
+      "play_url": "http://www.bilibili.com/video/av117250862419982",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 1106
+    },
+    {
+      "id": "BV1eKGV6fEtL",
+      "title": "战争与文明（公益版）无限资源内购★内置GM后台菜单，代币无上限，无偿免费分享速嗱~",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.0,
+      "url": "http://www.bilibili.com/video/av117020074968162",
+      "play_url": "http://www.bilibili.com/video/av117020074968162",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小李爱投稿",
+      "view_count": 292
+    },
+    {
+      "id": "BV1NJ41197GL",
+      "title": "悔恨擦不去人生要珍惜 请勿酒驾公益广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 61.284,
+      "url": "http://www.bilibili.com/video/av77285648",
+      "play_url": "http://www.bilibili.com/video/av77285648",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小老鼠-舒克",
+      "view_count": 55018
     }
   ]
 }
