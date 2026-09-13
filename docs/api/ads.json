@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T20:16:49.467882+00:00",
-  "total": 1504,
+  "generated_at": "2026-09-13T03:22:12.724904+00:00",
+  "total": 1507,
   "categories_summary": {
     "文明礼貌": 403,
     "综合": 399,
-    "爱国": 186,
-    "友善": 175,
+    "爱国": 188,
+    "友善": 178,
     "环保": 152,
-    "诚信": 140,
+    "诚信": 142,
     "节约": 121,
     "孝道": 106,
     "交通安全": 84,
@@ -21405,6 +21405,52 @@
       "source": "bilibili",
       "uploader": "共青小海狮",
       "view_count": 162
+    },
+    {
+      "id": "BV14rYJ6QEXt",
+      "title": "我们的社会主义核心价值观",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 97.416,
+      "url": "http://www.bilibili.com/video/av117235511204570",
+      "play_url": "http://www.bilibili.com/video/av117235511204570",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "保德县农村强子",
+      "view_count": 51
+    },
+    {
+      "id": "BV1NZ4y1x7Mv",
+      "title": "【视觉动画】社会主义核心价值观",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 54.759,
+      "url": "http://www.bilibili.com/video/av370162869",
+      "play_url": "http://www.bilibili.com/video/av370162869",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Bling_D",
+      "view_count": 33991
+    },
+    {
+      "id": "BV188Z3YNEgK",
+      "title": "【扬正气促和谐公益广告展播】朋友，请选择正确的人生",
+      "categories": [
+        "友善"
+      ],
+      "duration": 65.789,
+      "url": "http://www.bilibili.com/video/av114234235029005",
+      "play_url": "http://www.bilibili.com/video/av114234235029005",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "宏4672",
+      "view_count": 733
     }
   ]
 }
