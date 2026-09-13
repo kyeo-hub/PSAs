@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T03:22:12.724904+00:00",
-  "total": 1507,
+  "generated_at": "2026-09-13T11:13:57.987842+00:00",
+  "total": 1510,
   "categories_summary": {
-    "文明礼貌": 403,
+    "文明礼貌": 406,
     "综合": 399,
     "爱国": 188,
     "友善": 178,
@@ -21451,6 +21451,48 @@
       "source": "bilibili",
       "uploader": "宏4672",
       "view_count": 733
+    },
+    {
+      "id": "BV19qjn6xEJX",
+      "title": "世界文明因多样而丰富多彩，文明之间没有高低之分，只有差异之别——这是文明交流互鉴的起点。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.096,
+      "url": "http://www.bilibili.com/video/av116783214305058",
+      "play_url": "http://www.bilibili.com/video/av116783214305058",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "四川卫视",
+      "view_count": 203
+    },
+    {
+      "id": "BV1q2Ye6yE2p",
+      "title": "化学文明 08",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 132.166,
+      "url": "http://www.bilibili.com/video/av117262841290203",
+      "play_url": "http://www.bilibili.com/video/av117262841290203",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 984
+    },
+    {
+      "id": "BV1BUYm6DEYo",
+      "title": "“讲文明 树新风”｜蜡笔小新",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 118.31,
+      "url": "http://www.bilibili.com/video/av117254217860952",
+      "play_url": "http://www.bilibili.com/video/av117254217860952",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "和保姆地覆天翻不哭发",
+      "view_count": 16
     }
   ]
 }
