@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T15:43:28.418946+00:00",
-  "total": 1510,
+  "generated_at": "2026-09-13T20:27:42.440425+00:00",
+  "total": 1511,
   "categories_summary": {
-    "文明礼貌": 406,
+    "文明礼貌": 407,
     "综合": 399,
     "爱国": 188,
     "友善": 178,
@@ -21493,6 +21493,20 @@
       "source": "bilibili",
       "uploader": "和保姆地覆天翻不哭发",
       "view_count": 16
+    },
+    {
+      "id": "BV13dYR6FEeU",
+      "title": "LT01C公共卫生中心小客 宇通新能源车贴上了讲文明树新风公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 12.0,
+      "url": "http://www.bilibili.com/video/av117258479274990",
+      "play_url": "http://www.bilibili.com/video/av117258479274990",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "blil_47321563074",
+      "view_count": 58
     }
   ]
 }
