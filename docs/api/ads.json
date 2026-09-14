@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T20:27:42.440425+00:00",
-  "total": 1511,
+  "generated_at": "2026-09-14T03:34:09.883877+00:00",
+  "total": 1515,
   "categories_summary": {
-    "文明礼貌": 407,
+    "文明礼貌": 410,
     "综合": 399,
     "爱国": 188,
     "友善": 178,
     "环保": 152,
-    "诚信": 142,
+    "诚信": 143,
     "节约": 121,
     "孝道": 106,
     "交通安全": 84,
@@ -21507,6 +21507,62 @@
       "source": "bilibili",
       "uploader": "blil_47321563074",
       "view_count": 58
+    },
+    {
+      "id": "BV1ys41197i6",
+      "title": "《公益广告》2014年贵阳学院微电影《无诚信无朋友》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 166.718,
+      "url": "http://www.bilibili.com/video/av3412762",
+      "play_url": "http://www.bilibili.com/video/av3412762",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "白礼白里白",
+      "view_count": 2216
+    },
+    {
+      "id": "BV1MEYX62E8F",
+      "title": "文明还是出手了",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 12.0,
+      "url": "http://www.bilibili.com/video/av117257707461345",
+      "play_url": "http://www.bilibili.com/video/av117257707461345",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "关正于民",
+      "view_count": 86035
+    },
+    {
+      "id": "BV1GjYo6eE7H",
+      "title": "最新补档！9月13日更新【战争与文明】公益版 无限资源内购 内置GM后台菜单 代币无上限 免费领取",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 69.056,
+      "url": "http://www.bilibili.com/video/av117259401954940",
+      "play_url": "http://www.bilibili.com/video/av117259401954940",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "t090野",
+      "view_count": 125
+    },
+    {
+      "id": "BV1D4Yi6KEcz",
+      "title": "化学文明 08",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 132.166,
+      "url": "http://www.bilibili.com/video/av117264099578351",
+      "play_url": "http://www.bilibili.com/video/av117264099578351",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 602
     }
   ]
 }
