@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T17:49:45.029336+00:00",
-  "total": 1517,
+  "generated_at": "2026-09-14T21:36:05.535260+00:00",
+  "total": 1518,
   "categories_summary": {
     "文明礼貌": 411,
     "综合": 399,
     "爱国": 189,
-    "友善": 178,
+    "友善": 179,
     "环保": 152,
     "诚信": 143,
     "节约": 122,
-    "孝道": 106,
+    "孝道": 107,
     "交通安全": 84,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21592,6 +21592,21 @@
       "source": "bilibili",
       "uploader": "资料分享FC1662998",
       "view_count": 17
+    },
+    {
+      "id": "BV1vS4y147A3",
+      "title": "（电视公益广告）关爱空巢老人 请多出席",
+      "categories": [
+        "孝道",
+        "友善"
+      ],
+      "duration": 64.319,
+      "url": "http://www.bilibili.com/video/av729231658",
+      "play_url": "http://www.bilibili.com/video/av729231658",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 2797
     }
   ]
 }
