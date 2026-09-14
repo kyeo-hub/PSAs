@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T11:57:08.292840+00:00",
-  "total": 1516,
+  "generated_at": "2026-09-14T17:49:45.029336+00:00",
+  "total": 1517,
   "categories_summary": {
     "文明礼貌": 411,
     "综合": 399,
-    "爱国": 188,
+    "爱国": 189,
     "友善": 178,
     "环保": 152,
     "诚信": 143,
-    "节约": 121,
+    "节约": 122,
     "孝道": 106,
     "交通安全": 84,
     "助人为乐": 50,
@@ -21577,6 +21577,21 @@
       "source": "bilibili",
       "uploader": "睿智满满的哥哥",
       "view_count": 5
+    },
+    {
+      "id": "BV1RTYC6AErd",
+      "title": "珍惜粮食少儿舞蹈，珍惜粮食主题节目，珍惜粮食国旗下表演，勤俭最光荣#小学生表演 #珍惜粮食教育 #勤俭节约教育 #勤俭最光荣 #节约粮食人人有责",
+      "categories": [
+        "节约",
+        "爱国"
+      ],
+      "duration": 46.114,
+      "url": "http://www.bilibili.com/video/av117268310722489",
+      "play_url": "http://www.bilibili.com/video/av117268310722489",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "资料分享FC1662998",
+      "view_count": 17
     }
   ]
 }
