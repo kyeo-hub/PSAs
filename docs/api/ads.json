@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T11:13:47.916006+00:00",
-  "total": 1520,
+  "generated_at": "2026-09-15T16:22:55.091010+00:00",
+  "total": 1522,
   "categories_summary": {
     "文明礼貌": 413,
     "综合": 399,
-    "爱国": 189,
+    "爱国": 191,
     "友善": 179,
     "环保": 152,
     "诚信": 143,
-    "节约": 122,
+    "节约": 124,
     "孝道": 107,
     "交通安全": 84,
     "助人为乐": 50,
@@ -21635,6 +21635,36 @@
       "source": "bilibili",
       "uploader": "卡特兔没有踏踏踏塌",
       "view_count": 418
+    },
+    {
+      "id": "BV1qPe76AEPC",
+      "title": "《惜粮不负食光》一粥一饭来之不易，以手势践行节约，以初心守护食光，惜粮爱粮，从我做起！# 惜粮不负食光 #节约粮食 #国旗下手势舞 #校园德育 #光盘行动",
+      "categories": [
+        "节约",
+        "爱国"
+      ],
+      "duration": 140.736,
+      "url": "http://www.bilibili.com/video/av117272253303521",
+      "play_url": "http://www.bilibili.com/video/av117272253303521",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版素材V号GG31680",
+      "view_count": 113
+    },
+    {
+      "id": "BV1a5e76xEjo",
+      "title": "《爱粮节粮我先行》铭记粒粒皆辛苦，演讲传递理念，手势舞动初心，践行爱粮节粮，争做节约好少年 #爱粮节粮我先行 #国旗下展演 #节约粮食主题 #校园手势舞",
+      "categories": [
+        "节约",
+        "爱国"
+      ],
+      "duration": 163.863,
+      "url": "http://www.bilibili.com/video/av117272337188224",
+      "play_url": "http://www.bilibili.com/video/av117272337188224",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版素材V号GG31680",
+      "view_count": 30
     }
   ]
 }
