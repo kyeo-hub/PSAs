@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T03:36:11.921454+00:00",
-  "total": 1519,
+  "generated_at": "2026-09-15T11:13:47.916006+00:00",
+  "total": 1520,
   "categories_summary": {
-    "文明礼貌": 412,
+    "文明礼貌": 413,
     "综合": 399,
     "爱国": 189,
     "友善": 179,
@@ -21621,6 +21621,20 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 602
+    },
+    {
+      "id": "BV154411g7as",
+      "title": "讲文明树新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.151,
+      "url": "http://www.bilibili.com/video/av56589725",
+      "play_url": "http://www.bilibili.com/video/av56589725",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "卡特兔没有踏踏踏塌",
+      "view_count": 418
     }
   ]
 }
