@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T16:16:38.460214+00:00",
-  "total": 1525,
+  "generated_at": "2026-09-16T20:59:21.960813+00:00",
+  "total": 1526,
   "categories_summary": {
     "文明礼貌": 415,
     "综合": 399,
     "爱国": 192,
     "友善": 180,
     "环保": 152,
-    "诚信": 144,
+    "诚信": 145,
     "节约": 124,
     "孝道": 107,
     "交通安全": 84,
@@ -21709,6 +21709,20 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 707
+    },
+    {
+      "id": "BV1LJ411K7eK",
+      "title": "【公益广告】诚信公益广告-窍门篇",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 60.0,
+      "url": "http://www.bilibili.com/video/av67294823",
+      "play_url": "http://www.bilibili.com/video/av67294823",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平盐铁路のDF4",
+      "view_count": 6527
     }
   ]
 }
