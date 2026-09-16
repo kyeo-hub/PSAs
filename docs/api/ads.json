@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T10:57:07.221886+00:00",
-  "total": 1522,
+  "generated_at": "2026-09-16T16:16:38.460214+00:00",
+  "total": 1525,
   "categories_summary": {
-    "文明礼貌": 413,
+    "文明礼貌": 415,
     "综合": 399,
-    "爱国": 191,
-    "友善": 179,
+    "爱国": 192,
+    "友善": 180,
     "环保": 152,
-    "诚信": 143,
+    "诚信": 144,
     "节约": 124,
     "孝道": 107,
     "交通安全": 84,
@@ -21665,6 +21665,50 @@
       "source": "bilibili",
       "uploader": "完整版素材V号GG31680",
       "view_count": 30
+    },
+    {
+      "id": "BV1iz421S7HD",
+      "title": "公益广告《自觉践行社会主义核心价值观》央视少儿频道《智慧树》结束之后的广告播出版(2024.05.01-2024.05.31)",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信"
+      ],
+      "duration": 40.448,
+      "url": "http://www.bilibili.com/video/av1353776004",
+      "play_url": "http://www.bilibili.com/video/av1353776004",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 4566
+    },
+    {
+      "id": "BV18gep6eExA",
+      "title": "化学文明 09",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 120.166,
+      "url": "http://www.bilibili.com/video/av117275608815314",
+      "play_url": "http://www.bilibili.com/video/av117275608815314",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 1284
+    },
+    {
+      "id": "BV1DXew65ERM",
+      "title": "野蛮其体魄 文明其精神 2026年9月9日1周末线下赠书做公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 210.048,
+      "url": "http://www.bilibili.com/video/av117279685677461",
+      "play_url": "http://www.bilibili.com/video/av117279685677461",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 707
     }
   ]
 }
