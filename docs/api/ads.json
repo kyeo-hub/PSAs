@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T20:59:21.960813+00:00",
-  "total": 1526,
+  "generated_at": "2026-09-17T03:35:51.792089+00:00",
+  "total": 1527,
   "categories_summary": {
     "文明礼貌": 415,
     "综合": 399,
-    "爱国": 192,
+    "爱国": 193,
     "友善": 180,
     "环保": 152,
     "诚信": 145,
@@ -21723,6 +21723,20 @@
       "source": "bilibili",
       "uploader": "平盐铁路のDF4",
       "view_count": 6527
+    },
+    {
+      "id": "BV1ir4y1Q7uL",
+      "title": "广而告之公益广告《振中华之气 扬民族之威》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 30.527,
+      "url": "http://www.bilibili.com/video/av764533614",
+      "play_url": "http://www.bilibili.com/video/av764533614",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 2523
     }
   ]
 }
