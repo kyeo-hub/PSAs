@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T03:35:51.792089+00:00",
-  "total": 1527,
+  "generated_at": "2026-09-17T11:06:35.041446+00:00",
+  "total": 1528,
   "categories_summary": {
     "文明礼貌": 415,
     "综合": 399,
     "爱国": 193,
     "友善": 180,
-    "环保": 152,
+    "环保": 153,
     "诚信": 145,
     "节约": 124,
     "孝道": 107,
@@ -21737,6 +21737,20 @@
       "source": "bilibili",
       "uploader": "广而告之MMIA",
       "view_count": 2523
+    },
+    {
+      "id": "BV1T8eM6sE2x",
+      "title": "公益广告：环保生活 创意无限",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.2,
+      "url": "http://www.bilibili.com/video/av117284316190540",
+      "play_url": "http://www.bilibili.com/video/av117284316190540",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 11
     }
   ]
 }
