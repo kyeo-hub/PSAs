@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T10:42:11.913176+00:00",
-  "total": 1530,
+  "generated_at": "2026-09-18T15:58:11.428479+00:00",
+  "total": 1531,
   "categories_summary": {
-    "文明礼貌": 415,
+    "文明礼貌": 416,
     "综合": 399,
     "爱国": 193,
     "友善": 180,
@@ -21779,6 +21779,20 @@
       "source": "bilibili",
       "uploader": "阿泽放送-柠檬仔之友",
       "view_count": 28
+    },
+    {
+      "id": "BV1s7eC6JEic",
+      "title": "谈起救灾与慈善，很多人习惯盯着个人公益。兰老师提出不一样的视角：中国式救灾，文明程度全球第一，根源藏在华夏古老文化之中。",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 263.68,
+      "url": "http://www.bilibili.com/video/av117289986823308",
+      "play_url": "http://www.bilibili.com/video/av117289986823308",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "春华-天人心学",
+      "view_count": 144
     }
   ]
 }
