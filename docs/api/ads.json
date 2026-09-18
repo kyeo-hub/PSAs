@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T15:58:11.428479+00:00",
-  "total": 1531,
+  "generated_at": "2026-09-18T20:32:58.505706+00:00",
+  "total": 1533,
   "categories_summary": {
     "文明礼貌": 416,
     "综合": 399,
-    "爱国": 193,
-    "友善": 180,
+    "爱国": 194,
+    "友善": 181,
     "环保": 154,
-    "诚信": 145,
+    "诚信": 146,
     "节约": 124,
-    "孝道": 108,
+    "孝道": 109,
     "交通安全": 84,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21793,6 +21793,36 @@
       "source": "bilibili",
       "uploader": "春华-天人心学",
       "view_count": 144
+    },
+    {
+      "id": "BV14Jem6eEja",
+      "title": "【邢佳栋】中韩公益广告 孝道",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 29.976,
+      "url": "http://www.bilibili.com/video/av117291966530020",
+      "play_url": "http://www.bilibili.com/video/av117291966530020",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "75200881315_bili",
+      "view_count": 77
+    },
+    {
+      "id": "BV1ENCPBmEhL",
+      "title": "社会主义核心价值观微视频(大学)",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 200.733,
+      "url": "http://www.bilibili.com/video/av115545106028472",
+      "play_url": "http://www.bilibili.com/video/av115545106028472",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "滑板小猫-",
+      "view_count": 714
     }
   ]
 }
