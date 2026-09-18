@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T21:04:31.945895+00:00",
-  "total": 1528,
+  "generated_at": "2026-09-18T03:22:46.278851+00:00",
+  "total": 1529,
   "categories_summary": {
     "文明礼貌": 415,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 153,
     "诚信": 145,
     "节约": 124,
-    "孝道": 107,
+    "孝道": 108,
     "交通安全": 84,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21751,6 +21751,20 @@
       "source": "bilibili",
       "uploader": "阿泽放送-柠檬仔之友",
       "view_count": 11
+    },
+    {
+      "id": "BV1p84y1Y7GD",
+      "title": "家风家教公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 45.183,
+      "url": "http://www.bilibili.com/video/av607628266",
+      "play_url": "http://www.bilibili.com/video/av607628266",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "品牌强国汇",
+      "view_count": 9461
     }
   ]
 }
