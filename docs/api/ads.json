@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T03:22:46.278851+00:00",
-  "total": 1529,
+  "generated_at": "2026-09-18T10:42:11.913176+00:00",
+  "total": 1530,
   "categories_summary": {
     "文明礼貌": 415,
     "综合": 399,
     "爱国": 193,
     "友善": 180,
-    "环保": 153,
+    "环保": 154,
     "诚信": 145,
     "节约": 124,
     "孝道": 108,
@@ -21765,6 +21765,20 @@
       "source": "bilibili",
       "uploader": "品牌强国汇",
       "view_count": 9461
+    },
+    {
+      "id": "BV1xoeC6XEvA",
+      "title": "公益广告：创造良好发现环境 我们尽职尽责 尽心尽力",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.833,
+      "url": "http://www.bilibili.com/video/av117289886226040",
+      "play_url": "http://www.bilibili.com/video/av117289886226040",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 28
     }
   ]
 }
