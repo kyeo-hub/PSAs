@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T15:30:26.757972+00:00",
-  "total": 1537,
+  "generated_at": "2026-09-19T20:12:46.112287+00:00",
+  "total": 1538,
   "categories_summary": {
-    "文明礼貌": 417,
+    "文明礼貌": 418,
     "综合": 399,
     "爱国": 195,
     "友善": 182,
-    "环保": 154,
+    "环保": 155,
     "诚信": 149,
     "节约": 124,
     "孝道": 109,
@@ -21881,6 +21881,21 @@
       "source": "bilibili",
       "uploader": "Minecraft_Future",
       "view_count": 1468
+    },
+    {
+      "id": "BV1ofu26DEnt",
+      "title": "全国优秀广播电视公益广告——文明旅游更有味",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 80.0,
+      "url": "http://www.bilibili.com/video/av117065457344172",
+      "play_url": "http://www.bilibili.com/video/av117065457344172",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "醒目视频",
+      "view_count": 41
     }
   ]
 }
