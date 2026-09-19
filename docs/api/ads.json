@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T10:28:10.333517+00:00",
-  "total": 1536,
+  "generated_at": "2026-09-19T15:30:26.757972+00:00",
+  "total": 1537,
   "categories_summary": {
-    "文明礼貌": 416,
+    "文明礼貌": 417,
     "综合": 399,
     "爱国": 195,
     "友善": 182,
@@ -21867,6 +21867,20 @@
       "source": "bilibili",
       "uploader": "复杂问题简单说",
       "view_count": 383
+    },
+    {
+      "id": "BV1UCet6jExt",
+      "title": "化学文明 10",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 138.1,
+      "url": "http://www.bilibili.com/video/av117297469527290",
+      "play_url": "http://www.bilibili.com/video/av117297469527290",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 1468
     }
   ]
 }
