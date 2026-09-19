@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T03:21:18.133886+00:00",
-  "total": 1533,
+  "generated_at": "2026-09-19T10:28:10.333517+00:00",
+  "total": 1536,
   "categories_summary": {
     "文明礼貌": 416,
     "综合": 399,
-    "爱国": 194,
-    "友善": 181,
+    "爱国": 195,
+    "友善": 182,
     "环保": 154,
-    "诚信": 146,
+    "诚信": 149,
     "节约": 124,
     "孝道": 109,
     "交通安全": 84,
@@ -21823,6 +21823,50 @@
       "source": "bilibili",
       "uploader": "滑板小猫-",
       "view_count": 714
+    },
+    {
+      "id": "BV1SX4y117ft",
+      "title": "20年前央视公益广告之《诚信经营、请恪守本分》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 44.97,
+      "url": "http://www.bilibili.com/video/av356232430",
+      "play_url": "http://www.bilibili.com/video/av356232430",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "时光大舞台",
+      "view_count": 5489
+    },
+    {
+      "id": "BV1ey4y1J7AL",
+      "title": "【央视诚信公益广告】《早餐店篇》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 90.04,
+      "url": "http://www.bilibili.com/video/av801862834",
+      "play_url": "http://www.bilibili.com/video/av801862834",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "gyz223",
+      "view_count": 3301
+    },
+    {
+      "id": "BV1JWeE6uESN",
+      "title": "社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 218.94,
+      "url": "http://www.bilibili.com/video/av117273796876210",
+      "play_url": "http://www.bilibili.com/video/av117273796876210",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "复杂问题简单说",
+      "view_count": 383
     }
   ]
 }
