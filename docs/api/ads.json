@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T10:47:43.861386+00:00",
-  "total": 1540,
+  "generated_at": "2026-09-20T15:35:46.451409+00:00",
+  "total": 1542,
   "categories_summary": {
-    "文明礼貌": 418,
+    "文明礼貌": 420,
     "综合": 399,
     "爱国": 196,
     "友善": 182,
-    "环保": 155,
+    "环保": 156,
     "诚信": 150,
     "节约": 124,
     "孝道": 110,
@@ -21925,6 +21925,35 @@
       "source": "bilibili",
       "uploader": "平平淡淡才是什么啊",
       "view_count": 522
+    },
+    {
+      "id": "BV1h9ei6rEj4",
+      "title": "浅说华夏文明的第一场史诗级大战！",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 163.066,
+      "url": "http://www.bilibili.com/video/av117302838171337",
+      "play_url": "http://www.bilibili.com/video/av117302838171337",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "霖绍say",
+      "view_count": 38
+    },
+    {
+      "id": "BV1Mkez62Eu8",
+      "title": "地球四十五亿年，真的只有人类这一届智慧文明吗",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 189.66,
+      "url": "http://www.bilibili.com/video/av117303073048452",
+      "play_url": "http://www.bilibili.com/video/av117303073048452",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "啥都想科普",
+      "view_count": 1705
     }
   ]
 }
