@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T15:35:46.451409+00:00",
-  "total": 1542,
+  "generated_at": "2026-09-20T20:26:33.467429+00:00",
+  "total": 1543,
   "categories_summary": {
     "文明礼貌": 420,
     "综合": 399,
-    "爱国": 196,
+    "爱国": 197,
     "友善": 182,
     "环保": 156,
     "诚信": 150,
@@ -21954,6 +21954,20 @@
       "source": "bilibili",
       "uploader": "啥都想科普",
       "view_count": 1705
+    },
+    {
+      "id": "BV1Yz411e7pz",
+      "title": "人民艺术为人民 央视公益传播",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 90.566,
+      "url": "http://www.bilibili.com/video/av201129713",
+      "play_url": "http://www.bilibili.com/video/av201129713",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "账号已注销",
+      "view_count": 1362
     }
   ]
 }
