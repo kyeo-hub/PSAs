@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T03:35:00.583693+00:00",
-  "total": 1539,
+  "generated_at": "2026-09-20T10:47:43.861386+00:00",
+  "total": 1540,
   "categories_summary": {
     "文明礼貌": 418,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 155,
     "诚信": 150,
     "节约": 124,
-    "孝道": 109,
+    "孝道": 110,
     "交通安全": 84,
     "助人为乐": 50,
     "禁烟": 18,
@@ -21911,6 +21911,20 @@
       "source": "bilibili",
       "uploader": "啦啦啦啦啦流量中",
       "view_count": 4
+    },
+    {
+      "id": "BV1B8i6YGEun",
+      "title": "百善孝为先，孝敬是根本，天地恩情永难忘，心中扎下根。",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 235.788,
+      "url": "http://www.bilibili.com/video/av113606280743417",
+      "play_url": "http://www.bilibili.com/video/av113606280743417",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平平淡淡才是什么啊",
+      "view_count": 522
     }
   ]
 }
