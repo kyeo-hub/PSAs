@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T20:12:46.112287+00:00",
-  "total": 1538,
+  "generated_at": "2026-09-20T03:35:00.583693+00:00",
+  "total": 1539,
   "categories_summary": {
     "文明礼貌": 418,
     "综合": 399,
-    "爱国": 195,
+    "爱国": 196,
     "友善": 182,
     "环保": 155,
-    "诚信": 149,
+    "诚信": 150,
     "节约": 124,
     "孝道": 109,
     "交通安全": 84,
@@ -21896,6 +21896,21 @@
       "source": "bilibili",
       "uploader": "醒目视频",
       "view_count": 41
+    },
+    {
+      "id": "BV1M8eY6hEbA",
+      "title": "【画质提升】经典公益广告《诚信助推中国梦》",
+      "categories": [
+        "诚信",
+        "爱国"
+      ],
+      "duration": 45.44,
+      "url": "http://www.bilibili.com/video/av117300774569056",
+      "play_url": "http://www.bilibili.com/video/av117300774569056",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "啦啦啦啦啦流量中",
+      "view_count": 4
     }
   ]
 }
