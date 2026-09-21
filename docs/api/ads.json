@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T20:26:33.467429+00:00",
-  "total": 1543,
+  "generated_at": "2026-09-21T03:30:31.381116+00:00",
+  "total": 1544,
   "categories_summary": {
-    "文明礼貌": 420,
+    "文明礼貌": 421,
     "综合": 399,
     "爱国": 197,
     "友善": 182,
@@ -21968,6 +21968,20 @@
       "source": "bilibili",
       "uploader": "账号已注销",
       "view_count": 1362
+    },
+    {
+      "id": "BV1Suep6NEzH",
+      "title": "中国牛逼， 文明，文明， 禁飞指令",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 287.1,
+      "url": "http://www.bilibili.com/video/av117275558543762",
+      "play_url": "http://www.bilibili.com/video/av117275558543762",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "郑芝芝-24",
+      "view_count": 138
     }
   ]
 }
