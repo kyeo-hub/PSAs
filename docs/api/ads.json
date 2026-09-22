@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T03:29:27.586174+00:00",
-  "total": 1544,
+  "generated_at": "2026-09-22T11:07:37.901944+00:00",
+  "total": 1548,
   "categories_summary": {
-    "文明礼貌": 421,
+    "文明礼貌": 424,
     "综合": 399,
-    "爱国": 197,
+    "爱国": 198,
     "友善": 182,
     "环保": 156,
     "诚信": 150,
-    "节约": 124,
+    "节约": 125,
     "孝道": 110,
     "交通安全": 84,
     "助人为乐": 50,
@@ -21982,6 +21982,63 @@
       "source": "bilibili",
       "uploader": "郑芝芝-24",
       "view_count": 138
+    },
+    {
+      "id": "BV1XkQqY8Ek2",
+      "title": "1.童心通融——文明初现与中华民族起源",
+      "categories": [
+        "爱国",
+        "文明礼貌"
+      ],
+      "duration": 186.239,
+      "url": "http://www.bilibili.com/video/av114175514777184",
+      "play_url": "http://www.bilibili.com/video/av114175514777184",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "青春通辽",
+      "view_count": 27
+    },
+    {
+      "id": "BV16sFee9ECt",
+      "title": "美好中国年 致敬奋斗者   （视频来源：中国文明网）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 90.623,
+      "url": "http://www.bilibili.com/video/av113928688370944",
+      "play_url": "http://www.bilibili.com/video/av113928688370944",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "龙岩市融媒体中心",
+      "view_count": 491
+    },
+    {
+      "id": "BV1F4411P7rj",
+      "title": "优质的广告从来不花里胡哨，讲好故事就是对产品最大的尊重……",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 240.165,
+      "url": "http://www.bilibili.com/video/av55366331",
+      "play_url": "http://www.bilibili.com/video/av55366331",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是狗十一",
+      "view_count": 142797
+    },
+    {
+      "id": "BV1Wxh66iEyS",
+      "title": "#节约是美德 #10月16日世界粮食日 #节约粮食 #珍惜粮食 #手势舞",
+      "categories": [
+        "节约"
+      ],
+      "duration": 50.5,
+      "url": "http://www.bilibili.com/video/av117309767223369",
+      "play_url": "http://www.bilibili.com/video/av117309767223369",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "舞蹈资源L",
+      "view_count": 116
     }
   ]
 }
