@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T11:07:37.901944+00:00",
-  "total": 1548,
+  "generated_at": "2026-09-22T16:24:13.736106+00:00",
+  "total": 1549,
   "categories_summary": {
     "文明礼貌": 424,
     "综合": 399,
     "爱国": 198,
     "友善": 182,
     "环保": 156,
-    "诚信": 150,
+    "诚信": 151,
     "节约": 125,
     "孝道": 110,
     "交通安全": 84,
@@ -22039,6 +22039,20 @@
       "source": "bilibili",
       "uploader": "舞蹈资源L",
       "view_count": 116
+    },
+    {
+      "id": "BV1FdhE6iENW",
+      "title": "河南卫视没播完央视公益广告守诚信心比心就切ID（转播新闻联播开始前）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 105.233,
+      "url": "http://www.bilibili.com/video/av117314565443210",
+      "play_url": "http://www.bilibili.com/video/av117314565443210",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "反凹凸曼自媒体工作室",
+      "view_count": 41
     }
   ]
 }
