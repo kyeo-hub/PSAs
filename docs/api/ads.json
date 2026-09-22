@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T16:24:13.736106+00:00",
-  "total": 1549,
+  "generated_at": "2026-09-22T21:00:10.177469+00:00",
+  "total": 1550,
   "categories_summary": {
-    "文明礼貌": 424,
+    "文明礼貌": 425,
     "综合": 399,
     "爱国": 198,
     "友善": 182,
@@ -22053,6 +22053,20 @@
       "source": "bilibili",
       "uploader": "反凹凸曼自媒体工作室",
       "view_count": 41
+    },
+    {
+      "id": "BV1BnhE68Eym",
+      "title": "希望大家能文明交流",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 235.333,
+      "url": "http://www.bilibili.com/video/av117314682950899",
+      "play_url": "http://www.bilibili.com/video/av117314682950899",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "一只SPQR",
+      "view_count": 85
     }
   ]
 }
