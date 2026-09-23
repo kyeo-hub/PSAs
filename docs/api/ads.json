@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T16:16:17.842339+00:00",
-  "total": 1558,
+  "generated_at": "2026-09-23T21:12:21.312445+00:00",
+  "total": 1559,
   "categories_summary": {
     "文明礼貌": 430,
     "综合": 399,
     "爱国": 199,
-    "友善": 183,
+    "友善": 184,
     "环保": 156,
     "诚信": 152,
     "节约": 127,
@@ -22181,6 +22181,20 @@
       "source": "bilibili",
       "uploader": "请叫我朱成功或郑森",
       "view_count": 307
+    },
+    {
+      "id": "BV1jz1pYyEcm",
+      "title": "提高科学素质 引领和谐生活公益广告",
+      "categories": [
+        "友善"
+      ],
+      "duration": 30.092,
+      "url": "http://www.bilibili.com/video/av113371349259355",
+      "play_url": "http://www.bilibili.com/video/av113371349259355",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小鑫工作室_马到成功",
+      "view_count": 4601
     }
   ]
 }
