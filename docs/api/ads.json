@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T10:53:39.582997+00:00",
-  "total": 1552,
+  "generated_at": "2026-09-23T16:16:17.842339+00:00",
+  "total": 1558,
   "categories_summary": {
-    "文明礼貌": 426,
+    "文明礼貌": 430,
     "综合": 399,
     "爱国": 199,
     "友善": 183,
     "环保": 156,
     "诚信": 152,
-    "节约": 125,
+    "节约": 127,
     "孝道": 110,
     "交通安全": 84,
     "助人为乐": 50,
@@ -22097,6 +22097,90 @@
       "source": "bilibili",
       "uploader": "宝早安美年",
       "view_count": 147
+    },
+    {
+      "id": "BV1V94y1P75y",
+      "title": "爱粮节粮 节约粮食 珍惜劳动 少儿诗歌朗诵配乐伴奏舞台演出LED背景视频素材TV",
+      "categories": [
+        "节约"
+      ],
+      "duration": 179.668,
+      "url": "http://www.bilibili.com/video/av367521200",
+      "play_url": "http://www.bilibili.com/video/av367521200",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "守承文化素材TV",
+      "view_count": 5081
+    },
+    {
+      "id": "BV1GJzZY9EEk",
+      "title": "【罕见资料】公益广告节约创造价值之节约用水篇",
+      "categories": [
+        "节约"
+      ],
+      "duration": 50.021,
+      "url": "http://www.bilibili.com/video/av113577860143206",
+      "play_url": "http://www.bilibili.com/video/av113577860143206",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "人不堪其忧de徐亚军",
+      "view_count": 4076
+    },
+    {
+      "id": "BV12Mhn6jEu1",
+      "title": "喷不了，这是真文明，美国已有14个州禁止童婚",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 11.3,
+      "url": "http://www.bilibili.com/video/av117315723139281",
+      "play_url": "http://www.bilibili.com/video/av117315723139281",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "希望文明马上到来",
+      "view_count": 946
+    },
+    {
+      "id": "BV1KCh865Esf",
+      "title": "拿球场当图书馆？霸座占座？文明？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 52.633,
+      "url": "http://www.bilibili.com/video/av117320437534122",
+      "play_url": "http://www.bilibili.com/video/av117320437534122",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "绵羊祺小祺",
+      "view_count": 1196
+    },
+    {
+      "id": "BV1jsh864E2Y",
+      "title": "海外华人实拍叙利亚，拥抱文明之后竟然如此岁月静好，实在是令人羡慕",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 291.968,
+      "url": "http://www.bilibili.com/video/av117320370427033",
+      "play_url": "http://www.bilibili.com/video/av117320370427033",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "白话夜谈01",
+      "view_count": 213
+    },
+    {
+      "id": "BV1HQhz6fE1z",
+      "title": "欧洲怎么还有华夏文明风格的古迹？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 22.337,
+      "url": "http://www.bilibili.com/video/av117309800715777",
+      "play_url": "http://www.bilibili.com/video/av117309800715777",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "请叫我朱成功或郑森",
+      "view_count": 307
     }
   ]
 }
