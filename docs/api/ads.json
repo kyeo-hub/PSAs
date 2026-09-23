@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T21:00:10.177469+00:00",
-  "total": 1550,
+  "generated_at": "2026-09-23T03:29:57.832893+00:00",
+  "total": 1551,
   "categories_summary": {
-    "文明礼貌": 425,
+    "文明礼貌": 426,
     "综合": 399,
     "爱国": 198,
     "友善": 182,
@@ -22067,6 +22067,20 @@
       "source": "bilibili",
       "uploader": "一只SPQR",
       "view_count": 85
+    },
+    {
+      "id": "BV1mHeB63E9E",
+      "title": "讲文明，树新风，守规约，共成长。清脆快板响，文明记心上",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 67.43,
+      "url": "http://www.bilibili.com/video/av117303962245345",
+      "play_url": "http://www.bilibili.com/video/av117303962245345",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "胡图图不糊涂吧",
+      "view_count": 121
     }
   ]
 }
