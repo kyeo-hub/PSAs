@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T11:14:34.662395+00:00",
-  "total": 1559,
+  "generated_at": "2026-09-24T16:38:28.839373+00:00",
+  "total": 1563,
   "categories_summary": {
-    "文明礼貌": 430,
+    "文明礼貌": 431,
     "综合": 399,
     "爱国": 199,
     "友善": 184,
     "环保": 156,
     "诚信": 152,
-    "节约": 127,
+    "节约": 128,
     "孝道": 110,
-    "交通安全": 84,
-    "助人为乐": 50,
+    "交通安全": 85,
+    "助人为乐": 51,
     "禁烟": 18,
     "待分类": 3
   },
@@ -22195,6 +22195,62 @@
       "source": "bilibili",
       "uploader": "小鑫工作室_马到成功",
       "view_count": 4601
+    },
+    {
+      "id": "BV1UHhJ6mE9y",
+      "title": "华夏老玩家：为啥文明古国只有华夏能实现文明不断档？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 152.346,
+      "url": "http://www.bilibili.com/video/av117314280230964",
+      "play_url": "http://www.bilibili.com/video/av117314280230964",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "龙门阵开摆",
+      "view_count": 1236
+    },
+    {
+      "id": "BV1bu4y187U7",
+      "title": "公益广告：珍惜粮食 中华美德",
+      "categories": [
+        "节约"
+      ],
+      "duration": 32.683,
+      "url": "http://www.bilibili.com/video/av918128324",
+      "play_url": "http://www.bilibili.com/video/av918128324",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "59641446345_bili",
+      "view_count": 535
+    },
+    {
+      "id": "BV1m4aT6SEbH",
+      "title": "中小学校专用：交通安全公益广告专用模板.免费自取.欢迎老师使用在班会课上！！",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 10.1,
+      "url": "http://www.bilibili.com/video/av117326712213118",
+      "play_url": "http://www.bilibili.com/video/av117326712213118",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "poerpoter",
+      "view_count": 1
+    },
+    {
+      "id": "BV1Ct4y157M9",
+      "title": "「超清720P」【学雷锋篇】G010.助人为乐乐在其中公益广告.「Adzop.com」_好看视频",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 45.115,
+      "url": "http://www.bilibili.com/video/av983675127",
+      "play_url": "http://www.bilibili.com/video/av983675127",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "超级马里奥兄弟F7",
+      "view_count": 14468
     }
   ]
 }
