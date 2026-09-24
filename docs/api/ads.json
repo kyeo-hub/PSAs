@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T16:38:28.839373+00:00",
-  "total": 1563,
+  "generated_at": "2026-09-24T21:16:55.993695+00:00",
+  "total": 1565,
   "categories_summary": {
-    "文明礼貌": 431,
+    "文明礼貌": 433,
     "综合": 399,
     "爱国": 199,
     "友善": 184,
     "环保": 156,
     "诚信": 152,
     "节约": 128,
-    "孝道": 110,
+    "孝道": 111,
     "交通安全": 85,
     "助人为乐": 51,
     "禁烟": 18,
@@ -22251,6 +22251,35 @@
       "source": "bilibili",
       "uploader": "超级马里奥兄弟F7",
       "view_count": 14468
+    },
+    {
+      "id": "BV1syev6fEGB",
+      "title": "5.1 文明有礼 八年级上册道德与法治",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 13.815,
+      "url": "http://www.bilibili.com/video/av117301714163470",
+      "play_url": "http://www.bilibili.com/video/av117301714163470",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "橙子教道法",
+      "view_count": 65
+    },
+    {
+      "id": "BV1sT421S7x8",
+      "title": "中华孝道 二十四孝 忠孝礼仪 敬感恩父母 家风 少儿诗歌朗诵配乐伴奏舞台演出LED背景大屏幕视频素材TV",
+      "categories": [
+        "文明礼貌",
+        "孝道"
+      ],
+      "duration": 211.626,
+      "url": "http://www.bilibili.com/video/av1704951404",
+      "play_url": "http://www.bilibili.com/video/av1704951404",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "守承文化素材TV",
+      "view_count": 925
     }
   ]
 }
