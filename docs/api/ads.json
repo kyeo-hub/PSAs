@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T11:17:27.527013+00:00",
-  "total": 1567,
+  "generated_at": "2026-09-25T16:43:38.033357+00:00",
+  "total": 1569,
   "categories_summary": {
-    "文明礼貌": 433,
+    "文明礼貌": 435,
     "综合": 399,
-    "爱国": 201,
-    "友善": 185,
+    "爱国": 202,
+    "友善": 186,
     "环保": 156,
-    "诚信": 153,
-    "节约": 128,
-    "孝道": 111,
+    "诚信": 154,
+    "节约": 129,
+    "孝道": 112,
     "交通安全": 85,
     "助人为乐": 51,
     "禁烟": 18,
@@ -22310,6 +22310,39 @@
       "source": "bilibili",
       "uploader": "我是镜像智造",
       "view_count": 43
+    },
+    {
+      "id": "BV1uehU6AEN5",
+      "title": "公益广告-文明行为，每个人都能做得到（福建综合频道）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.035,
+      "url": "http://www.bilibili.com/video/av117332282185863",
+      "play_url": "http://www.bilibili.com/video/av117332282185863",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是镜像智造",
+      "view_count": 2
+    },
+    {
+      "id": "BV1xi4y1e7Y9",
+      "title": "歌唱60年代老歌《勤俭是咱们的传家宝》，勤俭节约是中华民族传统美德。",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善",
+        "文明礼貌",
+        "节约",
+        "孝道"
+      ],
+      "duration": 80.525,
+      "url": "http://www.bilibili.com/video/av537352043",
+      "play_url": "http://www.bilibili.com/video/av537352043",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "若是晴长久",
+      "view_count": 135
     }
   ]
 }
