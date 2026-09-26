@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T10:59:56.099439+00:00",
-  "total": 1573,
+  "generated_at": "2026-09-26T15:55:46.485070+00:00",
+  "total": 1574,
   "categories_summary": {
     "文明礼貌": 437,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
-    "环保": 158,
+    "环保": 159,
     "诚信": 154,
     "节约": 129,
     "孝道": 112,
@@ -22399,6 +22399,20 @@
       "source": "bilibili",
       "uploader": "tmac1嘉",
       "view_count": 2434
+    },
+    {
+      "id": "BV12fag6sEDG",
+      "title": "央视广而告之公益广告：新时尚 环保又健康",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.206,
+      "url": "http://www.bilibili.com/video/av117329027403921",
+      "play_url": "http://www.bilibili.com/video/av117329027403921",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 28
     }
   ]
 }
