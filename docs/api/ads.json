@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T21:13:37.821371+00:00",
-  "total": 1569,
+  "generated_at": "2026-09-26T03:43:21.704409+00:00",
+  "total": 1570,
   "categories_summary": {
     "文明礼貌": 435,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
-    "环保": 156,
+    "环保": 157,
     "诚信": 154,
     "节约": 129,
     "孝道": 112,
@@ -22343,6 +22343,20 @@
       "source": "bilibili",
       "uploader": "若是晴长久",
       "view_count": 135
+    },
+    {
+      "id": "BV1434y1R7Ar",
+      "title": "【央视公益广告】共同构建地球生命共同体  共同建设清洁美丽的世界",
+      "categories": [
+        "环保"
+      ],
+      "duration": 39.636,
+      "url": "http://www.bilibili.com/video/av807026445",
+      "play_url": "http://www.bilibili.com/video/av807026445",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "平民路线_",
+      "view_count": 27079
     }
   ]
 }
