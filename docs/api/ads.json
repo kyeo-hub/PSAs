@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T03:43:21.704409+00:00",
-  "total": 1570,
+  "generated_at": "2026-09-26T10:59:56.099439+00:00",
+  "total": 1573,
   "categories_summary": {
-    "文明礼貌": 435,
+    "文明礼貌": 437,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
-    "环保": 157,
+    "环保": 158,
     "诚信": 154,
     "节约": 129,
     "孝道": 112,
@@ -22357,6 +22357,48 @@
       "source": "bilibili",
       "uploader": "平民路线_",
       "view_count": 27079
+    },
+    {
+      "id": "BV1Jb411u7WY",
+      "title": "【公益广告】多一些尊重多一些交流10秒",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 10.364,
+      "url": "http://www.bilibili.com/video/av48602609",
+      "play_url": "http://www.bilibili.com/video/av48602609",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "哔哩哔哩4312",
+      "view_count": 2826
+    },
+    {
+      "id": "BV1q4411d73w",
+      "title": "【广告/友情】你有没有一个曾经很亲密，现在却渐行渐远的朋友？",
+      "categories": [
+        "环保"
+      ],
+      "duration": 213.799,
+      "url": "http://www.bilibili.com/video/av64684155",
+      "play_url": "http://www.bilibili.com/video/av64684155",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "新片场精选",
+      "view_count": 8137
+    },
+    {
+      "id": "BV1SomBByEQr",
+      "title": "【4K修复】2008年奥运会公益广告 | 迎奥运、讲文明、树新风 | 濮存昕篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 119.954,
+      "url": "http://www.bilibili.com/video/av115718498617183",
+      "play_url": "http://www.bilibili.com/video/av115718498617183",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "tmac1嘉",
+      "view_count": 2434
     }
   ]
 }
