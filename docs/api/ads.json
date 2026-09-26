@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T15:55:46.485070+00:00",
-  "total": 1574,
+  "generated_at": "2026-09-26T20:47:01.623073+00:00",
+  "total": 1575,
   "categories_summary": {
-    "文明礼貌": 437,
+    "文明礼貌": 438,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
@@ -22413,6 +22413,20 @@
       "source": "bilibili",
       "uploader": "阿泽放送-柠檬仔之友",
       "view_count": 28
+    },
+    {
+      "id": "BV1iMh96xE95",
+      "title": "化学文明 11",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 109.366,
+      "url": "http://www.bilibili.com/video/av117335788754289",
+      "play_url": "http://www.bilibili.com/video/av117335788754289",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 2856
     }
   ]
 }
