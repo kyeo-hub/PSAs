@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T20:47:01.623073+00:00",
-  "total": 1575,
+  "generated_at": "2026-09-27T03:53:16.888780+00:00",
+  "total": 1578,
   "categories_summary": {
-    "文明礼貌": 438,
+    "文明礼貌": 439,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
-    "环保": 159,
+    "环保": 162,
     "诚信": 154,
     "节约": 129,
     "孝道": 112,
@@ -22427,6 +22427,49 @@
       "source": "bilibili",
       "uploader": "Minecraft_Future",
       "view_count": 2856
+    },
+    {
+      "id": "BV1Q7h96EEWw",
+      "title": "央视广而告之公益广告：为地球做一次减法",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.733,
+      "url": "http://www.bilibili.com/video/av117335352416891",
+      "play_url": "http://www.bilibili.com/video/av117335352416891",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 20
+    },
+    {
+      "id": "BV1mY4y1P74c",
+      "title": "（电视公益广告）《低碳生活 请选择绿色出行》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 28.991,
+      "url": "http://www.bilibili.com/video/av644062342",
+      "play_url": "http://www.bilibili.com/video/av644062342",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 12571
+    },
+    {
+      "id": "BV1G6ab6nEWe",
+      "title": "【公益广告】文明旅游 爱护环境（福建综合频道）",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 30.035,
+      "url": "http://www.bilibili.com/video/av117340771457676",
+      "play_url": "http://www.bilibili.com/video/av117340771457676",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是镜像智造",
+      "view_count": 4
     }
   ]
 }
