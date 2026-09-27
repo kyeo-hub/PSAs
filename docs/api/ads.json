@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T11:32:48.091546+00:00",
-  "total": 1582,
+  "generated_at": "2026-09-27T16:31:20.654067+00:00",
+  "total": 1586,
   "categories_summary": {
-    "文明礼貌": 442,
+    "文明礼貌": 444,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
     "环保": 162,
     "诚信": 154,
-    "节约": 130,
+    "节约": 132,
     "孝道": 113,
     "交通安全": 85,
     "助人为乐": 52,
@@ -22528,6 +22528,62 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 4977
+    },
+    {
+      "id": "BV1HueG6sENd",
+      "title": "2026“外研社·国才杯”短视频大赛“数说中国”｜《数字里的中国：一个文明的账本》",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 130.033,
+      "url": "http://www.bilibili.com/video/av117286212015879",
+      "play_url": "http://www.bilibili.com/video/av117286212015879",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "叽叽咕咚-",
+      "view_count": 109
+    },
+    {
+      "id": "BV1or4y1v7bW",
+      "title": "迎奥运 讲文明 树新风 相信篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 124.544,
+      "url": "http://www.bilibili.com/video/av765676672",
+      "play_url": "http://www.bilibili.com/video/av765676672",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "凉茶cha",
+      "view_count": 2066
+    },
+    {
+      "id": "BV1R44y1b7Fo",
+      "title": "粘土定格动画——节约粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 25.215,
+      "url": "http://www.bilibili.com/video/av975683792",
+      "play_url": "http://www.bilibili.com/video/av975683792",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "郭郭小小鑫鑫",
+      "view_count": 5222
+    },
+    {
+      "id": "BV1TDab6CE56",
+      "title": "【公益广告】节约，是一种美德（福建综合频道）",
+      "categories": [
+        "节约"
+      ],
+      "duration": 60.07,
+      "url": "http://www.bilibili.com/video/av117340855343220",
+      "play_url": "http://www.bilibili.com/video/av117340855343220",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是镜像智造",
+      "view_count": 38
     }
   ]
 }
