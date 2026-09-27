@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T16:31:20.654067+00:00",
-  "total": 1586,
+  "generated_at": "2026-09-27T21:00:59.265831+00:00",
+  "total": 1588,
   "categories_summary": {
     "文明礼貌": 444,
     "综合": 399,
@@ -9,9 +9,9 @@
     "友善": 186,
     "环保": 162,
     "诚信": 154,
-    "节约": 132,
+    "节约": 133,
     "孝道": 113,
-    "交通安全": 85,
+    "交通安全": 86,
     "助人为乐": 52,
     "禁烟": 18,
     "待分类": 3
@@ -22584,6 +22584,34 @@
       "source": "bilibili",
       "uploader": "我是镜像智造",
       "view_count": 38
+    },
+    {
+      "id": "BV1bVaY6sEsH",
+      "title": "【公益广告】儿童交通安全很重要（福建综合频道）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 30.035,
+      "url": "http://www.bilibili.com/video/av117342935718046",
+      "play_url": "http://www.bilibili.com/video/av117342935718046",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是镜像智造",
+      "view_count": 8
+    },
+    {
+      "id": "BV1z3411c7gz",
+      "title": "幼儿园大班舞蹈《盘中餐》，舞蹈惟妙惟肖，我是节约粮食的好孩子",
+      "categories": [
+        "节约"
+      ],
+      "duration": 255.743,
+      "url": "http://www.bilibili.com/video/av513225793",
+      "play_url": "http://www.bilibili.com/video/av513225793",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "临颍达人宝贝",
+      "view_count": 913
     }
   ]
 }
