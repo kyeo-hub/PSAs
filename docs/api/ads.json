@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T03:53:16.888780+00:00",
-  "total": 1578,
+  "generated_at": "2026-09-27T11:32:48.091546+00:00",
+  "total": 1582,
   "categories_summary": {
-    "文明礼貌": 439,
+    "文明礼貌": 442,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
     "环保": 162,
     "诚信": 154,
-    "节约": 129,
-    "孝道": 112,
+    "节约": 130,
+    "孝道": 113,
     "交通安全": 85,
-    "助人为乐": 51,
+    "助人为乐": 52,
     "禁烟": 18,
     "待分类": 3
   },
@@ -22470,6 +22470,64 @@
       "source": "bilibili",
       "uploader": "我是镜像智造",
       "view_count": 4
+    },
+    {
+      "id": "BV1Ebho6BER2",
+      "title": "粮食日主题学生手势舞《节约食光》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 62.717,
+      "url": "http://www.bilibili.com/video/av117337885775428",
+      "play_url": "http://www.bilibili.com/video/av117337885775428",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版薇MC25325",
+      "view_count": 16
+    },
+    {
+      "id": "BV1Gm4y147M6",
+      "title": "【公益广告】中外借鉴相得益彰 文明交流灿烂辉煌",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 100.077,
+      "url": "http://www.bilibili.com/video/av699223852",
+      "play_url": "http://www.bilibili.com/video/av699223852",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "童宁捷爱麦咭",
+      "view_count": 510
+    },
+    {
+      "id": "BV1eNhb6nEHu",
+      "title": "公开课 四上《9.安全文明上网》第一课时  网络游戏防沉迷 道法清清",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "助人为乐"
+      ],
+      "duration": 161.309,
+      "url": "http://www.bilibili.com/video/av117319363726212",
+      "play_url": "http://www.bilibili.com/video/av117319363726212",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "道法清清",
+      "view_count": 26
+    },
+    {
+      "id": "BV1xa411o7G4",
+      "title": "（电视公益广告）好人就在身边",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 122.972,
+      "url": "http://www.bilibili.com/video/av259349253",
+      "play_url": "http://www.bilibili.com/video/av259349253",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 4977
     }
   ]
 }
