@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T21:00:59.265831+00:00",
-  "total": 1588,
+  "generated_at": "2026-09-28T03:54:31.308321+00:00",
+  "total": 1589,
   "categories_summary": {
-    "文明礼貌": 444,
+    "文明礼貌": 445,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
@@ -22612,6 +22612,20 @@
       "source": "bilibili",
       "uploader": "临颍达人宝贝",
       "view_count": 913
+    },
+    {
+      "id": "BV1UM4y1M7UY",
+      "title": "【孙笑川●倒放】文明出行安全乘梯公益广告",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.4,
+      "url": "http://www.bilibili.com/video/av931650905",
+      "play_url": "http://www.bilibili.com/video/av931650905",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "华强频道",
+      "view_count": 1750
     }
   ]
 }
