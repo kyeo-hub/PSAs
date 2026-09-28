@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T03:54:31.308321+00:00",
-  "total": 1589,
+  "generated_at": "2026-09-28T13:03:52.513023+00:00",
+  "total": 1590,
   "categories_summary": {
-    "文明礼貌": 445,
+    "文明礼貌": 446,
     "综合": 399,
     "爱国": 202,
     "友善": 186,
@@ -22626,6 +22626,20 @@
       "source": "bilibili",
       "uploader": "华强频道",
       "view_count": 1750
+    },
+    {
+      "id": "BV1KpaG6ZEAZ",
+      "title": "文明探索俱乐部",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 281.007,
+      "url": "http://www.bilibili.com/video/av117347096466501",
+      "play_url": "http://www.bilibili.com/video/av117347096466501",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "云岭山歌",
+      "view_count": 1187
     }
   ]
 }
