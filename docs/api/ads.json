@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T21:58:35.828868+00:00",
-  "total": 1590,
+  "generated_at": "2026-09-30T04:10:38.527458+00:00",
+  "total": 1591,
   "categories_summary": {
     "文明礼貌": 446,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 162,
     "诚信": 154,
     "节约": 133,
-    "孝道": 113,
+    "孝道": 114,
     "交通安全": 86,
     "助人为乐": 52,
     "禁烟": 18,
@@ -22640,6 +22640,20 @@
       "source": "bilibili",
       "uploader": "云岭山歌",
       "view_count": 1187
+    },
+    {
+      "id": "BV1Jv421k7A8",
+      "title": "公益广告：千年称谓演变 孝亲美德不改",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 61.346,
+      "url": "http://www.bilibili.com/video/av1450711364",
+      "play_url": "http://www.bilibili.com/video/av1450711364",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "视听中国",
+      "view_count": 1231
     }
   ]
 }
