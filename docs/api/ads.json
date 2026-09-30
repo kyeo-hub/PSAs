@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T12:02:53.285723+00:00",
-  "total": 1591,
+  "generated_at": "2026-09-30T17:51:52.755328+00:00",
+  "total": 1592,
   "categories_summary": {
     "文明礼貌": 446,
     "综合": 399,
-    "爱国": 202,
+    "爱国": 203,
     "友善": 186,
     "环保": 162,
     "诚信": 154,
@@ -22654,6 +22654,20 @@
       "source": "bilibili",
       "uploader": "视听中国",
       "view_count": 1231
+    },
+    {
+      "id": "BV1Cxad6yEn9",
+      "title": "爱国主义教育主题公益广告《爱的回响》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 70.035,
+      "url": "http://www.bilibili.com/video/av117358219761719",
+      "play_url": "http://www.bilibili.com/video/av117358219761719",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "人不堪其忧de徐亚军",
+      "view_count": 128
     }
   ]
 }
