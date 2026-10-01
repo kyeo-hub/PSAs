@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T12:36:22.459973+00:00",
-  "total": 1597,
+  "generated_at": "2026-10-01T22:27:06.669953+00:00",
+  "total": 1599,
   "categories_summary": {
     "文明礼貌": 447,
     "综合": 399,
-    "爱国": 203,
+    "爱国": 204,
     "友善": 186,
     "环保": 162,
     "诚信": 155,
-    "节约": 134,
+    "节约": 136,
     "孝道": 116,
     "交通安全": 86,
     "助人为乐": 52,
@@ -22738,6 +22738,35 @@
       "source": "bilibili",
       "uploader": "小金也是Gold",
       "view_count": 2055
+    },
+    {
+      "id": "BV1xXhC6yETp",
+      "title": "《节约最闪亮》手势舞，小手舞动节约理念，勤俭节约，少年发光 #勤俭节约# 手势舞 #节约最闪亮# 校园德育 #珍惜粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 120.0,
+      "url": "http://www.bilibili.com/video/av117330789011587",
+      "play_url": "http://www.bilibili.com/video/av117330789011587",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_3546953078016179",
+      "view_count": 174
+    },
+    {
+      "id": "BV1sEYq6hEaq",
+      "title": "珍惜粮食主题节目，世界粮食日手势舞，勤俭节约手势舞节目，勤俭节约国旗下表演#少儿手势舞 #节约最闪亮手势舞 #世界粮食日 #勤俭节约是美德 #国旗下表演节目",
+      "categories": [
+        "爱国",
+        "节约"
+      ],
+      "duration": 46.866,
+      "url": "http://www.bilibili.com/video/av117263596261505",
+      "play_url": "http://www.bilibili.com/video/av117263596261505",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星星资料库La526999",
+      "view_count": 333
     }
   ]
 }
