@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T21:59:00.850266+00:00",
-  "total": 1593,
+  "generated_at": "2026-10-01T04:22:06.336285+00:00",
+  "total": 1595,
   "categories_summary": {
     "文明礼貌": 446,
     "综合": 399,
     "爱国": 203,
     "友善": 186,
     "环保": 162,
-    "诚信": 154,
-    "节约": 133,
+    "诚信": 155,
+    "节约": 134,
     "孝道": 115,
     "交通安全": 86,
     "助人为乐": 52,
@@ -22682,6 +22682,34 @@
       "source": "bilibili",
       "uploader": "品格教育朱晓平Peter",
       "view_count": 304
+    },
+    {
+      "id": "BV13XYu6eEr1",
+      "title": "主题舞蹈《悯农》翩翩舞姿忆农耕，童心知苦惜粮食，传承勤俭节约好品格 #世界粮食日 #悯农舞蹈 #少儿舞蹈表演 #珍惜粮食 #校园文艺节目",
+      "categories": [
+        "节约"
+      ],
+      "duration": 126.502,
+      "url": "http://www.bilibili.com/video/av117246248617371",
+      "play_url": "http://www.bilibili.com/video/av117246248617371",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版素材V号GG31680",
+      "view_count": 209
+    },
+    {
+      "id": "BV1uWat6VEU7",
+      "title": "上海大众公益广告 诚信经营 请恪守本分 30s",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 29.892,
+      "url": "http://www.bilibili.com/video/av117341543275080",
+      "play_url": "http://www.bilibili.com/video/av117341543275080",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相约新世界",
+      "view_count": 645
     }
   ]
 }
