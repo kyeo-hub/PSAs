@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T04:22:06.336285+00:00",
-  "total": 1595,
+  "generated_at": "2026-10-01T12:36:22.459973+00:00",
+  "total": 1597,
   "categories_summary": {
-    "文明礼貌": 446,
+    "文明礼貌": 447,
     "综合": 399,
     "爱国": 203,
     "友善": 186,
     "环保": 162,
     "诚信": 155,
     "节约": 134,
-    "孝道": 115,
+    "孝道": 116,
     "交通安全": 86,
     "助人为乐": 52,
     "禁烟": 18,
@@ -22710,6 +22710,34 @@
       "source": "bilibili",
       "uploader": "相约新世界",
       "view_count": 645
+    },
+    {
+      "id": "BV11YYw6PEZ9",
+      "title": "【公益广告】千年称谓演变，孝亲美德不变（福建综合频道）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 59.963,
+      "url": "http://www.bilibili.com/video/av117362732831919",
+      "play_url": "http://www.bilibili.com/video/av117362732831919",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是镜像智造",
+      "view_count": 22
+    },
+    {
+      "id": "BV1m4Yw6MEXE",
+      "title": "【中国历史】第零章 中华文明的起源",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 26.911,
+      "url": "http://www.bilibili.com/video/av117363068372835",
+      "play_url": "http://www.bilibili.com/video/av117363068372835",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小金也是Gold",
+      "view_count": 2055
     }
   ]
 }
