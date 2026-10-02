@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T12:01:20.443310+00:00",
-  "total": 1600,
+  "generated_at": "2026-10-02T17:35:52.236412+00:00",
+  "total": 1601,
   "categories_summary": {
-    "文明礼貌": 447,
+    "文明礼貌": 448,
     "综合": 399,
     "爱国": 205,
     "友善": 186,
@@ -22781,6 +22781,20 @@
       "source": "bilibili",
       "uploader": "阳光男孩是东北人",
       "view_count": 132
+    },
+    {
+      "id": "BV1fEam67E5v",
+      "title": "《哈夫币文明》第一集：初到文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 89.303,
+      "url": "http://www.bilibili.com/video/av117369930319041",
+      "play_url": "http://www.bilibili.com/video/av117369930319041",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "黄鸭从不说大号",
+      "view_count": 200
     }
   ]
 }
