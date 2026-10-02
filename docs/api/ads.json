@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T04:14:57.056293+00:00",
-  "total": 1599,
+  "generated_at": "2026-10-02T12:01:20.443310+00:00",
+  "total": 1600,
   "categories_summary": {
     "文明礼貌": 447,
     "综合": 399,
-    "爱国": 204,
+    "爱国": 205,
     "友善": 186,
     "环保": 162,
     "诚信": 155,
@@ -22767,6 +22767,20 @@
       "source": "bilibili",
       "uploader": "星星资料库La526999",
       "view_count": 333
+    },
+    {
+      "id": "BV1krYP6iE5t",
+      "title": "【CCTV公益传播】我爱你，生生不息的祖国",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 70.04,
+      "url": "http://www.bilibili.com/video/av117363471026904",
+      "play_url": "http://www.bilibili.com/video/av117363471026904",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阳光男孩是东北人",
+      "view_count": 132
     }
   ]
 }
