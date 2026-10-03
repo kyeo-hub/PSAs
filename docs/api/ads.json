@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T03:58:58.184315+00:00",
-  "total": 1601,
+  "generated_at": "2026-10-03T11:14:22.537749+00:00",
+  "total": 1602,
   "categories_summary": {
     "文明礼貌": 448,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 162,
     "诚信": 155,
     "节约": 136,
-    "孝道": 116,
+    "孝道": 117,
     "交通安全": 86,
     "助人为乐": 52,
     "禁烟": 18,
@@ -22795,6 +22795,20 @@
       "source": "bilibili",
       "uploader": "黄鸭从不说大号",
       "view_count": 200
+    },
+    {
+      "id": "BV1dPpje9E1A",
+      "title": "【50帧】“桂田姥姥”2002年拍摄的“尊老爱幼 中华美德”公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 30.092,
+      "url": "http://www.bilibili.com/video/av113104977399592",
+      "play_url": "http://www.bilibili.com/video/av113104977399592",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "岁月炒冷饭",
+      "view_count": 2221
     }
   ]
 }
