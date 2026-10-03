@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T11:14:22.537749+00:00",
-  "total": 1602,
+  "generated_at": "2026-10-03T15:50:32.970301+00:00",
+  "total": 1604,
   "categories_summary": {
-    "文明礼貌": 448,
+    "文明礼貌": 449,
     "综合": 399,
-    "爱国": 205,
+    "爱国": 206,
     "友善": 186,
     "环保": 162,
     "诚信": 155,
@@ -22809,6 +22809,34 @@
       "source": "bilibili",
       "uploader": "岁月炒冷饭",
       "view_count": 2221
+    },
+    {
+      "id": "BV1sf4y1D75v",
+      "title": "《新时代爱国主义教育实施纲要》公益广告《榜样篇》",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.046,
+      "url": "http://www.bilibili.com/video/av287162525",
+      "play_url": "http://www.bilibili.com/video/av287162525",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "狮城清风",
+      "view_count": 39715
+    },
+    {
+      "id": "BV1PGaS6cEEd",
+      "title": "文明观赛",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 110.434,
+      "url": "http://www.bilibili.com/video/av117371171833817",
+      "play_url": "http://www.bilibili.com/video/av117371171833817",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "狍子快跑呀",
+      "view_count": 8448
     }
   ]
 }
