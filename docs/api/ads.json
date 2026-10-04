@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T20:43:39.334314+00:00",
-  "total": 1604,
+  "generated_at": "2026-10-04T04:31:29.269695+00:00",
+  "total": 1606,
   "categories_summary": {
-    "文明礼貌": 449,
+    "文明礼貌": 450,
     "综合": 399,
-    "爱国": 206,
-    "友善": 186,
+    "爱国": 207,
+    "友善": 187,
     "环保": 162,
-    "诚信": 155,
+    "诚信": 156,
     "节约": 136,
     "孝道": 117,
     "交通安全": 86,
-    "助人为乐": 52,
+    "助人为乐": 53,
     "禁烟": 18,
     "待分类": 3
   },
@@ -22837,6 +22837,37 @@
       "source": "bilibili",
       "uploader": "狍子快跑呀",
       "view_count": 8448
+    },
+    {
+      "id": "BV1aphv6AEhS",
+      "title": "他们都在为生命奋力奔跑。 #助人为乐 #救人 #好心人 来源/文明新观察",
+      "categories": [
+        "文明礼貌",
+        "助人为乐"
+      ],
+      "duration": 27.266,
+      "url": "http://www.bilibili.com/video/av117306311057067",
+      "play_url": "http://www.bilibili.com/video/av117306311057067",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "客家外城",
+      "view_count": 0
+    },
+    {
+      "id": "BV1Et4y1s7Z5",
+      "title": "54.社会主义核心价值观",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 123.181,
+      "url": "http://www.bilibili.com/video/av981917133",
+      "play_url": "http://www.bilibili.com/video/av981917133",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "可以的可宜",
+      "view_count": 2611
     }
   ]
 }
