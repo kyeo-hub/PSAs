@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T11:55:19.175518+00:00",
-  "total": 1606,
+  "generated_at": "2026-10-04T16:35:56.334138+00:00",
+  "total": 1609,
   "categories_summary": {
-    "文明礼貌": 450,
+    "文明礼貌": 452,
     "综合": 399,
     "爱国": 207,
     "友善": 187,
     "环保": 162,
-    "诚信": 156,
+    "诚信": 157,
     "节约": 136,
     "孝道": 117,
     "交通安全": 86,
@@ -22868,6 +22868,48 @@
       "source": "bilibili",
       "uploader": "可以的可宜",
       "view_count": 2611
+    },
+    {
+      "id": "BV1Y2a5zFEAF",
+      "title": "【架空】自制公益广告（93）——央视公益广告·同升一面旗，共爱一个家（自制版，迎国庆讲文明树新风版本）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 62.043,
+      "url": "http://www.bilibili.com/video/av115123528142501",
+      "play_url": "http://www.bilibili.com/video/av115123528142501",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "QvQ在小雪自媒-Offical",
+      "view_count": 1985
+    },
+    {
+      "id": "BV1V7HE6FEPs",
+      "title": "化学文明 12",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 149.933,
+      "url": "http://www.bilibili.com/video/av117382731272511",
+      "play_url": "http://www.bilibili.com/video/av117382731272511",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 1130
+    },
+    {
+      "id": "BV1WtHj6yEXy",
+      "title": "公益广告：广告需诚信，代言须谨慎（正放版本 + 倒放版本  含空耳）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 62.0,
+      "url": "http://www.bilibili.com/video/av117381573706950",
+      "play_url": "http://www.bilibili.com/video/av117381573706950",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "恩恩-中国人能飞",
+      "view_count": 207
     }
   ]
 }
