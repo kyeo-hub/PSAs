@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T13:46:35.014065+00:00",
-  "total": 1613,
+  "generated_at": "2026-10-05T23:52:21.785041+00:00",
+  "total": 1614,
   "categories_summary": {
-    "文明礼貌": 453,
+    "文明礼貌": 454,
     "综合": 399,
     "爱国": 208,
     "友善": 189,
@@ -22971,6 +22971,20 @@
       "source": "bilibili",
       "uploader": "59641446345_bili",
       "view_count": 266
+    },
+    {
+      "id": "BV1bRHW6gEjA",
+      "title": "山东卫视公益广告：抵制网络暴力 倡导网络文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 63.294,
+      "url": "http://www.bilibili.com/video/av117387361976648",
+      "play_url": "http://www.bilibili.com/video/av117387361976648",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 25
     }
   ]
 }
