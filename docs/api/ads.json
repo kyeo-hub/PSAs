@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T04:14:53.694650+00:00",
-  "total": 1611,
+  "generated_at": "2026-10-05T13:46:35.014065+00:00",
+  "total": 1613,
   "categories_summary": {
-    "文明礼貌": 452,
+    "文明礼貌": 453,
     "综合": 399,
-    "爱国": 207,
-    "友善": 188,
-    "环保": 162,
+    "爱国": 208,
+    "友善": 189,
+    "环保": 163,
     "诚信": 157,
     "节约": 136,
     "孝道": 117,
     "交通安全": 86,
-    "助人为乐": 55,
+    "助人为乐": 57,
     "禁烟": 18,
     "待分类": 3
   },
@@ -22939,6 +22939,38 @@
       "source": "bilibili",
       "uploader": "bili_30644673",
       "view_count": 18665
+    },
+    {
+      "id": "BV1JfHL6eEkJ",
+      "title": "行走中的雷锋志愿者，捡垃圾净化地球，创建文明和谐社会！",
+      "categories": [
+        "友善",
+        "文明礼貌",
+        "助人为乐",
+        "爱国",
+        "环保"
+      ],
+      "duration": 52.384,
+      "url": "http://www.bilibili.com/video/av117382160847162",
+      "play_url": "http://www.bilibili.com/video/av117382160847162",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "颜卿熙妍烟",
+      "view_count": 48
+    },
+    {
+      "id": "BV1fh4y187WL",
+      "title": "公益广告-把雷锋精神代代传承下去 新时代我们都做这样的人",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 77.321,
+      "url": "http://www.bilibili.com/video/av661469386",
+      "play_url": "http://www.bilibili.com/video/av661469386",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "59641446345_bili",
+      "view_count": 266
     }
   ]
 }
