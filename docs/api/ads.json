@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T23:52:21.785041+00:00",
-  "total": 1614,
+  "generated_at": "2026-10-06T05:04:29.047641+00:00",
+  "total": 1615,
   "categories_summary": {
-    "文明礼貌": 454,
+    "文明礼貌": 455,
     "综合": 399,
     "爱国": 208,
     "友善": 189,
@@ -22985,6 +22985,20 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 25
+    },
+    {
+      "id": "BV1znH76uEjq",
+      "title": "机器猫文明第一集",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 64.342,
+      "url": "http://www.bilibili.com/video/av117383083789055",
+      "play_url": "http://www.bilibili.com/video/av117383083789055",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "基本盘要自信",
+      "view_count": 1983
     }
   ]
 }
