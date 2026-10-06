@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T05:04:29.047641+00:00",
-  "total": 1615,
+  "generated_at": "2026-10-06T12:52:38.423911+00:00",
+  "total": 1616,
   "categories_summary": {
-    "文明礼貌": 455,
+    "文明礼貌": 456,
     "综合": 399,
     "爱国": 208,
     "友善": 189,
@@ -22999,6 +22999,20 @@
       "source": "bilibili",
       "uploader": "基本盘要自信",
       "view_count": 1983
+    },
+    {
+      "id": "BV1ysHx6qEPF",
+      "title": "文明时代亚洲一代极限速通 中国单省份开局31回合",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 12.0,
+      "url": "http://www.bilibili.com/video/av117388519408815",
+      "play_url": "http://www.bilibili.com/video/av117388519408815",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我命如妖欲封天1",
+      "view_count": 145
     }
   ]
 }
