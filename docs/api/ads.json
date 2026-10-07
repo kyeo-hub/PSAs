@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T04:32:42.219828+00:00",
-  "total": 1617,
+  "generated_at": "2026-10-07T12:50:04.976053+00:00",
+  "total": 1619,
   "categories_summary": {
     "文明礼貌": 457,
     "综合": 399,
     "爱国": 208,
     "友善": 189,
-    "环保": 163,
-    "诚信": 157,
+    "环保": 164,
+    "诚信": 158,
     "节约": 136,
     "孝道": 117,
     "交通安全": 86,
@@ -23027,6 +23027,34 @@
       "source": "bilibili",
       "uploader": "后起之秀2004",
       "view_count": 327
+    },
+    {
+      "id": "BV1wMikByEpT",
+      "title": "3分钟左右的微电影，《抉择！》诚信考试，廉洁自律，大学生期末小组作业，南京大学生微电影，桨声灯影·青年影像展映季入围奖（三等奖）（ps：幸运幸运，真的幸运！）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 232.678,
+      "url": "http://www.bilibili.com/video/av115834580113592",
+      "play_url": "http://www.bilibili.com/video/av115834580113592",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "开颜的君子兰",
+      "view_count": 9311
+    },
+    {
+      "id": "BV1sqHC6pE6p",
+      "title": "字香港政府公益广告：环保城市从生活做起（1994）中字",
+      "categories": [
+        "环保"
+      ],
+      "duration": 26.679,
+      "url": "http://www.bilibili.com/video/av117398703183911",
+      "play_url": "http://www.bilibili.com/video/av117398703183911",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱听故事的某某某",
+      "view_count": 21
     }
   ]
 }
