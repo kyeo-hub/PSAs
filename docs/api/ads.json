@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T12:57:19.554956+00:00",
-  "total": 1621,
+  "generated_at": "2026-10-08T23:04:21.501764+00:00",
+  "total": 1630,
   "categories_summary": {
-    "文明礼貌": 458,
+    "文明礼貌": 463,
     "综合": 399,
     "爱国": 208,
-    "友善": 189,
+    "友善": 191,
     "环保": 165,
-    "诚信": 158,
-    "节约": 136,
-    "孝道": 118,
-    "交通安全": 86,
+    "诚信": 160,
+    "节约": 137,
+    "孝道": 120,
+    "交通安全": 89,
     "助人为乐": 57,
     "禁烟": 18,
     "待分类": 3
@@ -23084,6 +23084,138 @@
       "source": "bilibili",
       "uploader": "温故而知嬉-要看主页",
       "view_count": 129
+    },
+    {
+      "id": "BV1Kfus6GEmk",
+      "title": "尼泊尔交通安全广告",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 51.633,
+      "url": "http://www.bilibili.com/video/av117051129596486",
+      "play_url": "http://www.bilibili.com/video/av117051129596486",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "GarnetGold",
+      "view_count": 216
+    },
+    {
+      "id": "BV1GT4y1K7PU",
+      "title": "澳大利亚最新交通安全公益广告：《你幸运吗？》（The Lucky Ones Get Caught (2021)）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 60.093,
+      "url": "http://www.bilibili.com/video/av928732764",
+      "play_url": "http://www.bilibili.com/video/av928732764",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "木又寸先生_MrArbo",
+      "view_count": 1163
+    },
+    {
+      "id": "BV1gV411Y7WP",
+      "title": "SEU-MAN喊你节约粮食",
+      "categories": [
+        "节约"
+      ],
+      "duration": 155.271,
+      "url": "http://www.bilibili.com/video/av415497385",
+      "play_url": "http://www.bilibili.com/video/av415497385",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Blue_Cai",
+      "view_count": 291
+    },
+    {
+      "id": "BV1wnLq6EEFW",
+      "title": "张燕 好消息（动画片《中华传统美德故事》片尾曲）",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "诚信",
+        "友善"
+      ],
+      "duration": 193.44,
+      "url": "http://www.bilibili.com/video/av116600711677684",
+      "play_url": "http://www.bilibili.com/video/av116600711677684",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "熊猫看书看书看的",
+      "view_count": 286
+    },
+    {
+      "id": "BV1K34y1w7Nt",
+      "title": "男子：中华传统美德诚实我可是一直遵守的",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "诚信",
+        "友善"
+      ],
+      "duration": 60.325,
+      "url": "http://www.bilibili.com/video/av833739694",
+      "play_url": "http://www.bilibili.com/video/av833739694",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "老林分享",
+      "view_count": 113224
+    },
+    {
+      "id": "BV1PJHy69Ecu",
+      "title": "文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 103.666,
+      "url": "http://www.bilibili.com/video/av117400649335064",
+      "play_url": "http://www.bilibili.com/video/av117400649335064",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "不知道写啥写个i吧",
+      "view_count": 1
+    },
+    {
+      "id": "BV1aepW62EFd",
+      "title": "星穹铁道文明的传承",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 10.133,
+      "url": "http://www.bilibili.com/video/av117407494441681",
+      "play_url": "http://www.bilibili.com/video/av117407494441681",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "狐狸大将",
+      "view_count": 0
+    },
+    {
+      "id": "BV1F44y1s7b1",
+      "title": "央视公益广告：公德比赛，今天起正式开赛（让座篇）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.069,
+      "url": "http://www.bilibili.com/video/av978369951",
+      "play_url": "http://www.bilibili.com/video/av978369951",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "4A广告提案网",
+      "view_count": 57547
+    },
+    {
+      "id": "BV1ZvYt6ZEbJ",
+      "title": "法国公益广告-闯红灯的亚历克斯（2010年）",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 62.206,
+      "url": "http://www.bilibili.com/video/av117241064528464",
+      "play_url": "http://www.bilibili.com/video/av117241064528464",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "十安放送文化",
+      "view_count": 337
     }
   ]
 }
