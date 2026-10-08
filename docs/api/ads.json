@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T22:50:52.330553+00:00",
-  "total": 1619,
+  "generated_at": "2026-10-08T04:42:11.485760+00:00",
+  "total": 1621,
   "categories_summary": {
-    "文明礼貌": 457,
+    "文明礼貌": 458,
     "综合": 399,
     "爱国": 208,
     "友善": 189,
-    "环保": 164,
+    "环保": 165,
     "诚信": 158,
     "节约": 136,
-    "孝道": 117,
+    "孝道": 118,
     "交通安全": 86,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23055,6 +23055,35 @@
       "source": "bilibili",
       "uploader": "爱听故事的某某某",
       "view_count": 21
+    },
+    {
+      "id": "BV1mXHy6cEt1",
+      "title": "制裁这个不文明的人！",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 51.71,
+      "url": "http://www.bilibili.com/video/av117400095689569",
+      "play_url": "http://www.bilibili.com/video/av117400095689569",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "红风尿尿尿",
+      "view_count": 1677
+    },
+    {
+      "id": "BV1oAaZ6MEhh",
+      "title": "1585《中华孝道》舞蹈背景视频完整版4分钟高清无水印",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 240.001,
+      "url": "http://www.bilibili.com/video/av117359243171469",
+      "play_url": "http://www.bilibili.com/video/av117359243171469",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "温故而知嬉-要看主页",
+      "view_count": 129
     }
   ]
 }
