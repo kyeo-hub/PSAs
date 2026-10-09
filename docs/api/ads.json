@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T04:45:54.210095+00:00",
-  "total": 1633,
+  "generated_at": "2026-10-09T12:42:32.331886+00:00",
+  "total": 1635,
   "categories_summary": {
     "文明礼貌": 464,
     "综合": 399,
     "爱国": 208,
     "友善": 192,
-    "环保": 166,
+    "环保": 167,
     "诚信": 160,
     "节约": 137,
     "孝道": 121,
-    "交通安全": 89,
+    "交通安全": 90,
     "助人为乐": 57,
     "禁烟": 18,
     "待分类": 3
@@ -23259,6 +23259,34 @@
       "source": "bilibili",
       "uploader": "DBsan",
       "view_count": 26869
+    },
+    {
+      "id": "BV1gtzSBRE7q",
+      "title": "【央视公益广告】绿色低碳 多彩中国（60s）",
+      "categories": [
+        "环保"
+      ],
+      "duration": 59.967,
+      "url": "http://www.bilibili.com/video/av115954134550661",
+      "play_url": "http://www.bilibili.com/video/av115954134550661",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "はやせ_あきね",
+      "view_count": 5398
+    },
+    {
+      "id": "BV1V2421K7vL",
+      "title": "幼儿园大班舞蹈《我是小交警》简单易排，交通安全大家要牢记",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 96.511,
+      "url": "http://www.bilibili.com/video/av1601897772",
+      "play_url": "http://www.bilibili.com/video/av1601897772",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "临颍达人宝贝",
+      "view_count": 506998
     }
   ]
 }
