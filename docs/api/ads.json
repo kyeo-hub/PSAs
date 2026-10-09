@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T23:04:21.501764+00:00",
-  "total": 1630,
+  "generated_at": "2026-10-09T04:45:54.210095+00:00",
+  "total": 1633,
   "categories_summary": {
-    "文明礼貌": 463,
+    "文明礼貌": 464,
     "综合": 399,
     "爱国": 208,
-    "友善": 191,
-    "环保": 165,
+    "友善": 192,
+    "环保": 166,
     "诚信": 160,
     "节约": 137,
-    "孝道": 120,
+    "孝道": 121,
     "交通安全": 89,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23216,6 +23216,49 @@
       "source": "bilibili",
       "uploader": "十安放送文化",
       "view_count": 337
+    },
+    {
+      "id": "BV1nb411P7TD",
+      "title": "《毒液》硬核公益广告：安全文明，以理服人",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 77.93,
+      "url": "http://www.bilibili.com/video/av35044140",
+      "play_url": "http://www.bilibili.com/video/av35044140",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "007号选手必胜",
+      "view_count": 9230
+    },
+    {
+      "id": "BV1Xb4y1Q7Cy",
+      "title": "广而告之公益广告《保护环境 世界因我而改变》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 30.122,
+      "url": "http://www.bilibili.com/video/av629807120",
+      "play_url": "http://www.bilibili.com/video/av629807120",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "广而告之MMIA",
+      "view_count": 12378
+    },
+    {
+      "id": "BV19V411a7fj",
+      "title": "【1080P重置】央视经典公益广告-关爱失智老人 打包篇",
+      "categories": [
+        "友善",
+        "孝道"
+      ],
+      "duration": 90.005,
+      "url": "http://www.bilibili.com/video/av415410473",
+      "play_url": "http://www.bilibili.com/video/av415410473",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "DBsan",
+      "view_count": 26869
     }
   ]
 }
