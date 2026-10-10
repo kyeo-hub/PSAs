@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T17:11:01.581824+00:00",
-  "total": 1640,
+  "generated_at": "2026-10-10T21:18:11.099522+00:00",
+  "total": 1643,
   "categories_summary": {
-    "文明礼貌": 466,
+    "文明礼貌": 467,
     "综合": 399,
     "爱国": 208,
     "友善": 193,
     "环保": 168,
     "诚信": 160,
     "节约": 138,
-    "孝道": 122,
+    "孝道": 124,
     "交通安全": 90,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23358,6 +23358,48 @@
       "source": "bilibili",
       "uploader": "基本盘要自信",
       "view_count": 279
+    },
+    {
+      "id": "BV1dW411S7ik",
+      "title": "《守望》——尊老敬老公益广告",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 158.173,
+      "url": "http://www.bilibili.com/video/av30152260",
+      "play_url": "http://www.bilibili.com/video/av30152260",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "汤姆毯子",
+      "view_count": 45458
+    },
+    {
+      "id": "BV1SNpx65ExT",
+      "title": "加拿大反对党领袖: 虽然中国勤劳有灿烂文明 但人不为已天诛地灭我们就是要实行贸易保护",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 27.283,
+      "url": "http://www.bilibili.com/video/av117408652071242",
+      "play_url": "http://www.bilibili.com/video/av117408652071242",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "兔匪观天",
+      "view_count": 18269
+    },
+    {
+      "id": "BV1rnab6PEpq",
+      "title": "《重阳敬老，美德飞扬》经典诵读 + 手势舞，传承孝善家风，弘扬中华敬老美德 #重阳节目 #经典诵读 #手势舞 #少儿重阳表演 #敬老主题节目",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 126.448,
+      "url": "http://www.bilibili.com/video/av117340922513339",
+      "play_url": "http://www.bilibili.com/video/av117340922513339",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整薇GG31680",
+      "view_count": 88
     }
   ]
 }
