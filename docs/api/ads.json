@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T22:22:58.382396+00:00",
-  "total": 1635,
+  "generated_at": "2026-10-10T04:31:50.520004+00:00",
+  "total": 1637,
   "categories_summary": {
     "文明礼貌": 464,
     "综合": 399,
     "爱国": 208,
-    "友善": 192,
+    "友善": 193,
     "环保": 167,
     "诚信": 160,
-    "节约": 137,
-    "孝道": 121,
+    "节约": 138,
+    "孝道": 122,
     "交通安全": 90,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23287,6 +23287,35 @@
       "source": "bilibili",
       "uploader": "临颍达人宝贝",
       "view_count": 506998
+    },
+    {
+      "id": "BV1U1H66JEks",
+      "title": "【4K公益广告】《关爱老人——妈妈的等待》🏠别爱得太迟，常回家看看！",
+      "categories": [
+        "孝道",
+        "友善"
+      ],
+      "duration": 79.936,
+      "url": "http://www.bilibili.com/video/av117381254877197",
+      "play_url": "http://www.bilibili.com/video/av117381254877197",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘氏博物馆",
+      "view_count": 409
+    },
+    {
+      "id": "BV1UZHU6VEvE",
+      "title": "手势舞《节约最闪亮》—世界粮食日，节约粮食，珍惜粮食，水稻的一生",
+      "categories": [
+        "节约"
+      ],
+      "duration": 148.515,
+      "url": "http://www.bilibili.com/video/av117403853784273",
+      "play_url": "http://www.bilibili.com/video/av117403853784273",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "视频制作小西",
+      "view_count": 75
     }
   ]
 }
