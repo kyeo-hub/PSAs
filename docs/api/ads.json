@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T12:04:08.879590+00:00",
-  "total": 1637,
+  "generated_at": "2026-10-10T17:11:01.581824+00:00",
+  "total": 1640,
   "categories_summary": {
-    "文明礼貌": 464,
+    "文明礼貌": 466,
     "综合": 399,
     "爱国": 208,
     "友善": 193,
-    "环保": 167,
+    "环保": 168,
     "诚信": 160,
     "节约": 138,
     "孝道": 122,
@@ -23316,6 +23316,48 @@
       "source": "bilibili",
       "uploader": "视频制作小西",
       "view_count": 75
+    },
+    {
+      "id": "BV1msHD6yEAJ",
+      "title": "《网络烂梗》 00后的童年有公益广告，10后的童年却充斥着网络梗。别让碎片化的网络垃圾，一点点吃掉孩子本该有的教养与温度。#网络烂梗  #熊孩子 #孩子的教育",
+      "categories": [
+        "环保"
+      ],
+      "duration": 238.633,
+      "url": "http://www.bilibili.com/video/av117403166048522",
+      "play_url": "http://www.bilibili.com/video/av117403166048522",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "拍客印象",
+      "view_count": 142934
+    },
+    {
+      "id": "BV1BhpT6yERN",
+      "title": "“跨国际文明友好交流”",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 15.923,
+      "url": "http://www.bilibili.com/video/av117396555761640",
+      "play_url": "http://www.bilibili.com/video/av117396555761640",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "想要有梦想的老鱼",
+      "view_count": 35289
+    },
+    {
+      "id": "BV1Vypu6CEqw",
+      "title": "机器猫文明第五集",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 51.037,
+      "url": "http://www.bilibili.com/video/av117416839350789",
+      "play_url": "http://www.bilibili.com/video/av117416839350789",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "基本盘要自信",
+      "view_count": 279
     }
   ]
 }
