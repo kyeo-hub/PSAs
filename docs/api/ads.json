@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T04:11:37.729876+00:00",
-  "total": 1643,
+  "generated_at": "2026-10-11T12:14:51.514402+00:00",
+  "total": 1644,
   "categories_summary": {
     "文明礼貌": 467,
     "综合": 399,
-    "爱国": 208,
+    "爱国": 209,
     "友善": 193,
     "环保": 168,
     "诚信": 160,
-    "节约": 138,
+    "节约": 139,
     "孝道": 124,
     "交通安全": 90,
     "助人为乐": 57,
@@ -23400,6 +23400,21 @@
       "source": "bilibili",
       "uploader": "完整薇GG31680",
       "view_count": 88
+    },
+    {
+      "id": "BV1wDpY6oEjm",
+      "title": "《勤俭润童心，美德永传承》躬行勤俭之风，涵养少年美德，让节约初心扎根心间代代相传 #国旗下演讲 #勤俭节约主题 #校园德育 #美德传承 #少年修身",
+      "categories": [
+        "节约",
+        "爱国"
+      ],
+      "duration": 150.117,
+      "url": "http://www.bilibili.com/video/av117414289213797",
+      "play_url": "http://www.bilibili.com/video/av117414289213797",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "完整版素材V号GG31680",
+      "view_count": 118
     }
   ]
 }
