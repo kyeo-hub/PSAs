@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T11:19:27.220804+00:00",
-  "total": 1648,
+  "generated_at": "2026-10-14T16:42:45.446708+00:00",
+  "total": 1652,
   "categories_summary": {
-    "文明礼貌": 467,
+    "文明礼貌": 470,
     "综合": 399,
     "爱国": 209,
-    "友善": 193,
+    "友善": 194,
     "环保": 168,
-    "诚信": 160,
+    "诚信": 161,
     "节约": 141,
-    "孝道": 126,
-    "交通安全": 90,
-    "助人为乐": 57,
+    "孝道": 127,
+    "交通安全": 91,
+    "助人为乐": 58,
     "禁烟": 18,
     "待分类": 3
   },
@@ -23470,6 +23470,66 @@
       "thumbnail": "",
       "source": "bilibili",
       "uploader": "爱塔暖星公益基金",
+      "view_count": 0
+    },
+    {
+      "id": "BV1ukDNBoEeY",
+      "title": "那些年央视拍的公益广告《助人为乐》",
+      "categories": [
+        "助人为乐"
+      ],
+      "duration": 56.145,
+      "url": "http://www.bilibili.com/video/av116345194742845",
+      "play_url": "http://www.bilibili.com/video/av116345194742845",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "LUCKY19491001",
+      "view_count": 254
+    },
+    {
+      "id": "BV14v4y1A7kU",
+      "title": "传统美德",
+      "categories": [
+        "文明礼貌",
+        "诚信",
+        "孝道",
+        "友善"
+      ],
+      "duration": 180.99,
+      "url": "http://www.bilibili.com/video/av554262978",
+      "play_url": "http://www.bilibili.com/video/av554262978",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_21482612588",
+      "view_count": 215
+    },
+    {
+      "id": "BV12xpw6kE8i",
+      "title": "学习《深刻把握中华文明突出的统一性》（4）地理、制度与家国情怀",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 169.514,
+      "url": "http://www.bilibili.com/video/av117393787453850",
+      "play_url": "http://www.bilibili.com/video/av117393787453850",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "五毒珠",
+      "view_count": 0
+    },
+    {
+      "id": "BV1y6pK6SEQL",
+      "title": "五千年前那对“最强创业搭档”，凭什么点亮华夏文明？",
+      "categories": [
+        "文明礼貌",
+        "交通安全"
+      ],
+      "duration": 124.778,
+      "url": "http://www.bilibili.com/video/av117397109543108",
+      "play_url": "http://www.bilibili.com/video/av117397109543108",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿宇哥哥yu",
       "view_count": 0
     }
   ]
