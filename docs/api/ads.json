@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T22:24:47.760767+00:00",
-  "total": 1645,
+  "generated_at": "2026-10-14T03:44:27.684752+00:00",
+  "total": 1647,
   "categories_summary": {
     "文明礼貌": 467,
     "综合": 399,
@@ -9,8 +9,8 @@
     "友善": 193,
     "环保": 168,
     "诚信": 160,
-    "节约": 140,
-    "孝道": 124,
+    "节约": 141,
+    "孝道": 125,
     "交通安全": 90,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23429,6 +23429,34 @@
       "source": "bilibili",
       "uploader": "可编辑ppt课件",
       "view_count": 89
+    },
+    {
+      "id": "BV1Gupn6TEdL",
+      "title": "【公益广告】有孝来仪",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 65.016,
+      "url": "http://www.bilibili.com/video/av117422963036408",
+      "play_url": "http://www.bilibili.com/video/av117422963036408",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "CRTG-2026",
+      "view_count": 94
+    },
+    {
+      "id": "BV1uDhf6wEwL",
+      "title": "粮食日主题少儿手势舞《节约最光荣》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 90.883,
+      "url": "http://www.bilibili.com/video/av117323457367580",
+      "play_url": "http://www.bilibili.com/video/av117323457367580",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "童声汇",
+      "view_count": 135
     }
   ]
 }
