@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T03:44:27.684752+00:00",
-  "total": 1647,
+  "generated_at": "2026-10-14T11:19:27.220804+00:00",
+  "total": 1648,
   "categories_summary": {
     "文明礼貌": 467,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 168,
     "诚信": 160,
     "节约": 141,
-    "孝道": 125,
+    "孝道": 126,
     "交通安全": 90,
     "助人为乐": 57,
     "禁烟": 18,
@@ -23457,6 +23457,20 @@
       "source": "bilibili",
       "uploader": "童声汇",
       "view_count": 135
+    },
+    {
+      "id": "BV1R2pC6gEDZ",
+      "title": "【公益人物专访・上 | 沐光 AI 智能照明 王世亮】",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 202.408,
+      "url": "http://www.bilibili.com/video/av117437844560573",
+      "play_url": "http://www.bilibili.com/video/av117437844560573",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "爱塔暖星公益基金",
+      "view_count": 0
     }
   ]
 }
