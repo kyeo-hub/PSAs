@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T16:26:14.109903+00:00",
-  "total": 1654,
+  "generated_at": "2026-10-15T21:02:24.716578+00:00",
+  "total": 1655,
   "categories_summary": {
     "文明礼貌": 472,
     "综合": 399,
@@ -9,7 +9,7 @@
     "友善": 194,
     "环保": 169,
     "诚信": 161,
-    "节约": 141,
+    "节约": 142,
     "孝道": 127,
     "交通安全": 91,
     "助人为乐": 58,
@@ -23560,6 +23560,20 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 6
+    },
+    {
+      "id": "BV1RAJ16iEGz",
+      "title": "公益广告：节约 是一种美德",
+      "categories": [
+        "节约"
+      ],
+      "duration": 62.121,
+      "url": "http://www.bilibili.com/video/av117444169433953",
+      "play_url": "http://www.bilibili.com/video/av117444169433953",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 12
     }
   ]
 }
