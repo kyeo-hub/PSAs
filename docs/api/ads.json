@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T21:23:28.111450+00:00",
-  "total": 1652,
+  "generated_at": "2026-10-15T03:23:04.029627+00:00",
+  "total": 1653,
   "categories_summary": {
-    "文明礼貌": 470,
+    "文明礼貌": 471,
     "综合": 399,
     "爱国": 209,
     "友善": 194,
-    "环保": 168,
+    "环保": 169,
     "诚信": 161,
     "节约": 141,
     "孝道": 127,
@@ -23531,6 +23531,21 @@
       "source": "bilibili",
       "uploader": "阿宇哥哥yu",
       "view_count": 0
+    },
+    {
+      "id": "BV17oHe6UEvX",
+      "title": "【00后、10后回忆杀广告】紫荆花漆广告+《保护生物多样性 共创生态文明》公益广告+《生活的自然 自然的生活》公益广告+承德腰痛宁研发中心广告（三遍）",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 46.666,
+      "url": "http://www.bilibili.com/video/av117376809047976",
+      "play_url": "http://www.bilibili.com/video/av117376809047976",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "繁星耀文",
+      "view_count": 222
     }
   ]
 }
