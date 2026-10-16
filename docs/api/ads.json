@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T10:49:55.328532+00:00",
-  "total": 1657,
+  "generated_at": "2026-10-16T16:13:05.897269+00:00",
+  "total": 1660,
   "categories_summary": {
     "文明礼貌": 473,
     "综合": 399,
@@ -10,8 +10,8 @@
     "环保": 169,
     "诚信": 163,
     "节约": 142,
-    "孝道": 128,
-    "交通安全": 91,
+    "孝道": 129,
+    "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
     "待分类": 3
@@ -23609,6 +23609,48 @@
       "source": "bilibili",
       "uploader": "月亮你要听我说",
       "view_count": 534
+    },
+    {
+      "id": "BV1Zu4y1W7oV",
+      "title": "全新版，好听好学的《中华孝道》手势舞4分钟完整版，百善孝为先，中华孝道代代传#元旦节目#手势舞#小一姐姐",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 233.684,
+      "url": "http://www.bilibili.com/video/av917049904",
+      "play_url": "http://www.bilibili.com/video/av917049904",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小团子童语兮",
+      "view_count": 91731
+    },
+    {
+      "id": "BV1sqpS66E1U",
+      "title": "剧情《蜡笔小新》警官来幼稚园给大家培训交通安全课，可谁知小新竟把两人整的狼狈而逃？",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 175.542,
+      "url": "http://www.bilibili.com/video/av117440713332228",
+      "play_url": "http://www.bilibili.com/video/av117440713332228",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "B站放映员",
+      "view_count": 1
+    },
+    {
+      "id": "BV1wQJ26XEo3",
+      "title": "浙江一对做交通安全的夫妻，解决了高速布锥难题",
+      "categories": [
+        "交通安全"
+      ],
+      "duration": 10.266,
+      "url": "http://www.bilibili.com/video/av117444857304474",
+      "play_url": "http://www.bilibili.com/video/av117444857304474",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_58507777072",
+      "view_count": 3
     }
   ]
 }
