@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T03:19:24.059883+00:00",
-  "total": 1656,
+  "generated_at": "2026-10-16T10:49:55.328532+00:00",
+  "total": 1657,
   "categories_summary": {
     "文明礼貌": 473,
     "综合": 399,
-    "爱国": 210,
-    "友善": 195,
+    "爱国": 211,
+    "友善": 196,
     "环保": 169,
-    "诚信": 162,
+    "诚信": 163,
     "节约": 142,
     "孝道": 128,
     "交通安全": 91,
@@ -23593,6 +23593,22 @@
       "source": "bilibili",
       "uploader": "恒善家园",
       "view_count": 18
+    },
+    {
+      "id": "BV1vv4y1d7KY",
+      "title": "社会主义核心价值观主题微电影      心跳",
+      "categories": [
+        "友善",
+        "爱国",
+        "诚信"
+      ],
+      "duration": 295.078,
+      "url": "http://www.bilibili.com/video/av563161327",
+      "play_url": "http://www.bilibili.com/video/av563161327",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "月亮你要听我说",
+      "view_count": 534
     }
   ]
 }
