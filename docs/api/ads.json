@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T03:09:24.439624+00:00",
-  "total": 1660,
+  "generated_at": "2026-10-17T10:17:49.947210+00:00",
+  "total": 1661,
   "categories_summary": {
     "文明礼貌": 473,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 169,
     "诚信": 163,
     "节约": 142,
-    "孝道": 129,
+    "孝道": 130,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23651,6 +23651,20 @@
       "source": "bilibili",
       "uploader": "bili_58507777072",
       "view_count": 3
+    },
+    {
+      "id": "BV1Kep465ECW",
+      "title": "《中华孝道》是美德传给后来人，敬老爱老",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 240.071,
+      "url": "http://www.bilibili.com/video/av117410162020392",
+      "play_url": "http://www.bilibili.com/video/av117410162020392",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "李乐一舞台背景剪辑",
+      "view_count": 1515
     }
   ]
 }
