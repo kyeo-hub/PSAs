@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T20:15:32.794194+00:00",
-  "total": 1661,
+  "generated_at": "2026-10-18T03:13:17.614485+00:00",
+  "total": 1665,
   "categories_summary": {
-    "文明礼貌": 473,
+    "文明礼貌": 475,
     "综合": 399,
-    "爱国": 211,
-    "友善": 196,
+    "爱国": 212,
+    "友善": 197,
     "环保": 169,
-    "诚信": 163,
-    "节约": 142,
+    "诚信": 164,
+    "节约": 143,
     "孝道": 130,
     "交通安全": 93,
     "助人为乐": 59,
@@ -23665,6 +23665,64 @@
       "source": "bilibili",
       "uploader": "李乐一舞台背景剪辑",
       "view_count": 1515
+    },
+    {
+      "id": "BV1um4y1E7gZ",
+      "title": "公益广告-勤俭节约 中华美德",
+      "categories": [
+        "节约"
+      ],
+      "duration": 53.591,
+      "url": "http://www.bilibili.com/video/av700794635",
+      "play_url": "http://www.bilibili.com/video/av700794635",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘铎圳",
+      "view_count": 4242
+    },
+    {
+      "id": "BV1xph66BEn8",
+      "title": "低等文明生物，试图定义高等文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 44.535,
+      "url": "http://www.bilibili.com/video/av117309733669482",
+      "play_url": "http://www.bilibili.com/video/av117309733669482",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "苏auri",
+      "view_count": 46933
+    },
+    {
+      "id": "BV1qwJi6jENK",
+      "title": "爽翻！10.17更新【战争与文明】公益版 内置GM后台菜单 无限资源内购 代币无上限 免费畅玩",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 90.209,
+      "url": "http://www.bilibili.com/video/av117456534307107",
+      "play_url": "http://www.bilibili.com/video/av117456534307107",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "uaagkb45233",
+      "view_count": 21
+    },
+    {
+      "id": "BV1dJ411Q7x3",
+      "title": "00244.社会主义核心价值观",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 13.641,
+      "url": "http://www.bilibili.com/video/av77583510",
+      "play_url": "http://www.bilibili.com/video/av77583510",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AE世界",
+      "view_count": 2367
     }
   ]
 }
