@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T10:33:30.051395+00:00",
-  "total": 1665,
+  "generated_at": "2026-10-18T15:29:52.619208+00:00",
+  "total": 1669,
   "categories_summary": {
-    "文明礼貌": 475,
+    "文明礼貌": 479,
     "综合": 399,
     "爱国": 212,
     "友善": 197,
@@ -23723,6 +23723,62 @@
       "source": "bilibili",
       "uploader": "AE世界",
       "view_count": 2367
+    },
+    {
+      "id": "BV1SxJh6sE9e",
+      "title": "从文学角度来看文明发展——世界文明研究院我先行（四十九）补",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 298.144,
+      "url": "http://www.bilibili.com/video/av117453111757602",
+      "play_url": "http://www.bilibili.com/video/av117453111757602",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "郓哥儿的小果篮",
+      "view_count": 68
+    },
+    {
+      "id": "BV1PaJB6eEQp",
+      "title": "【“礼行周六 走向吴山”新时代文明实践项目10月第三周重阳节主题活动】",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 93.602,
+      "url": "http://www.bilibili.com/video/av117456702020265",
+      "play_url": "http://www.bilibili.com/video/av117456702020265",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "康久养老",
+      "view_count": 32
+    },
+    {
+      "id": "BV1p4nM6JE26",
+      "title": "27.源石工业文明纪元",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 35.133,
+      "url": "http://www.bilibili.com/video/av117459537430866",
+      "play_url": "http://www.bilibili.com/video/av117459537430866",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bloe2h3i",
+      "view_count": 0
+    },
+    {
+      "id": "BV1nq4y167jG",
+      "title": "不让文明退化公益广告1080P",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 45.466,
+      "url": "http://www.bilibili.com/video/av591736047",
+      "play_url": "http://www.bilibili.com/video/av591736047",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "凉茶cha",
+      "view_count": 7736
     }
   ]
 }
