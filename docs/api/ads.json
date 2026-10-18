@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T15:29:52.619208+00:00",
-  "total": 1669,
+  "generated_at": "2026-10-18T20:13:26.203728+00:00",
+  "total": 1670,
   "categories_summary": {
     "文明礼貌": 479,
     "综合": 399,
     "爱国": 212,
     "友善": 197,
     "环保": 169,
-    "诚信": 164,
+    "诚信": 165,
     "节约": 143,
     "孝道": 130,
     "交通安全": 93,
@@ -23779,6 +23779,20 @@
       "source": "bilibili",
       "uploader": "凉茶cha",
       "view_count": 7736
+    },
+    {
+      "id": "BV1bbHC6ZEqt",
+      "title": "《诚信——诚信为底，不负本心》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 116.866,
+      "url": "http://www.bilibili.com/video/av117399055504744",
+      "play_url": "http://www.bilibili.com/video/av117399055504744",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "明德青影",
+      "view_count": 83
     }
   ]
 }
