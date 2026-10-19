@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T03:26:47.077332+00:00",
-  "total": 1672,
+  "generated_at": "2026-10-19T12:18:14.004981+00:00",
+  "total": 1674,
   "categories_summary": {
-    "文明礼貌": 479,
+    "文明礼貌": 480,
     "综合": 399,
-    "爱国": 212,
-    "友善": 197,
+    "爱国": 214,
+    "友善": 198,
     "环保": 169,
-    "诚信": 165,
+    "诚信": 166,
     "节约": 145,
     "孝道": 130,
     "交通安全": 93,
@@ -23821,6 +23821,37 @@
       "source": "bilibili",
       "uploader": "语你共鸣",
       "view_count": 0
+    },
+    {
+      "id": "BV1mC4y1N7n4",
+      "title": "【爱国主义教育法主题“感人瞬间”微视频 |《我爱你中国》】",
+      "categories": [
+        "文明礼貌",
+        "爱国"
+      ],
+      "duration": 65.279,
+      "url": "http://www.bilibili.com/video/av750634809",
+      "play_url": "http://www.bilibili.com/video/av750634809",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "新疆兵团广播电视台",
+      "view_count": 54720
+    },
+    {
+      "id": "BV1Mu411D79f",
+      "title": "社会主义核心价值观公益广告-敬业",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 108.522,
+      "url": "http://www.bilibili.com/video/av507758978",
+      "play_url": "http://www.bilibili.com/video/av507758978",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "草右男",
+      "view_count": 56709
     }
   ]
 }
