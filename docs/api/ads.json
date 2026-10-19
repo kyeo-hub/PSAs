@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T20:13:26.203728+00:00",
-  "total": 1670,
+  "generated_at": "2026-10-19T03:26:47.077332+00:00",
+  "total": 1672,
   "categories_summary": {
     "文明礼貌": 479,
     "综合": 399,
@@ -9,7 +9,7 @@
     "友善": 197,
     "环保": 169,
     "诚信": 165,
-    "节约": 143,
+    "节约": 145,
     "孝道": 130,
     "交通安全": 93,
     "助人为乐": 59,
@@ -23793,6 +23793,34 @@
       "source": "bilibili",
       "uploader": "明德青影",
       "view_count": 83
+    },
+    {
+      "id": "BV1ha4y1W7V4",
+      "title": "厉行勤俭节约，反对铺张浪费。#节约粮食#",
+      "categories": [
+        "节约"
+      ],
+      "duration": 133.746,
+      "url": "http://www.bilibili.com/video/av670471159",
+      "play_url": "http://www.bilibili.com/video/av670471159",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "HorizonKingDrift",
+      "view_count": 31419
+    },
+    {
+      "id": "BV1Kinj6LEe2",
+      "title": "勤俭节约粮食主题快板《节约粮食好品行》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 47.275,
+      "url": "http://www.bilibili.com/video/av117464922850908",
+      "play_url": "http://www.bilibili.com/video/av117464922850908",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "语你共鸣",
+      "view_count": 0
     }
   ]
 }
