@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T12:18:14.004981+00:00",
-  "total": 1674,
+  "generated_at": "2026-10-19T22:07:50.755601+00:00",
+  "total": 1676,
   "categories_summary": {
-    "文明礼貌": 480,
+    "文明礼貌": 481,
     "综合": 399,
-    "爱国": 214,
-    "友善": 198,
-    "环保": 169,
-    "诚信": 166,
+    "爱国": 215,
+    "友善": 199,
+    "环保": 170,
+    "诚信": 167,
     "节约": 145,
     "孝道": 130,
     "交通安全": 93,
@@ -23852,6 +23852,37 @@
       "source": "bilibili",
       "uploader": "草右男",
       "view_count": 56709
+    },
+    {
+      "id": "BV1C24y1f762",
+      "title": "社会主义核心价值观:富强",
+      "categories": [
+        "诚信",
+        "爱国",
+        "友善"
+      ],
+      "duration": 166.091,
+      "url": "http://www.bilibili.com/video/av689864664",
+      "play_url": "http://www.bilibili.com/video/av689864664",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "楹无",
+      "view_count": 17958
+    },
+    {
+      "id": "BV1UJrgByEyq",
+      "title": "保护生命多样心，共创生态文明公益广告2010年8月20日",
+      "categories": [
+        "文明礼貌",
+        "环保"
+      ],
+      "duration": 30.033,
+      "url": "http://www.bilibili.com/video/av115866591106557",
+      "play_url": "http://www.bilibili.com/video/av115866591106557",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "虞书欣是1995",
+      "view_count": 2047
     }
   ]
 }
