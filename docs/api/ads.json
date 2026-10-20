@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T03:33:57.031377+00:00",
-  "total": 1676,
+  "generated_at": "2026-10-20T11:03:50.699626+00:00",
+  "total": 1677,
   "categories_summary": {
-    "文明礼貌": 481,
+    "文明礼貌": 482,
     "综合": 399,
     "爱国": 215,
-    "友善": 199,
+    "友善": 200,
     "环保": 170,
-    "诚信": 167,
+    "诚信": 168,
     "节约": 145,
-    "孝道": 130,
+    "孝道": 131,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23883,6 +23883,23 @@
       "source": "bilibili",
       "uploader": "虞书欣是1995",
       "view_count": 2047
+    },
+    {
+      "id": "BV1dp4y157Fh",
+      "title": "《传统美德》",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "诚信",
+        "友善"
+      ],
+      "duration": 66.64,
+      "url": "http://www.bilibili.com/video/av956529277",
+      "play_url": "http://www.bilibili.com/video/av956529277",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小辰FS",
+      "view_count": 195
     }
   ]
 }
