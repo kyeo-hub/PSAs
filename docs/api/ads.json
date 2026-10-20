@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T11:03:50.699626+00:00",
-  "total": 1677,
+  "generated_at": "2026-10-20T16:29:06.326487+00:00",
+  "total": 1678,
   "categories_summary": {
     "文明礼貌": 482,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 170,
     "诚信": 168,
     "节约": 145,
-    "孝道": 131,
+    "孝道": 132,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23900,6 +23900,20 @@
       "source": "bilibili",
       "uploader": "小辰FS",
       "view_count": 195
+    },
+    {
+      "id": "BV18r42177kM",
+      "title": "中华孝道舞蹈自学用",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 159.52,
+      "url": "http://www.bilibili.com/video/av1404383477",
+      "play_url": "http://www.bilibili.com/video/av1404383477",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "买买米吖",
+      "view_count": 11995
     }
   ]
 }
