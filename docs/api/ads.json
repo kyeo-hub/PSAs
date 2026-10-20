@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T16:29:06.326487+00:00",
-  "total": 1678,
+  "generated_at": "2026-10-20T21:21:50.012665+00:00",
+  "total": 1679,
   "categories_summary": {
     "文明礼貌": 482,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 170,
     "诚信": 168,
     "节约": 145,
-    "孝道": 132,
+    "孝道": 133,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23914,6 +23914,20 @@
       "source": "bilibili",
       "uploader": "买买米吖",
       "view_count": 11995
+    },
+    {
+      "id": "BV1x34y1C7zA",
+      "title": "【CCTV公益传播】家风家教主题公益广告《一拨一抚  人生悠扬》",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 45.068,
+      "url": "http://www.bilibili.com/video/av809099800",
+      "play_url": "http://www.bilibili.com/video/av809099800",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 70996
     }
   ]
 }
