@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T21:21:50.012665+00:00",
-  "total": 1679,
+  "generated_at": "2026-10-21T03:28:46.697522+00:00",
+  "total": 1680,
   "categories_summary": {
-    "文明礼貌": 482,
+    "文明礼貌": 483,
     "综合": 399,
     "爱国": 215,
     "友善": 200,
-    "环保": 170,
+    "环保": 171,
     "诚信": 168,
     "节约": 145,
     "孝道": 133,
@@ -23928,6 +23928,21 @@
       "source": "bilibili",
       "uploader": "星戏会眼",
       "view_count": 70996
+    },
+    {
+      "id": "BV1YwnK6ZE6m",
+      "title": "【广播电视/CETV】中国教育电视台公益广告《文明旅游 爱护环境》两个版本对比",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 30.04,
+      "url": "http://www.bilibili.com/video/av117473932281471",
+      "play_url": "http://www.bilibili.com/video/av117473932281471",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "EagleEye_WeMedia",
+      "view_count": 89
     }
   ]
 }
