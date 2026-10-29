@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T04:33:32.399783+00:00",
-  "total": 1680,
+  "generated_at": "2026-10-29T12:28:40.205858+00:00",
+  "total": 1683,
   "categories_summary": {
-    "文明礼貌": 483,
+    "文明礼貌": 484,
     "综合": 399,
     "爱国": 215,
     "友善": 200,
     "环保": 171,
-    "诚信": 168,
+    "诚信": 170,
     "节约": 145,
     "孝道": 133,
     "交通安全": 93,
@@ -23943,6 +23943,48 @@
       "source": "bilibili",
       "uploader": "EagleEye_WeMedia",
       "view_count": 89
+    },
+    {
+      "id": "BV1KmnR6HEWz",
+      "title": "【放送文化】《文明过马路 看你的》2013年公益广告宣传片动画版——汇聚力量，传播文明（央视戏曲频道版本）",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.656,
+      "url": "http://www.bilibili.com/video/av117507016890407",
+      "play_url": "http://www.bilibili.com/video/av117507016890407",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "繁星耀文",
+      "view_count": 781
+    },
+    {
+      "id": "BV1vmFUzyEWC",
+      "title": "二甲必背！《生活中的诚信》满分范文",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 185.852,
+      "url": "http://www.bilibili.com/video/av116045553604603",
+      "play_url": "http://www.bilibili.com/video/av116045553604603",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "凯璐老师教普通话",
+      "view_count": 2107
+    },
+    {
+      "id": "BV14V411t7WP",
+      "title": "爱让人心生美好，诚信公益广告。",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 60.116,
+      "url": "http://www.bilibili.com/video/av416142129",
+      "play_url": "http://www.bilibili.com/video/av416142129",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "LY-艾琳",
+      "view_count": 3812
     }
   ]
 }
