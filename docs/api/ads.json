@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T12:28:40.205858+00:00",
-  "total": 1683,
+  "generated_at": "2026-10-29T22:33:55.126813+00:00",
+  "total": 1684,
   "categories_summary": {
     "文明礼貌": 484,
     "综合": 399,
@@ -10,7 +10,7 @@
     "环保": 171,
     "诚信": 170,
     "节约": 145,
-    "孝道": 133,
+    "孝道": 134,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23985,6 +23985,20 @@
       "source": "bilibili",
       "uploader": "LY-艾琳",
       "view_count": 3812
+    },
+    {
+      "id": "BV1uVxE6qEfa",
+      "title": "广东卫视公益广告：孝道责任 代代相传",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 16.852,
+      "url": "http://www.bilibili.com/video/av117518324796262",
+      "play_url": "http://www.bilibili.com/video/av117518324796262",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 27
     }
   ]
 }
