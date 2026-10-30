@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T12:19:40.009514+00:00",
-  "total": 1687,
+  "generated_at": "2026-10-30T22:03:45.804723+00:00",
+  "total": 1688,
   "categories_summary": {
-    "文明礼貌": 486,
+    "文明礼貌": 487,
     "综合": 399,
     "爱国": 215,
     "友善": 201,
@@ -24044,6 +24044,20 @@
       "source": "bilibili",
       "uploader": "乡村风味汤包馆",
       "view_count": 181
+    },
+    {
+      "id": "BV1bAsf6kEVH",
+      "title": "野蛮其体魄 文明其精神 2026年9月19日4周末线下公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 175.078,
+      "url": "http://www.bilibili.com/video/av117522250666100",
+      "play_url": "http://www.bilibili.com/video/av117522250666100",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的社会实践",
+      "view_count": 817
     }
   ]
 }
