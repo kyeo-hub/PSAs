@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T22:33:55.126813+00:00",
-  "total": 1684,
+  "generated_at": "2026-10-30T04:33:46.456834+00:00",
+  "total": 1685,
   "categories_summary": {
-    "文明礼貌": 484,
+    "文明礼貌": 485,
     "综合": 399,
     "爱国": 215,
-    "友善": 200,
+    "友善": 201,
+    "诚信": 171,
     "环保": 171,
-    "诚信": 170,
     "节约": 145,
-    "孝道": 134,
+    "孝道": 135,
     "交通安全": 93,
     "助人为乐": 59,
     "禁烟": 18,
@@ -23999,6 +23999,23 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 27
+    },
+    {
+      "id": "BV14x4y147m8",
+      "title": "\"宽容 信任 诚实\" 传统美德公益广告 颜冠英 | 2001年",
+      "categories": [
+        "文明礼貌",
+        "孝道",
+        "友善",
+        "诚信"
+      ],
+      "duration": 78.157,
+      "url": "http://www.bilibili.com/video/av1006362346",
+      "play_url": "http://www.bilibili.com/video/av1006362346",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "风物上海",
+      "view_count": 5625
     }
   ]
 }
