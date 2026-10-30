@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T04:33:46.456834+00:00",
-  "total": 1685,
+  "generated_at": "2026-10-30T12:19:40.009514+00:00",
+  "total": 1687,
   "categories_summary": {
-    "文明礼貌": 485,
+    "文明礼貌": 486,
     "综合": 399,
     "爱国": 215,
     "友善": 201,
     "诚信": 171,
     "环保": 171,
-    "节约": 145,
+    "节约": 146,
     "孝道": 135,
     "交通安全": 93,
     "助人为乐": 59,
@@ -24016,6 +24016,34 @@
       "source": "bilibili",
       "uploader": "风物上海",
       "view_count": 5625
+    },
+    {
+      "id": "BV1jCg4eRELj",
+      "title": "文明中国",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 177.151,
+      "url": "http://www.bilibili.com/video/av112637832662277",
+      "play_url": "http://www.bilibili.com/video/av112637832662277",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "十足烟火气",
+      "view_count": 181
+    },
+    {
+      "id": "BV11TVu6iErC",
+      "title": "中央广播电视总台公益广告《有滋有味中国年 传承美德不浪费》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 51.154,
+      "url": "http://www.bilibili.com/video/av116660421858665",
+      "play_url": "http://www.bilibili.com/video/av116660421858665",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "乡村风味汤包馆",
+      "view_count": 181
     }
   ]
 }
