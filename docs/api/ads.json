@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T22:03:45.804723+00:00",
-  "total": 1688,
+  "generated_at": "2026-10-31T04:16:17.295763+00:00",
+  "total": 1690,
   "categories_summary": {
-    "文明礼貌": 487,
+    "文明礼貌": 488,
     "综合": 399,
-    "爱国": 215,
+    "爱国": 217,
     "友善": 201,
-    "诚信": 171,
+    "诚信": 172,
     "环保": 171,
     "节约": 146,
     "孝道": 135,
-    "交通安全": 93,
+    "交通安全": 94,
     "助人为乐": 59,
     "禁烟": 18,
     "待分类": 3
@@ -24058,6 +24058,37 @@
       "source": "bilibili",
       "uploader": "串爆的社会实践",
       "view_count": 817
+    },
+    {
+      "id": "BV1R2nJ6PERD",
+      "title": "做诚信少年《做诚信少年》",
+      "categories": [
+        "爱国",
+        "诚信",
+        "文明礼貌"
+      ],
+      "duration": 143.638,
+      "url": "http://www.bilibili.com/video/av117466869403820",
+      "play_url": "http://www.bilibili.com/video/av117466869403820",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "FH22533拿视频",
+      "view_count": 55
+    },
+    {
+      "id": "BV1PGWRzTEtP",
+      "title": "交通安全手势舞《交通安全很重要》#手势舞 #安全知识 #少儿手势舞#手势操#安全主题宣传#交通安全 #交通 #交通安全手势舞 #安全知识宣传#国旗下表演",
+      "categories": [
+        "爱国",
+        "交通安全"
+      ],
+      "duration": 107.6,
+      "url": "http://www.bilibili.com/video/av115411240687025",
+      "play_url": "http://www.bilibili.com/video/av115411240687025",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "奶茶老师BD20288",
+      "view_count": 3906
     }
   ]
 }
