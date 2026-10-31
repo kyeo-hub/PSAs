@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T04:16:17.295763+00:00",
-  "total": 1690,
+  "generated_at": "2026-10-31T11:49:29.936934+00:00",
+  "total": 1691,
   "categories_summary": {
     "文明礼貌": 488,
     "综合": 399,
     "爱国": 217,
     "友善": 201,
     "诚信": 172,
-    "环保": 171,
+    "环保": 172,
     "节约": 146,
     "孝道": 135,
     "交通安全": 94,
@@ -24089,6 +24089,20 @@
       "source": "bilibili",
       "uploader": "奶茶老师BD20288",
       "view_count": 3906
+    },
+    {
+      "id": "BV11mnn6WEty",
+      "title": "英国环保广告有多狠？克里斯·帕克汉姆把三文鱼野餐拍成了惊悚片",
+      "categories": [
+        "环保"
+      ],
+      "duration": 132.934,
+      "url": "http://www.bilibili.com/video/av117466466492202",
+      "play_url": "http://www.bilibili.com/video/av117466466492202",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "全球好看广告精选",
+      "view_count": 203
     }
   ]
 }
