@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T16:58:02.478701+00:00",
-  "total": 1692,
+  "generated_at": "2026-10-31T21:05:05.054631+00:00",
+  "total": 1693,
   "categories_summary": {
     "文明礼貌": 489,
     "综合": 399,
-    "爱国": 217,
-    "友善": 201,
-    "诚信": 172,
+    "爱国": 218,
+    "友善": 202,
+    "诚信": 173,
     "环保": 172,
     "节约": 146,
     "孝道": 135,
@@ -24117,6 +24117,22 @@
       "source": "bilibili",
       "uploader": "全球LSHTV官方账号",
       "view_count": 131
+    },
+    {
+      "id": "BV17V4y1d7VZ",
+      "title": "社会主义核心价值观——公正",
+      "categories": [
+        "爱国",
+        "诚信",
+        "友善"
+      ],
+      "duration": 156.083,
+      "url": "http://www.bilibili.com/video/av868096245",
+      "play_url": "http://www.bilibili.com/video/av868096245",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "电子电工之家2",
+      "view_count": 3459
     }
   ]
 }
