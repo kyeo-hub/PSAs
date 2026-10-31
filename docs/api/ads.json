@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T11:49:29.936934+00:00",
-  "total": 1691,
+  "generated_at": "2026-10-31T16:58:02.478701+00:00",
+  "total": 1692,
   "categories_summary": {
-    "文明礼貌": 488,
+    "文明礼貌": 489,
     "综合": 399,
     "爱国": 217,
     "友善": 201,
@@ -24103,6 +24103,20 @@
       "source": "bilibili",
       "uploader": "全球好看广告精选",
       "view_count": 203
+    },
+    {
+      "id": "BV1xgxy6vEkx",
+      "title": "「公益廣告」扺制網絡暴力，倡導網絡文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 59.814,
+      "url": "http://www.bilibili.com/video/av117534162557868",
+      "play_url": "http://www.bilibili.com/video/av117534162557868",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "全球LSHTV官方账号",
+      "view_count": 131
     }
   ]
 }
