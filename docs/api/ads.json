@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T21:05:05.054631+00:00",
-  "total": 1693,
+  "generated_at": "2026-11-01T04:36:26.973622+00:00",
+  "total": 1696,
   "categories_summary": {
-    "文明礼貌": 489,
+    "文明礼貌": 491,
     "综合": 399,
-    "爱国": 218,
+    "爱国": 219,
     "友善": 202,
-    "诚信": 173,
+    "诚信": 174,
     "环保": 172,
     "节约": 146,
     "孝道": 135,
@@ -24133,6 +24133,49 @@
       "source": "bilibili",
       "uploader": "电子电工之家2",
       "view_count": 3459
+    },
+    {
+      "id": "BV1JsQxYVEyM",
+      "title": "《诚信为人之本》朗诵背景视频",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 296.155,
+      "url": "http://www.bilibili.com/video/av114169709855937",
+      "play_url": "http://www.bilibili.com/video/av114169709855937",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "小屁孩訝",
+      "view_count": 1542
+    },
+    {
+      "id": "BV1eGxC65Ea5",
+      "title": "华夏文明，文化自信，民族复兴",
+      "categories": [
+        "文明礼貌",
+        "爱国"
+      ],
+      "duration": 180.837,
+      "url": "http://www.bilibili.com/video/av117534464482163",
+      "play_url": "http://www.bilibili.com/video/av117534464482163",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "杨无幻",
+      "view_count": 1598
+    },
+    {
+      "id": "BV1EtxW6aE6M",
+      "title": "四大文明古国是谁？都有哪些成就？",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.882,
+      "url": "http://www.bilibili.com/video/av117538440615637",
+      "play_url": "http://www.bilibili.com/video/av117538440615637",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "超屑的苏共球",
+      "view_count": 324
     }
   ]
 }
