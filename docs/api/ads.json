@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T12:50:04.334207+00:00",
-  "total": 1696,
+  "generated_at": "2026-11-01T21:49:03.468589+00:00",
+  "total": 1698,
   "categories_summary": {
-    "文明礼貌": 491,
+    "文明礼貌": 493,
     "综合": 399,
     "爱国": 219,
     "友善": 202,
@@ -24176,6 +24176,34 @@
       "source": "bilibili",
       "uploader": "超屑的苏共球",
       "view_count": 324
+    },
+    {
+      "id": "BV1PBkdYCE2m",
+      "title": "开局就选中式文明，稳操胜利!",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 46.89,
+      "url": "http://www.bilibili.com/video/av113707229123083",
+      "play_url": "http://www.bilibili.com/video/av113707229123083",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_56743737715",
+      "view_count": 90
+    },
+    {
+      "id": "BV1c3xb6UEZR",
+      "title": "迎奥运  讲文明  树新风2008年公益广告央视主持人篇",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 120.32,
+      "url": "http://www.bilibili.com/video/av117541510844554",
+      "play_url": "http://www.bilibili.com/video/av117541510844554",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "15145212143",
+      "view_count": 29
     }
   ]
 }
