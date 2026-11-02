@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T21:49:03.468589+00:00",
-  "total": 1698,
+  "generated_at": "2026-11-02T04:37:32.690766+00:00",
+  "total": 1699,
   "categories_summary": {
     "文明礼貌": 493,
     "综合": 399,
-    "爱国": 219,
+    "爱国": 220,
     "友善": 202,
-    "诚信": 174,
+    "诚信": 175,
     "环保": 172,
     "节约": 146,
     "孝道": 135,
@@ -24204,6 +24204,21 @@
       "source": "bilibili",
       "uploader": "15145212143",
       "view_count": 29
+    },
+    {
+      "id": "BV1LEiXYME42",
+      "title": "言必信行必果手势舞《一诺千金不打折》#国旗下展演关于讲诚信讲信用表演的节目#小学生升旗仪式国旗下讲诚信讲信用表演#关于讲诚信讲信用表演的节目#一二三四五六年级讲",
+      "categories": [
+        "爱国",
+        "诚信"
+      ],
+      "duration": 105.288,
+      "url": "http://www.bilibili.com/video/av113598462435318",
+      "play_url": "http://www.bilibili.com/video/av113598462435318",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "FH22533薇音乐",
+      "view_count": 6697
     }
   ]
 }
