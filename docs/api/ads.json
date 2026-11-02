@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T04:37:32.690766+00:00",
-  "total": 1699,
+  "generated_at": "2026-11-02T14:56:25.428422+00:00",
+  "total": 1701,
   "categories_summary": {
-    "文明礼貌": 493,
+    "文明礼貌": 495,
     "综合": 399,
     "爱国": 220,
     "友善": 202,
@@ -12,7 +12,7 @@
     "节约": 146,
     "孝道": 135,
     "交通安全": 94,
-    "助人为乐": 59,
+    "助人为乐": 60,
     "禁烟": 18,
     "待分类": 3
   },
@@ -24219,6 +24219,35 @@
       "source": "bilibili",
       "uploader": "FH22533薇音乐",
       "view_count": 6697
+    },
+    {
+      "id": "BV1p5xH6YEfc",
+      "title": "文明起源 塔防游戏",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 37.033,
+      "url": "http://www.bilibili.com/video/av117537484315416",
+      "play_url": "http://www.bilibili.com/video/av117537484315416",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "陨石改变轨道",
+      "view_count": 45
+    },
+    {
+      "id": "BV18t4y1N7uD",
+      "title": "（电视公益广告）分享爱 温暖心",
+      "categories": [
+        "助人为乐",
+        "文明礼貌"
+      ],
+      "duration": 60.603,
+      "url": "http://www.bilibili.com/video/av987679484",
+      "play_url": "http://www.bilibili.com/video/av987679484",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "AXTV",
+      "view_count": 9627
     }
   ]
 }
