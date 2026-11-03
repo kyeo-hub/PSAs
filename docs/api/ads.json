@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T14:56:25.428422+00:00",
-  "total": 1701,
+  "generated_at": "2026-11-03T00:38:03.378152+00:00",
+  "total": 1703,
   "categories_summary": {
     "文明礼貌": 495,
     "综合": 399,
-    "爱国": 220,
-    "友善": 202,
-    "诚信": 175,
+    "爱国": 222,
+    "友善": 203,
+    "诚信": 176,
     "环保": 172,
     "节约": 146,
     "孝道": 135,
@@ -24248,6 +24248,36 @@
       "source": "bilibili",
       "uploader": "AXTV",
       "view_count": 9627
+    },
+    {
+      "id": "BV1ghLJzZEww",
+      "title": "社会主义核心价值观 | 自由 ﻿#社会主义核心价值观 #核心价值观我践行",
+      "categories": [
+        "诚信",
+        "友善",
+        "爱国"
+      ],
+      "duration": 56.488,
+      "url": "http://www.bilibili.com/video/av114397796176581",
+      "play_url": "http://www.bilibili.com/video/av114397796176581",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "无棣县融媒体中心",
+      "view_count": 1186
+    },
+    {
+      "id": "BV1Si4y1R7bM",
+      "title": "【CCTV公益传播】民族要复兴  乡村必振兴",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 60.3,
+      "url": "http://www.bilibili.com/video/av550215459",
+      "play_url": "http://www.bilibili.com/video/av550215459",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "星戏会眼",
+      "view_count": 35544
     }
   ]
 }
