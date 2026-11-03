@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T00:38:03.378152+00:00",
-  "total": 1703,
+  "generated_at": "2026-11-03T13:46:23.779809+00:00",
+  "total": 1704,
   "categories_summary": {
-    "文明礼貌": 495,
+    "文明礼貌": 496,
     "综合": 399,
     "爱国": 222,
     "友善": 203,
@@ -24278,6 +24278,20 @@
       "source": "bilibili",
       "uploader": "星戏会眼",
       "view_count": 35544
+    },
+    {
+      "id": "BV1Gc4u6mEBM",
+      "title": "为什么一个完整的现代文明在古代无法存在",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 289.066,
+      "url": "http://www.bilibili.com/video/av117550385994273",
+      "play_url": "http://www.bilibili.com/video/av117550385994273",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "少前STG-44",
+      "view_count": 752
     }
   ]
 }
