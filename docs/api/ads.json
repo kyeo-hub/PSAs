@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T05:01:12.213358+00:00",
-  "total": 1704,
+  "generated_at": "2026-11-04T13:55:38.529483+00:00",
+  "total": 1705,
   "categories_summary": {
     "文明礼貌": 496,
     "综合": 399,
@@ -10,7 +10,7 @@
     "诚信": 176,
     "环保": 172,
     "节约": 146,
-    "孝道": 135,
+    "孝道": 136,
     "交通安全": 94,
     "助人为乐": 60,
     "禁烟": 18,
@@ -24292,6 +24292,20 @@
       "source": "bilibili",
       "uploader": "少前STG-44",
       "view_count": 752
+    },
+    {
+      "id": "BV1iHHs6DEAX",
+      "title": "原创视频--中华孝道儿童少儿歌曲伴奏舞台led高清背景视频素材",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 242.509,
+      "url": "http://www.bilibili.com/video/av117387126970974",
+      "play_url": "http://www.bilibili.com/video/av117387126970974",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "摩登视频素材",
+      "view_count": 1136
     }
   ]
 }
