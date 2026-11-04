@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T13:55:38.529483+00:00",
-  "total": 1705,
+  "generated_at": "2026-11-04T23:19:17.622174+00:00",
+  "total": 1706,
   "categories_summary": {
     "文明礼貌": 496,
     "综合": 399,
-    "爱国": 222,
+    "爱国": 223,
     "友善": 203,
     "诚信": 176,
     "环保": 172,
     "节约": 146,
-    "孝道": 136,
+    "孝道": 137,
     "交通安全": 94,
     "助人为乐": 60,
     "禁烟": 18,
@@ -24306,6 +24306,21 @@
       "source": "bilibili",
       "uploader": "摩登视频素材",
       "view_count": 1136
+    },
+    {
+      "id": "BV12tFke9EcB",
+      "title": "CCTV 中央电视台 上善若水•厚德载物•中华美德•源远流长 公益广告 2001年 CCTV1播出无水印纯享版",
+      "categories": [
+        "爱国",
+        "孝道"
+      ],
+      "duration": 57.342,
+      "url": "http://www.bilibili.com/video/av113934342295416",
+      "play_url": "http://www.bilibili.com/video/av113934342295416",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "大爱之声-王金山",
+      "view_count": 7600
     }
   ]
 }
