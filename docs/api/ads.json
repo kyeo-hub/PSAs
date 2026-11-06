@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T13:51:51.039975+00:00",
-  "total": 1707,
+  "generated_at": "2026-11-06T22:51:27.265188+00:00",
+  "total": 1708,
   "categories_summary": {
-    "文明礼貌": 496,
+    "文明礼貌": 497,
     "综合": 399,
     "爱国": 223,
     "友善": 203,
@@ -24335,6 +24335,20 @@
       "source": "bilibili",
       "uploader": "李子与米粥",
       "view_count": 695
+    },
+    {
+      "id": "BV1GY4q68EZY",
+      "title": "《文明文明》第一集",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 183.252,
+      "url": "http://www.bilibili.com/video/av117568824219475",
+      "play_url": "http://www.bilibili.com/video/av117568824219475",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "抽象工程",
+      "view_count": 4005
     }
   ]
 }
