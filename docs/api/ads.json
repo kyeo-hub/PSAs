@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T14:06:35.604345+00:00",
-  "total": 1706,
+  "generated_at": "2026-11-06T05:18:14.153032+00:00",
+  "total": 1707,
   "categories_summary": {
     "文明礼貌": 496,
     "综合": 399,
     "爱国": 223,
     "友善": 203,
-    "诚信": 176,
+    "诚信": 177,
     "环保": 172,
     "节约": 146,
     "孝道": 137,
@@ -24321,6 +24321,20 @@
       "source": "bilibili",
       "uploader": "大爱之声-王金山",
       "view_count": 7600
+    },
+    {
+      "id": "BV1eh1qYjEjZ",
+      "title": "公益广告《诚信应考》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 158.804,
+      "url": "http://www.bilibili.com/video/av113261257167751",
+      "play_url": "http://www.bilibili.com/video/av113261257167751",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "李子与米粥",
+      "view_count": 695
     }
   ]
 }
