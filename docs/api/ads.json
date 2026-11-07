@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T04:50:17.713249+00:00",
-  "total": 1708,
+  "generated_at": "2026-11-07T12:35:37.595935+00:00",
+  "total": 1709,
   "categories_summary": {
     "文明礼貌": 497,
     "综合": 399,
     "爱国": 223,
     "友善": 203,
-    "诚信": 177,
+    "诚信": 178,
     "环保": 172,
     "节约": 146,
     "孝道": 137,
@@ -24349,6 +24349,20 @@
       "source": "bilibili",
       "uploader": "抽象工程",
       "view_count": 4005
+    },
+    {
+      "id": "BV1uk4z6wEJi",
+      "title": "以前的 央视 公益广告【诚信于人=诚信于己】BGM Playtime 完整版",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 105.633,
+      "url": "http://www.bilibili.com/video/av117569830848142",
+      "play_url": "http://www.bilibili.com/video/av117569830848142",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "音乐发烧友_98Z",
+      "view_count": 82
     }
   ]
 }
