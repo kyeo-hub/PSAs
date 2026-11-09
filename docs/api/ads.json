@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T04:50:59.128973+00:00",
-  "total": 1709,
+  "generated_at": "2026-11-09T15:21:19.681746+00:00",
+  "total": 1713,
   "categories_summary": {
-    "文明礼貌": 497,
+    "文明礼貌": 498,
     "综合": 399,
-    "爱国": 223,
-    "友善": 203,
-    "诚信": 178,
+    "爱国": 224,
+    "友善": 204,
+    "诚信": 180,
     "环保": 172,
-    "节约": 146,
+    "节约": 147,
     "孝道": 137,
     "交通安全": 94,
     "助人为乐": 60,
@@ -24363,6 +24363,64 @@
       "source": "bilibili",
       "uploader": "音乐发烧友_98Z",
       "view_count": 82
+    },
+    {
+      "id": "BV17K421x7de",
+      "title": "公益广告《诚信为贵中华智慧》京视剧场频道播出版（已停播）",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 33.621,
+      "url": "http://www.bilibili.com/video/av1701706354",
+      "play_url": "http://www.bilibili.com/video/av1701706354",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "我是魏通",
+      "view_count": 502
+    },
+    {
+      "id": "BV1zHnR6uEvY",
+      "title": "五大原生文明第四期：华夏 | 走近文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 143.808,
+      "url": "http://www.bilibili.com/video/av117505154684767",
+      "play_url": "http://www.bilibili.com/video/av117505154684767",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "李同学Madao",
+      "view_count": 8492
+    },
+    {
+      "id": "BV1aa1fBvE4p",
+      "title": "2025秋 德法 第4章第3讲 积极践行社会主义核心价值观",
+      "categories": [
+        "友善",
+        "诚信",
+        "爱国"
+      ],
+      "duration": 233.8,
+      "url": "http://www.bilibili.com/video/av115500730354029",
+      "play_url": "http://www.bilibili.com/video/av115500730354029",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "思政小管家",
+      "view_count": 997
+    },
+    {
+      "id": "BV1YhRjBBEnH",
+      "title": "中央广播电视总台公益广告《厉行节约 反对浪费》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 59.918,
+      "url": "http://www.bilibili.com/video/av116503655553118",
+      "play_url": "http://www.bilibili.com/video/av116503655553118",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "乡村风味汤包馆",
+      "view_count": 1077
     }
   ]
 }
