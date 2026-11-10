@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T01:17:40.849939+00:00",
-  "total": 1713,
+  "generated_at": "2026-11-10T14:28:15.835171+00:00",
+  "total": 1717,
   "categories_summary": {
-    "文明礼貌": 498,
+    "文明礼貌": 502,
     "综合": 399,
     "爱国": 224,
     "友善": 204,
@@ -24421,6 +24421,62 @@
       "source": "bilibili",
       "uploader": "乡村风味汤包馆",
       "view_count": 1077
+    },
+    {
+      "id": "BV1biWt6RENT",
+      "title": "野蛮其体魄 文明其精神 2026年9月9日10周末线下公益#公益 #正能量",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 213.577,
+      "url": "http://www.bilibili.com/video/av117585819470698",
+      "play_url": "http://www.bilibili.com/video/av117585819470698",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "串爆的系统学习",
+      "view_count": 74
+    },
+    {
+      "id": "BV1AVWn6tE8G",
+      "title": "文明一步，从语言开始",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 177.572,
+      "url": "http://www.bilibili.com/video/av117580266211593",
+      "play_url": "http://www.bilibili.com/video/av117580266211593",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "清自晴-人自情",
+      "view_count": 20
+    },
+    {
+      "id": "BV1puWt6GEA3",
+      "title": "守住文明之本，欧洲多国爆发反数据中心抗议活动",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 279.847,
+      "url": "http://www.bilibili.com/video/av117586457270458",
+      "play_url": "http://www.bilibili.com/video/av117586457270458",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "白话夜谈01",
+      "view_count": 288
+    },
+    {
+      "id": "BV1MgWp6MExq",
+      "title": "世界上只有中华文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 12.0,
+      "url": "http://www.bilibili.com/video/av117583286113557",
+      "play_url": "http://www.bilibili.com/video/av117583286113557",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "刘宇莹",
+      "view_count": 2973
     }
   ]
 }
