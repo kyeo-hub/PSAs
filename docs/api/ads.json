@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T22:58:15.628152+00:00",
-  "total": 1717,
+  "generated_at": "2026-11-11T04:54:20.877994+00:00",
+  "total": 1718,
   "categories_summary": {
-    "文明礼貌": 502,
+    "文明礼貌": 503,
     "综合": 399,
     "爱国": 224,
     "友善": 204,
@@ -24477,6 +24477,20 @@
       "source": "bilibili",
       "uploader": "刘宇莹",
       "view_count": 2973
+    },
+    {
+      "id": "BV1YT4i6tETL",
+      "title": "用二十四节气打开中国，于节气深处，见文明之道",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 162.176,
+      "url": "http://www.bilibili.com/video/av117567884626550",
+      "play_url": "http://www.bilibili.com/video/av117567884626550",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "中国国家地理",
+      "view_count": 7718
     }
   ]
 }
