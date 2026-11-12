@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T00:12:22.926393+00:00",
-  "total": 1719,
+  "generated_at": "2026-11-12T14:46:55.932297+00:00",
+  "total": 1721,
   "categories_summary": {
-    "文明礼貌": 503,
+    "文明礼貌": 505,
     "综合": 399,
     "爱国": 225,
     "友善": 204,
@@ -24505,6 +24505,34 @@
       "source": "bilibili",
       "uploader": "梁彦芝",
       "view_count": 776
+    },
+    {
+      "id": "BV1KFWj6DEtM",
+      "title": "闹钟tv之五千年文明震撼蛮夷",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 14.86,
+      "url": "http://www.bilibili.com/video/av117595919353661",
+      "play_url": "http://www.bilibili.com/video/av117595919353661",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "蛙蛙们要自信",
+      "view_count": 5084
+    },
+    {
+      "id": "BV1xMWu6wE6V",
+      "title": "在厦门，公益广告润物无声，文明浸润街巷阡陌，厚植鹭岛文明底蕴，凝聚向上向善的时代力量。＃鹭岛文明向新而行",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 199.117,
+      "url": "http://www.bilibili.com/video/av117591775379660",
+      "play_url": "http://www.bilibili.com/video/av117591775379660",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "最厦门XM",
+      "view_count": 639
     }
   ]
 }
