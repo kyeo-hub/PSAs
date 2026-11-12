@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T13:41:56.191821+00:00",
-  "total": 1718,
+  "generated_at": "2026-11-12T00:12:22.926393+00:00",
+  "total": 1719,
   "categories_summary": {
     "文明礼貌": 503,
     "综合": 399,
-    "爱国": 224,
+    "爱国": 225,
     "友善": 204,
     "诚信": 180,
     "环保": 172,
@@ -24491,6 +24491,20 @@
       "source": "bilibili",
       "uploader": "中国国家地理",
       "view_count": 7718
+    },
+    {
+      "id": "BV1d8411473V",
+      "title": "公益广告——爱国卫生人人参与",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 65.966,
+      "url": "http://www.bilibili.com/video/av218540248",
+      "play_url": "http://www.bilibili.com/video/av218540248",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梁彦芝",
+      "view_count": 776
     }
   ]
 }
