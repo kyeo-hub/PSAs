@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T14:04:17.486561+00:00",
-  "total": 1722,
+  "generated_at": "2026-11-13T23:23:14.442152+00:00",
+  "total": 1723,
   "categories_summary": {
-    "文明礼貌": 506,
+    "文明礼貌": 507,
     "综合": 399,
     "爱国": 226,
     "友善": 205,
@@ -24550,6 +24550,20 @@
       "source": "bilibili",
       "uploader": "bili_23774805168",
       "view_count": 693
+    },
+    {
+      "id": "BV1EVWq6aEQr",
+      "title": "文明，也该轮到我们来评价它们了",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 187.733,
+      "url": "http://www.bilibili.com/video/av117608082841271",
+      "play_url": "http://www.bilibili.com/video/av117608082841271",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "起个啥名这麻烦",
+      "view_count": 101
     }
   ]
 }
