@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T23:22:17.298330+00:00",
-  "total": 1721,
+  "generated_at": "2026-11-13T05:17:37.241432+00:00",
+  "total": 1722,
   "categories_summary": {
-    "文明礼貌": 505,
+    "文明礼貌": 506,
     "综合": 399,
-    "爱国": 225,
-    "友善": 204,
-    "诚信": 180,
+    "爱国": 226,
+    "友善": 205,
+    "诚信": 181,
     "环保": 172,
     "节约": 147,
     "孝道": 137,
@@ -24533,6 +24533,23 @@
       "source": "bilibili",
       "uploader": "最厦门XM",
       "view_count": 639
+    },
+    {
+      "id": "BV1SVa5zQEjs",
+      "title": "社会主义核心价值观文明篇",
+      "categories": [
+        "诚信",
+        "文明礼貌",
+        "友善",
+        "爱国"
+      ],
+      "duration": 158.733,
+      "url": "http://www.bilibili.com/video/av115123679141187",
+      "play_url": "http://www.bilibili.com/video/av115123679141187",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "bili_23774805168",
+      "view_count": 693
     }
   ]
 }
