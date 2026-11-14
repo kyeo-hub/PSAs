@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T13:04:11.742503+00:00",
-  "total": 1724,
+  "generated_at": "2026-11-14T22:04:15.674612+00:00",
+  "total": 1725,
   "categories_summary": {
-    "文明礼貌": 508,
+    "文明礼貌": 509,
     "综合": 399,
     "爱国": 226,
     "友善": 205,
     "诚信": 181,
-    "环保": 172,
+    "环保": 173,
     "节约": 147,
     "孝道": 137,
     "交通安全": 94,
@@ -24578,6 +24578,21 @@
       "source": "bilibili",
       "uploader": "相约新世界",
       "view_count": 156
+    },
+    {
+      "id": "BV1h37g64EbB",
+      "title": "【放送文化】保护生物多样性 共创生态文明2009年公益广告（央视二套旧台标版本）（10秒版本）",
+      "categories": [
+        "环保",
+        "文明礼貌"
+      ],
+      "duration": 10.089,
+      "url": "http://www.bilibili.com/video/av116797290322606",
+      "play_url": "http://www.bilibili.com/video/av116797290322606",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "繁星耀文",
+      "view_count": 738
     }
   ]
 }
