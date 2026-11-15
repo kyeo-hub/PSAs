@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T22:04:15.674612+00:00",
-  "total": 1725,
+  "generated_at": "2026-11-15T05:01:05.390120+00:00",
+  "total": 1728,
   "categories_summary": {
-    "文明礼貌": 509,
+    "文明礼貌": 510,
     "综合": 399,
-    "爱国": 226,
+    "爱国": 227,
     "友善": 205,
     "诚信": 181,
-    "环保": 173,
+    "环保": 174,
     "节约": 147,
     "孝道": 137,
     "交通安全": 94,
@@ -24593,6 +24593,48 @@
       "source": "bilibili",
       "uploader": "繁星耀文",
       "view_count": 738
+    },
+    {
+      "id": "BV1CqWk6nE3b",
+      "title": "公益广告：秀出你的环保搭档",
+      "categories": [
+        "环保"
+      ],
+      "duration": 29.866,
+      "url": "http://www.bilibili.com/video/av117613132779801",
+      "play_url": "http://www.bilibili.com/video/av117613132779801",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 129
+    },
+    {
+      "id": "BV1z7HK6rErL",
+      "title": "《旗帜上的中国》新时代红歌很带感，全网素材，做mv#树立正确历史观 #国旗迎风飘扬 #弘扬爱国主义教育 #旗帜上的中国 #祖国万岁",
+      "categories": [
+        "爱国"
+      ],
+      "duration": 258.066,
+      "url": "http://www.bilibili.com/video/av117495558180252",
+      "play_url": "http://www.bilibili.com/video/av117495558180252",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "拍客印象",
+      "view_count": 29235
+    },
+    {
+      "id": "BV1ELWq6cEN3",
+      "title": "化学文明 13",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 117.833,
+      "url": "http://www.bilibili.com/video/av117608133172566",
+      "play_url": "http://www.bilibili.com/video/av117608133172566",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "Minecraft_Future",
+      "view_count": 2005
     }
   ]
 }
