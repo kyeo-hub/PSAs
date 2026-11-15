@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T05:01:05.390120+00:00",
-  "total": 1728,
+  "generated_at": "2026-11-15T13:34:46.950758+00:00",
+  "total": 1731,
   "categories_summary": {
     "文明礼貌": 510,
     "综合": 399,
-    "爱国": 227,
-    "友善": 205,
-    "诚信": 181,
+    "爱国": 228,
+    "友善": 206,
+    "诚信": 182,
     "环保": 174,
-    "节约": 147,
+    "节约": 149,
     "孝道": 137,
     "交通安全": 94,
-    "助人为乐": 60,
+    "助人为乐": 61,
     "禁烟": 18,
     "待分类": 3
   },
@@ -24635,6 +24635,51 @@
       "source": "bilibili",
       "uploader": "Minecraft_Future",
       "view_count": 2005
+    },
+    {
+      "id": "BV18qsV6QEWM",
+      "title": "央视公益广告《厉行节约，反对浪费》",
+      "categories": [
+        "节约"
+      ],
+      "duration": 60.497,
+      "url": "http://www.bilibili.com/video/av117615246771161",
+      "play_url": "http://www.bilibili.com/video/av117615246771161",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "3699808",
+      "view_count": 41
+    },
+    {
+      "id": "BV1md4y1s7kE",
+      "title": "原创！广东省优秀奖粮食的反击公益广告片 节约粮食哟",
+      "categories": [
+        "节约"
+      ],
+      "duration": 45.268,
+      "url": "http://www.bilibili.com/video/av391017103",
+      "play_url": "http://www.bilibili.com/video/av391017103",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "铃樱星羽",
+      "view_count": 2226
+    },
+    {
+      "id": "BV1Ls411i7NV",
+      "title": "【短片】社会主义核心价值观公益广告——支教女孩赵小亭",
+      "categories": [
+        "爱国",
+        "友善",
+        "诚信",
+        "助人为乐"
+      ],
+      "duration": 90.344,
+      "url": "http://www.bilibili.com/video/av4718744",
+      "play_url": "http://www.bilibili.com/video/av4718744",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "YUCHONG_",
+      "view_count": 11793
     }
   ]
 }
