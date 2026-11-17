@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T14:56:43.649401+00:00",
-  "total": 1731,
+  "generated_at": "2026-11-17T01:41:23.030602+00:00",
+  "total": 1732,
   "categories_summary": {
     "文明礼貌": 510,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
-    "诚信": 182,
+    "诚信": 183,
     "环保": 174,
     "节约": 149,
     "孝道": 137,
@@ -24680,6 +24680,20 @@
       "source": "bilibili",
       "uploader": "YUCHONG_",
       "view_count": 11793
+    },
+    {
+      "id": "BV12e411E7Hq",
+      "title": "[公益广告]诚信 亲子篇",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 60.232,
+      "url": "http://www.bilibili.com/video/av241770433",
+      "play_url": "http://www.bilibili.com/video/av241770433",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "3cH0_Nu1L",
+      "view_count": 115
     }
   ]
 }
