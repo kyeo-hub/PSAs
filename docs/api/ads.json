@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T15:14:47.352581+00:00",
-  "total": 1732,
+  "generated_at": "2026-11-18T23:58:54.485844+00:00",
+  "total": 1733,
   "categories_summary": {
     "文明礼貌": 510,
     "综合": 399,
@@ -10,7 +10,7 @@
     "诚信": 183,
     "环保": 174,
     "节约": 149,
-    "孝道": 137,
+    "孝道": 138,
     "交通安全": 94,
     "助人为乐": 61,
     "禁烟": 18,
@@ -24694,6 +24694,20 @@
       "source": "bilibili",
       "uploader": "3cH0_Nu1L",
       "view_count": 115
+    },
+    {
+      "id": "BV1K1hRzFEhX",
+      "title": "广东广播电台公益广告《孝道责任 代代相传》（马路篇/公交车篇）",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 15.034,
+      "url": "http://www.bilibili.com/video/av115112119699436",
+      "play_url": "http://www.bilibili.com/video/av115112119699436",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "无私的术士弹琴",
+      "view_count": 211
     }
   ]
 }
