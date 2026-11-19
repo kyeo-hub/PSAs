@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T06:05:09.442226+00:00",
-  "total": 1733,
+  "generated_at": "2026-11-19T15:37:33.221433+00:00",
+  "total": 1734,
   "categories_summary": {
-    "文明礼貌": 510,
+    "文明礼貌": 511,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
@@ -24708,6 +24708,20 @@
       "source": "bilibili",
       "uploader": "无私的术士弹琴",
       "view_count": 211
+    },
+    {
+      "id": "BV118WJ6oEkY",
+      "title": "宇宙级八文明完整版",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 60.133,
+      "url": "http://www.bilibili.com/video/av117580467607545",
+      "play_url": "http://www.bilibili.com/video/av117580467607545",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "かしら诀別",
+      "view_count": 49130
     }
   ]
 }
