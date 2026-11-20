@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T15:37:33.221433+00:00",
-  "total": 1734,
+  "generated_at": "2026-11-20T00:25:56.212690+00:00",
+  "total": 1735,
   "categories_summary": {
     "文明礼貌": 511,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
-    "诚信": 183,
+    "诚信": 184,
     "环保": 174,
     "节约": 149,
     "孝道": 138,
@@ -24722,6 +24722,20 @@
       "source": "bilibili",
       "uploader": "かしら诀別",
       "view_count": 49130
+    },
+    {
+      "id": "BV1mc411P77H",
+      "title": "20年前央视公益广告之《诚实是一种美德》",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 31.53,
+      "url": "http://www.bilibili.com/video/av271205324",
+      "play_url": "http://www.bilibili.com/video/av271205324",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "时光大舞台",
+      "view_count": 10545
     }
   ]
 }
