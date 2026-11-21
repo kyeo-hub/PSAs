@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T14:20:56.905140+00:00",
-  "total": 1736,
+  "generated_at": "2026-11-21T22:54:08.483393+00:00",
+  "total": 1737,
   "categories_summary": {
     "文明礼貌": 511,
     "综合": 399,
@@ -10,7 +10,7 @@
     "诚信": 184,
     "环保": 174,
     "节约": 150,
-    "孝道": 138,
+    "孝道": 139,
     "交通安全": 94,
     "助人为乐": 61,
     "禁烟": 18,
@@ -24750,6 +24750,20 @@
       "source": "bilibili",
       "uploader": "井哥的放送迷",
       "view_count": 34
+    },
+    {
+      "id": "BV1Ag411e7Y8",
+      "title": "公益广告——百善孝为先",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 45.185,
+      "url": "http://www.bilibili.com/video/av515900746",
+      "play_url": "http://www.bilibili.com/video/av515900746",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "梁彦芝",
+      "view_count": 8377
     }
   ]
 }
