@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T23:47:34.354145+00:00",
-  "total": 1735,
+  "generated_at": "2026-11-21T05:46:51.359729+00:00",
+  "total": 1736,
   "categories_summary": {
     "文明礼貌": 511,
     "综合": 399,
@@ -9,7 +9,7 @@
     "友善": 206,
     "诚信": 184,
     "环保": 174,
-    "节约": 149,
+    "节约": 150,
     "孝道": 138,
     "交通安全": 94,
     "助人为乐": 61,
@@ -24736,6 +24736,20 @@
       "source": "bilibili",
       "uploader": "时光大舞台",
       "view_count": 10545
+    },
+    {
+      "id": "BV1JHsS6BEJp",
+      "title": "天津卫视公益广告：节约粮食 杜绝浪费",
+      "categories": [
+        "节约"
+      ],
+      "duration": 27.618,
+      "url": "http://www.bilibili.com/video/av117637476518771",
+      "play_url": "http://www.bilibili.com/video/av117637476518771",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "井哥的放送迷",
+      "view_count": 34
     }
   ]
 }
