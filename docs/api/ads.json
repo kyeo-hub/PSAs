@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T22:54:08.483393+00:00",
-  "total": 1737,
+  "generated_at": "2026-11-22T05:17:07.287369+00:00",
+  "total": 1738,
   "categories_summary": {
     "文明礼貌": 511,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
-    "诚信": 184,
+    "诚信": 185,
     "环保": 174,
     "节约": 150,
     "孝道": 139,
@@ -24764,6 +24764,20 @@
       "source": "bilibili",
       "uploader": "梁彦芝",
       "view_count": 8377
+    },
+    {
+      "id": "BV1CByYzhE6u",
+      "title": "2008年 左右 央视 公益广告【诚信于人=诚信于己】BGM Playtime 30秒版",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 30.766,
+      "url": "http://www.bilibili.com/video/av117654740273756",
+      "play_url": "http://www.bilibili.com/video/av117654740273756",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "音乐发烧友_98Z",
+      "view_count": 46
     }
   ]
 }
