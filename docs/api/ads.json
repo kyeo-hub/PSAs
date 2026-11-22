@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T14:10:55.422628+00:00",
-  "total": 1739,
+  "generated_at": "2026-11-22T23:21:18.846955+00:00",
+  "total": 1741,
   "categories_summary": {
-    "文明礼貌": 512,
+    "文明礼貌": 513,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
     "诚信": 185,
-    "环保": 174,
+    "环保": 175,
     "节约": 150,
     "孝道": 139,
     "交通安全": 94,
@@ -24792,6 +24792,34 @@
       "source": "bilibili",
       "uploader": "想脱贫的乞丐EX",
       "view_count": 760
+    },
+    {
+      "id": "BV1APyGzNEpT",
+      "title": "中央广播电视总台宣传欣赏--公益星动力（为地球减负）",
+      "categories": [
+        "环保"
+      ],
+      "duration": 35.05,
+      "url": "http://www.bilibili.com/video/av117657844127852",
+      "play_url": "http://www.bilibili.com/video/av117657844127852",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "相信品牌的力量",
+      "view_count": 79
+    },
+    {
+      "id": "BV15yyVzdEBp",
+      "title": "公益广告：赢奥运 讲文明 树新风",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 119.466,
+      "url": "http://www.bilibili.com/video/av117658548769195",
+      "play_url": "http://www.bilibili.com/video/av117658548769195",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "阿泽放送-柠檬仔之友",
+      "view_count": 35
     }
   ]
 }
