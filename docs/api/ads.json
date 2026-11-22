@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T05:17:07.287369+00:00",
-  "total": 1738,
+  "generated_at": "2026-11-22T14:10:55.422628+00:00",
+  "total": 1739,
   "categories_summary": {
-    "文明礼貌": 511,
+    "文明礼貌": 512,
     "综合": 399,
     "爱国": 228,
     "友善": 206,
@@ -24778,6 +24778,20 @@
       "source": "bilibili",
       "uploader": "音乐发烧友_98Z",
       "view_count": 46
+    },
+    {
+      "id": "BV1SUy3z5ENL",
+      "title": "我们的文明究竟多落后",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 95.566,
+      "url": "http://www.bilibili.com/video/av117657676286826",
+      "play_url": "http://www.bilibili.com/video/av117657676286826",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "想脱贫的乞丐EX",
+      "view_count": 760
     }
   ]
 }
