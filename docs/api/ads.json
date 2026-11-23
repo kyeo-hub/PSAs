@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T05:55:59.726333+00:00",
-  "total": 1742,
+  "generated_at": "2026-11-23T17:33:27.289950+00:00",
+  "total": 1744,
   "categories_summary": {
-    "文明礼貌": 513,
+    "文明礼貌": 514,
     "综合": 399,
-    "爱国": 228,
+    "爱国": 229,
     "友善": 206,
     "诚信": 185,
     "环保": 175,
-    "节约": 150,
+    "节约": 151,
     "孝道": 140,
     "交通安全": 94,
     "助人为乐": 61,
@@ -24834,6 +24834,35 @@
       "source": "bilibili",
       "uploader": "上善若水影视剪辑",
       "view_count": 173351
+    },
+    {
+      "id": "BV1Hu411M7bJ",
+      "title": "《稻田里的中国梦》节约粮食朗诵演讲通用背景视频",
+      "categories": [
+        "爱国",
+        "节约"
+      ],
+      "duration": 218.406,
+      "url": "http://www.bilibili.com/video/av534402804",
+      "play_url": "http://www.bilibili.com/video/av534402804",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "视觉优化",
+      "view_count": 7560
+    },
+    {
+      "id": "BV1whySz3EVB",
+      "title": "#华夏文明上下五千年历史印记 #西安 #北京 #上海 #深圳",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 30.046,
+      "url": "http://www.bilibili.com/video/av117665796459628",
+      "play_url": "http://www.bilibili.com/video/av117665796459628",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "仁者仁心2",
+      "view_count": 20
     }
   ]
 }
