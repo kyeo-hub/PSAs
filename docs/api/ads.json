@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T23:21:18.846955+00:00",
-  "total": 1741,
+  "generated_at": "2026-11-23T05:55:59.726333+00:00",
+  "total": 1742,
   "categories_summary": {
     "文明礼貌": 513,
     "综合": 399,
@@ -10,7 +10,7 @@
     "诚信": 185,
     "环保": 175,
     "节约": 150,
-    "孝道": 139,
+    "孝道": 140,
     "交通安全": 94,
     "助人为乐": 61,
     "禁烟": 18,
@@ -24820,6 +24820,20 @@
       "source": "bilibili",
       "uploader": "阿泽放送-柠檬仔之友",
       "view_count": 35
+    },
+    {
+      "id": "BV1e94y137kR",
+      "title": "百善孝为先，传统文化不能丢！",
+      "categories": [
+        "孝道"
+      ],
+      "duration": 122.646,
+      "url": "http://www.bilibili.com/video/av365808032",
+      "play_url": "http://www.bilibili.com/video/av365808032",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "上善若水影视剪辑",
+      "view_count": 173351
     }
   ]
 }
