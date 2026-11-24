@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T03:54:52.523829+00:00",
-  "total": 1744,
+  "generated_at": "2026-11-24T17:05:13.889735+00:00",
+  "total": 1745,
   "categories_summary": {
     "文明礼貌": 514,
     "综合": 399,
     "爱国": 229,
     "友善": 206,
-    "诚信": 185,
+    "诚信": 186,
     "环保": 175,
     "节约": 151,
     "孝道": 140,
@@ -24863,6 +24863,20 @@
       "source": "bilibili",
       "uploader": "仁者仁心2",
       "view_count": 20
+    },
+    {
+      "id": "BV1pV4y1a7qY",
+      "title": "公益广告-广告需诚信 代言需谨慎",
+      "categories": [
+        "诚信"
+      ],
+      "duration": 30.371,
+      "url": "http://www.bilibili.com/video/av870477235",
+      "play_url": "http://www.bilibili.com/video/av870477235",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "雪儿广告工作室",
+      "view_count": 2332
     }
   ]
 }
