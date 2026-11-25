@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T02:02:03.869298+00:00",
-  "total": 1745,
+  "generated_at": "2026-11-25T16:54:00.306074+00:00",
+  "total": 1748,
   "categories_summary": {
-    "文明礼貌": 514,
+    "文明礼貌": 516,
     "综合": 399,
     "爱国": 229,
     "友善": 206,
     "诚信": 186,
-    "环保": 175,
+    "环保": 176,
     "节约": 151,
     "孝道": 140,
     "交通安全": 94,
@@ -24877,6 +24877,48 @@
       "source": "bilibili",
       "uploader": "雪儿广告工作室",
       "view_count": 2332
+    },
+    {
+      "id": "BV1x5411h7VX",
+      "title": "【环保短片】公益广告《让伪道德停下来》",
+      "categories": [
+        "环保"
+      ],
+      "duration": 113.002,
+      "url": "http://www.bilibili.com/video/av456876258",
+      "play_url": "http://www.bilibili.com/video/av456876258",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "山海talk",
+      "view_count": 59679
+    },
+    {
+      "id": "BV1tPyrzoELj",
+      "title": "不文明现象实录01",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 25.775,
+      "url": "http://www.bilibili.com/video/av117675695082241",
+      "play_url": "http://www.bilibili.com/video/av117675695082241",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "绿川时雨",
+      "view_count": 10
+    },
+    {
+      "id": "BV1R6yVztEUN",
+      "title": "文明",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 18.6,
+      "url": "http://www.bilibili.com/video/av117658934576508",
+      "play_url": "http://www.bilibili.com/video/av117658934576508",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "叙叙面包",
+      "view_count": 73362
     }
   ]
 }
