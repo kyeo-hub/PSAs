@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T16:17:40.805775+00:00",
-  "total": 1748,
+  "generated_at": "2026-11-28T01:12:49.256141+00:00",
+  "total": 1749,
   "categories_summary": {
-    "文明礼貌": 516,
+    "文明礼貌": 517,
     "综合": 399,
     "爱国": 229,
     "友善": 206,
@@ -24919,6 +24919,20 @@
       "source": "bilibili",
       "uploader": "叙叙面包",
       "view_count": 73362
+    },
+    {
+      "id": "BV1Df1xzoESZ",
+      "title": "鼎曜国内首秀不光硬件世界第一，中华文明更要走向世界",
+      "categories": [
+        "文明礼貌"
+      ],
+      "duration": 154.18,
+      "url": "http://www.bilibili.com/video/av117687875275295",
+      "play_url": "http://www.bilibili.com/video/av117687875275295",
+      "thumbnail": "",
+      "source": "bilibili",
+      "uploader": "新能源大事记",
+      "view_count": 1039
     }
   ]
 }
